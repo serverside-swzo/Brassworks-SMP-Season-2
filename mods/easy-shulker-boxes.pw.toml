@@ -1,0 +1,13 @@
+name = "Easy Shulker Boxes"
+filename = "EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gA5euN8S/versions/OBp8ltOS/EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "64d88ec77897cc34b6decb8b02520b809d62c3c9156bdb07e818a1406a120313738b18defa6c59e6e5fb6c55343f5132793031d60662672aca3fbf65d5eb7e4a"
+
+[update]
+[update.modrinth]
+mod-id = "gA5euN8S"
+version = "OBp8ltOS"

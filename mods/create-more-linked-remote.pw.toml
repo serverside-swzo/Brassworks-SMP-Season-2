@@ -1,0 +1,13 @@
+name = "Create More: Linked Remote"
+filename = "cmlinkedremote-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4hoqvPkW/versions/EyQiRfhd/cmlinkedremote-1.1.1.jar"
+hash-format = "sha512"
+hash = "f747ceb62f9e47eebbe6e90ad50e4715a0a387cb8ef1bb75681b72f12c8117b500f03ad46b965813cbdaa27d8a9d0aad8ce84427f4f886b3b086658bc649374c"
+
+[update]
+[update.modrinth]
+mod-id = "4hoqvPkW"
+version = "EyQiRfhd"

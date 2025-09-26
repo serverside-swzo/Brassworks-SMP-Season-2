@@ -1,0 +1,13 @@
+name = "Create: Direct Chute"
+filename = "direct_chute-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wKK8BgBy/versions/2a28GN0f/direct_chute-1.0.0.jar"
+hash-format = "sha512"
+hash = "2efd7781bfb4ade1e9e6ddc22b97614b898e242b4d0c99a503740ded093b9ed3403130d94b38bad88050e0e8ec7e5c044c3004d09874ffeb2edaa8ce189e5edb"
+
+[update]
+[update.modrinth]
+mod-id = "wKK8BgBy"
+version = "2a28GN0f"

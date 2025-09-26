@@ -1,0 +1,13 @@
+name = "Create: Overbalanced"
+filename = "overbalanced-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PsdnrXan/versions/CqxebqMo/overbalanced-1.jar"
+hash-format = "sha512"
+hash = "db7619d340e2dd572a2ba38a8e41c2e229c3c5c26e2a88c4fcd4a7ff75f5e98d448711f76a9e91a69d49c34c91a69c3ad0f3f09ed7884719f0821d09a2c91132"
+
+[update]
+[update.modrinth]
+mod-id = "PsdnrXan"
+version = "CqxebqMo"
