@@ -1,8 +1,2 @@
-*.toml text eol=lf
-*.json text eol=lf
-*.md text eol=lf
-
-*.jar binary
-*.zip binary
-*.png binary
-*.jpg binary
+# Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
+* -text

@@ -2,3 +2,5 @@
 .vscode/
 .code/
 .git
+*.zi
+*.mrpack
