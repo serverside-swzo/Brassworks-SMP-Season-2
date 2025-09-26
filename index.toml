@@ -1,12 +1,852 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/1x1.png"
+hash = "1e4d899c16f8ac3a20edee040cd35912ae5c7c59020a57fce0cd46f957a3c779"
+
+[[files]]
+file = "config/fancymenu/assets/1x1hovered.png"
+hash = "327ee14de8744a5aa0b60e797e92e784c367871e08a75bbe9aca7c2f94f4cc88"
+
+[[files]]
+file = "config/fancymenu/assets/accessibility.png"
+hash = "2f6f984bcddf80c2d84d129c1d4082c3e6dfa7ff8a5b2fe4e05b6bcd168f0fe0"
+
+[[files]]
+file = "config/fancymenu/assets/accessibilityhover.png"
+hash = "3a91840c6c448862c5df59310f10023b9d46a87925e1360f90ca5c649726fd0a"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start.fma"
+hash = "cee2ac584e08dc62cedc45a84cd13d2d93dc7f5ea1a5297251573c260a403ad0"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/0.png"
+hash = "ceb426573b4aa4af95ca27836d4de337919454f55c653e5e89b1ae1d61bf93a5"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/1.png"
+hash = "6afad2859675461a499e85919d839f46fe15541406731c4eaf7147a7bc84a6c6"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/10.png"
+hash = "89b022a78b574ef77b6cc186e209383f55238e41d3a1aab71a017443835a1f2a"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/11.png"
+hash = "de0a1640c3afec5e6f637105b5e155eb6f4721f93a0803dd08818ce3f879a22e"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/12.png"
+hash = "c3bf7509055490bc4230d2302d3abc73711bf365792393296f771a37830061f3"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/13.png"
+hash = "9f0c49e0415fb13de38056c1ac58632c17ecf70016b798770dd96b415627a326"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/14.png"
+hash = "98f9ade4840d6b046df0d255a135951d0c98c64f4ea36b484e206cf585847c48"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/15.png"
+hash = "2161c87f6a596302b2ef00ba6bbff4433e3e6270865cd207bc5b0dc77b33992e"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/16.png"
+hash = "992c19d8ce10a60659cd96542a3bfb3f58a443bc73b6307813d5a6deb7779183"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/17.png"
+hash = "70a25635f7c963918b7e5bbbf10086f88b76ec8dfc6878a0cfbe827e290afe2b"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/18.png"
+hash = "7e03ffb07241ca7da11b08ceb539adee0d5f43a0f8144b96283522f74168169c"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/19.png"
+hash = "83fac4197367157bca19db84d58060e5611afa69e66b1cc209746061f6bd6c97"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/2.png"
+hash = "9f5b7a7e2b04be75e052173a9ab0691eefe3296cdaca8912e087e78803a351f0"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/20.png"
+hash = "fe35b66551ea01e843dc6df98c9eb57f7996ac4584e15aea24818ce96009b12e"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/21.png"
+hash = "9e25b95031557b4626f914e454a74b71a77e23d64b6be9b41b539a53c4a911a2"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/22.png"
+hash = "38310cd525f51d80fb405d1d15b3eb9982f4a851f3d0a92d9363a1474d4b3c0b"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/23.png"
+hash = "46af5bc660c087b9246f70a2dc90bcf6043c12b7b3a79006fed00f39fc72705f"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/24.png"
+hash = "dd722a888140b8e029219123e23e35d6f1fbf308d5a5ab8203efdeb628e7ca1b"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/25.png"
+hash = "bb0f33fb1377dc0750d6fde5df853651e2848bef881cea232e2fd8c36755c602"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/26.png"
+hash = "33190bb3b600e2a2f0c2fca54baef178135a50534383603ff9c9f9c3e0dce5b1"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/27.png"
+hash = "b1e8b36cc33163f077831705bf39338c60239efe6000f5e60fdeedebe43d70f1"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/28.png"
+hash = "39f208fd82728ea5944f73bb1ef7a466b2f37afbce3cd27611f34db79bad2a45"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/29.png"
+hash = "45b94dc33c5c02b84929df69368c5f02ed5a52dd05e94d12bd4f9c7801646a5a"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/3.png"
+hash = "37cbe5760dac52caa0324339dfb32247439295c4c65ed7770557fc9015b3a54f"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/30.png"
+hash = "84a4e5796caf5fedacbafa100ec13177e53b72e96b7f12e542647df596814fa2"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/31.png"
+hash = "4b1c81b27baf8f134007db2266c8358e39d24aa1f149941a93a39a7992a35d3b"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/32.png"
+hash = "2e6916a21cdb121a6321f3ac9120ce9befb52c3a38c1d3c040d73316c8f39fa6"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/33.png"
+hash = "2865d4188391de0f0d747918dab4ba7451af89e1f5359e645f787a2c2bdb3b47"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/34.png"
+hash = "458bbf6ff99747f026ce2a0a0cce9c33aaa24b351aec548af16bba55881451b5"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/35.png"
+hash = "9af2057b04bb543c6750646f5a88fc95962d3951b04b39176281ff7351b1fbc5"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/36.png"
+hash = "998ff06becb24610bdc3e03f6774dd2efca9d6bbf9ca039e520d11d0939ae59b"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/37.png"
+hash = "289db36db6e3ea4a94da722bac103c75c7983700456eb1d4ef325fa16c7e7087"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/38.png"
+hash = "aa2429f68731024a207b3debe5b3e48f4c801af33974dae06c011e466a99c195"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/39.png"
+hash = "da2369443a1b7dc51b843497a1be981a0a6114e826cd27398abb0fd425c9ebfd"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/4.png"
+hash = "63182234a6621569c261193703b2d715d672394ed2145f59e0b216f8151415e1"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/40.png"
+hash = "166e74f825eff97fa08ee2fe323b8df148215cb4227928bbedc8b88d62f86e69"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/41.png"
+hash = "fd8d76df4282a8363a28baa4b617051c752cfe2255845ac738e43d4cd0212cf5"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/42.png"
+hash = "66ff0e868a5df9f95e97accad75e0d978d186b9a7aaef4e84cfb8ba660c009bb"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/43.png"
+hash = "17946c02f41db95903cbaed4a717e18e92725d40f54beeb44061ca6b9f1e283d"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/44.png"
+hash = "40142eaebbb7117b494c900d9291bc4823d7c7bd7ace19ca96bd834cb1097a88"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/45.png"
+hash = "94555d9710a2115f39adf9e54331f832ca45050dc530c9c4723924e97c733bc8"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/46.png"
+hash = "2b38c0d902c0d114270077d274bf6399a0c8b9f4e2f8a7a9e92a2084f1db1242"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/47.png"
+hash = "65e4facb02900c749c20b14aa8604c1eb4307accba0c1eeb65d68bcb48bd5505"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/48.png"
+hash = "24e42cf3487bfd1db2c628e0c31b46235d15a7928218c85cc31c890d10a8bf66"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/49.png"
+hash = "933eaebb3cd185a9c8796fafc5a2691973dab8d309700d45cfa81ab555d5b4ab"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/5.png"
+hash = "b91f8ef0d9b8df5ea88a473917c3cc6b57603eb7f148877781f28626ee050263"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/50.png"
+hash = "e4a859385ce36209ecbc03d3b304e907bd9a926fb21850cbe017d7e28b4857d0"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/51.png"
+hash = "8cfc7cd84cb58617514654ae70c86b6f59cbf889d1a1bee62a864dff4338693b"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/52.png"
+hash = "0b0e86fcf3e70be91dbbac0aa7ceea09c2b1af6790247726e36f1e838bdc3a22"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/53.png"
+hash = "a6e2e3bb581f8a8f5afb10e36d5a7724aef00092b941f8bb96c7fd962747520e"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/54.png"
+hash = "7c7660f7b2dfec61c911d18829c0da89fec190b25f9b5e3c40a2e5d4a869182d"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/55.png"
+hash = "e6938551118a832f1f2600a808f67227fd2f92771cd0cfbd6d8bc510501672f8"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/56.png"
+hash = "83750c6fb500fc8129d79efc332a77a893e972e1acab7a03374b7ae61e2efa38"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/57.png"
+hash = "ce44f79bbf404bdd8cfcea64e84b9d75cd14b7fa73ee6f7641e97ca345ecfdb5"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/58.png"
+hash = "c45a967ff198595fab2a894ec25dda94ec862a8e8f2ee9507afbd3bd1e65f138"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/59.png"
+hash = "cd249022296c89350619ae3e96e902a9899ec96cdc24371e64360a67830cf351"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/6.png"
+hash = "7199881508c6224ca039d9ec9a06087646a80de4aed2faa3f75f3b9599e1d1a8"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/60.png"
+hash = "a419da2b0e486cf20468439661782dc0a9d6599194f0de36726769c3b52cb993"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/61.png"
+hash = "a5731fb6aa05aead6890e77257b91efc361b3ef864eb220b3b7fd206541ece97"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/62.png"
+hash = "12f4646fcb4a73c8b24713475280e7953458c47b92385141aa0b718e465986d6"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/63.png"
+hash = "da2369443a1b7dc51b843497a1be981a0a6114e826cd27398abb0fd425c9ebfd"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/64.png"
+hash = "166e74f825eff97fa08ee2fe323b8df148215cb4227928bbedc8b88d62f86e69"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/65.png"
+hash = "fd8d76df4282a8363a28baa4b617051c752cfe2255845ac738e43d4cd0212cf5"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/66.png"
+hash = "66ff0e868a5df9f95e97accad75e0d978d186b9a7aaef4e84cfb8ba660c009bb"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/67.png"
+hash = "17946c02f41db95903cbaed4a717e18e92725d40f54beeb44061ca6b9f1e283d"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/68.png"
+hash = "40142eaebbb7117b494c900d9291bc4823d7c7bd7ace19ca96bd834cb1097a88"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/69.png"
+hash = "94555d9710a2115f39adf9e54331f832ca45050dc530c9c4723924e97c733bc8"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/7.png"
+hash = "d74f5380204045029d2fef45d43a6bc7caf83131cd5ec6310725913c728f6db4"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/70.png"
+hash = "2b38c0d902c0d114270077d274bf6399a0c8b9f4e2f8a7a9e92a2084f1db1242"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/71.png"
+hash = "ef2de918353fd39830602adbd05aae78ed22c06743a32c5981df05aad0c4c4b8"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/72.png"
+hash = "94da92db79cbc26c3372d6dd13d5f3c6e1009e69d07139d40059f041ada55c30"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/73.png"
+hash = "32d4199a2713ea4e6ef8ebf3ab7b4d7f81153d8b33a58571303832e3c1b2e8bb"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/74.png"
+hash = "31ccc9c18a5896ec154c97aae9df171505e8223e419f50f3a179561f85a85f7e"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/75.png"
+hash = "cd5760411fa9dfdf4bd6536ff6f85b4ccab7756fac7ecc0561f878fe61d57c72"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/76.png"
+hash = "bbb57278ee78f4475f96f73f929ab03af6dc97cd2ed27c51dee5d04e3535e166"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/77.png"
+hash = "cefd29f7c95dbddb3fcc9e795d89589ce20c8ae3c4283a01c55045458630a8b0"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/78.png"
+hash = "eb2df7c0567a4b61d0f68b13d5a744529ad8dbecc2387a0029fb6973a6bb2cd2"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/79.png"
+hash = "d5ecb9b126a3961212612bb49da872bdcdf96e3dcb5e76b6c6b13586293f7bbf"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/8.png"
+hash = "8cca109387953829e712a15da3e8df93d7ba281c9fc8e9332ff60d14ca7882e6"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/80.png"
+hash = "b2466a736952d582cf725204aad80c099a57faabc459180e0395d61e37351ea3"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/81.png"
+hash = "d43f94842034e9383d0b4abd5a96244e9932b8abe05704db464fe97333fb7913"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/82.png"
+hash = "7173f8248837b2ba6a7e9a5d87ef9b94fcf86840a6b142f7f6cf1f79650334e3"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/83.png"
+hash = "a82760edc67198f2f1b1d6ebdd118b5baee293b390dc68181cb22ce79319a227"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/84.png"
+hash = "5cbeed590a522470809e7d735cc90dfac07e6b832b224cd768a9619499700d65"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/85.png"
+hash = "7eb2755ebd5acf3312ac1ec281ebe0622fbc38ca82ed9fa92bdf969b5016ad5a"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/86.png"
+hash = "46735facbc2652e0a15589fa5b237f7d2238a80c191af534cf1c159a96760d22"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/87.png"
+hash = "4e34d501cc2fdc21928802dcc8e94238f0ed7ebf6363b9d69f2b3eb69f1a19ed"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/88.png"
+hash = "bd7dacb893838891691c1030d141dd6afb4e4670e39b45c73e9eb74452c03b16"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/89.png"
+hash = "e71d5e5a933042e41fc360d793300f08ee0aa9ecd8679c01db9b79c4df9e905e"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/9.png"
+hash = "9653d834de7cf01075f6b9fa1b4dc1555253ea3db3ab4b755718978171406da5"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/90.png"
+hash = "a15a37ef3dff79c4f1d922cf50067e3240b06b4db1517e93ce8e1f842d462554"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/91.png"
+hash = "f8c823ad6b5d055da1f0b62a28fa6e1ccbd4db453a122b3a4ff8a5c48ac282c8"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/92.png"
+hash = "e17c36195ecf6b811e6533957efbabc8fa114fdec4e10bb102aa4bb96ebf8c65"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/93.png"
+hash = "b9d2874f5516a69c96e297445509cf537de4ec08ce8002f7c1d18a3b55f0247f"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/94.png"
+hash = "a31421e78c73625bde42970465de9b28cd502b409e94eca0bdd9d3154e52a5e1"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/95.png"
+hash = "3ae832777574ba5076c5772a4d91e291511f4315c9ada363fc4ec27dae67c117"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/96.png"
+hash = "1c13d16d9b934cefc4eea76a95d70db3aeb45407a5bc95691c36a9c6a5025f73"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/97.png"
+hash = "f4bca9a9a0f000704c17d810fc435a4bb7e968e4b2aea480733bb26494b6a4fa"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/frames/rename.py"
+hash = "4e219e60630888625bcc1f967169f418668dccbd71ec8a07abcda078fe47f75b"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start/metadata.json"
+hash = "9e27d1c5c1549417b0ccea25c210149eeb1322298aef451600a0bbb1c676335e"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar.fma"
+hash = "94d1bf3f39ef67c0fdad8fe7e8ac7ca0e949097eee9964e3b199e5dc7cad0544"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/0.png"
+hash = "4bf42bfdda27ee598030b15f7e8e968f2a964a359181403490f42bbe938456be"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/1.png"
+hash = "8ef0ab7560f17e990f09442f31e367fd35ec55c01f9d393c3797fdeb1898a335"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/10.png"
+hash = "281eb7123893797a72acb6900e45a06dfd554254107696a75130b567dd674dd2"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/11.png"
+hash = "3b59630c82a100d9ea55c94e435fe3f5397ca611dc8b11b6d232e721ac21da4b"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/12.png"
+hash = "98cc50a7bca8abc3324b30648cfd26528bbc8b73911ee255e022433add126461"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/13.png"
+hash = "18cc7d77869255172ef7cf5e8093efba61ac9b43ce9766b6e4aef8eb2ce7cc8b"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/14.png"
+hash = "7b8079838cbc97fc107a583caf94bbb04f4f8c83d59ba128881cf162a3640cad"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/15.png"
+hash = "3d3ff998c6b17723630dfac6164f9dd2ca531d8c9f94a109765f38d62311c336"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/16.png"
+hash = "2004e3a6ef48b705fc064078c3ae76b4f60f222fb81dea786ec0655a05a8068a"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/17.png"
+hash = "ff80ac667f0d8c9a3a388f02f4a4654d6e55c3cd8f3b2be02471ac7cba03227d"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/18.png"
+hash = "37da1bb194dda4763aa2c9f34c2bf24c8c3fcf4880191e12ea4bec18bd85687b"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/19.png"
+hash = "b672788726f9aec1e133419996d54b6867444544771816128200c9b0a1b47cd4"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/2.png"
+hash = "882811042683deb2cae8a659a904984a366fc62af7ad2e4d2804c1102390eb9f"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/20.png"
+hash = "4c1a0896503973581fca715e79102020e55c655545a80729e6a8f74f0248a5cd"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/21.png"
+hash = "03aec34c6b23b285dad44aaf9dd399d4c95605d218ec5a354cdb3026efc9813f"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/22.png"
+hash = "283de6395a220a72912777a82482b9750600fd3ebc7e6b7f3d8d251859764321"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/23.png"
+hash = "fb03de5ab858cb0270f979caf2a2949e2a263600e74980223eb88b97a95ec375"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/3.png"
+hash = "f34ba18571866c67988fac8eabce8ba27029422d4e8f66f0e280555914ae788a"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/4.png"
+hash = "83005751b36eebffdefd02b7eff031a9835313d6e989b47ba42acff6dff8066e"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/5.png"
+hash = "b25466486f0e6000d0a2d61a68f1b943babb99d5f2a4122cb2537f40e3ea687c"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/6.png"
+hash = "bc24e7247778830d163d622e536dda6c7d5bce0c56f48a4aca87477913564050"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/7.png"
+hash = "0c952d125c01361feac4d26d455101189adeb07158eb08fcb7792b3d1519c037"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/8.png"
+hash = "4fab1a5047a4790e5e2374733a81515d87c9b5d00691e2b660c58d399be21181"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/frames/9.png"
+hash = "32f04837ae9e4788150e73d6a612c973fd2db65ecec4bdeb92961d7302c9204e"
+
+[[files]]
+file = "config/fancymenu/assets/animations/event_start_bar/metadata.json"
+hash = "71b42d1e0a1a786d811e4f345cce1d7f315b80e7fac7c222b8b5c94e66dab990"
+
+[[files]]
+file = "config/fancymenu/assets/bar.png"
+hash = "5b545ddf06e86239e0db497ca08b09728b29a554cc60c15c938c6cca5049fd32"
+
+[[files]]
+file = "config/fancymenu/assets/bg_shadow.png"
+hash = "69578d95afc20c43e278d16eabba6c9fd01c0aaf0ecb81864aa6e83bc4e435f6"
+
+[[files]]
+file = "config/fancymenu/assets/bg_shadow2.png"
+hash = "1d5ecad88288cff426f391ab8bf617a3dd3023a3971aad5f493a765a1f27fb49"
+
+[[files]]
+file = "config/fancymenu/assets/book.png"
+hash = "020bc1bca237efca70dc8cc8700312296eaf97dd71b45baa1227559ce78f2b0a"
+
+[[files]]
+file = "config/fancymenu/assets/brasscasing.png"
+hash = "3f82796571a690a9722abdcd825b88c988745bc322c6333809d1da7e160292a9"
+
+[[files]]
+file = "config/fancymenu/assets/brasscasing1.png"
+hash = "55aef4042a434b50afea606583e50e66921ae0238b9619359dc071d6056f43db"
+
+[[files]]
+file = "config/fancymenu/assets/brasscasing1_recolor.png"
+hash = "e11f5486267768469b443fbfe3b0e78f086de96624f10e84eb8bb236343284b8"
+
+[[files]]
+file = "config/fancymenu/assets/brasscasing2.png.png"
+hash = "762af1b966571518f64bc4d26265efac50696f9b402982dbec9c271e9377abd0"
+
+[[files]]
+file = "config/fancymenu/assets/brasscasing2.png_recolor.png"
+hash = "d3ca8dc736e2dcd4b9ec5814a6613e4b88098c8fe7f610af8427737fef80dd63"
+
+[[files]]
+file = "config/fancymenu/assets/brasscasing3.png (2).png"
+hash = "1dd383664f753104871cf2fed85878eb81a20848de5a07d8d4ffc50dc6977273"
+
+[[files]]
+file = "config/fancymenu/assets/brasscasing_3.png.png"
+hash = "2e0a320be4f75242fd0f5d9c0c47b5dcdf28ffdfbb1d58222dbf35db2d93c7af"
+
+[[files]]
+file = "config/fancymenu/assets/brasscasing_3.png_recolor.png"
+hash = "b1e9ffa9e356150ac38e2a05200af2773f2691512566a88cd121790db636a07b"
+
+[[files]]
+file = "config/fancymenu/assets/brasscasing_recolor.png"
+hash = "a08476ede13f6c2a0361ec5fef241313861cc4ab627782795a392006d712e8f6"
+
+[[files]]
+file = "config/fancymenu/assets/ding.wav"
+hash = "c3d52bfde77c37c6c5df30ce091dfe512b0c27e418c3d1f380b69a64c5891aa4"
+
+[[files]]
+file = "config/fancymenu/assets/disabledarrow.png"
+hash = "d4a90f8771eab5144cdd95a68477ad2ebabee8ecfa0cb5fd0758976ee5afbaea"
+
+[[files]]
+file = "config/fancymenu/assets/discord.png"
+hash = "31abc81c30a9bfb781665453f3e9255693f795542dfa9a99dd02287d1970fd4e"
+
+[[files]]
+file = "config/fancymenu/assets/discordhovered.png"
+hash = "3e10513aca8700ac6108ad7a293cfd4668649c6b7df9e8bb85740614e229a2ed"
+
+[[files]]
+file = "config/fancymenu/assets/empty.png"
+hash = "df22f1af7d32eff9a3f815fd2bcd3c2d397c429b1c92837199e5b3eab8d67a9b"
+
+[[files]]
+file = "config/fancymenu/assets/icon16.png"
+hash = "13a5bd6d72d42738f436d1b9048b91b2294dec828d70b0aab9a74c32bdb92d53"
+
+[[files]]
+file = "config/fancymenu/assets/icon32.png"
+hash = "dd70eb5d1c4c276fb9dfee7d44209eb61927f4c9a998115412d0c0cd4abfc979"
+
+[[files]]
+file = "config/fancymenu/assets/icon540.png"
+hash = "40fd6f6a34077581e6a77dbfa2f5c26207a455894ed00ac512b6cb3f0afd1010"
+
+[[files]]
+file = "config/fancymenu/assets/iconmacos.icns"
+hash = "8d33092413771fdaef85e06a44316775c720752f002370cf9234a9904a3c402b"
+
+[[files]]
+file = "config/fancymenu/assets/joinserver.png"
+hash = "f1f34a5209a2d226f4ed35e238ddbcee7655feebdd053d5e99ecc69769dd47af"
+
+[[files]]
+file = "config/fancymenu/assets/joinserverhovered.png"
+hash = "5970117f26dcaf02c80e72bbe52577a7a731cfb21d4b3bf93f7daacd8b81dcd8"
+
+[[files]]
+file = "config/fancymenu/assets/kofi.png"
+hash = "14fe4984cd7209315b9c707efe8da926b563fa33b3f67e17a22c31ae71fc4e0a"
+
+[[files]]
+file = "config/fancymenu/assets/kofihovered.png"
+hash = "15089d57d9a7197795a196a69db892c87a14a63ffccf181e78aa6b752fdd07f8"
+
+[[files]]
+file = "config/fancymenu/assets/leftarrow1.png"
+hash = "2caa5c1df81899fc262d8e0f7cd211bf168c3d7f46985e3b4621fc2e9be9a06f"
+
+[[files]]
+file = "config/fancymenu/assets/leftarrow2.png"
+hash = "243d370260eb4ba6aaa521f2a70356c720459b873164b43392ad678cf76ef4e4"
+
+[[files]]
+file = "config/fancymenu/assets/map.ogg"
+hash = "c12de429a050dea5605b70b1ea80b56cc1321a9fedfc958ec700195396e2f992"
+
+[[files]]
+file = "config/fancymenu/assets/map.png"
+hash = "5735447910bc6a2f43b9bb5b3bcb7fe05d5a70643dbdbed28f0de072b0fb6478"
+
+[[files]]
+file = "config/fancymenu/assets/map.wav"
+hash = "134fe281dd1993086024479cf8d8a907353aa0b48449352dd243a8e4e76a8e9e"
+
+[[files]]
+file = "config/fancymenu/assets/map1.ogg"
+hash = "0155522bb5fdd1570a01d055f1cc2ff4d473e3efd0c6a2691816b1ec68268bae"
+
+[[files]]
+file = "config/fancymenu/assets/map1.wav"
+hash = "2bd9b83e29845c7bd2f57fdea2ca5ee92d110e8f81a2d79d1548a76e33095357"
+
+[[files]]
+file = "config/fancymenu/assets/map_button.png"
+hash = "46f831ae42aedf75d63ec29c0df89141cf7d421b1ae539e9a7b968ebf9f99894"
+
+[[files]]
+file = "config/fancymenu/assets/map_selected.png"
+hash = "7c7f8611af4637df407a7b819f51169b92d5c27856c35508cf1deaa53066963c"
+
+[[files]]
+file = "config/fancymenu/assets/open_flip2.ogg"
+hash = "d16bd1c1a4202fc0f39fd3cba42fa010bebc048bedee9bb7a26517779cedb0bd"
+
+[[files]]
+file = "config/fancymenu/assets/open_flip3.ogg"
+hash = "4715e14e54c5bb70b1ceae34a9c724e50c3f86e4a40c185b799df13a0e21f0e7"
+
+[[files]]
+file = "config/fancymenu/assets/player_count.png"
+hash = "ae274087b14de591439a775c67fb748cf760932955af3a824962b2a30919e96d"
+
+[[files]]
+file = "config/fancymenu/assets/player_count_red.png"
+hash = "275319db73b0a7d47efbe77654e87ab86142f1beb776432b8795ea66e48ade31"
+
+[[files]]
+file = "config/fancymenu/assets/rightarrow1.png"
+hash = "4fe76adf906da713e31fc4bee91716f343226ab560a1580c24d8f9f5b856edcb"
+
+[[files]]
+file = "config/fancymenu/assets/rightarrow2.png"
+hash = "f5602be61348684ec8b4a9afe3c297b40dd6e2a27e83c17ecb81b501d95ef013"
+
+[[files]]
+file = "config/fancymenu/assets/schematicbackground.png"
+hash = "be0a6d94d19497e85f104cbfe7b3d8c7214bd05e2845ab12b347d364ffdfc827"
+
+[[files]]
+file = "config/fancymenu/assets/shadows_buttons.png"
+hash = "fef20d5e08e1bf91ea22a2fd4643b1e10bef105a69b7a846dc3e6983e30bcc5d"
+
+[[files]]
+file = "config/fancymenu/assets/sniffyeasteregg.png"
+hash = "bb7de3974f0392567eeaa548d0fb3bde7aa834eca728577259ad3372fbe59cef"
+
+[[files]]
+file = "config/fancymenu/assets/sniffytips.png"
+hash = "a70b1dad65b2a526183a890574bd9c9acba751734e4c563b2ad352cd6ab6df86"
+
+[[files]]
+file = "config/fancymenu/assets/title_shadow.png"
+hash = "1ff16e7686a3efaf31f876b006d186eaca827a073d9beb7a19f0b83152266d58"
+
+[[files]]
+file = "config/fancymenu/assets/titlelogo.png"
+hash = "96ff849d64f86d9931ba2ca64c6c6f20864d9c988c1c2956bb6c1a0a5e714fdf"
+
+[[files]]
+file = "config/fancymenu/assets/widgets.png"
+hash = "3bc491b3ce53c274eee7b3a09cf32d1e82c225a2b4fc171bb0e64db04d223bb1"
+
+[[files]]
+file = "config/fancymenu/assets/widgetshovered.png"
+hash = "246f770d9a814c020f52e3cae015b872426ce77aae79f0b764929e01cd4b002f"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "dda7448595463d60a52b95a5e2145235e5823ecd50d58364a3f4a3bad6ab2fc4"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "469fd6675f38c92a30a483e00bb6cbb29fd58b9e685c85175e164829ed6f7162"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "eebad8a0dfe9d9a26390588700b6266b89a75960267b6b8f577f8bf7bc63e9a5"
+
+[[files]]
+file = "config/fancymenu/customization/.background.txt"
+hash = "1b67607a61081264fe066d5a7c5db308e28abc1d6550c56fbe0b48d809b13f3d"
+
+[[files]]
+file = "config/fancymenu/customization/1.txt"
+hash = "39ef6284e6d826085f9c0d1e15f0f5878ec07ed8ce12dfcc06bd833d15c7a5a0"
+
+[[files]]
+file = "config/fancymenu/customization/2.txt"
+hash = "c28a1e8b0d89d8826f1c9d7984284a016eabb9e583d939acfa46d53e3d49b4a6"
+
+[[files]]
+file = "config/fancymenu/customization/3.txt"
+hash = "8492ac744128c7f8417664c9c9ac3253dd3fb39d64d5f844e9aea1204829b2e1"
+
+[[files]]
+file = "config/fancymenu/customization/animation_intro.txt"
+hash = "4e557a6dfed12c5ffad67aaca83670cf7aca4f1fffd6846247e2b84a232e682a"
+
+[[files]]
+file = "config/fancymenu/customization/brassworks.pac.partymenu_layout1.txt"
+hash = "d3c841207ca304825f626a506bf49ba06e07265457c38fe286c2db6aab066fda"
+
+[[files]]
+file = "config/fancymenu/customization/brassworks_mainmenu.txt"
+hash = "06cf2341d0a84644dacd778a4ffa4dd81da8adb122c2f8fb228679dfef1713e0"
+
+[[files]]
+file = "config/fancymenu/customization/brassworks_mainmenu_optionspreset.txt"
+hash = "ab81d0ee50c2adbae285346e925304ae2c401b5618aa32113b95590e7a16ca0c"
+
+[[files]]
+file = "config/fancymenu/customization/brassworks_mainmenu_welcome.txt"
+hash = "d92f5066dd2d53d4a55dd515a9ae9fca06790b80d7c077b30af3887a0e7a2569"
+
+[[files]]
+file = "config/fancymenu/customization/chat_screen_layout.txt"
+hash = "53f41ec1e5005f129566fd7c296c092b2fb2365cb244d999777d05e342fb4e39"
+
+[[files]]
+file = "config/fancymenu/customization/claim_layout.txt"
+hash = "0be53c29a09b36efc03abccdd8a845b3c573d81729935467448a45c98b74b2d1"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "07c302c1596f4acb01bc712f20319b4b6bc881a12fb7012aea963e07b7c52321"
+
+[[files]]
+file = "config/fancymenu/customization/event_animation_spleef_instructions.txt"
+hash = "9ee31f594b3b306dbf66506b75d6d5b9eaa3debd3b19811d288bc3226ff30061"
+
+[[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "9508275ead0a8974e67561eceb3e77ff35ee25b4abb840d013beb598fa184ecd"
+
+[[files]]
+file = "config/fancymenu/customization/net.irisshaders.iris.gui.screen.shaderpackscreen_layout.txt"
+hash = "c7714dbfc7d114cc6d09b95fff195d285ff85169af389c4bcc969ee36324fcc5"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "84e7b54d80c93ce407acd4310c66bc428d6215e721f18aa56ebca09967ab5100"
+
+[[files]]
+file = "config/fancymenu/customization/screen_refresh_script.txt"
+hash = "2308929e46a1dec2cea6311dd640ba8c3a67c014a6d0b411282488958be71ec8"
+
+[[files]]
+file = "config/fancymenu/customization/shop_layout.txt"
+hash = "cd37b7838b8c7a8e846ce1d84f1c532f4a93a7d39539f28f3e18bef1fe1bc937"
+
+[[files]]
+file = "config/fancymenu/customization/spiffy_minigame_overlay.txt"
+hash = "95928e163a045e8acf6d540d0ce9d720d04a4014b12c0bd00d0695551a398cd8"
+
+[[files]]
+file = "config/fancymenu/customization/xaero.pac.client.gui.mainmenu_layout.txt"
+hash = "059b05e0c46fe042446c28a5b1ddb94d72fa22d5832ea9982818b2f3026fb4ea"
+
+[[files]]
+file = "config/fancymenu/dragger_metas.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "cf7c94addec9576c1dc90132a801e327857c1aa7f662c4115cff5efadd5ac606"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "8d407d0279663ec8348114da74c90768a0293ddaf490b10fef75c7d533e3dc1e"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "0a90076e2f41c643e6bc91b9bead699fd1df5c059dc2705df4e9d89667b81551"
+
+[[files]]
 file = "config/fml.toml"
 hash = "23710bf5c5cc2268645b9213e4c8f96a0fda4c8069e88fb52b97d7aa11171208"
 
 [[files]]
 file = "config/simple-custom-early-loading.json"
-hash = "ed04681ddbc2e46d49fa2a004c272ede78e08a3e3bbd4902426cb6062da15010"
+hash = "c28eaad908fd0c02c9525ae811dad51eba687a993c2d28155d9496517b14957c"
 
 [[files]]
 file = "config/simple-custom-early-loading/schematicbg.png"
@@ -413,6 +1253,11 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "2a7ca4cc70300c469d0b62f3b7b086645ca374216cd99f9f8ea32755b4e9239f"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]

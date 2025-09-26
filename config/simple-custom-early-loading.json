@@ -45,7 +45,7 @@
     }
   },
   "performance_bar": false,
-  "anvil": false,
+  "fox": false,
   "log_messages": false,
   "forge_version": false
 }
