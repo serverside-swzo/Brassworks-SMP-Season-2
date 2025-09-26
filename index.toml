@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fml.toml"
+hash = "23710bf5c5cc2268645b9213e4c8f96a0fda4c8069e88fb52b97d7aa11171208"
+
+[[files]]
 file = "config/simple-custom-early-loading.json"
 hash = "ed04681ddbc2e46d49fa2a004c272ede78e08a3e3bbd4902426cb6062da15010"
 
