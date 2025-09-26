@@ -1,6 +1,6 @@
 name = "Corpse x Curios API Compat"
 filename = "corpsecurioscompat-1.21.1-NeoForge-3.1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pJGcKPh1/versions/MggwWPUK/corpsecurioscompat-1.21.1-NeoForge-3.1.2.jar"
