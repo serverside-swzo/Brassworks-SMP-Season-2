@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/simple-custom-early-loading.json"
+hash = "ed04681ddbc2e46d49fa2a004c272ede78e08a3e3bbd4902426cb6062da15010"
+
+[[files]]
+file = "config/simple-custom-early-loading/schematicbg.png"
+hash = "b7f5d796706c9242e4106cfb13dc35114739ddab732d6c53c655e41b8972ae55"
+
+[[files]]
+file = "config/simple-custom-early-loading/sniffy.apng"
+hash = "d59b5bc2e907ed43b8cebeebec75f10ef36f280218ddd6079e629cbe48f1fffb"
+
+[[files]]
+file = "config/simple-custom-early-loading/title_logo.png"
+hash = "96ff849d64f86d9931ba2ca64c6c6f20864d9c988c1c2956bb6c1a0a5e714fdf"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "ee6a8a107b9c9b52e6724326afd819346c0355365506465a1bd7a89235b4c39e"
 metafile = true
@@ -8,6 +24,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "512d867c7e6abd3d4a3c440a203e69d71795cd577f095de7a9c47d86a377b146"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
@@ -46,6 +67,11 @@ hash = "fab0978d4046980a8afe377c2151b359dd0e5d9e4321d27bb70c3d0f73fa4b04"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "612d49f065b3b26bb44cc3ef4f1f2a1c58883831695a96b7ed7f63f75a66295c"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3d678d61faee4f39f3ac2a2bcdebc15ac23adcc30c3e46a2993978c76a0fe90d"
 metafile = true
@@ -53,6 +79,11 @@ metafile = true
 [[files]]
 file = "mods/clayworks.pw.toml"
 hash = "3195cf0216f583dca991faba39c10e9f323a0ff363fd201a64fc93fb73841dcb"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
@@ -226,13 +257,28 @@ hash = "420c454a22c453ef2c80401e58587244a2ea7fbd6132493b9c72fc6d8c6fb1d8"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "957c7ebf3a7456872b5e3424de3eee728a78b4b0e14ddccfac2e1627e667ab58"
 metafile = true
 
 [[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "0b921f73d5b1ad6615740956567d6cb06950f5520f094dbb7a045bb4bd5ba309"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "7988c367539dd83722d24c50166e60c49c074ab9426afca9aca358b9cd2d0094"
+metafile = true
+
+[[files]]
+file = "mods/emixx.pw.toml"
+hash = "1a2ca9865ee018d9cc28693cfa6aa5e181a636eef9fa7811564ce4b6b859ff9d"
 metafile = true
 
 [[files]]
@@ -313,6 +359,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "a329edbc8a966a9d729cbf54e353f5267dc957dbf454b2a61cf708e5115f94b3"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
@@ -436,6 +487,11 @@ hash = "a8fab5df63d906bc07796d330fe257e582a7194b703bdc0a50d4b0666b905aba"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c1c0115c6c624471c08f94ca065bd6876505591df7eabde099a4868cf6397a13"
 metafile = true
@@ -451,8 +507,23 @@ hash = "7f9a32a2f3d41aaa701298dc28fb79d3d6dc4120add2eff33727c71dddaa0da8"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/simple-custom-early-loading.pw.toml"
+hash = "18ac036cd5661abb6977b1acc0926565430cbb24edc366a386f9047bdebf74f5"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f52bb549dde34f8680ff69e0c2962bf2ea5735ade5a6ce3404d622556f0073e8"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
