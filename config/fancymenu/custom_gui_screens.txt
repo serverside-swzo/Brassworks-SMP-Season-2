@@ -1,0 +1,50 @@
+type = custom_gui_screens
+
+overridden_screens {
+}
+
+custom_gui {
+  identifier = event_animation
+  title = 
+  allow_esc = false
+  transparent_world_background = true
+  transparent_world_background_overlay = false
+  pause_game = false
+}
+
+custom_gui {
+  identifier = brassworks.pac.partymenu
+  title = Party Menu
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = false
+}
+
+custom_gui {
+  identifier = brassworks.pac.helpbook
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = shop
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = screen_refresh
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = false
+  pause_game = false
+}
+

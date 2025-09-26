@@ -1,0 +1,86 @@
+type = user_variables
+
+variable {
+  name = spleef.playersleft
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = randomtext
+  value = 146
+  reset_on_launch = false
+}
+
+variable {
+  name = claimamount
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = countdownText
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = parties.join.partyid
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = spleef.redtext
+  value = 0.0
+  reset_on_launch = false
+}
+
+variable {
+  name = welcomemessage
+  value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = parties.invite.playername
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = random
+  value = {"placeholder":"randomtext","values":{"path":"kubejs/assets/sniffytips.txt","interval":"15"}}
+  reset_on_launch = false
+}
+
+variable {
+  name = timer
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = spleef.deathmatch
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = claim
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = opacity
+  value = 1.0
+  reset_on_launch = false
+}
+
+variable {
+  name = spleef.playersleftnew
+  value = 2
+  reset_on_launch = false
+}
+
