@@ -1021,6 +1021,11 @@ hash = "78eaaad6547f2f387fe2794e9bf235baa8c324854f8a51622a7b4d0ac37947f9"
 metafile = true
 
 [[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "cb5b213c4f8a92dc6f326ffbbc84db3f525c2c78ba98d866e4f03433ef4dea39"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "57773a895fbd0343f55fb5c622c55d735f0c8452172178bb77560d6149ee3c12"
 metafile = true
@@ -1083,6 +1088,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "650d83f19ef2c073e57dfc087226fe029c0aa6d12cfdd57a091666a216bb5d15"
+metafile = true
+
+[[files]]
+file = "mods/delivery-director.pw.toml"
+hash = "6698c567fce253cdc646bff69e34b0a1d551d51f73799603159b744386737eae"
 metafile = true
 
 [[files]]
