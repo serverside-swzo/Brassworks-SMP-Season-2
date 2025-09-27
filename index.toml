@@ -1400,6 +1400,11 @@ hash = "f114030e6984e30307fc43e37ec812c915aed7f64717d7b364dd84008e045fe4"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "861c981ef2c60f5688b92d28adbf0ced1d38e1433e2f7511ed4ca7d8c6f62254"
+metafile = true
+
+[[files]]
 file = "mods/trimmed.pw.toml"
 hash = "49a89f1fc7f7485ac1b85fefc5f68b48e6678bf88389f57ee04adc6d0cebb687"
 metafile = true
