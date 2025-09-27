@@ -906,6 +906,10 @@ hash = "79f56f1815a621d98548591827e02271c0e69f42dc910bf08c8e8139b3a74c4a"
 metafile = true
 
 [[files]]
+file = "mods/brassworkscore-1.0-SNAPSHOT.jar"
+hash = "7a3b5bc88340bd4a54f56eff97846d7bb013d8c7e491bf1339c3f7dc8250dff3"
+
+[[files]]
 file = "mods/buzzier-bees.pw.toml"
 hash = "fab0978d4046980a8afe377c2151b359dd0e5d9e4321d27bb70c3d0f73fa4b04"
 metafile = true
