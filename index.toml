@@ -1305,6 +1305,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/moyai.pw.toml"
+hash = "8b041aed68ea4b1e60100c865fd6510f18b0aa5efea7cc3cb1faab2bbe926ae1"
+metafile = true
+
+[[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "f4bbb9a6169524865e0a82dee3d7a11a5ed2bf133f0d5b730d63a28563a18f7d"
 metafile = true
