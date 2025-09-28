@@ -965,6 +965,11 @@ hash = "6db118d947d8db155343014d01e4dbb823d0e187dd401235a3b60654316efe73"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "ef9a6da83be95d05a9328f74e3ef7378d7a5c82f191001bce69efb220f6c2498"
+metafile = true
+
+[[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "10f64bc34026c31f9a453f5fe78c73265d426ed821b741e8883cb15a61127bb1"
 metafile = true
