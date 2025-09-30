@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "c5bc5bb5d95a2102171e538ae717d3ae00e3c8a69a1be1d00942c813c46f537d"
+
+[[files]]
 file = "config/fancymenu/assets/1x1.png"
 hash = "1e4d899c16f8ac3a20edee040cd35912ae5c7c59020a57fce0cd46f957a3c779"
 
@@ -1285,6 +1289,11 @@ hash = "4ea155b000509070854a4b8f9b6e790b7f90aa9187cd611a15ee6693fc157cf1"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "9a7118b1d0ae1239f880c4f7fb921d14f49ed04b780fb8d0d439f923c0b6e523"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
@@ -1342,6 +1351,11 @@ metafile = true
 [[files]]
 file = "mods/packagerspsic.pw.toml"
 hash = "a2fb48660663ac10f699ffcb136b5d77fe9032e17d4ac3948c9b50c4740a6591"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
