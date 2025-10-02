@@ -1,0 +1,13 @@
+name = "Swzo's Font!"
+filename = "swzos_font_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KkX7g5LU/versions/GuHDtIVy/swzos_font_1.0.zip"
+hash-format = "sha512"
+hash = "73b1680fc2f947295b2a73b095f2b8fbf33a7684b27e219b50c062545e28a743a7c3da7976852e45250607fe1049d96cad21fe6f9d91b5ba8e5f1ac2cc809770"
+
+[update]
+[update.modrinth]
+mod-id = "KkX7g5LU"
+version = "GuHDtIVy"

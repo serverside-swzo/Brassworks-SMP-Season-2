@@ -841,6 +841,34 @@ file = "config/fml.toml"
 hash = "23710bf5c5cc2268645b9213e4c8f96a0fda4c8069e88fb52b97d7aa11171208"
 
 [[files]]
+file = "config/paxi/datapacks/bat membranes v1.0.15 (MC 1.21-1.21.9).zip"
+hash = "01bfe13386073933ac4902043daefeb990365da27bbc2007a5889e022821c5d9"
+
+[[files]]
+file = "config/paxi/datapacks/double shulker shells v1.3.14 (MC 1.21-1.21.9).zip"
+hash = "b1b50d0976d8eeb117c4c1c3f3ac653f6f8a015086ada3d771bed89ff7c521f9"
+
+[[files]]
+file = "config/paxi/datapacks/silence mobs v1.2.8 (MC 1.21-1.21.9).zip"
+hash = "6e50b0e147040435d6bcbf3eb0d81b1e089380929566912bd2f6679cc5982ea1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0 - Copy.zip"
+hash = "5cea67204fb10f4c1b41b1d43b4638074d746cdbff4a90c96e80d20386ea3cb8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Fancy Crops v1.2.zip"
+hash = "20714e3d349c1028200abcb0326da0fad6b43bc581956225414a8b319c064847"
+
+[[files]]
+file = "config/paxi/resourcepacks/PixelTwemojiMC-9.zip"
+hash = "8e403e8e426d8a122dfa8ea3c0a8a9e1ce59c31e6b36ad339ee55f66deb2b99c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Torchmaster Remaster.zip"
+hash = "443cf04aeae1a64924cba8e9a1a0851222b9257dff2c86f0b6bb5a943546461e"
+
+[[files]]
 file = "config/simple-custom-early-loading.json"
 hash = "c28eaad908fd0c02c9525ae811dad51eba687a993c2d28155d9496517b14957c"
 
@@ -2952,6 +2980,11 @@ hash = "5349bc3d530ad08d9517fc169f66b8c92911b08257ad2c0d28cd719d51af64cf"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "714b35496dbf7cf89814db58ba625b3fc5d0cfb4c180f7eeda8d77beaac20b0c"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "5cd30923f8e867bc3a93b84d2c5853c9b6247d8287d276b993ad56629ebb07e1"
 metafile = true
@@ -3022,6 +3055,11 @@ hash = "49a89f1fc7f7485ac1b85fefc5f68b48e6678bf88389f57ee04adc6d0cebb687"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "2c4995bdee3b963d237076b10e2097b5ffac8f5c7637525f9fccc8a8220bcf6c"
+metafile = true
+
+[[files]]
 file = "mods/woodworks.pw.toml"
 hash = "3a665193dbc8bf714c2f07500acbd4e4ba7c3c4a0ede7a3605cbfdee0b9ee122"
 metafile = true
@@ -3049,3 +3087,13 @@ metafile = true
 [[files]]
 file = "packwiz-linux"
 hash = "f18c3da9868b764e1f557860dfa76e54cec3731015628cbfa9fb22aaf535b0c2"
+
+[[files]]
+file = "resourcepacks/soundtrack+.pw.toml"
+hash = "c79a27fbf71338559f7656d746c640533b6d79c0fed9762c1b80f6fa6c12366b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/swzos-font!.pw.toml"
+hash = "f97c8d3a83df35f7908a6e6a93b56c934708c6d7abbccef24fd8610e5429ecef"
+metafile = true
