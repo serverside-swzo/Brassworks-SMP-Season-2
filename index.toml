@@ -2830,11 +2830,6 @@ hash = "81f58a764bd8b35ff4fcafbd94cf90106a62b9b62f43696d28e31002b79a5def"
 metafile = true
 
 [[files]]
-file = "mods/gears-n-kinetics.pw.toml"
-hash = "d97b2e855a7024644c6848f1be07add8ba40b162669ee91e854e882c40761500"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "6846d659504eba3f42d9d1426ddddeea0d23a1c7109375dd7213109ec1926f93"
 metafile = true
@@ -2992,6 +2987,16 @@ metafile = true
 [[files]]
 file = "mods/personality!.pw.toml"
 hash = "5349bc3d530ad08d9517fc169f66b8c92911b08257ad2c0d28cd719d51af64cf"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "8862821373ed2b86fa6cea70a5f0fc5e7f39c853952415d8ad0e3f6e3a2693a1"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "7968a1ae7e5fce2ebff943904c50951b59af655e08607820d591f603b6325244"
 metafile = true
 
 [[files]]
