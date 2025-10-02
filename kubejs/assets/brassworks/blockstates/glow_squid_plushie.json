@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "brassworks:block/glow_squid_plushie" },
+    "facing=east": { "model": "brassworks:block/glow_squid_plushie", "y": 90 },
+    "facing=south": { "model": "brassworks:block/glow_squid_plushie", "y": 180 },
+    "facing=west": { "model": "brassworks:block/glow_squid_plushie", "y": 270 }
+  }
+}

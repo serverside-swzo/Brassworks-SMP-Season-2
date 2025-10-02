@@ -1,0 +1,9 @@
+{
+  "parent": "brassworks:custom/destroyed_track_3",
+  "textures": {
+    "all": "brassworks:block/standard_track",
+    "particle": "brassworks:block/standard_track",
+    "1": "brassworks:block/standard_track"
+  },
+  "render_type": "solid"
+}

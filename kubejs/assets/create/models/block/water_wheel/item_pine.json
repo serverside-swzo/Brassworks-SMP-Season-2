@@ -1,0 +1,10 @@
+{
+  "parent": "create:block/water_wheel/textures",
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "create:models/block/water_wheel/water_wheel_item.obj",
+  "textures": {
+    "log": "environmental:block/pine_log",
+    "planks": "environmental:block/pine_planks"
+  }
+}

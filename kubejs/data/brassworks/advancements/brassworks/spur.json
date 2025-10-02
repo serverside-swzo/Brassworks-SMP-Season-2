@@ -1,0 +1,15 @@
+{
+  "display": {
+    "icon": {
+      "item": "numismatics:spur"
+    },
+    "title": "Land Investor",
+    "description": "Put your Spurs where your land is.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "brassworks:brassworks/root",
+  "criteria": {}
+}

@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "brassworks:sniffer_wool"
+    },
+    "title": "Brassworks",
+    "description": "Welcome To The Brassworks SMP!",
+    "background": "brassworks:textures/block/sniffer_wool_side.png",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+    "criteria": {
+    "root": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": []
+}

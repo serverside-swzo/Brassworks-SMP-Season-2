@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "brassworks:music_disc_chris"
+    },
+    "title": "Sticky Symphony",
+    "description": "Obtain a special music disc by having a skeleton shoot a tiny slime.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "brassworks:brassworks/root",
+  "criteria": {
+    "has_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "brassworks:music_disc_chris",
+              "brassworks:music_disc_door",
+              "brassworks:music_disc_droopy_likes",
+              "brassworks:music_disc_ki",
+              "brassworks:music_disc_intro",
+              "brassworks:music_disc_spooky_amethyst",
+              "brassworks:music_disc_spooky_amethyst_trumpet",
+              "brassworks:music_disc_eleven",
+              "brassworks:music_disc_taswell"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

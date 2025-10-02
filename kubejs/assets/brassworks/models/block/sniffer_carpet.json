@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "brassworks:block/sniffer_wool_side"
+  }
+}

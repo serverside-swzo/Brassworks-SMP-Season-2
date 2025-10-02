@@ -1,0 +1,10 @@
+{
+  "parent": "create:block/water_wheel/textures",
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "create:models/block/water_wheel/water_wheel_item.obj",
+  "textures": {
+    "log": "quark:block/azalea_log",
+    "planks": "quark:block/azalea_planks"
+  }
+}

@@ -1,0 +1,94 @@
+{
+    "providers": [
+        {
+            "file": "brassworks:gui/serverlogo.png",
+            "chars": [
+                ""
+            ],
+            "height": 128,
+            "ascent": 64,
+            "type": "bitmap"
+        },
+                {
+            "file": "brassworks:gui/ranks/admin.png",
+            "chars": [
+                ""
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "brassworks:gui/ranks/mod.png",
+            "chars": [
+                ""
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "brassworks:gui/ranks/donator.png",
+            "chars": [
+                ""
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "brassworks:gui/ranks/sniffer.png",
+            "chars": [
+                ""
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "brassworks:gui/ranks/discord.png",
+            "chars": [
+                ""
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "brassworks:gui/ranks/atm.png",
+            "chars": [
+                "🛈"
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+                {
+            "file": "brassworks:gui/ranks/worker.png",
+            "chars": [
+                ""
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "brassworks:gui/ranks/sniffnator.png",
+            "chars": [
+                ""
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "brassworks:gui/ranks/slabfish.png",
+            "chars": [
+                ""
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        }
+    ]
+}

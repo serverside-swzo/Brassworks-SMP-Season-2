@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "brassworks:sniffer_wool"
+    },
+    "title": "Fluffed Up",
+    "description": "Craft sniffer wool using freshly gathered fur.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "brassworks:brassworks/sniffer_fur",
+  "criteria": {
+    "has_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "brassworks:sniffer_wool"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

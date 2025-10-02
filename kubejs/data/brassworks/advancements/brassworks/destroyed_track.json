@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "brassworks:destroyedtrack_1"
+    },
+    "title": "Off the Rails",
+    "description": "Obtain destroyed tracks by crushing train tracks into scrap decor.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "brassworks:brassworks/root",
+  "criteria": {
+    "has_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "brassworks:destroyedtrack_1",
+              "brassworks:destroyedtrack_2",
+              "brassworks:destroyedtrack_3"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

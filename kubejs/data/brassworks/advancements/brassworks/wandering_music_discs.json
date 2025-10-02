@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "brassworks:music_disc_truce"
+    },
+    "title": "Wandering Rhythms",
+    "description": "Trade with a wandering trader to obtain rare or backported music discs.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "brassworks:brassworks/root",
+  "criteria": {
+    "has_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "brassworks:music_disc_precipice",
+              "brassworks:music_disc_creator_music_box",
+              "brassworks:music_disc_creator",
+              "brassworks:music_disc_truce"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

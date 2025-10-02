@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "brassworks:honey_roll"
+    },
+    "title": "Cin-a-bon Appetit!",
+    "description": "Sink your teeth into a spiraled swirl of sugary delight.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "brassworks:brassworks/root",
+  "criteria": {
+    "has_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "brassworks:honey_roll",
+              "brassworks:xp_roll",
+              "brassworks:hyper_xp_roll",
+              "brassworks:choco_roll",
+              "brassworks:lumisene_roll"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

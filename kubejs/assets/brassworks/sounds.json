@@ -1,0 +1,172 @@
+{
+    "music.truce": {
+        "sounds": [
+            {
+                "name": "brassworks:truce",
+                "stream": true
+            }
+        ]
+    },
+    "music.creator": {
+        "sounds": [
+            {
+                "name": "brassworks:creator",
+                "stream": true
+            }
+        ]
+    },
+    "music.creator_music_box": {
+        "sounds": [
+            {
+                "name": "brassworks:creator_music_box",
+                "stream": true
+            }
+        ]
+    },
+    "music.precipice": {
+        "sounds": [
+            {
+                "name": "brassworks:precipice",
+                "stream": true
+            }
+        ]
+    },
+	
+	
+	"music.chris": {
+        "sounds": [
+            {
+                "name": "brassworks:chris",
+                "stream": true
+            }
+        ]
+    },
+	"music.door": {
+        "sounds": [
+            {
+                "name": "brassworks:door",
+                "stream": true
+            }
+        ]
+    },
+	"music.droopy_likes": {
+        "sounds": [
+            {
+                "name": "brassworks:droopy_likes",
+                "stream": true
+            }
+        ]
+    },
+	"music.ki": {
+        "sounds": [
+            {
+                "name": "brassworks:ki",
+                "stream": true
+            }
+        ]
+    },
+	"music.intro": {
+        "sounds": [
+            {
+                "name": "brassworks:intro",
+                "stream": true
+            }
+        ]
+    },
+	"music.spooky_amethyst": {
+        "sounds": [
+            {
+                "name": "brassworks:spooky_amethyst",
+                "stream": true
+            }
+        ]
+    },
+	"music.spooky_amethyst_trumpet": {
+        "sounds": [
+            {
+                "name": "brassworks:spooky_amethyst_trumpet",
+                "stream": true
+            }
+        ]
+    },
+	"music.eleven": {
+        "sounds": [
+            {
+                "name": "brassworks:eleven",
+                "stream": true
+            }
+        ]
+    },
+    "music.taswell": {
+        "sounds": [
+            {
+                "name": "brassworks:taswell",
+                "stream": true
+            }
+        ]
+    },
+    "music.that_s_amore": {
+        "sounds": [
+            {
+                "name": "brassworks:that_s_amore",
+                "stream": true
+            }
+        ]
+    },
+    "music.dixie_biscuit": {
+        "sounds": [
+            {
+                "name": "brassworks:dixie_biscuit",
+                "stream": true
+            }
+        ]
+    },
+    "music.fukashigi_no_trumpet": {
+        "sounds": [
+            {
+                "name": "brassworks:fukashigi_no_trumpet",
+                "stream": true
+            }
+        ]
+    },
+    "music.csgo_bhop_song": {
+        "sounds": [
+            {
+                "name": "brassworks:csgo_bhop_song",
+                "stream": true
+            }
+        ]
+    },
+    "music.its_all_over_but_the_crying": {
+        "sounds": [
+            {
+                "name": "brassworks:its_all_over_but_the_crying",
+                "stream": true
+            }
+        ]
+    },
+    "music.whiskey_cola_and_tequila": {
+        "sounds": [
+            {
+                "name": "brassworks:whiskey_cola_and_tequila",
+                "stream": true
+            }
+        ]
+    },
+        "music.warni_warni": {
+        "sounds": [
+            {
+                "name": "brassworks:warni_warni",
+                "stream": true
+            }
+        ]
+    },
+        "music.average_summer_song": {
+        "sounds": [
+            {
+                "name": "brassworks:average_summer_song",
+                "stream": true
+            }
+        ]
+    }
+}

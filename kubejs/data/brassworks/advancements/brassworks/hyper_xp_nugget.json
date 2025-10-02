@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "brassworks:hyper_experience_nugget"
+    },
+    "title": "Condensed Potential",
+    "description": "Obtain a Hyper XP Nugget through crushing or compacting raw experience.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "brassworks:brassworks/root",
+  "criteria": {
+    "has_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "brassworks:hyper_experience_nugget"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

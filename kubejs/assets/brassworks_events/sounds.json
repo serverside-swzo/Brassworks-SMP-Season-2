@@ -1,0 +1,78 @@
+{
+    "sfx.cd_zero": {
+        "sounds": [
+            {
+                "name": "brassworks_events:cd_zero",
+                "stream": true
+            }
+        ]
+    },
+    "sfx.startcd": {
+        "sounds": [
+            {
+                "name": "brassworks_events:startcd",
+                "stream": true
+            }
+        ]
+    },
+	"sfx.shortfall1": {
+        "sounds": [
+            {
+                "name": "brassworks_events:shortfall1",
+                "stream": true
+            }
+        ]
+    },
+	"sfx.shortfall2": {
+        "sounds": [
+            {
+                "name": "brassworks_events:shortfall2",
+                "stream": true
+            }
+        ]
+	},
+	"music.tumble": {
+        "sounds": [
+            {
+                "name": "brassworks_events:tumble_01",
+                "stream": true
+            },
+            {
+                "name": "brassworks_events:tumble_02",
+                "stream": true
+            },
+            {
+                "name": "brassworks_events:tumble_03",
+                "stream": true
+            },
+            {
+                "name": "brassworks_events:tumble_04",
+                "stream": true
+            },
+            {
+                "name": "brassworks_events:tumble_05",
+                "stream": true
+            },
+            {
+                "name": "brassworks_events:tumble_06",
+                "stream": true
+            },
+            {
+                "name": "brassworks_events:tumble_07",
+                "stream": true
+            },
+            {
+                "name": "brassworks_events:tumble_08",
+                "stream": true
+            },
+            {
+                "name": "brassworks_events:tumble_09",
+                "stream": true
+            },
+            {
+                "name": "brassworks_events:tumble_10",
+                "stream": true
+            }
+        ]
+    }
+}

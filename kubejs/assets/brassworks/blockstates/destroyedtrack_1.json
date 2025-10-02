@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "brassworks:block/destroyedtrack_1"
+    },
+    "facing=east": {
+      "model": "brassworks:block/destroyedtrack_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "brassworks:block/destroyedtrack_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "brassworks:block/destroyedtrack_1",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "parent": "create:block/large_water_wheel/item",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "create:block/large_water_wheel/item_oak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "create:block/large_water_wheel/item_spruce"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "create:block/large_water_wheel/item_birch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "create:block/large_water_wheel/item_jungle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "create:block/large_water_wheel/item_acacia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "create:block/large_water_wheel/item_dark_oak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "create:block/large_water_wheel/item_mangrove"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108
+      },
+      "model": "create:block/large_water_wheel/item_cherry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 109
+      },
+      "model": "create:block/large_water_wheel/item_willow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110
+      },
+      "model": "create:block/large_water_wheel/item_pine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "create:block/large_water_wheel/item_plum"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112
+      },
+      "model": "create:block/large_water_wheel/item_wisteria"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 113
+      },
+      "model": "create:block/large_water_wheel/item_ancient"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 114
+      },
+      "model": "create:block/large_water_wheel/item_azalea"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 115
+      },
+      "model": "create:block/large_water_wheel/item_blossom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 116
+      },
+      "model": "create:block/large_water_wheel/item_bamboo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 117
+      },
+      "model": "create:block/large_water_wheel/item_crimson"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 118
+      },
+      "model": "create:block/large_water_wheel/item_warped"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 119
+      },
+      "model": "create:block/large_water_wheel/item_pale_oak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120
+      },
+      "model": "create:block/large_water_wheel/item_stone_pine"
+    }
+  ]
+}

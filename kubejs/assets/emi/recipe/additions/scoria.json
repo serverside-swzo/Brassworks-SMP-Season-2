@@ -1,0 +1,24 @@
+{
+    "type": "emi:world_interaction",
+    "left": {
+        "type": "fluid",
+        "amount": 1000,
+        "id": "minecraft:lava",
+        "remainder": {
+            "type": "fluid",
+            "amount": 1000,
+            "id": "minecraft:lava"
+        }
+    },
+    "right": {
+        "type": "fluid",
+        "amount": 1000,
+        "id": "create:chocolate",
+        "remainder": {
+            "type": "fluid",
+            "amount": 1000,
+            "id": "create:chocolate"
+        }
+    },
+    "output": "item:create:scoria"
+}

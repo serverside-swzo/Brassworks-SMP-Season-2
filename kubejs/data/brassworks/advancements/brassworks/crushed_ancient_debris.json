@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "brassworks:crushed_ancient_debris"
+    },
+    "title": "Refined Ruins",
+    "description": "Crush ancient debris into something finer, more yield, and a shot at raw power.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "brassworks:brassworks/root",
+  "criteria": {
+    "has_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "brassworks:crushed_ancient_debris"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

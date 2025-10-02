@@ -1,0 +1,24 @@
+{
+    "type": "emi:world_interaction",
+    "left": {
+        "type": "fluid",
+        "amount": 1000,
+        "id": "minecraft:lava",
+        "remainder": {
+            "type": "fluid",
+            "amount": 1000,
+            "id": "minecraft:lava"
+        }
+    },
+    "right": {
+        "type": "fluid",
+        "amount": 1000,
+        "id": "create:honey",
+        "remainder": {
+            "type": "fluid",
+            "amount": 1000,
+            "id": "create:honey"
+        }
+    },
+    "output": "item:create:limestone"
+}

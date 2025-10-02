@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "brassworks:hyper_experience_pickaxe"
+    },
+    "title": "Hyper Charged!",
+    "description": "Unlock the power of hyper experience–infused tools.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "brassworks:brassworks/hyper_xp_nugget",
+  "criteria": {
+    "has_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "brassworks:hyper_experience_sword",
+              "brassworks:hyper_experience_pickaxe",
+              "brassworks:hyper_experience_axe",
+              "brassworks:hyper_experience_shovel"
+            ],
+            "tag": "brassworks:hyper_experience_tools"
+          }
+        ]
+      }
+    }
+  }
+}

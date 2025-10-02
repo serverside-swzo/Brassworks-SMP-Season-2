@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:torchflower_seeds",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pitcher_pod",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:tree_fertilizer",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brassworks:sniffer_fur",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather",
+          "weight": 2
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "minecraft:gameplay/sniffer_digging"
+}

@@ -1,0 +1,17 @@
+{
+  "blocks": [
+    "brassworks:shop_1",
+    "brassworks:shop_2",
+    "brassworks:shop_3",
+    "brassworks:shop_4"
+  ],
+  "directions": [
+    "north",
+    "east",
+    "south",
+    "west"
+  ],
+  "connecting_blocks": [
+    "/same"
+  ]
+}

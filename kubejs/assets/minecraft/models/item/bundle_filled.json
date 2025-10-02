@@ -1,0 +1,12 @@
+{
+  "parent": "item/bundle",
+  "textures": {
+    "layer0": "item/bundle_filled"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 42069 },
+      "model": "item/starter_bundle_model"
+    }
+  ]
+}
