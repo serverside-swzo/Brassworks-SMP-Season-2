@@ -3085,10 +3085,6 @@ hash = "fd8994221802e444c1b1b2da9d3d816a040860d875c56ce15be401b865e2eae5"
 metafile = true
 
 [[files]]
-file = "packwiz-linux"
-hash = "f18c3da9868b764e1f557860dfa76e54cec3731015628cbfa9fb22aaf535b0c2"
-
-[[files]]
 file = "resourcepacks/soundtrack+.pw.toml"
 hash = "c79a27fbf71338559f7656d746c640533b6d79c0fed9762c1b80f6fa6c12366b"
 metafile = true
