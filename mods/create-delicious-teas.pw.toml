@@ -1,0 +1,13 @@
+name = "Create: delicious teas"
+filename = "createtea1.21.1-neo_forge-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ps5RAuX2/versions/MgOqQnt2/createtea1.21.1-neo_forge-1.0.jar"
+hash-format = "sha512"
+hash = "a4cef54a1716fbf2f4a70b658d1b39a5cfcf51b6259287e4f1a14853b20ed495809d7f6096a3bd00ba315d76d01de97c96e7eec36281aec16112b91574258344"
+
+[update]
+[update.modrinth]
+mod-id = "Ps5RAuX2"
+version = "MgOqQnt2"

@@ -2625,6 +2625,16 @@ hash = "4aa3c34d2d44ae993ddeceecc652c78c0657182d14f80e0ab154cce9a7babd24"
 metafile = true
 
 [[files]]
+file = "mods/create-delicious-teas.pw.toml"
+hash = "b5c81906ac3a9412221cd37e411f56f1a0c6fcee87945070e764e7124a3be509"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "4c1b0dfd55ed44d48beab07cfd10fa8fe817853a8f86c249978480c7c3f33b44"
 metafile = true
@@ -2687,6 +2697,11 @@ metafile = true
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "cbdd082a3d8299a215737fb6262f103d5b7189bc7dc022a0d4d2c0d1ac0a76ff"
+metafile = true
+
+[[files]]
+file = "mods/create-train-parts.pw.toml"
+hash = "ad55431228d72010c4161b28728bdf091bb9f16c4d058cfe69e310997489971e"
 metafile = true
 
 [[files]]
