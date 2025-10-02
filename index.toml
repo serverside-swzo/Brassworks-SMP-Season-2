@@ -762,15 +762,7 @@ hash = "d3c841207ca304825f626a506bf49ba06e07265457c38fe286c2db6aab066fda"
 
 [[files]]
 file = "config/fancymenu/customization/brassworks_mainmenu.txt"
-hash = "06cf2341d0a84644dacd778a4ffa4dd81da8adb122c2f8fb228679dfef1713e0"
-
-[[files]]
-file = "config/fancymenu/customization/brassworks_mainmenu_optionspreset.txt"
-hash = "ab81d0ee50c2adbae285346e925304ae2c401b5618aa32113b95590e7a16ca0c"
-
-[[files]]
-file = "config/fancymenu/customization/brassworks_mainmenu_welcome.txt"
-hash = "d92f5066dd2d53d4a55dd515a9ae9fca06790b80d7c077b30af3887a0e7a2569"
+hash = "f6381ec9bae290e81d233c99de3ccda94aac3d179e18837caae4fde568abd42f"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -842,7 +834,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "0a90076e2f41c643e6bc91b9bead699fd1df5c059dc2705df4e9d89667b81551"
+hash = "f689816411f13684f3a591f7c9f9eea61f12e0b77ded3d4b155f7bfc41c312a3"
 
 [[files]]
 file = "config/fml.toml"
@@ -863,6 +855,1602 @@ hash = "d59b5bc2e907ed43b8cebeebec75f10ef36f280218ddd6079e629cbe48f1fffb"
 [[files]]
 file = "config/simple-custom-early-loading/title_logo.png"
 hash = "96ff849d64f86d9931ba2ca64c6c6f20864d9c988c1c2956bb6c1a0a5e714fdf"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
+
+[[files]]
+file = "kubejs/assets/brassworks/blockstates/blue_axolotl_plushie.json"
+hash = "51e51f8bdb054756d149f055687b76fc2bae23d092ba2ffb02f1ec3545f66d7d"
+
+[[files]]
+file = "kubejs/assets/brassworks/blockstates/destroyedtrack_1.json"
+hash = "4f07ecc453e31106086428ae2c92e26d682da4491a902a50a66367a0fe98e31b"
+
+[[files]]
+file = "kubejs/assets/brassworks/blockstates/destroyedtrack_2.json"
+hash = "e8804daa506b8f2b5b6be5eea1558519bbd482125ad4ca4b98bad8610648c78f"
+
+[[files]]
+file = "kubejs/assets/brassworks/blockstates/destroyedtrack_3.json"
+hash = "d2b34863555f43fee2b78623346a0b8677462cf72db2a897a58f4d449134d07b"
+
+[[files]]
+file = "kubejs/assets/brassworks/blockstates/glow_squid_plushie.json"
+hash = "8297742a6aa4d917259f87a47551ffe55a0102a142d4d29f64563b24bbeb8fba"
+
+[[files]]
+file = "kubejs/assets/brassworks/blockstates/pink_axolotl_plushie.json"
+hash = "5c923cc81ab5536d0fba89d964981f11362b842dedd43e012fab6878685be9d7"
+
+[[files]]
+file = "kubejs/assets/brassworks/blockstates/sniffer_carpet.json"
+hash = "71c3aeb43ee848f341030ae2082f620b45ef59e186c0c79a9e554599edfa0253"
+
+[[files]]
+file = "kubejs/assets/brassworks/blockstates/sniffer_plushie.json"
+hash = "c3af9a4abf2e2f4288bd84cdbcc4b43a15f835a96bb408e831f911f34a1f3c00"
+
+[[files]]
+file = "kubejs/assets/brassworks/blockstates/sniffer_wool.json"
+hash = "f2e52fe40b3ff8aeebece304e367c865566bba3294ddc5664a030281a330dc01"
+
+[[files]]
+file = "kubejs/assets/brassworks/lang/en_us.json"
+hash = "ac07c0710ee688ea9a7d0fcdd8153149e85ae5d7347f74a06509bc59d93be109"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/blue_axolotl_plushie.json"
+hash = "413f1bcee73f889a94f8bc6e4d80f6cc97f4ac79e79971f9234cdcfa3ba08d6d"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/destroyedtrack_1.json"
+hash = "bd2e53ef05b7e6bb6cfd725760b54dc0ee7eaff30d5d7b9d2794cb0e58f5327e"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/destroyedtrack_2.json"
+hash = "c83d685f95dcc1239ed4ce9ffef8215138ad4bbe7eb8ed217e7398b190fa9210"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/destroyedtrack_3.json"
+hash = "8c2414884df544b88661a8b561ae277b38ddfaa495b53546ae758136cbb736b1"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/glow_squid_plushie.json"
+hash = "d969cdb9a85016a8719e466b9fa9bce1579d107a5c4038d71da2e31d04dcea32"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/pink_axolotl_plushie.json"
+hash = "664fd3536fe7577a94068fa1ab53934472ac6c240548acc6cbf62f02c36cb943"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/shop_1.json"
+hash = "18339091f1ec979483bef934ae484ccdd20b9b3ebbe837b6a0b7c2d5ac759f8d"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/shop_2.json"
+hash = "b3af2b4997fa34505e3f0db1ca9c429ff151a04962ed7566ed91799419c4d021"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/shop_3.json"
+hash = "7c3632e69d1d49838248efc2da466b28fbadcf10777d11893d029229672592fe"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/shop_4.json"
+hash = "63219e9662df38904fa595efb01be3ffbb6ee910ccd0f4120cbac14bab92216f"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/slabfish_plushie.json"
+hash = "5ac61758305b5408b24f28859c699a337387232590295dd74b29f48c23b5d2f3"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/sniffer_carpet.json"
+hash = "f7372dc35349e6a76d737c7302fc6e65b9c02de6d720c79414053db58abc82f5"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/sniffer_carpet_block.json"
+hash = "c76bd42b3f69daa8e9349dba77f13ded6ae956b68fbcb7d4bcf17c6081458e75"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/sniffer_plushie.json"
+hash = "3c58f1a8a5ea6c39c6fc19b429ac76cad3be15f28bffb37072c92b50f62024f5"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/sniffer_wool.json"
+hash = "7ef125bca598c28b0ade0416ac04d3e544ca21026e462f60f89537a5d293f18b"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/sniffer_wool_block.json"
+hash = "2576bd36429e9264032a625fb852d6e8301de7ea5668fb841e035f6ca36a6643"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/block/steven_uk_plushie.json"
+hash = "f4a4e09ddbec0d5bbc1bb29e1c6bf2dff669d622aba08960b515f30cc905b529"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/custom/destroyed_track.json"
+hash = "520702d2179a03399e894e96b6f2483554d88b43f8434be0f6185eeec785391f"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/custom/destroyed_track_2.json"
+hash = "e5d8bea44075ed65f55e8e98115be464b45e826070763d07e6e89b7f52ab2b56"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/custom/destroyed_track_3.json"
+hash = "de475dd37f802595739d62ee1df9285646d2d3fa07bbe73ef178c31f28bcac17"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/entity/sniffy.geo.json"
+hash = "d7f8a315175e7e717022a045a44e6e53256a65983024cd48d7f57eed7146c9e2"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/item/destroyedtrack_1.json"
+hash = "871b39cd9628cb088934e9e61f4dfe428714d1be085c7238f741148bc5d53605"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/item/destroyedtrack_2.json"
+hash = "1620d743f553153d72102dc95d37a87ed656ecb9278089326b20d5f610b8b655"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/item/destroyedtrack_3.json"
+hash = "d670eeaafa7f265b2f83b9a99208ecc63bb04f5ba4ee72c2bb28c09c81a18eb4"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/item/shop_1.json"
+hash = "a5789e8de241329f8e871c18f2866410c7c75fab47a19588011e69937b88fb45"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/item/shop_2.json"
+hash = "a5789e8de241329f8e871c18f2866410c7c75fab47a19588011e69937b88fb45"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/item/shop_3.json"
+hash = "a5789e8de241329f8e871c18f2866410c7c75fab47a19588011e69937b88fb45"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/item/shop_4.json"
+hash = "a5789e8de241329f8e871c18f2866410c7c75fab47a19588011e69937b88fb45"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/item/slabfish_plushie.json"
+hash = "2a62365a6f657300e3a498f75730cb5ac019493121acdaf59a59c2c4567daf64"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/item/sniffer_carpet.json"
+hash = "d569cedd4eff24a1e33da63569ee917046e490e74e8a572d68b7337404a75d20"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/item/sniffer_fur.json"
+hash = "8d8f21c81d19c93a13106a0caacb4820b45bb558eb587f3895e5f78e9e0b3628"
+
+[[files]]
+file = "kubejs/assets/brassworks/models/item/sniffer_wool.json"
+hash = "510d795a98156ca855dc306f22746fe7fe7811d4ba73ea755b119228ad6c465c"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds.json"
+hash = "d702a7191560be90889b0fe6cf3e489161c6bd619c6f01d9a991f800bccc5847"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/average_summer_song.ogg"
+hash = "76ac02fe9254c7b692feabcef1705afbfa2d419d82c63bdbefd3ca336e4c26da"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/chris.ogg"
+hash = "fdc5dcc30fb2f911815ca636355b22d4e6e2bab4f6f68f517d4aedec8987a578"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/creator.ogg"
+hash = "1b1c38a034cba8bc60463611950bb760d8a84671ce2c82f55bceebf8d5c3b8bc"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/creator_music_box.ogg"
+hash = "4a1ce7c989c3264580b2c2a98b05a94831d39cec3f0748aec1b2ab2caf05bcfb"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/csgo_bhop_song.ogg"
+hash = "7a7529fac1f3035911f9ebc6194d50f6b385dec354d964dbbfead54b1ca006ba"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/dixie_biscuit.ogg"
+hash = "121503954e960a48f817a136ef99da61ee4dd4469a03d117f89f790dce30a3a1"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/door.ogg"
+hash = "6e951d8534e6c072e691d228cfe5ccb3fdb48d1b381c8da8460b19217f7cda84"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/droopy_likes.ogg"
+hash = "72b1b05fe52304c65660c8e3616698848989f2e6ebcca35ff0546f6a19d725e6"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/eleven.ogg"
+hash = "d5e4b10406958bb42ab0f41c3c4910b506e545fe5eeb93ad2a4fdca306f82ec7"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/fukashigi_no_trumpet.ogg"
+hash = "abf47fe806349119960f2f52c58b7d5c048b0589d7835dfed0a9733f4442e0aa"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/intro.ogg"
+hash = "74104a8bbd57dfd908e48cf0a3bbf1a93e4b2f40df4b8754f8934a4b935e3545"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/its_all_over_but_the_crying.ogg"
+hash = "8de845b10f8716791ea51ce229bfb8ac6eea8a647b2b643f3eeaf9fdb6415825"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/ki.ogg"
+hash = "230617413ead1036054b3fc8afffb2d009340d52aafe7cd4d483733e1ecb52f6"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/precipice.ogg"
+hash = "d9b619ab0071fe560b7a73bd0907f3eebafb24986fb64a9bdf9920527fe1cea7"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/spooky_amethyst.ogg"
+hash = "b05d81b6431e73cb0b11c8b63854cf3c038f15ae5d4f21e1d1b47fa0778fdeb9"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/spooky_amethyst_trumpet.ogg"
+hash = "08311a952ad5fa57572e5762247811e73a3a6fc26ea9749a680cabee9847a294"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/taswell.ogg"
+hash = "0f0b44d4cad92404c03d6bfbf6058e984efe23b8fecb408f33610f05914328ea"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/that_s_amore.ogg"
+hash = "51e2dd97b9377fbe65bc0ec4f7ffe1cd9abfee19a59f2c24081aed6bc8f8920e"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/truce.ogg"
+hash = "c0f084067cbe56bef0e17d1646cdd38070f8fd21fa7295e7784c851d1f5e72e0"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/warni_warni.ogg"
+hash = "af4995f63cccf9cf994ecd1d7bbb05e2bcc11285ff68661308468ec4ddcf0767"
+
+[[files]]
+file = "kubejs/assets/brassworks/sounds/whiskey_cola_and_tequila.ogg"
+hash = "68aecd2f3a5797b78cfc0139ca5fed9ccaa218c6b9b630bd335c6e2da07f0eba"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/blueaxolotlplushieparticle.png"
+hash = "3d59ad0bf97915ff7c485dad1ce134d154dc9dfe7e9208b2c48ebaac6c7a913d"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/glowsquidplushieparticle.png"
+hash = "f13d4f1f8a4e951c5192000d16536fecf9ead253ebbe4dac18dec4cc6908078b"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/hyper_experience_block.png"
+hash = "529a85b604f11195d978334e74de459823c5b3b620f3ff4ccc3c0cca4f1d402c"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/hyper_experience_block.png.mcmeta"
+hash = "7c55f5db882b638b4f1433bea573e02fd1087611ab97bb7f5359b54471fbf876"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/pinkaxolotlplushieparticle.png"
+hash = "4aca26299f7011f2bc5c6fb0c3f5e8b371f81dd3a15d0e04d1b041c2f7a320ef"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/plushieparticle.png"
+hash = "327c8a2ad1d45a5a62b32870ccae7e7cd6eaadae34e39f628caf32148094bd2a"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/shop_1.png"
+hash = "9f1e238ffbfe29d0020105c0a4c26d793c16ca2acd2b564685da12fd10929a5a"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/shop_2.png"
+hash = "d72bafa30eb679af1f2fd41d00f6c2a2aa5e95d4acefc0d7690421c1fa719798"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/shop_3.png"
+hash = "2beba37659ddee5f21d575de2fb285000f6739ca488ac8bd5a5813cf419199b7"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/shop_4.png"
+hash = "dc34a117819baa814a351446f6d64bd6eb5b552219d1159c965f1d0a52c3f02d"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/slabfishplushieparticle.png"
+hash = "0c3e8395fb6f15291ae75c5fcd63bf76642d74a8a9dea25904b92305e8785f87"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/sniffer_wool_base.png"
+hash = "47f8804df90aaf64caf44bfc6da581d426f03821823c9e8d35c600b793e4ff2d"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/sniffer_wool_overhang.png"
+hash = "df925957141ff61bd0c3ace0540192ed8f6f6d9dd7fbdd792ba6ead1ee50ce44"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/sniffer_wool_overhang_gradient.png"
+hash = "48452dc590b0ff3f8d723bb584dbaf951b4b28ce6ee9e9c356f0dfe8556fcd94"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/sniffer_wool_overhang_lighter.png"
+hash = "34544d93b25a230ed51cfa1945a6c00d7097924e71322a65db6cc8ead080c001"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/sniffer_wool_side.png"
+hash = "cfe1b9f9e2a320710cfcdfe066be223acc1ee037869d2a3260fd156cca119799"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/sniffer_wool_top.png"
+hash = "fa53e9c1cb9d4f5cefc13be066fc64ed2ee438248e2c120c6de78b39d6ebd36b"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/sniffyplushieparticle.png"
+hash = "327c8a2ad1d45a5a62b32870ccae7e7cd6eaadae34e39f628caf32148094bd2a"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/block/standard_track.png"
+hash = "7c0ba65d2a9352d348fa28f4e96bf291dce9d457883ac8249e29a31ffb96a9eb"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/entity/sniffytexture.png"
+hash = "1917c6c23a67c709ffb3de1224a3c3addb7103e81b34c85b57670f4c2308e04b"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/gui/plum.png"
+hash = "671725427ae54067c1a9bd11cb34c71828d80bd40d4dfcb6122123573f720672"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/gui/ranks/admin.png"
+hash = "5bbee46023cd592a84cd6348703e083ed5059d7658ef618181dfd5e723c40d67"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/gui/ranks/atm.png"
+hash = "7f5d4d769555f88b9054a3e84195fd410dea00dc28d5c1be787db348ebd81a5d"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/gui/ranks/discord.png"
+hash = "f0577c70790c43db641018c4774cd98a622bf804d97274d4005087c8844bf3e7"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/gui/ranks/donator.png"
+hash = "50b8d56c96a04dc55c93ce3c7d29224f8bde935d745993ba4b1a3b1bd65669a9"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/gui/ranks/mod.png"
+hash = "a23aa74bd35ff96823e5bbc69a176ac523566fbd586e489c06e9e2aff4c45d02"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/gui/ranks/slabfish.png"
+hash = "0843448abf8df9d81d8b5595ae4279c106a5ae2fcfb24d5e21fbc824d327a3e3"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/gui/ranks/sniffer.png"
+hash = "58bec6526e5de588548810329dc58bf569c7668b8d8a4afedc230e68bc8816db"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/gui/ranks/sniffnator.png"
+hash = "e54e5aa926e4dd2a00e8da2598bb98a4878dfe01f6cd44bd7013fbcdd3bbb4cc"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/gui/ranks/worker.png"
+hash = "a7ab23a0112bea77667cec1a38521ff4c287d157d588a4b54b12daf04b28c112"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/gui/serverlogo.png"
+hash = "6d1516d2118964a328fff19f1cd34d09e71f720c7c1f5407beb5dd27877c08c9"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/blue_axolotl_plushie.png"
+hash = "b9cbd0d2ce6cf709821bc84cb33a1e27c84ebdd19c96fc92af878e051a0578da"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/crushed_raw_ancient_debris.png"
+hash = "62597e326e5ba0d656191fe74d9b6b1582a848b9ab9ed4d2fcd894fa40de1ae7"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/glow_squid_plushie.png"
+hash = "a179dbf7c8e382f4f9b7bf267336dde820acce47fa6128af2329c3bdc0941ea6"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/hyper_experience_axe.png"
+hash = "8dae04dc28ffacbc2b2fe61abcfbfdeb346a9e6413228ef98e8769f051bfefaa"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/hyper_experience_heap.png"
+hash = "11ebe520ce91bb51f857fba7ad9022a211a25416c43b23c3dae13cb6be961118"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/hyper_experience_nugget.png"
+hash = "7574aaeafbf10a70b1cb173da2d118ee6d91f6a9ed03bc0cd489ce3318c9d52e"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/hyper_experience_pickaxe.png"
+hash = "c09812bfc25c553ffadca04816b6ef555c187b4ad960cae60537069768603191"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/hyper_experience_shovel.png"
+hash = "4d6a916b2f23881875b23425a0789119967f8ab2469abb96fb51e79a1c710ad5"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/hyper_experience_sword.png"
+hash = "73f17e1316138cd99f665dec76397656a4eab60e385c05e2787ba522967c9753"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_.png"
+hash = "6c9c25175384d373b949582385550607d799ea35366f614bc979b08b8f01641d"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_average_summer_song.png"
+hash = "ba8721223abd2211a4c8dd84a75a09911069ec2510f90f8d2bffdcc66329a979"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_chris.png"
+hash = "333f1d1861312cab2dc6f5af31c56ef387b7ccff86ba409a3e25d1aa016a6895"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_creator.png"
+hash = "2a9a7ea151f2c26bd7aa38589c443829bebfa870ba7a5ba6da203f13a15a5611"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_creator_music_box.png"
+hash = "1a9d7a036f3a28f6beb8f5cd695f7b64c1ff51d2b9c89768d0230f8e3035dd53"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_csgo_bhop_song.png"
+hash = "3e96c7d4a6ac1b6f6de70c0c2a41e19129451f014c2075e894cedac3c5c874eb"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_dixie_biscuit.png"
+hash = "907e33b408a17667c7b9745103e4db06e41121c1889f438eb795746bc935be7a"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_door.png"
+hash = "4249dadf402ffdaec54d6950c7afbd7e2ce2419505e5d3a0d6575fbe229ece18"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_droopy_likes.png"
+hash = "55de37857cf0b7476d535b1f51f2423a132f9c782a068255df1172e1b894f0e8"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_eleven.png"
+hash = "9ac792c8b16b320dbffb0faf3becfe9b19f36d835127c00752ef1e96e1e860fb"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_fukashigi_no_trumpet.png"
+hash = "2b9061b34793cf2e12b560f465236275e092faad61fb7005aca0a37db8262d12"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_intro.png"
+hash = "ecad1dc698feaa88a707e29e90fb283f2e8bb38eea90a39daef0cc0662c3e668"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_its_all_over_but_the_crying.png"
+hash = "f7d2af43df353ff8f0771c625c33bfcea54f6cccea4b3d1d839cb2e89f9a6d46"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_ki.png"
+hash = "a858481a0f838189d61501869659c50779e873ce67eb82ee05f39f411969506a"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_precipice.png"
+hash = "469af7006c7d1fc4c8b1c3c51617463294836618118aa4ad3c731a5250747cfa"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_spooky_amethyst.png"
+hash = "0bca79e3e5327370a76eee68c97b5c56f25a7181eee772d59a20ddbbf6dc89d6"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_spooky_amethyst_trumpet.png"
+hash = "41365ea98ad6b38e3348cf25b4c518e16af08eebe546b21c93585a44395f1d4f"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_taswell.png"
+hash = "7cb4ed1498272456e566b8118c968d916e1dacd776015f05aaa52e513eaeb2f3"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_that_s_amore.png"
+hash = "fbe3dc80a3e2cb04b957c77fd8600852ebc2ff12b64c507c74127d8bef78732a"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_truce.png"
+hash = "30db2991db82298f1ea3d8dc19b3ee545abe561a8486b3b2a558068d26f23957"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_warni_warni.png"
+hash = "7d1b4f85a857a1120b3989d9047a2f069bf6453d63e612805f0da718b624890c"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/music_disc_whiskey_cola_and_tequila.png"
+hash = "b3c9b0a1219cebf058ebdab37a3e685d397ba9b863c22c63ddeb6fd91e056d92"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/pink_axolotl_plushie.png"
+hash = "a43c81ca8b1c317cd15b9dacb0bf7be5c5cef6c396ef3d63e1249397384d5f81"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/rolls/choco_roll.png"
+hash = "a0804948a59d776b73b89b88aa250f15c7b580df10ff1cdc97a69cd5e5cc0143"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/rolls/honey_roll.png"
+hash = "7634d1798bd0abc762f61c0068bd733744313e0c8ff98395fd1474a725f0a038"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/rolls/hyper_xp_roll.png"
+hash = "f8e213888788f1061fbcde1d435d5518d64578e72362ab2524e31166c4eaecf7"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/rolls/lumisene_roll.png"
+hash = "7df5455f83fc5d4c5aab7cca9879d827ad69e483f8643a9b95fcfede584ae319"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/rolls/sweet_roll.png"
+hash = "495460df8995d282cdf1ce6c1cebfd07694771830d3652e8c0bba41730c56009"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/rolls/sweet_roll_overlay.png"
+hash = "f4863a021253021ca001656787ac6f571eb1bb4f9bd5323523be2eaff4b46140"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/rolls/xp_roll.png"
+hash = "d96cbd5c4817d7df797216c52b56bc258ce575550c1eccd1ca40ffe3630b0b24"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/shop.png"
+hash = "fee30a70acb0d4b71be0bcfa4fcec23577214acc1481fa53434dd5a79e354c53"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/sniffer_plushie.png"
+hash = "b3d232bf58c6b4a1f667a3845fef263e8c156f9006b4777ad01b6bf87b8a3135"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/sniffer_tuft.png"
+hash = "f9683d0d19e1f36d54c8e626ee4410f0e23a0e5e2b1d90b13361aaa97bd648d2"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/item/whitened_pulp.png"
+hash = "8a4f8e3e06d805c687438bce3662cd864fc69b31b41613b9e53eb15191d95d14"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds.json"
+hash = "5f2afaa5dc47b05b61b53bf7f5d731b60dbd4e74a96bac1d55a1464b6543d67b"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/cd_zero.ogg"
+hash = "5b05ce70b84f0b81aa9ebae680c3b9fd57dbf5046a7d0f6a12ee189114f85c46"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/gameend.ogg"
+hash = "7b97dfb9ca7d5e803f1234c34ad96e7969c68cb7d9515d1085a66469d5932e9d"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/gamestart.ogg"
+hash = "e47c0cc9531757d00c064eafba4d2570237a0d78a3450d8de860021e708490c7"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/lavadeath1.ogg"
+hash = "7d0bb11e5d148061b9f9a4a340ac86c4348656fda0f27ac14d42b4f0e04e15dd"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/lavadeath1.wav"
+hash = "63946d427b362623fc95d87cf399bae04df395dda80fbaa3f5d27969dd79ca6f"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/lavadeath2.ogg"
+hash = "4a89601b51ee0bbb1b4d00f94779f55f8895158668550f341282db9c7ba84ae1"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/lavadeath2.wav"
+hash = "2cc65d6692bed22ce120b99e51df76bdee0c9c7058b178320ba089d0653531e7"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/lavadeath3.ogg"
+hash = "b4e27e54132c817545c220cb19353d26cae2f4dec8fe6c0c8ea5a51e1cb09073"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/lavadeath3.wav"
+hash = "880dc32e9b716770727bad46cb16b6a5d9d7cfe755e535511520a56e98f3e90f"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/shortfall1.ogg"
+hash = "e0748b0fd855f7b30d5418c966186b4c0a4b5ff043a374b830342ae6997124ad"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/shortfall1.wav"
+hash = "b39c5d7a2d20de5b9102c72aed4ad35356a490139aed04a0df2a8a7ff3cca1c7"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/shortfall2.ogg"
+hash = "9b2c2d4d65727a42134a3977d0d2375c83c062067f0645e78cb1aa8e804219e4"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/shortfall2.wav"
+hash = "b647b4233396b14eb9e001964e2f490a705ac29fd7e5cc67077b6f4701539e5d"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/showdown.ogg"
+hash = "0c43a57fcba8e122c33a81b49941f88904194a7efa436ff00c569efda3a820c8"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/silence.ogg"
+hash = "9625c899ce9a4629e18eca19881fb2ead0effb1b2a3586fe0e6834a4b2976f17"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/startcd.ogg"
+hash = "1ca63d92f641ecdf27936f2d35ef60c527b87c36dbb50b5bf4c6c4afd57ddc47"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/tumble_01.ogg"
+hash = "5448230c521feb272224353813ae5a46507856c6fc90b92b79808e7f4f08fc53"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/tumble_02.ogg"
+hash = "e0b55197d6354e34b26593b2c77f11da7914b36f8b74732fb409f487f1cca73b"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/tumble_03.ogg"
+hash = "c7d9c7e7167123df52add05f6e0d42eb3cdc3728d92fe903f7df28787f02fcf5"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/tumble_04.ogg"
+hash = "3a242a6bd4d05bd249a28b87cabed664f9d14ef20ab1fbdf4e8a8236b7d9d9b8"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/tumble_05.ogg"
+hash = "394e5e19a626729d5bd8f7051a08a4c018bc49747a9a3f5d551c392b06024c94"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/tumble_06.ogg"
+hash = "4f679f042980f8bb2d1ac0de0a413cf48267505fe659d7a3c4d288377166e759"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/tumble_07.ogg"
+hash = "81e972091277e833ce2ccdd5387bae475486e071f636e12ed7126fc30bcc382a"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/tumble_08.ogg"
+hash = "9699281e076c98bb634ef34472c5a030926969e43ddb1918c37d9b5568e67a66"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/tumble_09.ogg"
+hash = "9311b74c8efe214c769c14c37c58ea18b8e1672ef44047ddd045aa4add844b47"
+
+[[files]]
+file = "kubejs/assets/brassworks_events/sounds/tumble_10.ogg"
+hash = "0c4c9693e8cf0dc70c9dce8b3d3d9ffe8e2376b9811a9b924f4391dacaa623c0"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_acacia.json"
+hash = "8d4f1de9ec19f588038516753a2b2582f044cea69143f2f96164dffa08bf4f5a"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_ancient.json"
+hash = "cab47d9e7ec8cc25f7c9776d4e2a4f6b5d263f46d7c1a89dd2597ad329f02819"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_azalea.json"
+hash = "3decbe7d88111b00787b811d1864b3e96ad37ad1710626b85f642958c2ffee1f"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_bamboo.json"
+hash = "faa7df78ea8a0466fd225379bc996c4efb1c1e83431f0cb41558a44a242edd7b"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_birch.json"
+hash = "cbd08db3c0f96e30fe375ed74da2c370f972267ff50768470c86ef92ffde5b41"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_blossom.json"
+hash = "418e7afb7b6e587113ea40b7d865c1f6fbdc36fd25caf33253f33818eaf0a6e4"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_cherry.json"
+hash = "f2b93c0b8470ff64ab89cb38c3ca2d6dcc826a21f999b8797b7575c9689751a9"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_crimson.json"
+hash = "e595b2a00d568de35263da3e9d50c880ddb2817e08163b3685be61907544c546"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_dark_oak.json"
+hash = "9aabffdd34048a4646583b0ee4abf56f8ea80855fd825fad3864620df09ffbf6"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_jungle.json"
+hash = "881ad709ca2981728ea43528b285d578f1105e151203531d48c28af7905c8c29"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_mangrove.json"
+hash = "f7f0f79f9ab96a23d9c3209d564fb586cc6b42fbe6248d925b636120dbe4ff3f"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_oak.json"
+hash = "b4d02a9e3271d80e28cd773587e0652621005861524ad75d148061641f84aa0f"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_pale_oak.json"
+hash = "5dc1df8d2f2562f40b4b67b3e8c39539dacd3e36206de5b506b1b7fd1f38295d"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_pine.json"
+hash = "c6036be65789b1a2c8619f152aa8ec7ca564d3c2bd7b8ab62cfacbe7e9fa8818"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_plum.json"
+hash = "71c7c9e6f25bed1c86415c7134302d74f8eba9fa2c80c621ae6b0bc5fe8d306d"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_spruce.json"
+hash = "c9dd9c94e20b0ef8673bb5165f9b9cd21db4bdaa288bfad8c7c77399e923a291"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_stone_pine.json"
+hash = "49ce62f7602bd164e237d3fd42c32689ef63c44c45412da4ada78fbf3ed36289"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_warped.json"
+hash = "2c9b59a2ee7425fabb5b8e812604b28500a269c745da33fdb12c42fe31493606"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_willow.json"
+hash = "be698f88566fe755cddd39dd4d3cb27109ec2e2163b8d4ae38847681d417db00"
+
+[[files]]
+file = "kubejs/assets/create/models/block/large_water_wheel/item_wisteria.json"
+hash = "fba0342b4f12685d3af4a24ada4e071b85c8f1da53c37682daae15eb96b614ef"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_acacia.json"
+hash = "74c2acbb1f981c8fd63bd69d550c3a42ea5b0a514aadac35f6a5b2faf3b69364"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_ancient.json"
+hash = "7961a4990c3df4dab116b507c9c2cff2927343f3471b624ba80c5654ec806416"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_azalea.json"
+hash = "225b82052c0bbcdd1c300cccf534bc32a49426660f3ae6dbd5e9297d0a7c1599"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_bamboo.json"
+hash = "315ef8bca640a96f90be8daa3c1b5fa5cc5df6ca866040abee33df74db10ca15"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_birch.json"
+hash = "d5ed9652af2d2b8af84e0ecddef23c3d6e309fd2ff5d1eb1cec621e9e490405b"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_blossom.json"
+hash = "373132c174e37d7d2bca8fc58bb5e93c64456d765755e35120daad5ee7234933"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_cherry.json"
+hash = "288c9e47d891bc2ae0794c5ac74a24384f4e4ed9f6c82eaf06ea1d2a07bdf02b"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_crimson.json"
+hash = "91727b117482ca0493ee767d8963d5a275446fa59b216ee6388ef380ea509a1b"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_dark_oak.json"
+hash = "68a72c9fef330691691cf7ae62f7291491e3cd1f39773e7814a65a8a9cf65482"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_jungle.json"
+hash = "85e335f1b7b04e2b90efa3f3b7d567186e1fc330c5a7b6ddcb74d0c8596c3ad2"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_mangrove.json"
+hash = "7e3bf7b232231ac28c04e5e39884c9b3bd16ef67fbb4821da14efd6093ea8208"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_oak.json"
+hash = "d8ff30f85d661ffa45d5f5c80a334a62660066e39937ed20541cb63364cf125b"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_pale_oak.json"
+hash = "46ccba0e82e41d0865f43627c0c2e943733d4b711c5dcde7ed578f0796a3f7d6"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_pine.json"
+hash = "a0b20558083d3e1df9d477754087f3363da1e382d29840008bd20f8151737224"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_plum.json"
+hash = "bc46d9f6612a0ced4c1ae93fa5e9798331f9be26751c821de202d8b09feb2afb"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_spruce.json"
+hash = "415afcc44df47ab15871798c6499054d4687102ca19af29c69e44bdb9277288b"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_stone_pine.json"
+hash = "343f7c84bfdfa1f03aea6c643669f07c3568a911ae0617b5be6b2bcd7cb89922"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_warped.json"
+hash = "cbfb89c763d09bc6256ba84b9dc45a5c2e538ced9261de5daa0db3e92009f005"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_willow.json"
+hash = "e454c4a13125dd264193d2c6438a3466885e44a1ae08d0ba8b4cab6218095194"
+
+[[files]]
+file = "kubejs/assets/create/models/block/water_wheel/item_wisteria.json"
+hash = "56a330b10921e6c69622dbad24b3e689ba2e3ee02ae18c0b72112e84de1d94c1"
+
+[[files]]
+file = "kubejs/assets/create/models/item/large_water_wheel.json"
+hash = "ce3453d0561e98ac08850f9aa295067d6721b74bb8eb943627cba21432318657"
+
+[[files]]
+file = "kubejs/assets/create/models/item/water_wheel.json"
+hash = "2533c2c08beefca73cade9a92ddfb1f6a874849a95814cdc1a6ce65db0a97c55"
+
+[[files]]
+file = "kubejs/assets/create_connected/textures/item/control_chip.png"
+hash = "81aee086799f47967234dcf0dc05ad40aed15c4b088e40db40290d4aec1936d0"
+
+[[files]]
+file = "kubejs/assets/create_connected/textures/item/incomplete_control_chip.png"
+hash = "5b3c95da11d911bc5134ac16dcfbe3478076c62321aed2fe8efb084394cc16cf"
+
+[[files]]
+file = "kubejs/assets/create_vibrant_vaults/lang/en_us.json"
+hash = "93b4d71bb82c1c45b0bb5f660f18e8724b1bbefcdc4b8a8a91b0e2184714028b"
+
+[[files]]
+file = "kubejs/assets/curios/lang/en_us.json"
+hash = "2b3b4b533139e41cbf6c56287fe02c60854885fff136a055ac465afed05d7286"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/empty_hands_slot.png"
+hash = "595a0c47aca0d817d443006033238bb6d2803359e7cb06ca44443e2d08c2664b"
+
+[[files]]
+file = "kubejs/assets/emi/index/stacks/hidden_stacks.json"
+hash = "7725b7f3734f1d25cfc966e894e204990e1d6f5e0dadc0ff5112aac136629b0a"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/limestone.json"
+hash = "4f6900effa988a328b6964598055d1409e3db5698f5203d4f3c2342b61f297ae"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/scoria.json"
+hash = "2ca37d31da1869a2382b094bec111f1de9112bfa5309a75a91ff87e1129be676"
+
+[[files]]
+file = "kubejs/assets/minecraft/font/default.json"
+hash = "21da7c5554089c4dda4e649f19098307f5ea9e3bb73c142c0b5ed62290c368f3"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/moss_carpet.json"
+hash = "d09dc0ae71e42d9de103e48cbd71ff0bc4943d3ec4973e87b7d5104ee77842f8"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/bundle.json"
+hash = "954a52d24f63173ca6430ef32e52cbcf2f87ae96f641088c0b82a47870783b5c"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/bundle_filled.json"
+hash = "71709ce977282e1c4fbac0ba2e1cc098f67b667fd1470e4da114c9d6cdaf3362"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/land_book.json"
+hash = "e65600d6d404742e7c070551d256f71b85d46f11a2d2a1f578ac4ee659aa0c49"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/moss_carpet.json"
+hash = "03d7149b66bb816c0d89ef26ab354be6062a99df00e78bf92b895217143d7526"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/starter_book_model.json"
+hash = "5a81770de5b7202998bbe83fd39c791954f7869d6e19439305d360f8f8817d27"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/starter_bundle_model.json"
+hash = "6bf881c926fff44c6ec42eb30546633ddff98fdf19658e174e42f921c09189c3"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/starter_bundle_model_filled.json"
+hash = "ca24f4e0bd83e8ee301c6fa73cc83e2e267c8c57439d0117de078651c8e96ab4"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/written_book.json"
+hash = "fce8192192af1804824a57466b523205a00ed78cbff7837c266537e6cb868ba5"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cem/sniffer.jem"
+hash = "7f7fcd6cef606d4669f2398fc166ee88026b8f1a2d11101f0d60599337f7c1c6"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/sniffer/sniffer.properties"
+hash = "e7556471255a41e84fd48b26f192cfa503b475cadd7ca3dd3790a1f99bea1317"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/sniffer/sniffer2.png"
+hash = "9b36f59b764cbfdd1a34fbd97b48d3360eec94ba82a2df2ef6e2a049591e32d5"
+
+[[files]]
+file = "kubejs/assets/minecraft/seamless_rules/shop_connect.json"
+hash = "445a84caf99d931a448311acc74588eeb1e9fc87bddfb14a61589fefbf5c1fee"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/moss_side_overlay.png"
+hash = "0b01495ba3ba27c93fa673ea5cd3700a0add7e6299de295a423682ee24f2de36"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/entity/sniffer/sniffer.png"
+hash = "9667a7705e43c16109a745eef17b406839a63cc86f6ff237ed0b637b5ff2a418"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/entity/sniffer/sniffer2.png"
+hash = "9b36f59b764cbfdd1a34fbd97b48d3360eec94ba82a2df2ef6e2a049591e32d5"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/deepslate_top.png"
+hash = "6756166657ca891a1463c60123de3e4bc23c21d78c61471dea0594250a4119b2"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/footer_separator.bbmodel"
+hash = "fe1605fdd112f392710e94409d2d291f2ea008e6b9fd9e108a967c12a844b3a9"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/footer_separator.png"
+hash = "862207856ba765bc7c70c581e216536595cde657c1920e563c651a62db61586c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/header_separator.bbmodel"
+hash = "51b14ed60c09aec95d5137021c88d5d6804c44f3cefcdde594752944142e4ba6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/header_separator.png"
+hash = "d10f55d8e23aea1bda15df3f6d411f1e7399c7df089243740cab1e2fa98156e0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/light_dirt_background.png"
+hash = "9bb823079b9e2284449ff22a405baffd73bfe1463beb26df9093fc1071b103ad"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/options_background.png"
+hash = "298fd8411855aa74e700ba37036e0fe9713eac07fb1aa6c906f42c7054f870b6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/slider.bbmodel"
+hash = "a4f8f8d4e126e00f2803cebbd21adf27b6b9b10cc6f93db546ebfeb738e4a8f0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/slider.png"
+hash = "7ed633593de35028f13e6e5523408ce38cf075116cf0422a3c01292aa4edefc0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/social_interactions.bbmodel"
+hash = "fc990cf614f6fdf467e0d2fc452ba7610e9ca871880213b42ab8c1e433fb78c2"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/social_interactions.png"
+hash = "d2eabd1487e790c129ad24ec5a8c6c2bc01c0936ca07155f7039d79c17b858d2"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/tab_button.bbmodel"
+hash = "d1b701c3c555004b764356259f4933acd8c263e5f617d19065de1ae84e5cd7f7"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/tab_button.png"
+hash = "c14a45985f3e71243e294b29f8786c2af6fc44d873356a4966118dbb26ee3157"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "c0456f13177921c86f46b01debea0e46b501771f6be40f64a83ceddbfda4ced1"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "e991ea23d6184f0c50ed15b73949632665a1b259974736910f10e8b54bbd4ad3"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "a5d96b48d12b576830dc0632eb9e0232ab7e3c4686a666bb3bae7fa3aff13aae"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "9ed9a1f23cd3be8a53bfd878f19eddcb60f4269b89cac71defc355798c8a17d6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "6fcdb6a3f60f1b94f2afad0fac15bb3828a26af491a43589becc3914571a0cd3"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "488efcb0ab4375be087c422bc53d007fd564bc2d598cacd287a2fb38c0b3724e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
+hash = "d4094b498c6ac96e36fb0706e433f7f26927f0e017ec00363f0d1e9b56e120a9"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/widgets.bbmodel"
+hash = "01dd75e576b097e603f7966097314f4f618ba883c93bcbfcf3a3c229cd610071"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/widgets.png"
+hash = "483e26e1920763d9bc27dfcc6d164bb7fafda30ae199ebf2d8b8a2bbb1481d98"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/land_book.png"
+hash = "d303587a1026deac0daccd635dbae73b8e61855be0be4632badc9bfc27b77f7d"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/starter_book.png"
+hash = "932b7f10785710f4a15c4730c9dcab88f6c495eab7ea2a550620d33745a944b8"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/starter_bundle.png"
+hash = "2ff6f6e83025126cd98a210e5e34bf64b38020bfd214e6340739b3946a1078e8"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/starter_bundle_filled.png"
+hash = "ca36c5da25b21eb86e9b03a51602954bcb36aba24bf203fbfc17904e6722663c"
+
+[[files]]
+file = "kubejs/assets/sniffytips.json"
+hash = "4eea31f2d3d421c7f2bf43e8e1e8c15a4b88e93e55193386b6e64b55723da3c6"
+
+[[files]]
+file = "kubejs/assets/tooltip_data.json"
+hash = "bfb33e634763d892cbef7bfb282ac1a45a2a0c58df77ba34c036b2c5e018c2f8"
+
+[[files]]
+file = "kubejs/assets/vanillabackport/models/block/pale_moss_carpet.json"
+hash = "43f4fcfec3175a7a23d1f80643447c73588b51b9a4fb97bd18510d6f97e1fad8"
+
+[[files]]
+file = "kubejs/assets/vanillabackport/models/item/pale_moss_carpet.json"
+hash = "713459546a902bf2ae83d8653b09b992858e618c5f5fb76f1977515b5f749355"
+
+[[files]]
+file = "kubejs/assets/vanillabackport/textures/block/pale_moss_carpet_side_overlay.png"
+hash = "a32fa13607e8752c52542b343472c9f3d1705cbb91856628e944ef22fcd007bb"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/definition/ribbits/ribbit.json"
+hash = "d5397d13773774c55c79d67ebf691073758c2354eed788c8e37e4f6469503eee"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/ribbit.png"
+hash = "045976725a6ca9f77ef1285f06396afaa711c85f88c14d18c752aab5792de32a"
+
+[[files]]
+file = "kubejs/assets/xaerominimap/entity/icon/sprite/slabfish.png"
+hash = "811b020cb65f50fe556a5fe246f710890ca5193793871ff69d14246e314d5bf4"
+
+[[files]]
+file = "kubejs/client_scripts/AssetScripts/lang.js"
+hash = "5e515a097bda693364fe2b113532653fd823e4b6a8876662aeb9b391eb29a66d"
+
+[[files]]
+file = "kubejs/client_scripts/Event/client_spleef.js"
+hash = "c4441b66b7865a523ac65b3ad55844ab51033601cf4bc9dacfc2741bd112d262"
+
+[[files]]
+file = "kubejs/client_scripts/RecipeViewerScripts/EMI_hints.js"
+hash = "45c99b3be96a938cb074f28068ffee560bd1297aaf41155da98e325308791ece"
+
+[[files]]
+file = "kubejs/client_scripts/RecipeViewerScripts/hideitems.js"
+hash = "c82cb0517de674256f35fe87861968f86eea0b4ae7027c8eceb7aca91f53e625"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "de241e99c33070805a1f039d6edb46c67cd92c93c7787e177fa38d15ed9007da"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "bdfc2d5fbe14b78dfeadc04a3ca4e3b5a74dde9e13a786005e2399ca84bb251f"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/archaeology/desert_pyramid.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/archaeology/desert_well.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/archaeology/ocean_ruin_cold.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/archaeology/ocean_ruin_warm.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/archaeology/trail_ruins_rare.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/abandoned_mineshaft.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/ancient_city.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/ancient_city_ice_box.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/bastion_hoglin_stable.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/bastion_treasure.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/buried_treasure.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/desert_pyramid.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/end_city_treasure.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/igloo_chest.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/jungle_temple.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/nether_bridge.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/pillager_outpost.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/ruined_portal.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/shipwreck_treasure.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/spawn_bonus_chest.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/stronghold_corridor.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/underwater_ruin_big.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_armorer.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_butcher.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_desert_house.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_plains_house.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_savanna_house.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_snowy_house.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_taiga_house.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_tannery.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_temple.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_toolsmith.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/village/village_weaponsmith.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/chests/woodland_mansion.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/entities/cow.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/inject/entities/mooshroom.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_modifiers/smelt_ores_with_pickaxe_heater.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/artifact.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/entities/mimic.json"
+hash = "916b659d81a5fb314705d10915bae25e8fcd2e728b78885b6173f90ad51c5558"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/entity_equipment/drowned.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/entity_equipment/ghast.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/entity_equipment/husk.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/entity_equipment/piglin.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/entity_equipment/piglin_brute.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/entity_equipment/skeleton.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/entity_equipment/stray.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/entity_equipment/wither_skeleton.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/entity_equipment/zombie.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/entity_equipment/zombified_piglin.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/archaeology/desert_pyramid.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/archaeology/desert_well.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/archaeology/ocean_ruin_cold.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/archaeology/ocean_ruin_warm.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/archaeology/trail_ruins_rare.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/abandoned_mineshaft.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/ancient_city.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/ancient_city_ice_box.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/bastion_hoglin_stable.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/bastion_treasure.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/buried_treasure.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/desert_pyramid.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/end_city_treasure.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/igloo_chest.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/jungle_temple.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/nether_bridge.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/pillager_outpost.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/ruined_portal.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/shipwreck_treasure.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/spawn_bonus_chest.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/stronghold_corridor.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/underwater_ruin_big.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_armorer.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_butcher.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_desert_house.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_plains_house.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_savanna_house.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_snowy_house.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_taiga_house.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_tannery.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_temple.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_toolsmith.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/village/village_weaponsmith.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/chests/woodland_mansion.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/entities/cow.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/inject/entities/mooshroom.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_tables/items/drinking_hat.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/cinnabon.json"
+hash = "d19bee537a3b67a2c12856c81d325de03e775ac9addf7dac8d6255bbf0462f6a"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/crushed_ancient_debris.json"
+hash = "651f60bb91aff26ecc19896f87e669a56023bcca97b2b8ea5ba98ee3851362f7"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/destroyed_track.json"
+hash = "6d52d3fc0c920350514fb763e12d24fc92714a721149f96bc9613837798a2b82"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/event_winner.json"
+hash = "c67ca0460e91f536d38addafc56f319b942f7ac6a7eb08ee965d65dcfed62a68"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/hyper_xp_block.json"
+hash = "10f5d5372c56ebe6a4dbcd5b0929ac1118a71e8b0cb3ef1e4a493f2802d30dbb"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/hyper_xp_nugget.json"
+hash = "df8be41c929847baa4ccf8579afe09a8dc9e8d1217c419ae26cdbf4492408b86"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/hyperxp_tools.json"
+hash = "cd347e4becc7c5683df31b8f7973a9977eb286e2e15dcb14b9afb29a7fb28ea4"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/root.json"
+hash = "9c9e78634eac6519ca572dc4e6c8152d5b7eed0111456b11e4f8a8739f0768b0"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/sniffer_carpet.json"
+hash = "fb50ccaafcb872614cce656d91ab095f847d398b55865978da4e35b5bbbe2926"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/sniffer_fur.json"
+hash = "a97e8635096982ba192a569c57f43c8407844f59bd87e0dc98a732c8fa38bd76"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/sniffer_wool.json"
+hash = "b5b59da1db309566a1e095ae2529eb4ed3cd4e3c6745d2accd334eab2e1a97e3"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/spur.json"
+hash = "9161dc633bd56b9af8615aece01c1fe31f0d81b97aba071e59a5d99823a142ae"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/sticky_symphony.json"
+hash = "47abb62a0ac99fe75e6bed3a645562b3b3a4ce18702f91f4a615adea7c32831f"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/wandering_music_discs.json"
+hash = "f1fe4d9175a085c95724b79b927bf64dc01414285fe12e214bd71a45d77d070f"
+
+[[files]]
+file = "kubejs/data/brassworks/advancements/brassworks/whitened_pulp.json"
+hash = "5e5a620068af941994347feb3a44443a82fcdc3cc48ad1c7adf5425e8a888aea"
+
+[[files]]
+file = "kubejs/data/brassworks/loot_tables/blocks/sniffer_plushie.json"
+hash = "6351a9433eb202b35290b5e219d48fb9301f28b440441e0239c66e618aa7a6a9"
+
+[[files]]
+file = "kubejs/data/brassworksmissions/missions/mission_reward.json"
+hash = "2d1e6825cf350c6d7cff7795025fe611c8e96d471a5c19d03ec2f0f0b6575ef4"
+
+[[files]]
+file = "kubejs/data/forge/loot_modifiers/global_loot_modifiers.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/entities/slime.json"
+hash = "423ee6c52c90a9e8c3025ba0cc7cb5241d4cbdadf47df4e5983bd74c4915fbbd"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/gameplay/sniffer_digging.json"
+hash = "8239d41411c5c4484022f8ccfb7a542dc4961155a98396928489eaf0b16a6c60"
+
+[[files]]
+file = "kubejs/server_scripts/Recipes/compost.js"
+hash = "1c06e201acc1c03e7b466cb20e964caf0e80a475a05856910e5e0a9703e48146"
+
+[[files]]
+file = "kubejs/server_scripts/Recipes/crushedancientdebris.js"
+hash = "edda2ffdc75b09f073173d60be2de6385dd38b967eb9028c9fcfac09589b97fe"
+
+[[files]]
+file = "kubejs/server_scripts/Recipes/hyperxp.js"
+hash = "95f4611545a91d5372576c6f1b50d5e8766ae6eb52f2755f211aacde68d565c1"
+
+[[files]]
+file = "kubejs/server_scripts/Recipes/immersivecreaterecipes.js"
+hash = "b6659bb2654d56ec4bf37a5bddb1e573400422978392a4cb3a41e4348ac00389"
+
+[[files]]
+file = "kubejs/server_scripts/Recipes/miscrecipes.js"
+hash = "f201b3e873a21a20fff8a9206f387f602177cbd30419b23a77b35e865f944242"
+
+[[files]]
+file = "kubejs/server_scripts/Scripts/EMIhideitems.js"
+hash = "e78bacc412eb070bf9efe441a57a05314125d662d40da12f1109c574e9fa6d42"
+
+[[files]]
+file = "kubejs/server_scripts/Scripts/claim.js"
+hash = "496cee09a639d0ec9ffc087cc05552b3986caa4da99d332aa99167b6f0ce90e2"
+
+[[files]]
+file = "kubejs/server_scripts/Scripts/curios.js"
+hash = "4b7a9bd7469a87a45d69dc553f5da28d1a8d63f3b3140a8303161c7cc5b4242e"
+
+[[files]]
+file = "kubejs/server_scripts/Scripts/first_reward.js"
+hash = "b18fa64676cc5630d6df8986fe7ebc85480bdfba884c58e8ae0f2a156a572ea9"
+
+[[files]]
+file = "kubejs/server_scripts/Scripts/loginrecipes.js"
+hash = "94d7c9d39fbb65e702179e5b8c2906fac3dd4be74eddfb94ce73362523b6c519"
+
+[[files]]
+file = "kubejs/server_scripts/Scripts/noend.js"
+hash = "45ac100babf24e5fdf2105202f204835e284ede902eee7d247859fa33ad0a514"
+
+[[files]]
+file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
+hash = "83c03b84ee6776e686e6b80e984befdee9bb015c3a5ce9cb1fd551fe6b627b84"
+
+[[files]]
+file = "kubejs/server_scripts/Scripts/plushieequip.js"
+hash = "c69d96a0622edbef38f36d604f56af65c67d1be2a1c6af29d5efa800c9bc6056"
+
+[[files]]
+file = "kubejs/server_scripts/Scripts/serverClaimBuy.js"
+hash = "a052ea4a1d927bc3ffbc5e1f09d7dd7710fbc142f26b28d3edd0e1bb2f8fcc30"
+
+[[files]]
+file = "kubejs/server_scripts/create_compat.js"
+hash = "86181873bad9e6f290cdc06d9b08ce402589add45230775d3c27fc60e2365880"
+
+[[files]]
+file = "kubejs/startup_scripts/BlockRegistry/shop.js"
+hash = "4317dfd53ca12e76351af862065ecead41ab0e26e1892ff3a0587e470733d55e"
+
+[[files]]
+file = "kubejs/startup_scripts/ItemRegistry/cinnabons.js"
+hash = "9dae4cf879b88b78a8dbb417a9f02ac002caf67bbb09a6cfc18e460258d23789"
+
+[[files]]
+file = "kubejs/startup_scripts/ItemRegistry/misc_items.js"
+hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
+
+[[files]]
+file = "kubejs/startup_scripts/ItemRegistry/snifferitems.js"
+hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -1457,3 +3045,7 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "fd8994221802e444c1b1b2da9d3d816a040860d875c56ce15be401b865e2eae5"
 metafile = true
+
+[[files]]
+file = "packwiz-linux"
+hash = "f18c3da9868b764e1f557860dfa76e54cec3731015628cbfa9fb22aaf535b0c2"
