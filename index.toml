@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/craftpresence.json"
+file = "config/craftpresence1.json"
 hash = "c5bc5bb5d95a2102171e538ae717d3ae00e3c8a69a1be1d00942c813c46f537d"
 
 [[files]]
