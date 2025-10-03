@@ -3080,6 +3080,16 @@ hash = "f114030e6984e30307fc43e37ec812c915aed7f64717d7b364dd84008e045fe4"
 metafile = true
 
 [[files]]
+file = "mods/terralith-structures-suppressor.pw.toml"
+hash = "ee61c6faa2541fcf1ea259c16c32ae5284a53a9674b1f6f3b2e1683b5a70f6dc"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "861c981ef2c60f5688b92d28adbf0ced1d38e1433e2f7511ed4ca7d8c6f62254"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Terralith structures suppressor"
+filename = "Terralith_structures_suppressor.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hu2RSlfZ/versions/2O288GXs/Terralith_structures_suppressor.jar"
+hash-format = "sha512"
+hash = "52127d03ee8b96d63830c690277e9c78cfaae8dfc1569129f0c9e9497a5ee955688373392ca01b064aae7a6ecddea1679f1fc9b8ce3f84bbb989b73330dc6c1e"
+
+[update]
+[update.modrinth]
+mod-id = "hu2RSlfZ"
+version = "2O288GXs"
