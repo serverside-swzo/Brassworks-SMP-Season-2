@@ -2496,6 +2496,11 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "c925e708e72ec4568f18192c470c68e3fcf78cd9c687a2cde665d2a1b7c5c82a"
 metafile = true
@@ -2550,6 +2555,11 @@ hash = "3195cf0216f583dca991faba39c10e9f323a0ff363fd201a64fc93fb73841dcb"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -2582,11 +2592,6 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "6db118d947d8db155343014d01e4dbb823d0e187dd401235a3b60654316efe73"
-metafile = true
-
-[[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "ef9a6da83be95d05a9328f74e3ef7378d7a5c82f191001bce69efb220f6c2498"
 metafile = true
 
 [[files]]
@@ -3057,6 +3062,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/srdp.pw.toml"
+hash = "ab193bbfe680e9463795f723abc65f300efb07249c137ba9ab533176ff4ebf4d"
 metafile = true
 
 [[files]]
