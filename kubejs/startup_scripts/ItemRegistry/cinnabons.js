@@ -17,7 +17,7 @@ StartupEvents.registry('item', event => {
         food
           .nutrition(8) // This is the correct method name instead of .hunger()
           .saturation(0.35); // CHANGED: This is the correct method name instead of .saturationModifier()
-        
+
         if (r.length > 2) {
           food.effect(r[2], r[3], r[4], r[5]);
         }

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/createqol-server.toml"
+hash = "46a773a0893e687ecd8802bb23e10189562467cfcc1e00ea3a9c82cd4c9fcf73"
+
+[[files]]
 file = "config/fancymenu/assets/1x1.png"
 hash = "1e4d899c16f8ac3a20edee040cd35912ae5c7c59020a57fce0cd46f957a3c779"
 
@@ -865,6 +869,10 @@ file = "config/paxi/resourcepacks/Torchmaster Remaster.zip"
 hash = "443cf04aeae1a64924cba8e9a1a0851222b9257dff2c86f0b6bb5a943546461e"
 
 [[files]]
+file = "config/sdrp-common.json"
+hash = "e1f7636012d9a12547c6c880eeb2bfc4e380d25ee9aaa07907115ac59db52a3f"
+
+[[files]]
 file = "config/simple-custom-early-loading.json"
 hash = "c28eaad908fd0c02c9525ae811dad51eba687a993c2d28155d9496517b14957c"
 
@@ -885,36 +893,8 @@ file = "kubejs/README.txt"
 hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
 
 [[files]]
-file = "kubejs/assets/brassworks/blockstates/blue_axolotl_plushie.json"
-hash = "51e51f8bdb054756d149f055687b76fc2bae23d092ba2ffb02f1ec3545f66d7d"
-
-[[files]]
-file = "kubejs/assets/brassworks/blockstates/destroyedtrack_1.json"
-hash = "4f07ecc453e31106086428ae2c92e26d682da4491a902a50a66367a0fe98e31b"
-
-[[files]]
-file = "kubejs/assets/brassworks/blockstates/destroyedtrack_2.json"
-hash = "e8804daa506b8f2b5b6be5eea1558519bbd482125ad4ca4b98bad8610648c78f"
-
-[[files]]
-file = "kubejs/assets/brassworks/blockstates/destroyedtrack_3.json"
-hash = "d2b34863555f43fee2b78623346a0b8677462cf72db2a897a58f4d449134d07b"
-
-[[files]]
-file = "kubejs/assets/brassworks/blockstates/glow_squid_plushie.json"
-hash = "8297742a6aa4d917259f87a47551ffe55a0102a142d4d29f64563b24bbeb8fba"
-
-[[files]]
-file = "kubejs/assets/brassworks/blockstates/pink_axolotl_plushie.json"
-hash = "5c923cc81ab5536d0fba89d964981f11362b842dedd43e012fab6878685be9d7"
-
-[[files]]
 file = "kubejs/assets/brassworks/blockstates/sniffer_carpet.json"
 hash = "71c3aeb43ee848f341030ae2082f620b45ef59e186c0c79a9e554599edfa0253"
-
-[[files]]
-file = "kubejs/assets/brassworks/blockstates/sniffer_plushie.json"
-hash = "c3af9a4abf2e2f4288bd84cdbcc4b43a15f835a96bb408e831f911f34a1f3c00"
 
 [[files]]
 file = "kubejs/assets/brassworks/blockstates/sniffer_wool.json"
@@ -923,30 +903,6 @@ hash = "f2e52fe40b3ff8aeebece304e367c865566bba3294ddc5664a030281a330dc01"
 [[files]]
 file = "kubejs/assets/brassworks/lang/en_us.json"
 hash = "ac07c0710ee688ea9a7d0fcdd8153149e85ae5d7347f74a06509bc59d93be109"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/block/blue_axolotl_plushie.json"
-hash = "413f1bcee73f889a94f8bc6e4d80f6cc97f4ac79e79971f9234cdcfa3ba08d6d"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/block/destroyedtrack_1.json"
-hash = "bd2e53ef05b7e6bb6cfd725760b54dc0ee7eaff30d5d7b9d2794cb0e58f5327e"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/block/destroyedtrack_2.json"
-hash = "c83d685f95dcc1239ed4ce9ffef8215138ad4bbe7eb8ed217e7398b190fa9210"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/block/destroyedtrack_3.json"
-hash = "8c2414884df544b88661a8b561ae277b38ddfaa495b53546ae758136cbb736b1"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/block/glow_squid_plushie.json"
-hash = "d969cdb9a85016a8719e466b9fa9bce1579d107a5c4038d71da2e31d04dcea32"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/block/pink_axolotl_plushie.json"
-hash = "664fd3536fe7577a94068fa1ab53934472ac6c240548acc6cbf62f02c36cb943"
 
 [[files]]
 file = "kubejs/assets/brassworks/models/block/shop_1.json"
@@ -965,20 +921,12 @@ file = "kubejs/assets/brassworks/models/block/shop_4.json"
 hash = "63219e9662df38904fa595efb01be3ffbb6ee910ccd0f4120cbac14bab92216f"
 
 [[files]]
-file = "kubejs/assets/brassworks/models/block/slabfish_plushie.json"
-hash = "5ac61758305b5408b24f28859c699a337387232590295dd74b29f48c23b5d2f3"
-
-[[files]]
 file = "kubejs/assets/brassworks/models/block/sniffer_carpet.json"
 hash = "f7372dc35349e6a76d737c7302fc6e65b9c02de6d720c79414053db58abc82f5"
 
 [[files]]
 file = "kubejs/assets/brassworks/models/block/sniffer_carpet_block.json"
 hash = "c76bd42b3f69daa8e9349dba77f13ded6ae956b68fbcb7d4bcf17c6081458e75"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/block/sniffer_plushie.json"
-hash = "3c58f1a8a5ea6c39c6fc19b429ac76cad3be15f28bffb37072c92b50f62024f5"
 
 [[files]]
 file = "kubejs/assets/brassworks/models/block/sniffer_wool.json"
@@ -989,36 +937,8 @@ file = "kubejs/assets/brassworks/models/block/sniffer_wool_block.json"
 hash = "2576bd36429e9264032a625fb852d6e8301de7ea5668fb841e035f6ca36a6643"
 
 [[files]]
-file = "kubejs/assets/brassworks/models/block/steven_uk_plushie.json"
-hash = "f4a4e09ddbec0d5bbc1bb29e1c6bf2dff669d622aba08960b515f30cc905b529"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/custom/destroyed_track.json"
-hash = "520702d2179a03399e894e96b6f2483554d88b43f8434be0f6185eeec785391f"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/custom/destroyed_track_2.json"
-hash = "e5d8bea44075ed65f55e8e98115be464b45e826070763d07e6e89b7f52ab2b56"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/custom/destroyed_track_3.json"
-hash = "de475dd37f802595739d62ee1df9285646d2d3fa07bbe73ef178c31f28bcac17"
-
-[[files]]
 file = "kubejs/assets/brassworks/models/entity/sniffy.geo.json"
 hash = "d7f8a315175e7e717022a045a44e6e53256a65983024cd48d7f57eed7146c9e2"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/item/destroyedtrack_1.json"
-hash = "871b39cd9628cb088934e9e61f4dfe428714d1be085c7238f741148bc5d53605"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/item/destroyedtrack_2.json"
-hash = "1620d743f553153d72102dc95d37a87ed656ecb9278089326b20d5f610b8b655"
-
-[[files]]
-file = "kubejs/assets/brassworks/models/item/destroyedtrack_3.json"
-hash = "d670eeaafa7f265b2f83b9a99208ecc63bb04f5ba4ee72c2bb28c09c81a18eb4"
 
 [[files]]
 file = "kubejs/assets/brassworks/models/item/shop_1.json"
@@ -1037,10 +957,6 @@ file = "kubejs/assets/brassworks/models/item/shop_4.json"
 hash = "a5789e8de241329f8e871c18f2866410c7c75fab47a19588011e69937b88fb45"
 
 [[files]]
-file = "kubejs/assets/brassworks/models/item/slabfish_plushie.json"
-hash = "2a62365a6f657300e3a498f75730cb5ac019493121acdaf59a59c2c4567daf64"
-
-[[files]]
 file = "kubejs/assets/brassworks/models/item/sniffer_carpet.json"
 hash = "d569cedd4eff24a1e33da63569ee917046e490e74e8a572d68b7337404a75d20"
 
@@ -1051,118 +967,6 @@ hash = "8d8f21c81d19c93a13106a0caacb4820b45bb558eb587f3895e5f78e9e0b3628"
 [[files]]
 file = "kubejs/assets/brassworks/models/item/sniffer_wool.json"
 hash = "510d795a98156ca855dc306f22746fe7fe7811d4ba73ea755b119228ad6c465c"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds.json"
-hash = "d702a7191560be90889b0fe6cf3e489161c6bd619c6f01d9a991f800bccc5847"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/average_summer_song.ogg"
-hash = "76ac02fe9254c7b692feabcef1705afbfa2d419d82c63bdbefd3ca336e4c26da"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/chris.ogg"
-hash = "fdc5dcc30fb2f911815ca636355b22d4e6e2bab4f6f68f517d4aedec8987a578"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/creator.ogg"
-hash = "1b1c38a034cba8bc60463611950bb760d8a84671ce2c82f55bceebf8d5c3b8bc"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/creator_music_box.ogg"
-hash = "4a1ce7c989c3264580b2c2a98b05a94831d39cec3f0748aec1b2ab2caf05bcfb"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/csgo_bhop_song.ogg"
-hash = "7a7529fac1f3035911f9ebc6194d50f6b385dec354d964dbbfead54b1ca006ba"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/dixie_biscuit.ogg"
-hash = "121503954e960a48f817a136ef99da61ee4dd4469a03d117f89f790dce30a3a1"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/door.ogg"
-hash = "6e951d8534e6c072e691d228cfe5ccb3fdb48d1b381c8da8460b19217f7cda84"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/droopy_likes.ogg"
-hash = "72b1b05fe52304c65660c8e3616698848989f2e6ebcca35ff0546f6a19d725e6"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/eleven.ogg"
-hash = "d5e4b10406958bb42ab0f41c3c4910b506e545fe5eeb93ad2a4fdca306f82ec7"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/fukashigi_no_trumpet.ogg"
-hash = "abf47fe806349119960f2f52c58b7d5c048b0589d7835dfed0a9733f4442e0aa"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/intro.ogg"
-hash = "74104a8bbd57dfd908e48cf0a3bbf1a93e4b2f40df4b8754f8934a4b935e3545"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/its_all_over_but_the_crying.ogg"
-hash = "8de845b10f8716791ea51ce229bfb8ac6eea8a647b2b643f3eeaf9fdb6415825"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/ki.ogg"
-hash = "230617413ead1036054b3fc8afffb2d009340d52aafe7cd4d483733e1ecb52f6"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/precipice.ogg"
-hash = "d9b619ab0071fe560b7a73bd0907f3eebafb24986fb64a9bdf9920527fe1cea7"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/spooky_amethyst.ogg"
-hash = "b05d81b6431e73cb0b11c8b63854cf3c038f15ae5d4f21e1d1b47fa0778fdeb9"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/spooky_amethyst_trumpet.ogg"
-hash = "08311a952ad5fa57572e5762247811e73a3a6fc26ea9749a680cabee9847a294"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/taswell.ogg"
-hash = "0f0b44d4cad92404c03d6bfbf6058e984efe23b8fecb408f33610f05914328ea"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/that_s_amore.ogg"
-hash = "51e2dd97b9377fbe65bc0ec4f7ffe1cd9abfee19a59f2c24081aed6bc8f8920e"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/truce.ogg"
-hash = "c0f084067cbe56bef0e17d1646cdd38070f8fd21fa7295e7784c851d1f5e72e0"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/warni_warni.ogg"
-hash = "af4995f63cccf9cf994ecd1d7bbb05e2bcc11285ff68661308468ec4ddcf0767"
-
-[[files]]
-file = "kubejs/assets/brassworks/sounds/whiskey_cola_and_tequila.ogg"
-hash = "68aecd2f3a5797b78cfc0139ca5fed9ccaa218c6b9b630bd335c6e2da07f0eba"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/block/blueaxolotlplushieparticle.png"
-hash = "3d59ad0bf97915ff7c485dad1ce134d154dc9dfe7e9208b2c48ebaac6c7a913d"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/block/glowsquidplushieparticle.png"
-hash = "f13d4f1f8a4e951c5192000d16536fecf9ead253ebbe4dac18dec4cc6908078b"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/block/hyper_experience_block.png"
-hash = "529a85b604f11195d978334e74de459823c5b3b620f3ff4ccc3c0cca4f1d402c"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/block/hyper_experience_block.png.mcmeta"
-hash = "7c55f5db882b638b4f1433bea573e02fd1087611ab97bb7f5359b54471fbf876"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/block/pinkaxolotlplushieparticle.png"
-hash = "4aca26299f7011f2bc5c6fb0c3f5e8b371f81dd3a15d0e04d1b041c2f7a320ef"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/block/plushieparticle.png"
-hash = "327c8a2ad1d45a5a62b32870ccae7e7cd6eaadae34e39f628caf32148094bd2a"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/block/shop_1.png"
@@ -1179,10 +983,6 @@ hash = "2beba37659ddee5f21d575de2fb285000f6739ca488ac8bd5a5813cf419199b7"
 [[files]]
 file = "kubejs/assets/brassworks/textures/block/shop_4.png"
 hash = "dc34a117819baa814a351446f6d64bd6eb5b552219d1159c965f1d0a52c3f02d"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/block/slabfishplushieparticle.png"
-hash = "0c3e8395fb6f15291ae75c5fcd63bf76642d74a8a9dea25904b92305e8785f87"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/block/sniffer_wool_base.png"
@@ -1207,14 +1007,6 @@ hash = "cfe1b9f9e2a320710cfcdfe066be223acc1ee037869d2a3260fd156cca119799"
 [[files]]
 file = "kubejs/assets/brassworks/textures/block/sniffer_wool_top.png"
 hash = "fa53e9c1cb9d4f5cefc13be066fc64ed2ee438248e2c120c6de78b39d6ebd36b"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/block/sniffyplushieparticle.png"
-hash = "327c8a2ad1d45a5a62b32870ccae7e7cd6eaadae34e39f628caf32148094bd2a"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/block/standard_track.png"
-hash = "7c0ba65d2a9352d348fa28f4e96bf291dce9d457883ac8249e29a31ffb96a9eb"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/entity/sniffytexture.png"
@@ -1262,135 +1054,11 @@ hash = "a7ab23a0112bea77667cec1a38521ff4c287d157d588a4b54b12daf04b28c112"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/serverlogo.png"
-hash = "6d1516d2118964a328fff19f1cd34d09e71f720c7c1f5407beb5dd27877c08c9"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/blue_axolotl_plushie.png"
-hash = "b9cbd0d2ce6cf709821bc84cb33a1e27c84ebdd19c96fc92af878e051a0578da"
+hash = "b6ceb3cdfaf6a7ac3f88bbc2c160b687a1fb27c3e9ff1e4da9e0f1b2fa83bd66"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/item/crushed_raw_ancient_debris.png"
 hash = "62597e326e5ba0d656191fe74d9b6b1582a848b9ab9ed4d2fcd894fa40de1ae7"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/glow_squid_plushie.png"
-hash = "a179dbf7c8e382f4f9b7bf267336dde820acce47fa6128af2329c3bdc0941ea6"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/hyper_experience_axe.png"
-hash = "8dae04dc28ffacbc2b2fe61abcfbfdeb346a9e6413228ef98e8769f051bfefaa"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/hyper_experience_heap.png"
-hash = "11ebe520ce91bb51f857fba7ad9022a211a25416c43b23c3dae13cb6be961118"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/hyper_experience_nugget.png"
-hash = "7574aaeafbf10a70b1cb173da2d118ee6d91f6a9ed03bc0cd489ce3318c9d52e"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/hyper_experience_pickaxe.png"
-hash = "c09812bfc25c553ffadca04816b6ef555c187b4ad960cae60537069768603191"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/hyper_experience_shovel.png"
-hash = "4d6a916b2f23881875b23425a0789119967f8ab2469abb96fb51e79a1c710ad5"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/hyper_experience_sword.png"
-hash = "73f17e1316138cd99f665dec76397656a4eab60e385c05e2787ba522967c9753"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_.png"
-hash = "6c9c25175384d373b949582385550607d799ea35366f614bc979b08b8f01641d"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_average_summer_song.png"
-hash = "ba8721223abd2211a4c8dd84a75a09911069ec2510f90f8d2bffdcc66329a979"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_chris.png"
-hash = "333f1d1861312cab2dc6f5af31c56ef387b7ccff86ba409a3e25d1aa016a6895"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_creator.png"
-hash = "2a9a7ea151f2c26bd7aa38589c443829bebfa870ba7a5ba6da203f13a15a5611"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_creator_music_box.png"
-hash = "1a9d7a036f3a28f6beb8f5cd695f7b64c1ff51d2b9c89768d0230f8e3035dd53"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_csgo_bhop_song.png"
-hash = "3e96c7d4a6ac1b6f6de70c0c2a41e19129451f014c2075e894cedac3c5c874eb"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_dixie_biscuit.png"
-hash = "907e33b408a17667c7b9745103e4db06e41121c1889f438eb795746bc935be7a"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_door.png"
-hash = "4249dadf402ffdaec54d6950c7afbd7e2ce2419505e5d3a0d6575fbe229ece18"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_droopy_likes.png"
-hash = "55de37857cf0b7476d535b1f51f2423a132f9c782a068255df1172e1b894f0e8"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_eleven.png"
-hash = "9ac792c8b16b320dbffb0faf3becfe9b19f36d835127c00752ef1e96e1e860fb"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_fukashigi_no_trumpet.png"
-hash = "2b9061b34793cf2e12b560f465236275e092faad61fb7005aca0a37db8262d12"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_intro.png"
-hash = "ecad1dc698feaa88a707e29e90fb283f2e8bb38eea90a39daef0cc0662c3e668"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_its_all_over_but_the_crying.png"
-hash = "f7d2af43df353ff8f0771c625c33bfcea54f6cccea4b3d1d839cb2e89f9a6d46"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_ki.png"
-hash = "a858481a0f838189d61501869659c50779e873ce67eb82ee05f39f411969506a"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_precipice.png"
-hash = "469af7006c7d1fc4c8b1c3c51617463294836618118aa4ad3c731a5250747cfa"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_spooky_amethyst.png"
-hash = "0bca79e3e5327370a76eee68c97b5c56f25a7181eee772d59a20ddbbf6dc89d6"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_spooky_amethyst_trumpet.png"
-hash = "41365ea98ad6b38e3348cf25b4c518e16af08eebe546b21c93585a44395f1d4f"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_taswell.png"
-hash = "7cb4ed1498272456e566b8118c968d916e1dacd776015f05aaa52e513eaeb2f3"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_that_s_amore.png"
-hash = "fbe3dc80a3e2cb04b957c77fd8600852ebc2ff12b64c507c74127d8bef78732a"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_truce.png"
-hash = "30db2991db82298f1ea3d8dc19b3ee545abe561a8486b3b2a558068d26f23957"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_warni_warni.png"
-hash = "7d1b4f85a857a1120b3989d9047a2f069bf6453d63e612805f0da718b624890c"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/music_disc_whiskey_cola_and_tequila.png"
-hash = "b3c9b0a1219cebf058ebdab37a3e685d397ba9b863c22c63ddeb6fd91e056d92"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/pink_axolotl_plushie.png"
-hash = "a43c81ca8b1c317cd15b9dacb0bf7be5c5cef6c396ef3d63e1249397384d5f81"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/item/rolls/choco_roll.png"
@@ -1423,10 +1091,6 @@ hash = "d96cbd5c4817d7df797216c52b56bc258ce575550c1eccd1ca40ffe3630b0b24"
 [[files]]
 file = "kubejs/assets/brassworks/textures/item/shop.png"
 hash = "fee30a70acb0d4b71be0bcfa4fcec23577214acc1481fa53434dd5a79e354c53"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/item/sniffer_plushie.png"
-hash = "b3d232bf58c6b4a1f667a3845fef263e8c156f9006b4777ad01b6bf87b8a3135"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/item/sniffer_tuft.png"
@@ -1543,174 +1207,6 @@ hash = "9311b74c8efe214c769c14c37c58ea18b8e1672ef44047ddd045aa4add844b47"
 [[files]]
 file = "kubejs/assets/brassworks_events/sounds/tumble_10.ogg"
 hash = "0c4c9693e8cf0dc70c9dce8b3d3d9ffe8e2376b9811a9b924f4391dacaa623c0"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_acacia.json"
-hash = "8d4f1de9ec19f588038516753a2b2582f044cea69143f2f96164dffa08bf4f5a"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_ancient.json"
-hash = "cab47d9e7ec8cc25f7c9776d4e2a4f6b5d263f46d7c1a89dd2597ad329f02819"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_azalea.json"
-hash = "3decbe7d88111b00787b811d1864b3e96ad37ad1710626b85f642958c2ffee1f"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_bamboo.json"
-hash = "faa7df78ea8a0466fd225379bc996c4efb1c1e83431f0cb41558a44a242edd7b"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_birch.json"
-hash = "cbd08db3c0f96e30fe375ed74da2c370f972267ff50768470c86ef92ffde5b41"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_blossom.json"
-hash = "418e7afb7b6e587113ea40b7d865c1f6fbdc36fd25caf33253f33818eaf0a6e4"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_cherry.json"
-hash = "f2b93c0b8470ff64ab89cb38c3ca2d6dcc826a21f999b8797b7575c9689751a9"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_crimson.json"
-hash = "e595b2a00d568de35263da3e9d50c880ddb2817e08163b3685be61907544c546"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_dark_oak.json"
-hash = "9aabffdd34048a4646583b0ee4abf56f8ea80855fd825fad3864620df09ffbf6"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_jungle.json"
-hash = "881ad709ca2981728ea43528b285d578f1105e151203531d48c28af7905c8c29"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_mangrove.json"
-hash = "f7f0f79f9ab96a23d9c3209d564fb586cc6b42fbe6248d925b636120dbe4ff3f"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_oak.json"
-hash = "b4d02a9e3271d80e28cd773587e0652621005861524ad75d148061641f84aa0f"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_pale_oak.json"
-hash = "5dc1df8d2f2562f40b4b67b3e8c39539dacd3e36206de5b506b1b7fd1f38295d"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_pine.json"
-hash = "c6036be65789b1a2c8619f152aa8ec7ca564d3c2bd7b8ab62cfacbe7e9fa8818"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_plum.json"
-hash = "71c7c9e6f25bed1c86415c7134302d74f8eba9fa2c80c621ae6b0bc5fe8d306d"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_spruce.json"
-hash = "c9dd9c94e20b0ef8673bb5165f9b9cd21db4bdaa288bfad8c7c77399e923a291"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_stone_pine.json"
-hash = "49ce62f7602bd164e237d3fd42c32689ef63c44c45412da4ada78fbf3ed36289"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_warped.json"
-hash = "2c9b59a2ee7425fabb5b8e812604b28500a269c745da33fdb12c42fe31493606"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_willow.json"
-hash = "be698f88566fe755cddd39dd4d3cb27109ec2e2163b8d4ae38847681d417db00"
-
-[[files]]
-file = "kubejs/assets/create/models/block/large_water_wheel/item_wisteria.json"
-hash = "fba0342b4f12685d3af4a24ada4e071b85c8f1da53c37682daae15eb96b614ef"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_acacia.json"
-hash = "74c2acbb1f981c8fd63bd69d550c3a42ea5b0a514aadac35f6a5b2faf3b69364"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_ancient.json"
-hash = "7961a4990c3df4dab116b507c9c2cff2927343f3471b624ba80c5654ec806416"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_azalea.json"
-hash = "225b82052c0bbcdd1c300cccf534bc32a49426660f3ae6dbd5e9297d0a7c1599"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_bamboo.json"
-hash = "315ef8bca640a96f90be8daa3c1b5fa5cc5df6ca866040abee33df74db10ca15"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_birch.json"
-hash = "d5ed9652af2d2b8af84e0ecddef23c3d6e309fd2ff5d1eb1cec621e9e490405b"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_blossom.json"
-hash = "373132c174e37d7d2bca8fc58bb5e93c64456d765755e35120daad5ee7234933"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_cherry.json"
-hash = "288c9e47d891bc2ae0794c5ac74a24384f4e4ed9f6c82eaf06ea1d2a07bdf02b"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_crimson.json"
-hash = "91727b117482ca0493ee767d8963d5a275446fa59b216ee6388ef380ea509a1b"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_dark_oak.json"
-hash = "68a72c9fef330691691cf7ae62f7291491e3cd1f39773e7814a65a8a9cf65482"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_jungle.json"
-hash = "85e335f1b7b04e2b90efa3f3b7d567186e1fc330c5a7b6ddcb74d0c8596c3ad2"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_mangrove.json"
-hash = "7e3bf7b232231ac28c04e5e39884c9b3bd16ef67fbb4821da14efd6093ea8208"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_oak.json"
-hash = "d8ff30f85d661ffa45d5f5c80a334a62660066e39937ed20541cb63364cf125b"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_pale_oak.json"
-hash = "46ccba0e82e41d0865f43627c0c2e943733d4b711c5dcde7ed578f0796a3f7d6"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_pine.json"
-hash = "a0b20558083d3e1df9d477754087f3363da1e382d29840008bd20f8151737224"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_plum.json"
-hash = "bc46d9f6612a0ced4c1ae93fa5e9798331f9be26751c821de202d8b09feb2afb"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_spruce.json"
-hash = "415afcc44df47ab15871798c6499054d4687102ca19af29c69e44bdb9277288b"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_stone_pine.json"
-hash = "343f7c84bfdfa1f03aea6c643669f07c3568a911ae0617b5be6b2bcd7cb89922"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_warped.json"
-hash = "cbfb89c763d09bc6256ba84b9dc45a5c2e538ced9261de5daa0db3e92009f005"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_willow.json"
-hash = "e454c4a13125dd264193d2c6438a3466885e44a1ae08d0ba8b4cab6218095194"
-
-[[files]]
-file = "kubejs/assets/create/models/block/water_wheel/item_wisteria.json"
-hash = "56a330b10921e6c69622dbad24b3e689ba2e3ee02ae18c0b72112e84de1d94c1"
-
-[[files]]
-file = "kubejs/assets/create/models/item/large_water_wheel.json"
-hash = "ce3453d0561e98ac08850f9aa295067d6721b74bb8eb943627cba21432318657"
-
-[[files]]
-file = "kubejs/assets/create/models/item/water_wheel.json"
-hash = "2533c2c08beefca73cade9a92ddfb1f6a874849a95814cdc1a6ce65db0a97c55"
 
 [[files]]
 file = "kubejs/assets/create_connected/textures/item/control_chip.png"
@@ -1962,7 +1458,7 @@ hash = "45c99b3be96a938cb074f28068ffee560bd1297aaf41155da98e325308791ece"
 
 [[files]]
 file = "kubejs/client_scripts/RecipeViewerScripts/hideitems.js"
-hash = "c82cb0517de674256f35fe87861968f86eea0b4ae7027c8eceb7aca91f53e625"
+hash = "0ae71cf63d2c2ddeb93194500a8e1a405580b2f06eae8747fb9489abc12cf861"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -2409,6 +1905,10 @@ file = "kubejs/server_scripts/Recipes/crushedancientdebris.js"
 hash = "edda2ffdc75b09f073173d60be2de6385dd38b967eb9028c9fcfac09589b97fe"
 
 [[files]]
+file = "kubejs/server_scripts/Recipes/dyeCrushing.js"
+hash = "734d712c8df09944ede57093c3e1270b6e4d3c0cadf8d4c62e42e5773dc5a0bf"
+
+[[files]]
 file = "kubejs/server_scripts/Recipes/hyperxp.js"
 hash = "95f4611545a91d5372576c6f1b50d5e8766ae6eb52f2755f211aacde68d565c1"
 
@@ -2418,7 +1918,7 @@ hash = "b6659bb2654d56ec4bf37a5bddb1e573400422978392a4cb3a41e4348ac00389"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "f201b3e873a21a20fff8a9206f387f602177cbd30419b23a77b35e865f944242"
+hash = "6b2861a771a2dbb2eb27912ee3371424d00cf3978dc736c8626b7560739abaa1"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/EMIhideitems.js"
@@ -2466,7 +1966,7 @@ hash = "4317dfd53ca12e76351af862065ecead41ab0e26e1892ff3a0587e470733d55e"
 
 [[files]]
 file = "kubejs/startup_scripts/ItemRegistry/cinnabons.js"
-hash = "9dae4cf879b88b78a8dbb417a9f02ac002caf67bbb09a6cfc18e460258d23789"
+hash = "ad698500157eca5c10670a2c6b405b3180c2ca1425803758d5a9ce9d6a870929"
 
 [[files]]
 file = "kubejs/startup_scripts/ItemRegistry/misc_items.js"
@@ -2641,6 +2141,16 @@ hash = "4c1b0dfd55ed44d48beab07cfd10fa8fe817853a8f86c249978480c7c3f33b44"
 metafile = true
 
 [[files]]
+file = "mods/create-drill-drain.pw.toml"
+hash = "1fed61cc1b0ef77d34047d5489141532a6dfeba0f31478f8d6a14f48ac845c8d"
+metafile = true
+
+[[files]]
+file = "mods/create-easy-stock-ticker.pw.toml"
+hash = "5b5310c836eb807722a6487ba741652f7f569420fae26edea14c108dbc840d28"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "df05b08d81c4dc5409fa8bcab9f01e304e4a5bcaef2d3e026e39f1f0b95d0467"
 metafile = true
@@ -2753,6 +2263,11 @@ metafile = true
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
+metafile = true
+
+[[files]]
+file = "mods/emi-for-create-stock.pw.toml"
+hash = "f21db79fbece8a79b44ce930abc18c51daba189f8a5dbed210ea982148b9ecd1"
 metafile = true
 
 [[files]]
@@ -3138,6 +2653,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "fd8994221802e444c1b1b2da9d3d816a040860d875c56ce15be401b865e2eae5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "30ad212730fa8fed38f81dc5d7d57777463295ba3018117c62725fb464ca7280"
 metafile = true
 
 [[files]]

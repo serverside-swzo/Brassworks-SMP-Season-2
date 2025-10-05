@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "brassworks:block/blue_axolotl_plushie", "y": 270 },
-    "facing=east": { "model": "brassworks:block/blue_axolotl_plushie", "y": 0 },
-    "facing=south": { "model": "brassworks:block/blue_axolotl_plushie", "y": 90 },
-    "facing=west": { "model": "brassworks:block/blue_axolotl_plushie", "y": 180 }
-  }
-}
