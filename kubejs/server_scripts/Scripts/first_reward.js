@@ -1,68 +1,72 @@
-const bundleItems = [
-  { id: "numismatics:bank_terminal", count: 1 },
-  { id: "numismatics:spur", count: 64 },
-  { id: "create:builders_tea", count: 1 },
-  {
-    id: "minecraft:bundle",
-    count: 1,
-    components: {
-      "minecraft:bundle_contents": [
-        {
-          id: "minecraft:written_book",
-          count: 1,
-          components: {
-            "minecraft:written_book_content": {
-              title: { raw: "📘 Welcome to Brassworks SMP!" },
-              author: "swzo",
-              resolved: true,
-              pages: [
-                { raw: '{"text":"Welcome to Brassworks SMP! Your adventure starts here."}' },
-                { raw: '{"text":"Check your starter bundle for items and currency."}' }
-              ]
-            }
-          }
-        },
-        { id: "numismatics:spur", count: 60 }
-      ]
-    }
-  }
-];
-
-function giveStarterBundle(player) {
-  for (const item of bundleItems) {
-    if (item.components) {
-      player.give(Item.of(item.id, item.count, { components: item.components }));
-    } else {
-      player.give(Item.of(item.id, item.count));
-    }
-  }
-
-  player.tell(Text.green("You have received the Newcomer’s Starter Bundle!"));
+// === Simple JSON save/load functions ===
+function getPlayerData() {
+  const path = 'kubejs/config/playerdata.json';
+  const data = JsonIO.read(path);
+  return data || {};
 }
 
+function savePlayerData(data) {
+  const path = 'kubejs/config/playerdata.json';
+  JsonIO.write(path, data);
+}
+
+function getPlayerValue(uuid, key, defaultValue) {
+  const data = getPlayerData();
+  if (!data[uuid]) return defaultValue;
+  return data[uuid][key] ?? defaultValue;
+}
+
+function setPlayerValue(uuid, key, value) {
+  const data = getPlayerData();
+  if (!data[uuid]) data[uuid] = {};
+  data[uuid][key] = value;
+  savePlayerData(data);
+}
+
+// === Starter items ===
+const starterItems = [
+  { id: "numismatics:spur", count: 64 },
+  { id: "numismatics:bank_terminal", count: 1 },
+  { id: "create:builders_tea", count: 1 }
+];
+
+// === Function to give the starter items ===
+function giveStarterItems(player) {
+  for (const item of starterItems) {
+    player.give(Item.of(item.id, item.count));
+  }
+  player.tell(Text.green("You have received your starter items!"));
+}
+
+// === Give items on first join ===
 PlayerEvents.loggedIn(event => {
   const player = event.player;
+  const uuid = player.uuid.toString();
 
-  if (!player.persistentData.hasReceivedBundle) {
-    player.persistentData.hasReceivedBundle = true;
-    giveStarterBundle(player);
+  const hasReceivedItems = getPlayerValue(uuid, 'hasReceivedStarterItems', false);
+
+  if (!hasReceivedItems) {
+    setPlayerValue(uuid, 'hasReceivedStarterItems', true);
+    giveStarterItems(player);
 
     event.server.scheduleInTicks(1, () => {
       event.server.runCommandSilent(
-        'tellraw @a {"text":"' + player.name.getString() + ' has joined the server for the 1st time!","color":"yellow"}'
+        `tellraw @a {"text":"${player.name.getString()} has joined the server for the 1st time!","color":"yellow"}`
       );
     });
   }
 });
 
+// === Manual command to give starter items ===
 ServerEvents.commandRegistry(event => {
   const { commands: Commands } = event;
+
   event.register(
-    Commands.literal('loginbundle')
+    Commands.literal('starteritems')
       .requires(source => source.hasPermission(2))
       .executes(ctx => {
         const player = ctx.source.playerOrException;
-        giveStarterBundle(player);
+        giveStarterItems(player);
         return 1;
       })
   );

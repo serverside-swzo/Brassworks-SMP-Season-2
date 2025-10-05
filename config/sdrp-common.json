@@ -1,8 +1,17 @@
 {
-  "clientId": 608012526537408579,
+  "clientId": 1380272527758200923,
   "enabled": true,
   "screenEvent": true,
   "clientJoinEvent": true,
   "logState": false,
-  "buttons": []
+  "buttons": [
+    {
+      "label": "Modpack",
+      "url": "https://modrinth.com/modpack/brassworks-smp-modpack"
+    },
+    {
+      "label": "Discord",
+      "url": "https://discord.com/invite/nDhkgzAPR2"
+    }
+  ]
 }

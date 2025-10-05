@@ -806,7 +806,7 @@ hash = "95928e163a045e8acf6d540d0ce9d720d04a4014b12c0bd00d0695551a398cd8"
 
 [[files]]
 file = "config/fancymenu/customization/xaero.pac.client.gui.mainmenu_layout.txt"
-hash = "059b05e0c46fe042446c28a5b1ddb94d72fa22d5832ea9982818b2f3026fb4ea"
+hash = "123754b65f67f2d18c7c197013d9e817d21e5455f75ea1b550b2c2e4aabbca80"
 
 [[files]]
 file = "config/fancymenu/dragger_metas.json"
@@ -870,7 +870,7 @@ hash = "443cf04aeae1a64924cba8e9a1a0851222b9257dff2c86f0b6bb5a943546461e"
 
 [[files]]
 file = "config/sdrp-common.json"
-hash = "e1f7636012d9a12547c6c880eeb2bfc4e380d25ee9aaa07907115ac59db52a3f"
+hash = "eba1acf2c4cf75ecc9221f5a83bb6a19866f1416a1f51b69a2033d09a35b1c66"
 
 [[files]]
 file = "config/simple-custom-early-loading.json"
@@ -1926,7 +1926,7 @@ hash = "e78bacc412eb070bf9efe441a57a05314125d662d40da12f1109c574e9fa6d42"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/claim.js"
-hash = "496cee09a639d0ec9ffc087cc05552b3986caa4da99d332aa99167b6f0ce90e2"
+hash = "2a96016b360b77576775f59dc045a3c59682f52c040f73e5e7e45549c66185c9"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/curios.js"
@@ -1934,7 +1934,7 @@ hash = "4b7a9bd7469a87a45d69dc553f5da28d1a8d63f3b3140a8303161c7cc5b4242e"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/first_reward.js"
-hash = "b18fa64676cc5630d6df8986fe7ebc85480bdfba884c58e8ae0f2a156a572ea9"
+hash = "176613db583bc2d767a6c3706311fac1455abb1c394d367dcdfa3f1b63ed3a71"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/loginrecipes.js"
