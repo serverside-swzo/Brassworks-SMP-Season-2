@@ -822,7 +822,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "8d407d0279663ec8348114da74c90768a0293ddaf490b10fef75c7d533e3dc1e"
+hash = "a962ee4dd64dbf8d0343104f1d378b09ac48c3b8ebf96ab8860f158f07641a42"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -887,6 +887,10 @@ hash = "d59b5bc2e907ed43b8cebeebec75f10ef36f280218ddd6079e629cbe48f1fffb"
 [[files]]
 file = "config/simple-custom-early-loading/title_logo.png"
 hash = "96ff849d64f86d9931ba2ca64c6c6f20864d9c988c1c2956bb6c1a0a5e714fdf"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "3fdfaa4595d4e55c1e6b3a6ba74aec07ca2701ec767c34d5209a7bc08d0dbfbd"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -1054,7 +1058,7 @@ hash = "a7ab23a0112bea77667cec1a38521ff4c287d157d588a4b54b12daf04b28c112"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/serverlogo.png"
-hash = "b6ceb3cdfaf6a7ac3f88bbc2c160b687a1fb27c3e9ff1e4da9e0f1b2fa83bd66"
+hash = "6ae6f18556069f884fb36a75062a75fbbf041244bc885281c61dee2c7348c205"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/item/crushed_raw_ancient_debris.png"
