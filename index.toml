@@ -1981,6 +1981,11 @@ file = "kubejs/startup_scripts/ItemRegistry/snifferitems.js"
 hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "73ff7f2c06528691d6e0e1b43296b2f8a28fe0f096279203358ef171902ec1c3"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "ee6a8a107b9c9b52e6724326afd819346c0355365506465a1bd7a89235b4c39e"
 metafile = true
@@ -2390,6 +2395,11 @@ hash = "8675bc2e14673ef0457c5017c866c5d2b2cbea61d241c9324fd66d5a91514f4f"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "638709ccc805606ac9fa9bf2f135ae4dd79d299e5796dcac062d838cbdaf6642"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "15c9fdc4d156b5e0ef87daf3db59dc3c9f481382f7a995408c9f53731466b71d"
 metafile = true
@@ -2590,6 +2600,11 @@ hash = "a6f42d0fcd8a46022c9a1ce87b32b894a5496b26a2b882c6a88c4330a1201490"
 metafile = true
 
 [[files]]
+file = "mods/sort-it-out.pw.toml"
+hash = "b8253b066948c11c5db757fc6e3a7b9e5d4039ab1aa1543132feed7bb660cad0"
+metafile = true
+
+[[files]]
 file = "mods/srdp.pw.toml"
 hash = "ab193bbfe680e9463795f723abc65f300efb07249c137ba9ab533176ff4ebf4d"
 metafile = true
@@ -2657,6 +2672,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "fd8994221802e444c1b1b2da9d3d816a040860d875c56ce15be401b865e2eae5"
+metafile = true
+
+[[files]]
+file = "mods/zume.pw.toml"
+hash = "417f2ce9f6018e0ce5b548c4e3212abe3d74878654dd2a8a057d54c334d5b188"
 metafile = true
 
 [[files]]
