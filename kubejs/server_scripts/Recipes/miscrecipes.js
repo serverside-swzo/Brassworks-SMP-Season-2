@@ -89,6 +89,13 @@ recipesToRemove.forEach(function(id) {
     ]
   )
 
+    event.shaped('minecraft:chest', [
+        'PPP',
+        'P P',
+        'PPP'
+      ], {
+        P: '#kubejs:all_custom_planks'
+  });
 
   // Large Fern Recipe (2 ferns)
   event.shapeless(
@@ -471,6 +478,30 @@ ServerEvents.tags('item', event => {
         'petrolpark:badge/bestie',
         'petrolpark:badge/beta_tester',
         'petrolpark:badge/early_bird'
+    ])
+
+    event.add('kubejs:all_custom_planks', [
+        'natures_spirit:redwood_planks',
+        'natures_spirit:sugi_planks',
+        'natures_spirit:wisteria_planks',
+        'natures_spirit:fir_planks',
+        'natures_spirit:willow_planks',
+        'natures_spirit:aspen_planks',
+        'natures_spirit:maple_planks',
+        'natures_spirit:cypress_planks',
+        'natures_spirit:olive_planks',
+        'natures_spirit:joshua_planks',
+        'natures_spirit:ghaf_planks',
+        'natures_spirit:palo_verde_planks',
+        'natures_spirit:coconut_planks',
+        'natures_spirit:cedar_planks',
+        'natures_spirit:larch_planks',
+        'natures_spirit:mahogany_planks',
+        'natures_spirit:saxaul_planks',
+        'enderscape:veiled_planks',
+        'enderscape:celestial_planks',
+        'enderscape:murublight_planks',
+        'ribbits:mossy_oak_planks'
     ])
 
     // Create the alexcavesradon tag and add all the framed radon lamp items
