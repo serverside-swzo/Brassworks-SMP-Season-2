@@ -1,0 +1,50 @@
+# This workflow builds your packwiz modpack and uploads the .mrpack file as an artifact.
+# It is triggered on pushes to the main branch or can be run manually.
+
+name: Build Modpack
+
+on:
+  push:
+    branches:
+      - main # Or your default branch, e.g., master
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout your repository code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Read the name and version from your pack.toml file
+      - name: Read pack.toml info
+        id: get_info
+        run: |
+          # Use grep and sed to extract the version and name from pack.toml
+          VERSION=$(grep '^version =' pack.toml | sed 's/version = "\(.*\)"/\1/')
+          NAME=$(grep '^name =' pack.toml | sed 's/name = "\(.*\)"/\1/')
+          
+          # Set the values as outputs for later steps
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "name=$NAME" >> $GITHUB_OUTPUT
+          
+          echo "Successfully read Pack Name: $NAME"
+          echo "Successfully read Pack Version: $VERSION"
+
+      # 3. Make the packwiz binary executable
+      - name: Make packwiz executable
+        run: chmod +x ./packwiz-linux
+
+      # 4. Run packwiz to generate the .mrpack file
+      - name: Build .mrpack file
+        run: ./packwiz-linux modrinth export
+
+      # 5. Upload the generated .mrpack file as a build artifact
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: modpack-mrpack
+          # The path is constructed dynamically from the name and version
+          path: '${{ steps.get_info.outputs.name }}-${{ steps.get_info.outputs.version }}.mrpack'
