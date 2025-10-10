@@ -62,7 +62,7 @@ jobs:
 
           # --- MODRINTH ---
           # IMPORTANT: Replace this with your Modrinth project ID (e.g., 'AABBCCDD')
-          modrinth-id: 'YOUR_MODRINTH_PROJECT_ID'
+          modrinth-id: 'vDKsot3R'
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
 
           # --- GITHUB (Optional but Recommended) ---
