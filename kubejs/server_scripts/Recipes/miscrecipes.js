@@ -55,14 +55,23 @@ recipesToRemove.forEach(function(id) {
       'create:electron_tube'
     ]
   )
-	
+
+event.recipes.create.mixing(
+    Item.of('minecraft:gunpowder', 2),
+    [
+      'minecraft:bone_meal',
+      'create:cinder_flour',
+      'create:cinder_flour',
+      '#minecraft:coals'
+    ]
+  )
 
   event.recipes.create.compacting(
     Item.of('minecraft:ink_sac', 2),
     [
       Fluid.of('minecraft:water', 500),
       'minecraft:dried_kelp',
-      '#c:coal'
+      '#minecraft:coals'
     ]
   )
 
@@ -75,7 +84,15 @@ recipesToRemove.forEach(function(id) {
       Item.of('minecraft:gold_nugget', 24)
     ]
   ).heated();
-	
+
+   event.recipes.create.mixing(
+    Item.of('minecraft:gilded_blackstone'),
+    [
+      'minecraft:blackstone',
+      Item.of('minecraft:gold_nugget', 24)
+    ]
+  ).heated();
+
   event.shapeless(
     'minecraft:chest',
     '#c:chests/wooden'

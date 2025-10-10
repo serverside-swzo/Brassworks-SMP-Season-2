@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "2.1.0",
+  "modpackName": "Brassworks SMP",
+  "modpackAuthor": "swzo, plums",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://raw.githubusercontent.com/serverside-swzo/Brassworks-SMP-Season-2/refs/heads/master/modpack-info/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": true,
+    "modpackMods": []
+  }
+}
