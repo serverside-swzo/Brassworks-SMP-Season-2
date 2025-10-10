@@ -12,6 +12,16 @@
                 "generic": "https://github.com/serverside-swzo/Brassworks-S2-Autoupdating/raw/refs/heads/master/Brassworks-S2-Autoupdating.zip/"
             }
         }
+    },
+    {
+        "id": "2.1.0",
+        "releasedAt": 1760138396000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+                "generic": "https://github.com/serverside-swzo/Brassworks-S2-Autoupdating/raw/refs/heads/master/Brassworks-S2-Autoupdating.zip/"
+            }
+        }
     }
   ]
 }
