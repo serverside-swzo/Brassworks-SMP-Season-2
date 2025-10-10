@@ -1,0 +1,23 @@
+### Added
+- Added **Right Click Harvest** mod  
+- Added **Zoom** mod  
+- Added **Inventory Sort** mod  
+- Added **Briding** mod  
+- Added **Trade Cycling** mod  
+- Added **Create: Fluid**  
+- Added **Create: More Package Couriers**  
+- Added **In-game changelog and update notification** when the modpack is out of date  
+- Added **tooltips to main menu buttons**  
+- Added **soundtrack+** resourcepack by Pipo  
+- Filling and fueling tanks from **Create: Stuff & Additions** can now be placed in **Curios**  
+- Added **gunpowder recipe**  
+- Added **chest recipe for modded planks**
+
+### Changed
+- Changed **backpack textures** to better match Create’s style  
+
+### Updated
+- Updated **Brassworks Core** mod  
+- Updated **Create: Brassworks missions** (fixed and improved)  
+- Updated **Create: More Linked Remote**  
+
