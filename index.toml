@@ -581,6 +581,14 @@ file = "config/fancymenu/assets/brasscasing_recolor.png"
 hash = "a08476ede13f6c2a0361ec5fef241313861cc4ab627782795a392006d712e8f6"
 
 [[files]]
+file = "config/fancymenu/assets/changelog.png"
+hash = "4a08ef985fbcc4ee8e83968968bd4a01ce0a4c3908d190ef0d706f8fe5e80b3c"
+
+[[files]]
+file = "config/fancymenu/assets/changelog_hovered.png"
+hash = "cc01d528dd062381e3934fef676d4f60276321490b8d0024220d978b3f916f23"
+
+[[files]]
 file = "config/fancymenu/assets/ding.wav"
 hash = "c3d52bfde77c37c6c5df30ce091dfe512b0c27e418c3d1f380b69a64c5891aa4"
 
@@ -762,7 +770,11 @@ hash = "d3c841207ca304825f626a506bf49ba06e07265457c38fe286c2db6aab066fda"
 
 [[files]]
 file = "config/fancymenu/customization/brassworks_mainmenu.txt"
-hash = "f6381ec9bae290e81d233c99de3ccda94aac3d179e18837caae4fde568abd42f"
+hash = "3b3019aacaaadb827e14d07d26af6a30623672bf8dafd8fca18fca052a410790"
+
+[[files]]
+file = "config/fancymenu/customization/changelogscreen.txt"
+hash = "6c28cf7ebf3fee1fa041d18d7073ace383f33e9b3a9429c8be5e6547d240509d"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -822,7 +834,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "a962ee4dd64dbf8d0343104f1d378b09ac48c3b8ebf96ab8860f158f07641a42"
+hash = "3e3b3bbee1e653637a0288c067b6852f9e22f1c21fe4bc106f6e54915b19517a"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -839,6 +851,18 @@ hash = "f689816411f13684f3a591f7c9f9eea61f12e0b77ded3d4b155f7bfc41c312a3"
 [[files]]
 file = "config/fml.toml"
 hash = "23710bf5c5cc2268645b9213e4c8f96a0fda4c8069e88fb52b97d7aa11171208"
+
+[[files]]
+file = "config/modpack-update-checker-info.txt"
+hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
+
+[[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "ccb74c55657f43587cacfaf5eea37a8b3ae5e81c4ef59633676f09a420d9bf6f"
+
+[[files]]
+file = "config/modpack-update-checker/modpack-info.txt"
+hash = "28b6d115b7eaec2b709ec2ebc255e0b2a7380f910bd0879583107264d7673de1"
 
 [[files]]
 file = "config/paxi/datapacks/bat membranes v1.0.15 (MC 1.21-1.21.9).zip"
@@ -867,6 +891,16 @@ hash = "8e403e8e426d8a122dfa8ea3c0a8a9e1ce59c31e6b36ad339ee55f66deb2b99c"
 [[files]]
 file = "config/paxi/resourcepacks/Torchmaster Remaster.zip"
 hash = "443cf04aeae1a64924cba8e9a1a0851222b9257dff2c86f0b6bb5a943546461e"
+
+[[files]]
+file = "config/paxi/resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "30ad212730fa8fed38f81dc5d7d57777463295ba3018117c62725fb464ca7280"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/soundtrack+.pw.toml"
+hash = "c79a27fbf71338559f7656d746c640533b6d79c0fed9762c1b80f6fa6c12366b"
+metafile = true
 
 [[files]]
 file = "config/sdrp-common.json"
@@ -1922,7 +1956,7 @@ hash = "b6659bb2654d56ec4bf37a5bddb1e573400422978392a4cb3a41e4348ac00389"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "0b018f72461bf0dec9c1cc78f643bcce0ff4080a4a4f5fd4d44ac3c05a077344"
+hash = "31c042d111f13bdf27849bd5a11ec50803b420ce43792e6488e546518a396a1d"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/EMIhideitems.js"
@@ -1934,7 +1968,7 @@ hash = "2a96016b360b77576775f59dc045a3c59682f52c040f73e5e7e45549c66185c9"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/curios.js"
-hash = "4b7a9bd7469a87a45d69dc553f5da28d1a8d63f3b3140a8303161c7cc5b4242e"
+hash = "d7ba02778284c3e032d6db6ccdd5c546d25741e44d681ae1fef35654422f32de"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/first_reward.js"
@@ -1942,7 +1976,7 @@ hash = "176613db583bc2d767a6c3706311fac1455abb1c394d367dcdfa3f1b63ed3a71"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/loginrecipes.js"
-hash = "94d7c9d39fbb65e702179e5b8c2906fac3dd4be74eddfb94ce73362523b6c519"
+hash = "222809184d9c4b8efb67ee3760e5e7d20d912d0f5e9b52238c384e9790d41522"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/noend.js"
@@ -2036,8 +2070,13 @@ hash = "79f56f1815a621d98548591827e02271c0e69f42dc910bf08c8e8139b3a74c4a"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-1.2.jar"
-hash = "324da13af519be9300e3356ed349a380ed081d0af6e2d78bfb2e557342110747"
+file = "mods/brassworkscore-1.3.jar"
+hash = "4e3a59400852edc031f6d616233e8994d5cfb4cf32d046fd1654956c8fd818c5"
+
+[[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
+metafile = true
 
 [[files]]
 file = "mods/buzzier-bees.pw.toml"
@@ -2106,7 +2145,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-brassworks-missions.pw.toml"
-hash = "58a8aa1107bd0a28041172531db94a14e55d6dd7c62fa64b52845aa6986d6b73"
+hash = "d3c4b938797fb57c4076e6897ffbfd93231ed451ac76468e5e3a7a6b0156b264"
 metafile = true
 
 [[files]]
@@ -2165,6 +2204,11 @@ hash = "df05b08d81c4dc5409fa8bcab9f01e304e4a5bcaef2d3e026e39f1f0b95d0467"
 metafile = true
 
 [[files]]
+file = "mods/create-fluid.pw.toml"
+hash = "a8ff3915582a1916492a86599321d21b5640e4ff99b7ddaf3a909c246725594d"
+metafile = true
+
+[[files]]
 file = "mods/create-framed.pw.toml"
 hash = "cdbd81ad5bcee84587c87130ee9dccf0f66be11c7111c32d1ee5235ca26bf69f"
 metafile = true
@@ -2176,7 +2220,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-linked-remote.pw.toml"
-hash = "78eaaad6547f2f387fe2794e9bf235baa8c324854f8a51622a7b4d0ac37947f9"
+hash = "7fb3edf94a0203ea3885757847738490c98ef3efef783150f8469f1b84aaef8c"
+metafile = true
+
+[[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "3835633b93cf8176426f2f03db6ac01cdab440c0d2bcd700a0e1b6c69f8c2605"
 metafile = true
 
 [[files]]
@@ -2455,6 +2504,11 @@ hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
 
 [[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "f4987250494212faf5b22c61ce5b3a2ff3bc8021a8f60db48fb6cbfd617f3e16"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "409755e45eacc85906475d1e81e351216d31945649189effdaafdb7bddac712c"
 metafile = true
@@ -2640,6 +2694,11 @@ hash = "861c981ef2c60f5688b92d28adbf0ced1d38e1433e2f7511ed4ca7d8c6f62254"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
+metafile = true
+
+[[files]]
 file = "mods/trimmed.pw.toml"
 hash = "49a89f1fc7f7485ac1b85fefc5f68b48e6678bf88389f57ee04adc6d0cebb687"
 metafile = true
@@ -2677,16 +2736,6 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "417f2ce9f6018e0ce5b548c4e3212abe3d74878654dd2a8a057d54c334d5b188"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "30ad212730fa8fed38f81dc5d7d57777463295ba3018117c62725fb464ca7280"
-metafile = true
-
-[[files]]
-file = "resourcepacks/soundtrack+.pw.toml"
-hash = "c79a27fbf71338559f7656d746c640533b6d79c0fed9762c1b80f6fa6c12366b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Create: Fluid"
+filename = "fluid-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JlZEVjsF/versions/DoKnDSpH/fluid-1.0.0.jar"
+hash-format = "sha512"
+hash = "25fc1ff577e2ba3870b837e48114c81e97c7484c28c8614c7cd09772a70602866b9a99ab888c9604bfa9da90ceda674065a84d63d12ab7201ac2aa651614fdcd"
+
+[update]
+[update.modrinth]
+mod-id = "JlZEVjsF"
+version = "DoKnDSpH"
