@@ -770,11 +770,11 @@ hash = "d3c841207ca304825f626a506bf49ba06e07265457c38fe286c2db6aab066fda"
 
 [[files]]
 file = "config/fancymenu/customization/brassworks_mainmenu.txt"
-hash = "3b3019aacaaadb827e14d07d26af6a30623672bf8dafd8fca18fca052a410790"
+hash = "de071984b4158de967398b56c0a2bd1dd66f0571968969a5ce0abaa6e5695420"
 
 [[files]]
 file = "config/fancymenu/customization/changelogscreen.txt"
-hash = "6c28cf7ebf3fee1fa041d18d7073ace383f33e9b3a9429c8be5e6547d240509d"
+hash = "a372fe19298d0d923310d7c35361a067c7bad90a23ddc1fcc19fb4f2381e314f"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
