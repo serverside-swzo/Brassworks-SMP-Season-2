@@ -1,0 +1,67 @@
+# This workflow builds and publishes your packwiz modpack to CurseForge.
+# It is triggered manually from the Actions tab on your GitHub repository.
+
+name: Publish Modpack to CurseForge
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to create a GitHub release
+
+    steps:
+      # 1. Checkout your repository code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Read the name and version from your pack.toml file
+      - name: Read pack.toml info
+        id: get_info
+        run: |
+          # Use grep and sed to extract the version and name from pack.toml
+          VERSION=$(grep '^version =' pack.toml | sed 's/version = "\(.*\)"/\1/')
+          NAME=$(grep '^name =' pack.toml | sed 's/name = "\(.*\)"/\1/')
+          
+          # Set the values as outputs for later steps
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "name=$NAME" >> $GITHUB_OUTPUT
+          
+          echo "Successfully read Pack Name: $NAME"
+          echo "Successfully read Pack Version: $VERSION"
+
+      # 3. Make the packwiz binary executable
+      - name: Make packwiz executable
+        run: chmod +x ./packwiz-linux
+
+      # 4. Run packwiz to generate the CurseForge pack
+      - name: Build CurseForge pack
+        run: ./packwiz-linux curseforge export
+
+      # 5. Use mc-publish to upload the modpack file to CurseForge
+      - name: Publish to CurseForge
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          # --- GENERAL ---
+          # Use the info from pack.toml for the release name and version
+          name: '${{ steps.get_info.outputs.name }} v${{ steps.get_info.outputs.version }}'
+          version: ${{ steps.get_info.outputs.version }}
+          
+          # The changelog is dynamically located based on the version
+          changelog-file: modpack-info/versions/${{ steps.get_info.outputs.version }}/changelog.txt
+          
+          # Your modpack details
+          loaders: neoforge
+          game-versions: 1.21.1
+
+          # The .zip file path. packwiz curseforge export creates a zip in the root.
+          # Using a wildcard is the safest way to find it.
+          files: '*.zip'
+
+          # --- CURSEFORGE ---
+          # IMPORTANT: Replace this with your CurseForge project ID (e.g., '123456')
+          curseforge-id: '1362645'
+          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
