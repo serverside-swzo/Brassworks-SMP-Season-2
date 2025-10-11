@@ -51,7 +51,7 @@ jobs:
           version: ${{ steps.get_info.outputs.version }}
           
           # The changelog is dynamically located based on the version
-          changelog-file: .modpack-info/versions/${{ steps.get_info.outputs.version }}/changelog.txt
+          changelog-file: modpack-info/versions/${{ steps.get_info.outputs.version }}/changelog.txt
           
           # Your modpack details
           loaders: neoforge
