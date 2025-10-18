@@ -1,0 +1,73 @@
+# This is a GitHub Actions workflow that automates the process of building your
+# Helios launcher distribution file from your Packwiz modpack.
+
+name: Build Distribution for Brassorks Launcher
+
+# Controls when the action will run.
+# It runs on pushes to the 'master' branch and can also be triggered manually.
+on:
+  push:
+    branches:
+      - master # Change this to 'main' if that is your default branch
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      # Give the workflow permission to write to the repository
+      contents: write
+
+    steps:
+      # 1. Checks out your repository under $GITHUB_WORKSPACE, so the job can access it
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Sets up a Python environment for the script
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 3. Installs the Python libraries required by the converter script
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests toml
+
+      # 4. Reads 'pack.toml' to get the modpack's version number for use in later steps
+      - name: Extract pack version
+        id: pack_version
+        run: |
+          # Use grep and sed to extract the version string from pack.toml
+          VERSION=$(grep '^version =' pack.toml | sed 's/version = "\(.*\)"/\1/')
+          # Set the version as an output for other steps to use
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "Successfully read Pack Version: $VERSION"
+
+      # 5. Runs the main conversion script to generate the Helios-compatible JSON file
+      - name: Run Packwiz to Helios Converter
+        run: python packwiz_to_helios.py
+
+      # 6. Updates the main distribution JSON file with the new version and the generated mod list
+      - name: Update Distribution JSON
+        run: |
+          # This command uses 'jq', a powerful command-line JSON processor.
+          # It updates the server version and merges the generated mod list into the modules array.
+          # It keeps the first module (NeoForge) and appends all the new ones after it.
+          jq --arg ver "${{ steps.pack_version.outputs.version }}" \
+             --slurpfile new_mods helios_index.json \
+             '(.servers[0].version = $ver) | (.servers[0].modules = ([.servers[0].modules[0]] + $new_mods[0]))' \
+             distribution.json > temp_dist.json && mv temp_dist.json distribution.json
+          
+          echo "distribution.json was updated successfully."
+
+      # 7. Commits the modified distribution.json file back to your repository
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated: Build distribution for Brassowrks Launcher: v${{ steps.pack_version.outputs.version }}"
+          file_pattern: distribution.json
+          commit_user_name: GitHub Actions Bot
+          commit_user_email: actions@github.com
+          commit_author: GitHub Actions Bot <actions@github.com>
