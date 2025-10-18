@@ -58,7 +58,7 @@ jobs:
           jq --arg ver "${{ steps.pack_version.outputs.version }}" \
              --slurpfile new_mods brassworks_launcher_index.json \
              '(.servers[0].version = $ver) | (.servers[0].modules = ([.servers[0].modules[0]] + $new_mods[0]))' \
-             distribution.json > temp_dist.json && mv temp_dist.json distribution.json
+             dist-blank-neo.json > temp_dist.json && mv temp_dist.json distribution.json
           
           echo "distribution.json was updated successfully."
 
