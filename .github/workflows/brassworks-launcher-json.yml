@@ -46,8 +46,8 @@ jobs:
           echo "Successfully read Pack Version: $VERSION"
 
       # 5. Runs the main conversion script to generate the Helios-compatible JSON file
-      - name: Run Packwiz to Helios Converter
-        run: python packwiz_to_helios.py
+      - name: Run Packwiz to Brassworks Launcher Converter
+        run: python3 packwiz-to-brassworks-launcher-json.py
 
       # 6. Updates the main distribution JSON file with the new version and the generated mod list
       - name: Update Distribution JSON
