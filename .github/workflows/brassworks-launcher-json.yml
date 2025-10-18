@@ -56,7 +56,7 @@ jobs:
           # It updates the server version and merges the generated mod list into the modules array.
           # It keeps the first module (NeoForge) and appends all the new ones after it.
           jq --arg ver "${{ steps.pack_version.outputs.version }}" \
-             --slurpfile new_mods helios_index.json \
+             --slurpfile new_mods brassworks_launcher_index.json \
              '(.servers[0].version = $ver) | (.servers[0].modules = ([.servers[0].modules[0]] + $new_mods[0]))' \
              distribution.json > temp_dist.json && mv temp_dist.json distribution.json
           
