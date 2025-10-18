@@ -6,3 +6,5 @@
 packwiz-linux
 .github/
 packwiz-to-brassworks-launcher-json.py
+distribution.json
+dist-blank-neo.json
