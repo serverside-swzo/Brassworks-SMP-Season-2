@@ -3,5 +3,6 @@
 .code/
 .modpack-info/
 .git
-./packwiz-linux
+packwiz-linux
 .github/
+packwiz-to-brassworks-launcher-json.py
