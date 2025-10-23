@@ -1,13 +1,13 @@
 name = "Woodworks"
-filename = "woodworks-1.21.1-4.0.1.jar"
+filename = "woodworks-1.21.1-4.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rv1sovni/versions/Z6hTcIv9/woodworks-1.21.1-4.0.1.jar"
+url = "https://cdn.modrinth.com/data/rv1sovni/versions/aJd8UVN0/woodworks-1.21.1-4.0.2.jar"
 hash-format = "sha512"
-hash = "bc1164d872882b2561004b81d32d78508704bdd3a21f3d53a45077474cb94ea5f989a9e29ea128a4b40ab147077cad51129f06240119fd096b4af00fd6db7b21"
+hash = "527f4749ebbb8713940b2a3d6555427a5912c6bee06211e7772e7d34686157bfe59aa9a667856da1b413903bcd847af294e8e2e65979ca83d644572d65c0a6ce"
 
 [update]
 [update.modrinth]
 mod-id = "rv1sovni"
-version = "Z6hTcIv9"
+version = "aJd8UVN0"
