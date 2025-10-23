@@ -1520,7 +1520,7 @@ hash = "de241e99c33070805a1f039d6edb46c67cd92c93c7787e177fa38d15ed9007da"
 
 [[files]]
 file = "kubejs/config/common.json"
-hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+hash = "b412abd9d987897b3c8679bfe42f41e12b3bcd8d186c021bd47eb861f4ee4748"
 
 [[files]]
 file = "kubejs/config/web_server.json"
@@ -2036,7 +2036,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "e534ae7a68601e4f9992faf77bcfb6189abf632a039fe05a859cb017712e971e"
+hash = "456b79359a83c83daa3dd2e5da4ca2b97aeea368776f966d4f3b2f066e489a9d"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
