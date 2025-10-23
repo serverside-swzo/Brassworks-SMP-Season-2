@@ -1976,7 +1976,7 @@ hash = "b6659bb2654d56ec4bf37a5bddb1e573400422978392a4cb3a41e4348ac00389"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "2f5d1dcaae5ffd7e50db3da74d4b9048743b8d2be1d5e54ada081acf75c7b431"
+hash = "338af5ac87b0beee532493383ed3ef29e4839b5bdd70c6d00b8344b43b3f99b3"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/EMIhideitems.js"
@@ -2048,7 +2048,7 @@ hash = "a2fcc87f018fcbf78953199329f2ca7126afd35f2b27360d4c8397c9f397cb89"
 
 [[files]]
 file = "modpack-info/versions/2.2.0/changelog.txt"
-hash = "082fa7cb13c54b31e7a804ebf48d279aca98db9b480ad77e1c92e2c5514ba9c7"
+hash = "f3ccf859360973e70eba3e58776963af9e834eccd170769a4a85eb2f1ad0f5dc"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -2525,7 +2525,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "b2fd921a19d5dc868d106a955fef1be231bdbccd0c47fc0ae4dbfe0c0897d906"
+hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
 
 [[files]]
@@ -2536,11 +2536,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "02e7081f4174098138496b3b57eac789d17132c1976ecd23a3c324740277a9d5"
-metafile = true
-
-[[files]]
-file = "mods/lootjs.pw.toml"
-hash = "7f7d4c3597600f2b452d78e4e47b7295e4e04f78be007d65a1fc639d3f1f9e29"
 metafile = true
 
 [[files]]
@@ -2580,7 +2575,7 @@ metafile = true
 
 [[files]]
 file = "mods/morejs.pw.toml"
-hash = "564b879b80fefa01331a62aded574c6f7d7f55c701f031e2b5072f02737560d0"
+hash = "01b7385901301a4e71c6aacfd944bdab25480b2e9a63f68b1154e10ae2078e25"
 metafile = true
 
 [[files]]
@@ -2669,7 +2664,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
+hash = "efbf6335f63bbe36976d27d294c9b649ab9102b02957c76bd3680e83f71c5d57"
 metafile = true
 
 [[files]]

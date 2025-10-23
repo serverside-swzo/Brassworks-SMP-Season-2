@@ -242,16 +242,6 @@ event.recipes.create.compacting(
     ]
   )
 
-// heave ho music disc
-  event.shaped('supplementaries:music_disc_heave_ho', [
-    'PPP',
-    'PMP',
-    'PPP'
-  ], {
-    P: '#minecraft:planks',
-    M: '#minecraft:music_discs'
-  })
-
 
   // Sniffer Wool Recipe
   event.shaped('brassworks:sniffer_wool', [
