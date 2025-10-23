@@ -862,7 +862,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "ccb74c55657f43587cacfaf5eea37a8b3ae5e81c4ef59633676f09a420d9bf6f"
+hash = "54d91c361c7cc4e875483baefc27d237a4d93491c621a95885a28f818e82998e"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -916,7 +916,7 @@ hash = "c28eaad908fd0c02c9525ae811dad51eba687a993c2d28155d9496517b14957c"
 
 [[files]]
 file = "config/simple-custom-early-loading/schematicbg.png"
-hash = "b7f5d796706c9242e4106cfb13dc35114739ddab732d6c53c655e41b8972ae55"
+hash = "53d6a3dae3e3357569fef393e8dbe660435fd9c2308a00aef105ab5e1f2817b9"
 
 [[files]]
 file = "config/simple-custom-early-loading/sniffy.apng"
@@ -924,7 +924,7 @@ hash = "d59b5bc2e907ed43b8cebeebec75f10ef36f280218ddd6079e629cbe48f1fffb"
 
 [[files]]
 file = "config/simple-custom-early-loading/title_logo.png"
-hash = "96ff849d64f86d9931ba2ca64c6c6f20864d9c988c1c2956bb6c1a0a5e714fdf"
+hash = "1af75be553982b8c422c1ca2613022c03493fbe846c736d669b3ee3ece6112e2"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -2036,7 +2036,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "7e9d330eb45fd125c1d991c3412b207834c0ce22ce94e2596cef430473ddf877"
+hash = "e534ae7a68601e4f9992faf77bcfb6189abf632a039fe05a859cb017712e971e"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2045,6 +2045,10 @@ hash = "12d148e280c6e62c33e7df0be09ad237d7fd7f131bf8f33cb829bd1de48774c5"
 [[files]]
 file = "modpack-info/versions/2.1.0/changelog.txt"
 hash = "a2fcc87f018fcbf78953199329f2ca7126afd35f2b27360d4c8397c9f397cb89"
+
+[[files]]
+file = "modpack-info/versions/2.2.0/changelog.txt"
+hash = "082fa7cb13c54b31e7a804ebf48d279aca98db9b480ad77e1c92e2c5514ba9c7"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"

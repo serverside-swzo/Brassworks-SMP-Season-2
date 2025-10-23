@@ -1,0 +1,80 @@
+## 🎃 Halloween Update
+
+### Updated
+- Updated main menu and assets to be Halloween themed
+- Updated menu panorama with a build by WillowSewn
+- Updated Brassworks missions
+- Updated Brassworks Core mod
+- Updated Sophisticated Core
+- Updated Create: Hypertubes
+- Updated Clayworks
+- Updated Moonlight Lib
+- Updated Iris & Oculus Flywheel Compat
+- Updated YetAnotherConfigLib (YACL)
+- Updated Create: Central Kitchen
+- Updated Just Enough Items (JEI)
+- Updated BaguetteLib
+- Updated Open Parties and Claims
+- Updated Supplementaries
+- Updated Geophilic
+- Updated Create: Fluid
+- Updated Chat Heads
+- Updated Amendments
+- Updated Simple Voice Chat
+- Updated Create: Enchantment Industry
+- Updated Create: Compatible Storage
+- Updated Create: Brassworks Missions
+- Updated KubeJS
+- Updated Rhino
+- Updated Woodworks
+- Updated LootJS: KubeJS Addon
+- Updated Fzzy Config
+- Updated Puzzles Lib
+- Updated Sort It Out!
+- Updated Blueprint
+- Updated Sophisticated Backpacks
+- Updated Create: Dragons Plus
+- Updated Complementary Shaders – Reimagined
+- Updated Create: Integrated Farming
+- Updated MoreJS
+
+### Added
+- Added Owner and Eventiffer ranks
+- Added another furniture
+- Added Brewin and Chewin
+- Added Plum Tea
+- Added Critters and Companions
+- Added Display Delight
+- Added Gearn's n Kinetics
+- Added Haunted Harvest
+- Added Seasonal Decorations mod
+- Added Villager in a Bucket mod
+- Added Asurine recipe
+- Added Blaze Rod recipe
+- Added Right Click Harvest mod
+- Added Zoom mod
+- Added Inventory Sort mod
+- Added Briding mod
+- Added Trade Cycling mod
+- Added Create: More Package Couriers
+- Added In-game changelog and update notification when the modpack is out of date
+- Added tooltips to main menu buttons
+- Added soundtrack+ resourcepack by Pipo
+- Added gunpowder recipe
+- Added chest recipe for modded planks
+- Added support for gradients in /nick using format @<#FF0000:#00FF00>
+- Added recipe to duplicate exposure photos
+- Added dough block compacting recipe without bucket
+- Remade Brasscast system in mods instead of KubeJS and made it faster
+
+### Fixed
+- Fixed millstone yielding double output bug
+- Fixed super experience tools not being enchantable
+
+### Disabled / Removed / Nerfed
+- Disabled advanced cauldrons from Amendments
+- Disabled copper tap and experience tea due to bugs
+- Nerfed all custom teas
+- Removed Create Confectionary
+- Removed Peach Tea
+- Removed Herobrine
