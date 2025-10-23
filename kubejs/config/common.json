@@ -1,7 +1,7 @@
 {
   "hide_server_script_errors": false,
   "server_only": false,
-  "announce_reload": true,
+  "announce_reload": false,
   "packmode": "",
   "save_dev_properties_in_config": false,
   "allow_async_streams": true,
