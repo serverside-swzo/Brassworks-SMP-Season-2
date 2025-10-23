@@ -1,0 +1,698 @@
+[
+  {
+    "id": "brassworksmissions:break_block",
+    "weight": 10.0,
+    "titles": [
+      "Lumberjack's Duty",
+      "Deforestation Expert",
+      "Wood Supply"
+    ],
+    "requirement": {
+      "requirementType": "block",
+      "item": [
+        "minecraft:sand",
+        "minecraft:gravel",
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:clay",
+        "minecraft:snow_block",
+        "minecraft:hay_block",
+        "minecraft:moss_block",
+        "minecraft:melon",
+        "minecraft:pumpkin"
+      ],
+      "minAmount": 16,
+      "maxAmount": 32
+    },
+    "reward": {
+      "minAmount": 2,
+      "maxAmount": 6
+    }
+  },
+  {
+    "id": "brassworksmissions:break_block",
+    "weight": 10.0,
+    "titles": [
+      "Timber Collector",
+      "Woodcutter's Task",
+      "Forest Forager"
+    ],
+    "requirement": {
+      "requirementType": "block",
+      "item": [
+        "minecraft:oak_log",
+        "minecraft:spruce_log",
+        "minecraft:birch_log",
+        "minecraft:jungle_log",
+        "minecraft:acacia_log",
+        "minecraft:dark_oak_log",
+        "minecraft:mangrove_log"
+      ],
+      "minAmount": 16,
+      "maxAmount": 32
+    },
+    "reward": {
+      "minAmount": 2,
+      "maxAmount": 6
+    }
+  },
+  {
+    "id": "brassworksmissions:consume_item",
+    "weight": 10.0,
+    "titles": [
+      "Gourmet",
+      "Hearty Eater",
+      "Bottomless Stomach"
+    ],
+    "requirement": {
+      "requirementType": "item",
+      "item": [
+        "minecraft:apple",
+        "minecraft:bread",
+        "minecraft:cooked_beef",
+        "minecraft:cooked_chicken",
+        "minecraft:cooked_porkchop",
+        "minecraft:cooked_mutton",
+        "minecraft:cooked_cod",
+        "minecraft:cooked_salmon",
+        "minecraft:carrot",
+        "minecraft:potato",
+        "minecraft:baked_potato",
+        "minecraft:beetroot",
+        "minecraft:beetroot_soup",
+        "minecraft:pumpkin_pie",
+        "minecraft:cookie",
+        "minecraft:melon_slice",
+        "farmersdelight:cabbage",
+        "farmersdelight:tomato",
+        "farmersdelight:onion",
+        "farmersdelight:rice",
+        "farmersdelight:apple_pie"
+      ],
+      "minAmount": 16,
+      "maxAmount": 32
+    },
+    "reward": {
+      "minAmount": 2,
+      "maxAmount": 6
+    }
+  },
+  {
+    "id": "brassworksmissions:fish_item",
+    "weight": 10.0,
+    "titles": [
+      "Master Angler",
+      "Gone Fishin'",
+      "Seafood Supper"
+    ],
+    "requirement": {
+      "requirementType": "item",
+      "item": [
+        "minecraft:cod",
+        "minecraft:salmon",
+        "minecraft:tropical_fish",
+        "minecraft:pufferfish"
+      ],
+      "minAmount": 10,
+      "maxAmount": 20
+    },
+    "reward": {
+      "minAmount": 2,
+      "maxAmount": 6
+    }
+  },
+  {
+    "id": "brassworksmissions:breed_animals",
+    "weight": 10.0,
+    "titles": [
+      "Animal Husbandry",
+      "Rancher's Roundup",
+      "Barnyard Business"
+    ],
+    "requirement": {
+      "requirementType": "entity",
+      "item": [
+        "minecraft:cow_spawn_egg",
+        "minecraft:sheep_spawn_egg",
+        "minecraft:pig_spawn_egg",
+        "minecraft:chicken_spawn_egg",
+        "minecraft:horse_spawn_egg",
+        "minecraft:rabbit_spawn_egg",
+        "minecraft:fox_spawn_egg",
+        "minecraft:mooshroom_spawn_egg",
+        "minecraft:bee_spawn_egg",
+        "minecraft:sniffer_spawn_egg"
+      ],
+      "minAmount": 3,
+      "maxAmount": 7
+    },
+    "reward": {
+      "minAmount": 2,
+      "maxAmount": 6
+    }
+  },
+  {
+    "id": "brassworksmissions:craft_item",
+    "weight": 10.0,
+    "titles": [
+      "Master Crafter",
+      "Artisan's Request",
+      "Workshop Order"
+    ],
+    "requirement": {
+      "requirementType": "item",
+      "item": [
+        "minecraft:diamond_pickaxe",
+        "minecraft:iron_pickaxe",
+        "minecraft:wooden_pickaxe",
+        "minecraft:stone_pickaxe",
+        "minecraft:golden_pickaxe",
+        "minecraft:diamond_sword",
+        "minecraft:iron_sword",
+        "minecraft:bow",
+        "minecraft:fishing_rod",
+        "minecraft:shield",
+        "farmersdelight:cutting_board",
+        "farmersdelight:iron_knife"
+      ],
+      "minAmount": 1,
+      "maxAmount": 1
+    },
+    "reward": {
+      "minAmount": 2,
+      "maxAmount": 6
+    }
+  },
+  {
+    "id": "brassworksmissions:harvest",
+    "weight": 10.0,
+    "titles": [
+      "Crop Collector",
+      "Field Reaper",
+      "Bountiful Harvest"
+    ],
+    "requirement": {
+      "requirementType": "block",
+      "item": [
+        "minecraft:wheat_seeds",
+        "minecraft:carrot",
+        "minecraft:potato",
+        "minecraft:beetroot",
+        "minecraft:sugar_cane",
+        "farmersdelight:tomato_seeds",
+        "farmersdelight:cabbage_seeds",
+        "farmersdelight:onion"
+      ],
+      "minAmount": 16,
+      "maxAmount": 32
+    },
+    "reward": {
+      "minAmount": 2,
+      "maxAmount": 6
+    }
+  },
+  {
+    "id": "brassworksmissions:reach_experience_level",
+    "weight": 8.0,
+    "titles": [
+      "Level Up!",
+      "Experienced Adventurer",
+      "Knowledge Seeker"
+    ],
+    "requirement": {
+      "requirementType": "level",
+      "item": [
+        "create:experience_nugget"
+      ],
+      "minAmount": 10,
+      "maxAmount": 96
+    },
+    "reward": {
+      "minAmount": 4,
+      "maxAmount": 8
+    }
+  },
+  {
+    "id": "brassworksmissions:mix_item",
+    "weight": 8.0,
+    "titles": [
+      "Alloy Architect",
+      "Master Mixer",
+      "Brass Bonanza"
+    ],
+    "requirement": {
+      "requirementType": "item",
+      "item": [
+        "create:brass_ingot",
+        "create:pulp",
+        "create:andesite_alloy",
+        "minecraft:mud",
+        "create:dough",
+        "farmersdelight:pie_crust",
+        "farmersdelight:tomato_sauce"
+      ],
+      "minAmount": 32,
+      "maxAmount": 64
+    },
+    "reward": {
+      "minAmount": 4,
+      "maxAmount": 8
+    }
+  },
+  {
+    "id": "brassworksmissions:compact_item",
+    "weight": 8.0,
+    "titles": [
+      "Plate Presser",
+      "Stack & Smash",
+      "Compressed Creations"
+    ],
+    "requirement": {
+      "requirementType": "item",
+      "item": [
+        "minecraft:iron_block",
+        "create:brass_block",
+        "create:andesite_alloy_block",
+        "minecraft:gold_block",
+        "farmersdelight:straw_bale"
+      ],
+      "minAmount": 32,
+      "maxAmount": 64
+    },
+    "reward": {
+      "minAmount": 4,
+      "maxAmount": 8
+    }
+  },
+  {
+    "id": "brassworksmissions:press_item",
+    "weight": 8.0,
+    "titles": [
+      "Sheet Metal Stamper",
+      "Plate Producer",
+      "Industrial Imprint"
+    ],
+    "requirement": {
+      "requirementType": "item",
+      "item": [
+        "create:iron_sheet",
+        "create:brass_sheet",
+        "create:copper_sheet",
+        "create:golden_sheet",
+        "minecraft:paper",
+        "create:cardboard"
+      ],
+      "minAmount": 64,
+      "maxAmount": 128
+    },
+    "reward": {
+      "minAmount": 4,
+      "maxAmount": 8
+    }
+  },
+  {
+    "id": "brassworksmissions:saw",
+    "weight": 8.0,
+    "titles": [
+      "Industrial Lumberjack",
+      "Forest Forager",
+      "Timber Titan"
+    ],
+    "requirement": {
+      "requirementType": "block",
+      "item": [
+        "minecraft:oak_log",
+        "minecraft:spruce_log",
+        "minecraft:birch_log",
+        "minecraft:jungle_log",
+        "minecraft:acacia_log",
+        "minecraft:dark_oak_log",
+        "minecraft:mangrove_log",
+        "minecraft:crimson_stem",
+        "minecraft:warped_stem"
+      ],
+      "minAmount": 64,
+      "maxAmount": 392
+    },
+    "reward": {
+      "minAmount": 4,
+      "maxAmount": 8
+    }
+  },
+  {
+    "id": "brassworksmissions:crush_item",
+    "weight": 8.0,
+    "titles": [
+      "Ore Processor",
+      "Mechanical Crusher",
+      "Pulverizer Pro"
+    ],
+    "requirement": {
+      "requirementType": "item",
+      "item": [
+        "create:crushed_raw_iron",
+        "create:crushed_raw_copper",
+        "create:crushed_raw_gold",
+        "create:crushed_raw_zinc",
+        "create:cinder_flour",
+        "minecraft:coal",
+        "minecraft:quartz",
+        "minecraft:redstone",
+        "minecraft:lapis_lazuli",
+        "minecraft:blaze_powder",
+        "minecraft:diamond",
+        "minecraft:nether_wart",
+        "farmersdelight:tomato"
+      ],
+      "minAmount": 96,
+      "maxAmount": 256
+    },
+    "reward": {
+      "minAmount": 4,
+      "maxAmount": 8
+    }
+  },
+  {
+    "id": "brassworksmissions:mill_item",
+    "weight": 8.0,
+    "titles": [
+      "Master Miller",
+      "Flour Power",
+      "Grain Grinder"
+    ],
+    "requirement": {
+      "requirementType": "item",
+      "item": [
+        "minecraft:black_dye",
+        "minecraft:bone_meal",
+        "minecraft:green_dye",
+        "minecraft:white_dye",
+        "minecraft:cobblestone",
+        "minecraft:gravel",
+        "create:wheat_flour",
+        "minecraft:flint",
+        "minecraft:sand",
+        "minecraft:red_sand",
+        "create:wheat_flour"
+      ],
+      "minAmount": 64,
+      "maxAmount": 128
+    },
+    "reward": {
+      "minAmount": 4,
+      "maxAmount": 8
+    }
+  },
+  {
+    "id": "brassworksmissions:cut_item",
+    "weight": 8.0,
+    "titles": [
+      "Precision Cutter",
+      "Stone Shaper",
+      "Granite Grinder"
+    ],
+    "requirement": {
+      "requirementType": "item",
+      "item": [
+        "create:copper_scaffolding",
+        "create:copper_table_cloth",
+        "create:andesite_table_cloth",
+        "create:andesite_scaffolding",
+        "create:copycat_panel",
+        "create:copycat_step",
+        "create:rose_quartz_block",
+        "create:small_rose_quartz_tiles",
+        "create:brass_scaffolding",
+        "create:brass_table_cloth",
+        "minecraft:copper_grate",
+        "create:industrial_iron_block",
+        "create:weathered_iron_block",
+        "farmersdelight:cutting_board"
+      ],
+      "minAmount": 64,
+      "maxAmount": 512
+    },
+    "reward": {
+      "minAmount": 4,
+      "maxAmount": 8
+    }
+  },
+  {
+    "id": "brassworksmissions:harvest",
+    "weight": 8.0,
+    "titles": [
+      "Harvest Run",
+      "Field Reaper",
+      "Gatherer's Glory"
+    ],
+    "requirement": {
+      "requirementType": "block",
+      "item": [
+        "minecraft:beetroot",
+        "minecraft:potato",
+        "minecraft:carrot",
+        "minecraft:torchflower_seeds",
+        "minecraft:pitcher_pod",
+        "minecraft:beetroot_seeds",
+        "minecraft:wheat_seeds",
+        "minecraft:cocoa_beans",
+        "minecraft:nether_wart",
+        "minecraft:sugar_cane",
+        "minecraft:kelp",
+        "farmersdelight:tomato_seeds",
+        "farmersdelight:cabbage_seeds"
+      ],
+      "minAmount": 32,
+      "maxAmount": 228
+    },
+    "reward": {
+      "minAmount": 4,
+      "maxAmount": 8
+    }
+  },
+  {
+    "id": "brassworksmissions:mechanical_craft",
+    "weight": 6.0,
+    "titles": [
+      "Assembly Line",
+      "Automated Crafter",
+      "Mass Production"
+    ],
+    "requirement": {
+      "requirementType": "item",
+      "item": [
+        "create:wand_of_symmetry",
+        "create:extendo_grip",
+        "create:crushing_wheel",
+        "create:potato_cannon"
+      ],
+      "minAmount": 1,
+      "maxAmount": 2
+    },
+    "reward": {
+      "minAmount": 6,
+      "maxAmount": 9
+    }
+  },
+  {
+    "id": "brassworksmissions:drill_block",
+    "weight": 6.0,
+    "titles": [
+      "Mining Operation",
+      "Rock Breaker",
+      "Quarry Master"
+    ],
+    "requirement": {
+      "requirementType": "block",
+      "item": [
+        "minecraft:coal_ore",
+        "minecraft:iron_ore",
+        "minecraft:deepslate_iron_ore",
+        "minecraft:copper_ore",
+        "minecraft:deepslate_gold_ore",
+        "minecraft:emerald_ore",
+        "minecraft:deepslate_redstone_ore",
+        "minecraft:nether_gold_ore",
+        "minecraft:deepslate_diamond_ore",
+        "minecraft:nether_quartz_ore",
+        "create:zinc_ore",
+        "create:deepslate_zinc_ore",
+        "minecraft:deepslate_lapis_ore"
+      ],
+      "minAmount": 512,
+      "maxAmount": 1024
+    },
+    "reward": {
+      "minAmount": 6,
+      "maxAmount": 9
+    }
+  },
+  {
+    "id": "brassworksmissions:move_on_belt",
+    "weight": 6.0,
+    "titles": [
+      "Conveyor Commuter",
+      "Moving Walkway",
+      "Factory Floor"
+    ],
+    "requirement": {
+      "requirementType": "distance",
+      "item": [
+        "create:belt_connector"
+      ],
+      "minAmount": 2000,
+      "maxAmount": 7000
+    },
+    "reward": {
+      "minAmount": 6,
+      "maxAmount": 9
+    }
+  },
+  {
+    "id": "brassworksmissions:walk",
+    "weight": 6.0,
+    "titles": [
+      "Long Walk",
+      "Explorer",
+      "Pathfinder"
+    ],
+    "requirement": {
+      "requirementType": "distance",
+      "item": [
+        "minecraft:leather_boots"
+      ],
+      "minAmount": 1000,
+      "maxAmount": 20000
+    },
+    "reward": {
+      "minAmount": 6,
+      "maxAmount": 9
+    }
+  },
+  {
+    "id": "brassworksmissions:drive_boat",
+    "weight": 6.0,
+    "titles": [
+      "Sailor",
+      "Ocean Explorer",
+      "By Sea"
+    ],
+    "requirement": {
+      "requirementType": "distance",
+      "item": [
+        "minecraft:oak_boat"
+      ],
+      "minAmount": 1000,
+      "maxAmount": 9000
+    },
+    "reward": {
+      "minAmount": 6,
+      "maxAmount": 9
+    }
+  },
+  {
+    "id": "brassworksmissions:fly_elytra",
+    "weight": 6.0,
+    "titles": [
+      "Aviator",
+      "Sky High",
+      "Glide Master"
+    ],
+    "requirement": {
+      "requirementType": "distance",
+      "item": [
+        "minecraft:elytra"
+      ],
+      "minAmount": 10000,
+      "maxAmount": 30000
+    },
+    "reward": {
+      "minAmount": 6,
+      "maxAmount": 9
+    }
+  },
+  {
+    "id": "brassworksmissions:ride_mob",
+    "weight": 6.0,
+    "titles": [
+      "Rider",
+      "Beast Master",
+      "Mounted Mission"
+    ],
+    "requirement": {
+      "requirementType": "distance",
+      "item": [
+        "minecraft:saddle"
+      ],
+      "minAmount": 1000,
+      "maxAmount": 12000
+    },
+    "reward": {
+      "minAmount": 6,
+      "maxAmount": 9
+    }
+  },
+  {
+    "id": "brassworksmissions:use_totem",
+    "weight": 1.0,
+    "titles": [
+      "Death Defier",
+      "Cheating Fate",
+      "Undying Loyalty"
+    ],
+    "requirement": {
+      "requirementType": "count",
+      "item": [
+        "minecraft:totem_of_undying"
+      ],
+      "minAmount": 1,
+      "maxAmount": 1
+    },
+    "reward": {
+      "minAmount": 10,
+      "maxAmount": 15
+    }
+  },
+  {
+    "id": "brassworksmissions:break_block",
+    "weight": 1.0,
+    "titles": [
+      "Mine Ancient Debris",
+      "Rare Excavation",
+      "Nether Treasure"
+    ],
+    "requirement": {
+      "requirementType": "block",
+      "item": [
+        "minecraft:ancient_debris"
+      ],
+      "minAmount": 3,
+      "maxAmount": 5
+    },
+    "reward": {
+      "minAmount": 10,
+      "maxAmount": 15
+    }
+  },
+  {
+    "id": "brassworksmissions:eat_cake_slice",
+    "weight": 1.0,
+    "titles": [
+      "Sweet Tooth",
+      "Have Your Cake",
+      "Slice by Slice"
+    ],
+    "requirement": {
+      "requirementType": "count",
+      "item": [
+        "minecraft:cake"
+      ],
+      "minAmount": 7,
+      "maxAmount": 24
+    },
+    "reward": {
+      "minAmount": 10,
+      "maxAmount": 15
+    }
+  }
+]

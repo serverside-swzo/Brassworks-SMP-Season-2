@@ -89,6 +89,33 @@
             "height": 7,
             "ascent": 7,
             "type": "bitmap"
+        },
+        {
+            "file": "brassworks:gui/ranks/owner.png",
+            "chars": [
+                ""
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "brassworks:gui/ranks/brasscast.png",
+            "chars": [
+                ""
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "brassworks:gui/ranks/eventiffer.png",
+            "chars": [
+                ""
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
         }
     ]
 }

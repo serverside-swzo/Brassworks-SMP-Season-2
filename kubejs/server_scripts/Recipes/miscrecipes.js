@@ -1,10 +1,15 @@
 // KubeJS 1.21.1 migration: Ensure Fluid.of and Item.of are available
 // Remove redeclaration to avoid TypeError
 
+ServerEvents.tags('block', event => {
+  event.add('create:wrench_pickup', 'drill_drain:drill_drain')
+  event.add('minecraft:mineable/pickaxe', 'drill_drain:drill_drain')
+})
+
 ServerEvents.recipes(event => {
   // Recipe Removals
   addCreateRecipeHandler(event);
-  
+
   event.remove({ mod: 'createaddition' });
   event.remove({ type: 'clayworks:baking' })
 
@@ -21,8 +26,6 @@ ServerEvents.recipes(event => {
 
 var recipesToRemove = [
   'minecraft:lead',
-  'create:crushing/tuff',
-  'create:crushing/tuff_recycling',
   'createfood:create/mixing/salt_from_mixing_water',
   'minecraft:shulker_box',
   'create_mechanical_chicken:compacting/compacting_seed_oil',
@@ -75,23 +78,24 @@ event.recipes.create.mixing(
     ]
   )
 
-  event.recipes.create.cutting('minecraft:barrel', '#minecraft:logs')
-	
-  event.recipes.create.mixing(
-    Item.of('minecraft:gilded_blackstone'),
+event.recipes.create.compacting(
+    Item.of('create_compressed:dough_block', 1),
     [
-      'minecraft:blackstone',
-      Item.of('minecraft:gold_nugget', 24)
+      Fluid.of('minecraft:water', 1000),
+      'create_compressed:wheat_flour_pile'
     ]
-  ).heated();
+  )
+
+  event.recipes.create.cutting('minecraft:barrel', '#minecraft:logs')
+
 
    event.recipes.create.mixing(
     Item.of('minecraft:gilded_blackstone'),
     [
       'minecraft:blackstone',
-      Item.of('minecraft:gold_nugget', 24)
+      Item.of('24x minecraft:gold_nugget')
     ]
-  ).heated();
+  ).heated()
 
   event.shapeless(
     'minecraft:chest',
@@ -149,18 +153,16 @@ event.recipes.create.mixing(
       '#minecraft:logs_that_burn'
     ]
   ).heated();
-	
 
-
-    event.recipes.create.mixing(
-    Item.of('minecraft:tuff', 2),
+  event.recipes.create.mixing(
+    'create:asurine',
     [
-      'minecraft:stone',
-      'minecraft:cobblestone',
-      'minecraft:quartz'
+      'minecraft:andesite',
+        'minecraft:lapis_lazuli',
+        'minecraft:quartz'
     ]
-  )
-  
+  ).heated();
+
   // Porkchop + Ash → Soap (Create compacting)
   event.recipes.create.compacting(
     Item.of('supplementaries:soap', 6),
@@ -171,14 +173,14 @@ event.recipes.create.mixing(
     ]
   )
   .id('kubejs:porkchop_ash_to_soap')
-  
-  
+
+
   // Minecraft: Pointed Dripstone (Create crushing)
   event.recipes.create.crushing([
     Item.of('minecraft:pointed_dripstone', 2),
     withChance('minecraft:pointed_dripstone',0.5)
   ], 'minecraft:dripstone_block')
-  
+
   // Alternative Pointed Dripstone (Create mixing)
   event.recipes.create.mixing(
     'minecraft:pointed_dripstone',
@@ -273,6 +275,7 @@ event.recipes.create.mixing(
     Fluid.of('create:honey', 250)
   ])
 
+
   // 4. Spouting honey on wheat → 4 honey cookies
   event.recipes.create.filling(Item.of('farmersdelight:honey_cookie', 4), [
     'minecraft:wheat',
@@ -305,7 +308,7 @@ event.recipes.create.mixing(
     'minecraft:paper',
     Fluid.of('create:honey', 250)
   ])
-  
+
 
   // Sniffer Carpet Recipe
   event.shaped('3x brassworks:sniffer_carpet', [
@@ -316,8 +319,8 @@ event.recipes.create.mixing(
 
   // Smelt Bank Terminal into a Spur
   event.smelting(
-    'numismatics:spur',          
-    'numismatics:bank_terminal'  
+    'numismatics:spur',
+    'numismatics:bank_terminal'
   )
   .xp(0.1)
   .id('kubejs:smelting/bank_terminal_to_spur')
@@ -331,7 +334,7 @@ event.recipes.create.mixing(
   ]
 ).id('kubejs:whitened_pulp');
 
-  
+
   // Convert Whitened Pulp to Paper (Create pressing)
   event.recipes.create.pressing(
     'minecraft:paper',
@@ -341,6 +344,14 @@ event.recipes.create.mixing(
 
   //direct chute recipe
   event.recipes.create.filling(
+    'minecraft:blaze_rod',
+    [
+      'create_aquatic_ambitions:prismarine_alloy_rod',
+      Fluid.of('minecraft:lava', 1000)
+    ]
+  )
+
+ event.recipes.create.filling(
     'direct_chute:direct_chute',
     [
       'create:chute',
@@ -410,11 +421,11 @@ event.recipes.create.mixing(
   .id('kubejs:lumisene_bottle_filling')
 
   event.recipes.create.filling(
-    '1x brassworks:lumisene_roll', 
-    [ 
-      'minecraft:bread', 
-      Fluid.of('supplementaries:lumisene', 250) 
-    ] 
+    '1x brassworks:lumisene_roll',
+    [
+      'minecraft:bread',
+      Fluid.of('supplementaries:lumisene', 250)
+    ]
   ).id('kubejs:lumisene_roll_filling');
 
       event.recipes.create.finalize();
@@ -494,7 +505,10 @@ ServerEvents.tags('item', event => {
         'petrolpark:badge/competition_winner',
         'petrolpark:badge/bestie',
         'petrolpark:badge/beta_tester',
-        'petrolpark:badge/early_bird'
+        'petrolpark:badge/early_bird',
+		'immersive_aircraft:rotary_cannon',
+		'fluid:copper_tap',
+		'createtea:experienced_tea'
     ])
 
     event.add('kubejs:all_custom_planks', [
