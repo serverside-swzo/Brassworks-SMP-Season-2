@@ -32,6 +32,16 @@
                 "generic": "https://brassworks.572.at/"
             }
         }
+    },
+    {
+        "id": "2.2.1",
+        "releasedAt": 1761292547000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+                "generic": "https://brassworks.572.at/"
+            }
+        }
     }
   ]
 }
