@@ -862,7 +862,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "54d91c361c7cc4e875483baefc27d237a4d93491c621a95885a28f818e82998e"
+hash = "5887143395b69cca61af68e2ee5dd5e1a044482f6874278e473e9e3476b28283"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -2036,7 +2036,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "456b79359a83c83daa3dd2e5da4ca2b97aeea368776f966d4f3b2f066e489a9d"
+hash = "05730091800a893d666d8c0a900284cd64405c1cf4012aba1337dc8ab1bd05d3"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2049,6 +2049,10 @@ hash = "a2fcc87f018fcbf78953199329f2ca7126afd35f2b27360d4c8397c9f397cb89"
 [[files]]
 file = "modpack-info/versions/2.2.0/changelog.txt"
 hash = "f3ccf859360973e70eba3e58776963af9e834eccd170769a4a85eb2f1ad0f5dc"
+
+[[files]]
+file = "modpack-info/versions/2.2.1/changelog.txt"
+hash = "e8e7753cf6ede954d7cb74eb6211c36a1f47c3918607a753a6fb03b7001e73bd"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -2113,11 +2117,6 @@ metafile = true
 [[files]]
 file = "mods/brassworkscore-1.4.jar"
 hash = "44da607ab776e923603b49760dae69da0c1ee1c4b7c3622de7ee66289ebac0d5"
-
-[[files]]
-file = "mods/brewin-and-chewin.pw.toml"
-hash = "ef7c9b68b65e7baab19dc84903f068de6714e6f306052940f53c747743d3025e"
-metafile = true
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
@@ -2536,6 +2535,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "02e7081f4174098138496b3b57eac789d17132c1976ecd23a3c324740277a9d5"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "73f7b7e75ceff0c57ea9a5479208060646e7070da31985e163fa16a69bde3273"
 metafile = true
 
 [[files]]

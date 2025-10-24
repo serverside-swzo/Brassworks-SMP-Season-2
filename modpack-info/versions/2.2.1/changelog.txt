@@ -1,0 +1,5 @@
+### Fixed
+- Fixed hidden lootjs bug that caused some problems
+
+### Removed
+- Removed Brewin and Chewin Due to buggy behavior
