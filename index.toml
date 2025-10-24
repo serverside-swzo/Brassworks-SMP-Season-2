@@ -2052,7 +2052,7 @@ hash = "f3ccf859360973e70eba3e58776963af9e834eccd170769a4a85eb2f1ad0f5dc"
 
 [[files]]
 file = "modpack-info/versions/2.2.1/changelog.txt"
-hash = "e0a435068efa043ede8870c9f2c9130ff35403fc331fa0d95c19c45426781901"
+hash = "e8e7753cf6ede954d7cb74eb6211c36a1f47c3918607a753a6fb03b7001e73bd"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
