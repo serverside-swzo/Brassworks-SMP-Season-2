@@ -332,7 +332,12 @@ event.recipes.create.mixing(
   )
   .id('kubejs:whitened_pulp_to_paper')
 
-  //direct chute recipe
+event.recipes.create.pressing(
+    'minecraft:leather',
+    'createframed:brown_cardboard_block'
+  )
+  .id('kubejs:brown_cardboard_block_to_leather')
+
   event.recipes.create.filling(
     'minecraft:blaze_rod',
     [
@@ -437,7 +442,6 @@ ServerEvents.tags('item', event => {
         'createqol:inventory_linker',
         'immersive_aircraft:bomb_bay',
         'immersive_aircraft:heavy_crossbow',
-        'immersive_aircraft:bamboo_hopper',
         'immersive_aircraft:warship',
         'brassworks:shop_1',
         'brassworks:shop_2',

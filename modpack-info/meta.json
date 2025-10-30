@@ -9,7 +9,7 @@
         "promotions": {
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.572.at/"
+                "generic": "https://brassworks.opnsoc.org/"
             }
         }
     },
@@ -19,7 +19,7 @@
         "promotions": {
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.572.at/"
+                "generic": "https://brassworks.opnsoc.org/"
             }
         }
     },
@@ -29,7 +29,7 @@
         "promotions": {
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.572.at/"
+                "generic": "https://brassworks.opnsoc.org/"
             }
         }
     },
@@ -39,7 +39,17 @@
         "promotions": {
             "downloads": {
                 "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.572.at/"
+                "generic": "https://brassworks.opnsoc.org/"
+            }
+        }
+    },
+    {
+        "id": "2.2.2",
+        "releasedAt": 1761854423000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+                "generic": "https://brassworks.opnsoc.org/"
             }
         }
     }
