@@ -774,7 +774,7 @@ hash = "d3c841207ca304825f626a506bf49ba06e07265457c38fe286c2db6aab066fda"
 
 [[files]]
 file = "config/fancymenu/customization/brassworks_mainmenu.txt"
-hash = "de071984b4158de967398b56c0a2bd1dd66f0571968969a5ce0abaa6e5695420"
+hash = "2d20633687502b7befd53f6be62c58026fc7dfff91ac736ccc05249656c757d5"
 
 [[files]]
 file = "config/fancymenu/customization/changelogscreen.txt"
@@ -830,7 +830,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "cf7c94addec9576c1dc90132a801e327857c1aa7f662c4115cff5efadd5ac606"
+hash = "d8e4b950f5e22507c4b682ae718d551da1c872f766644dabcfc1cb796448e387"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -838,7 +838,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "3e3b3bbee1e653637a0288c067b6852f9e22f1c21fe4bc106f6e54915b19517a"
+hash = "284e153c1ca7299245ddd980680ca2a6ca9abfacbecb817a3602421d065ab166"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -857,16 +857,20 @@ file = "config/fml.toml"
 hash = "23710bf5c5cc2268645b9213e4c8f96a0fda4c8069e88fb52b97d7aa11171208"
 
 [[files]]
+file = "config/fog/config.json"
+hash = "e70591b29defcdbd8b3317a1c3c1374259acd281112736db96ad0fa775a5ab16"
+
+[[files]]
 file = "config/modpack-update-checker-info.txt"
 hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "5887143395b69cca61af68e2ee5dd5e1a044482f6874278e473e9e3476b28283"
+hash = "1d79f21da08c9e363e38c9a45ac31b073a73e6b224c03479e12179d961b17da6"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
-hash = "28b6d115b7eaec2b709ec2ebc255e0b2a7380f910bd0879583107264d7673de1"
+hash = "5fb8e3a35e0a4f3d991b5595ef584d953131d5ed241c1ccc45e03998bd0abb99"
 
 [[files]]
 file = "config/paxi/datapacks/bat membranes v1.0.15 (MC 1.21-1.21.9).zip"
@@ -875,6 +879,10 @@ hash = "01bfe13386073933ac4902043daefeb990365da27bbc2007a5889e022821c5d9"
 [[files]]
 file = "config/paxi/datapacks/double shulker shells v1.3.14 (MC 1.21-1.21.9).zip"
 hash = "b1b50d0976d8eeb117c4c1c3f3ac653f6f8a015086ada3d771bed89ff7c521f9"
+
+[[files]]
+file = "config/paxi/datapacks/emojiful-brassworks.zip"
+hash = "ae16ce4056bef87ce553ba9eea2548f2d7fba84c536728c6b34fa50d5bdfbea9"
 
 [[files]]
 file = "config/paxi/datapacks/silence mobs v1.2.8 (MC 1.21-1.21.9).zip"
@@ -1296,7 +1304,7 @@ hash = "2ca37d31da1869a2382b094bec111f1de9112bfa5309a75a91ff87e1129be676"
 
 [[files]]
 file = "kubejs/assets/minecraft/font/default.json"
-hash = "330a9562b85c8d0882b39b17b9a4c54df0cc1f145dc8c2e91d04645fd4134c6b"
+hash = "c9ca8d3538a668c300d176a5ef2a614b1b0915964cc2ab347cda9676c2b63fe0"
 
 [[files]]
 file = "kubejs/assets/minecraft/models/block/moss_carpet.json"
@@ -1976,7 +1984,7 @@ hash = "b6659bb2654d56ec4bf37a5bddb1e573400422978392a4cb3a41e4348ac00389"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "338af5ac87b0beee532493383ed3ef29e4839b5bdd70c6d00b8344b43b3f99b3"
+hash = "9a1576664e73c0e940a4b917c9f18792635b283ece9b3cc9d19943727a11a2f8"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/EMIhideitems.js"
@@ -2036,7 +2044,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "05730091800a893d666d8c0a900284cd64405c1cf4012aba1337dc8ab1bd05d3"
+hash = "b1aab41d19196448d94f1d0583068042858d5f028e730f5bd611988ed9f3f4d8"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2055,8 +2063,17 @@ file = "modpack-info/versions/2.2.1/changelog.txt"
 hash = "e8e7753cf6ede954d7cb74eb6211c36a1f47c3918607a753a6fb03b7001e73bd"
 
 [[files]]
+file = "modpack-info/versions/2.2.2/changelog.txt"
+hash = "566944c284ce5ba65f19d18fb6a00c495c0a4b08883fde480b082122f7e189a1"
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "73ff7f2c06528691d6e0e1b43296b2f8a28fe0f096279203358ef171902ec1c3"
+metafile = true
+
+[[files]]
+file = "mods/adorable-hamster-pets.pw.toml"
+hash = "6e560c31e71d63b060c4225275404fbedc4a4d839617846cabda77e8de50e246"
 metafile = true
 
 [[files]]
@@ -2115,8 +2132,8 @@ hash = "03853eaa4dd93cbefd33f129742306a174ac7cdce497d9e3cb590cf29ce569ad"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-1.4.jar"
-hash = "44da607ab776e923603b49760dae69da0c1ee1c4b7c3622de7ee66289ebac0d5"
+file = "mods/brassworkscore-1.5.jar"
+hash = "af1559a1089723234c2780ddb7441765bb45444f99103d2ebc69c78eb68eab67"
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
@@ -2329,6 +2346,10 @@ hash = "a6704ba95d34469aca84bdb5f5381d3c4357e6987b5ff3da0487939db72ebef8"
 metafile = true
 
 [[files]]
+file = "mods/createsa_tank_fix-1.0.jar"
+hash = "d571aea4693cc3418504ad140a841f9c4910502d74151499748f066b16342a60"
+
+[[files]]
 file = "mods/createtea-1.0.jar"
 hash = "b55f06ec5522bcb54e61e98b41670e829e12c09e1e9db11ab415bb61637a859c"
 
@@ -2398,6 +2419,11 @@ hash = "1a2ca9865ee018d9cc28693cfa6aa5e181a636eef9fa7811564ce4b6b859ff9d"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "08196e1229f323cc1eaf5969b93111705e8302a02d2acf134956f735f69e02c4"
+metafile = true
+
+[[files]]
 file = "mods/enderscape.pw.toml"
 hash = "edad0d81bfad442929db2ec1433598900883f91714e6b0ed2aa4e59c1d446951"
 metafile = true
@@ -2435,6 +2461,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/fog.pw.toml"
+hash = "ce8b4c6596fac67fd0d8ba6193a4a868699d9447c7eefb5a830ec23d211a04e6"
 metafile = true
 
 [[files]]
@@ -2593,6 +2624,11 @@ hash = "8b041aed68ea4b1e60100c865fd6510f18b0aa5efea7cc3cb1faab2bbe926ae1"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
+metafile = true
+
+[[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "f4bbb9a6169524865e0a82dee3d7a11a5ed2bf133f0d5b730d63a28563a18f7d"
 metafile = true
@@ -2608,6 +2644,11 @@ hash = "98ca4152b325ade0787044d92ec1d6cafb7fd6ec8636c42e66066084694b3eee"
 metafile = true
 
 [[files]]
+file = "mods/oaks-delight.pw.toml"
+hash = "8173d8639ebb3918a7113bd818eab4607c84de36cff639057ceecd5d158830e2"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "9d4e4bd1007b5529b2b35439d00d74f0554f2bd8ae0d4d72aeab9d8063c60beb"
 metafile = true
@@ -2620,6 +2661,11 @@ metafile = true
 [[files]]
 file = "mods/packagerspsic.pw.toml"
 hash = "a2fb48660663ac10f699ffcb136b5d77fe9032e17d4ac3948c9b50c4740a6591"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
 metafile = true
 
 [[files]]

@@ -1,0 +1,28 @@
+### Updated
+- Updated Voting System
+- Updated Proxy System
+- Updated Whisper Range
+- Updated Bamboo Chopper (re-enabled)
+
+### Fixed
+- Fixed harvesting in other players’ claims
+- Fixed prefix resolution
+
+### Added
+- Added American Proxy – up to ~100% ping improvement for players on American continents
+- Added Fog Mod
+- Added Hamsters
+- Added fillable Tanks (via Spout)
+- Added a “funny” leather recipe
+- Added Party Chat Toggle
+- Added `/telltoggle` and `/msgtoggle` commands
+- Added BlueMap support for modded models
+- Added Server button that now picks the fastest server automatically
+- Added new Vote GUI
+- Added internal optimisations for better performance
+- Added Chained Mining and Decapitation enchantments
+- Added Brass Depositors — price can now be controlled by attached sign
+- Added custom server entries for the multiplayer screen
+
+### Notes
+- Some planned features have been delayed to the next update due to time constraints
