@@ -492,7 +492,8 @@ ServerEvents.tags('item', event => {
         'petrolpark:badge/beta_tester',
         'petrolpark:badge/early_bird',
 		'immersive_aircraft:rotary_cannon',
-		'createtea:experienced_tea'
+		'createtea:experienced_tea',
+        'enderscape:mirror'
     ])
 
     event.add('kubejs:all_custom_planks', [
