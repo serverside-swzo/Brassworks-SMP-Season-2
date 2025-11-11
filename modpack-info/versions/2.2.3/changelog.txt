@@ -6,6 +6,7 @@
 
 ### Fixed
 - Fixed auto-connect issues
+- Fixed The Rank Badges having wrong scaling.
 
 ### Added
 - Added Event Trophies
