@@ -9,6 +9,8 @@
 
 ### Added
 - Added Event Trophies
+- Added Auto Server Reconnect
+- Added Optimised Fast IP Ping
 - Added custom rare packages
 - Added Create Bitterballen
 - Added Nature's Spirit flower dye crushing recipes
