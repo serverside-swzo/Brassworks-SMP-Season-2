@@ -2068,7 +2068,7 @@ hash = "566944c284ce5ba65f19d18fb6a00c495c0a4b08883fde480b082122f7e189a1"
 
 [[files]]
 file = "modpack-info/versions/2.2.3/changelog.txt"
-hash = "0af024faa30affcfa83935374adc31fce13149180f6304e4b7a56d79f2eea151"
+hash = "0e2e124507fa63efe0524f2969d61a59e8d6ff781c4f1131c5718d1b841a0a20"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -2114,6 +2114,10 @@ metafile = true
 file = "mods/athena-ctm.pw.toml"
 hash = "c4c3015b680b928fdd3f7ab7237164a69d80dafa8f39045d1f1a7b6ae9abecd5"
 metafile = true
+
+[[files]]
+file = "mods/autoreconnectrf-neoforge-2.0.1+1.21.1.jar"
+hash = "883b2a6e0b10f1e772fac3a182da7f6368e14c8d6e6dac835fcfbcfdb48e5eeb"
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
@@ -2461,6 +2465,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "b349d13a4d8be937cf2cff2b627ec33d6b433b7f5cb96899c483fe710985a26e"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "2741b6724a6c7d625c1c9e647a8d20ab89cd4a3975c18706da30771754c00510"
 metafile = true
 
 [[files]]
