@@ -932,7 +932,7 @@ hash = "c28eaad908fd0c02c9525ae811dad51eba687a993c2d28155d9496517b14957c"
 
 [[files]]
 file = "config/simple-custom-early-loading/schematicbg.png"
-hash = "53d6a3dae3e3357569fef393e8dbe660435fd9c2308a00aef105ab5e1f2817b9"
+hash = "b7f5d796706c9242e4106cfb13dc35114739ddab732d6c53c655e41b8972ae55"
 
 [[files]]
 file = "config/simple-custom-early-loading/sniffy.apng"
@@ -940,7 +940,7 @@ hash = "d59b5bc2e907ed43b8cebeebec75f10ef36f280218ddd6079e629cbe48f1fffb"
 
 [[files]]
 file = "config/simple-custom-early-loading/title_logo.png"
-hash = "1af75be553982b8c422c1ca2613022c03493fbe846c736d669b3ee3ece6112e2"
+hash = "96ff849d64f86d9931ba2ca64c6c6f20864d9c988c1c2956bb6c1a0a5e714fdf"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -2044,7 +2044,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "b1aab41d19196448d94f1d0583068042858d5f028e730f5bd611988ed9f3f4d8"
+hash = "e5c524d11b521345dae9c35b2f045e79b8429e0af0b5cf64ef37a8787c6bbecc"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
