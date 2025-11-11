@@ -1988,7 +1988,7 @@ hash = "b6659bb2654d56ec4bf37a5bddb1e573400422978392a4cb3a41e4348ac00389"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "20da4e9824b44d235247d05a36c4e46bd3d6c28beaa57fa517ad9027e8c0abb2"
+hash = "d934f0392f283f0e1b88ff9b2aea87cbc37d3540953fa023ce2db09d3c8ca787"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/EMIhideitems.js"
