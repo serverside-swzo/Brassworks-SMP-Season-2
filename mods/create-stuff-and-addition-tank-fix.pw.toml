@@ -1,0 +1,13 @@
+name = "Create: Stuff 'N Additions - Tank Fix"
+filename = "createsa_tank_fix-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LANuxfjR/versions/knqMihNN/createsa_tank_fix-1.1.jar"
+hash-format = "sha512"
+hash = "bb003d1c47d2c4f8c9954eae56c29a5a9f2491b062d43d2886c953ad9388ea58b266d10b494b051018fb1c1d1feecd0d7f5485546eb1c045e69c92cc9460e292"
+
+[update]
+[update.modrinth]
+mod-id = "LANuxfjR"
+version = "knqMihNN"

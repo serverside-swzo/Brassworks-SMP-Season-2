@@ -1,0 +1,27 @@
+### Updated
+- Updated BrassworksCore mod
+- Updated auto-connect algorithm (improved connection reliability)
+- Updated logo and menu theme to match the old non-Halloween theme for S2
+- Updated some adorable hamster configs to remove overpowered and unnecessary features
+
+### Fixed
+- Fixed auto-connect issues
+
+### Added
+- Added Event Trophies
+- Added custom rare packages
+- Added Create Bitterballen
+- Added Nature's Spirit flower dye crushing recipes
+- Added new panorama
+- Added Create More Girders
+- Added Asian Proxy – up to ~250% ping improvement for players in Asia & Oceania
+
+### Changed
+- Frogports names can now be changed via attached sign
+- Increased Redstone Requestor request limit
+
+### Removed
+- Removed Create Drill Drain due to buggy behavior
+
+### Re-enabled
+- Re-enabled Bamboo Chopper

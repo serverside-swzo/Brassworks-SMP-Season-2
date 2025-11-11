@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/adorablehamsterpets/main.toml"
+hash = "a32a9bfa4c4f11a906c6381d4aa1c846307c48da94d66bd830a99c1efe2d009e"
+
+[[files]]
 file = "config/amendments-common.toml"
 hash = "1997efce242b055e6299c50c1eadf02245922d046de04090063ec5d46a9a2227"
 
@@ -10,19 +14,19 @@ hash = "46a773a0893e687ecd8802bb23e10189562467cfcc1e00ea3a9c82cd4c9fcf73"
 
 [[files]]
 file = "config/fancymenu/assets/1x1.png"
-hash = "a06d71873e0a38676f22f85b8465dca6cf138b99f7efb511a1aad8e9b769c2d3"
+hash = "1e4d899c16f8ac3a20edee040cd35912ae5c7c59020a57fce0cd46f957a3c779"
 
 [[files]]
 file = "config/fancymenu/assets/1x1hovered.png"
-hash = "0b9add1be78d6f70d03e3302084e325d0fde9e34f7765258c5e04ce457dfeeec"
+hash = "327ee14de8744a5aa0b60e797e92e784c367871e08a75bbe9aca7c2f94f4cc88"
 
 [[files]]
 file = "config/fancymenu/assets/accessibility.png"
-hash = "746b6d7ff7b28468c09585fe09ed1f2023fed4f9b6af80763d25c5336e2f1ef2"
+hash = "2f6f984bcddf80c2d84d129c1d4082c3e6dfa7ff8a5b2fe4e05b6bcd168f0fe0"
 
 [[files]]
 file = "config/fancymenu/assets/accessibilityhover.png"
-hash = "0ec353f8cf8d896e299e10bbb8c80d326681de15d805af4154793ca214cbf11c"
+hash = "3a91840c6c448862c5df59310f10023b9d46a87925e1360f90ca5c649726fd0a"
 
 [[files]]
 file = "config/fancymenu/assets/animations/event_start.fma"
@@ -558,7 +562,7 @@ hash = "55aef4042a434b50afea606583e50e66921ae0238b9619359dc071d6056f43db"
 
 [[files]]
 file = "config/fancymenu/assets/brasscasing1_recolor.png"
-hash = "92bf8956481d760ab4b4e14bb964c9c0ce9979635598edc9f45f06c1a0439014"
+hash = "e11f5486267768469b443fbfe3b0e78f086de96624f10e84eb8bb236343284b8"
 
 [[files]]
 file = "config/fancymenu/assets/brasscasing2.png.png"
@@ -566,7 +570,7 @@ hash = "762af1b966571518f64bc4d26265efac50696f9b402982dbec9c271e9377abd0"
 
 [[files]]
 file = "config/fancymenu/assets/brasscasing2.png_recolor.png"
-hash = "207727ce55050361254548ba6e034602d7fe0bb93a0e455eb2f708e5627b9fa3"
+hash = "d3ca8dc736e2dcd4b9ec5814a6613e4b88098c8fe7f610af8427737fef80dd63"
 
 [[files]]
 file = "config/fancymenu/assets/brasscasing3.png (2).png"
@@ -578,7 +582,7 @@ hash = "2e0a320be4f75242fd0f5d9c0c47b5dcdf28ffdfbb1d58222dbf35db2d93c7af"
 
 [[files]]
 file = "config/fancymenu/assets/brasscasing_3.png_recolor.png"
-hash = "6b5d3d1a93879f7a16f2ea45f460598bcf1e2f51c202557121c8077c59d55a45"
+hash = "b1e9ffa9e356150ac38e2a05200af2773f2691512566a88cd121790db636a07b"
 
 [[files]]
 file = "config/fancymenu/assets/brasscasing_recolor.png"
@@ -586,11 +590,11 @@ hash = "a08476ede13f6c2a0361ec5fef241313861cc4ab627782795a392006d712e8f6"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.png"
-hash = "bd948420710e5695e8678088ea3aca2c9bf50865fdbc8dfce4df3f95e2775272"
+hash = "4a08ef985fbcc4ee8e83968968bd4a01ce0a4c3908d190ef0d706f8fe5e80b3c"
 
 [[files]]
 file = "config/fancymenu/assets/changelog_hovered.png"
-hash = "2820efbc4cc8a93640cf6c7d3916c3d77226e71c446a89c03580e6f79d7e9c17"
+hash = "cc01d528dd062381e3934fef676d4f60276321490b8d0024220d978b3f916f23"
 
 [[files]]
 file = "config/fancymenu/assets/ding.wav"
@@ -602,11 +606,11 @@ hash = "d4a90f8771eab5144cdd95a68477ad2ebabee8ecfa0cb5fd0758976ee5afbaea"
 
 [[files]]
 file = "config/fancymenu/assets/discord.png"
-hash = "41b544c0f4624b1e4b34ead1a09a03436483c386161264619d0eda0ab0c03929"
+hash = "31abc81c30a9bfb781665453f3e9255693f795542dfa9a99dd02287d1970fd4e"
 
 [[files]]
 file = "config/fancymenu/assets/discordhovered.png"
-hash = "634e777640b4d64f4cdec2df7c909c8c9404ff43dabac4302f84123dcaaaf783"
+hash = "3e10513aca8700ac6108ad7a293cfd4668649c6b7df9e8bb85740614e229a2ed"
 
 [[files]]
 file = "config/fancymenu/assets/empty.png"
@@ -614,15 +618,15 @@ hash = "df22f1af7d32eff9a3f815fd2bcd3c2d397c429b1c92837199e5b3eab8d67a9b"
 
 [[files]]
 file = "config/fancymenu/assets/icon16.png"
-hash = "66a7511ebb62e68ef49d842792c626749fc947fc94c7561ab0c560494445ee18"
+hash = "13a5bd6d72d42738f436d1b9048b91b2294dec828d70b0aab9a74c32bdb92d53"
 
 [[files]]
 file = "config/fancymenu/assets/icon32.png"
-hash = "a0a7562ffc6e14a999ec884e80dc97debaabeb1622bece81fcb8defe3ab5b9cc"
+hash = "dd70eb5d1c4c276fb9dfee7d44209eb61927f4c9a998115412d0c0cd4abfc979"
 
 [[files]]
 file = "config/fancymenu/assets/icon540.png"
-hash = "37f1f293b342c1084c81cd865f537fa771921a07e8ca517df87a9721878f8890"
+hash = "40fd6f6a34077581e6a77dbfa2f5c26207a455894ed00ac512b6cb3f0afd1010"
 
 [[files]]
 file = "config/fancymenu/assets/iconmacos.icns"
@@ -630,19 +634,19 @@ hash = "8d33092413771fdaef85e06a44316775c720752f002370cf9234a9904a3c402b"
 
 [[files]]
 file = "config/fancymenu/assets/joinserver.png"
-hash = "88633231eb6703087e892e3a439a0f37b8631df625240a56c874c77be43b481e"
+hash = "f1f34a5209a2d226f4ed35e238ddbcee7655feebdd053d5e99ecc69769dd47af"
 
 [[files]]
 file = "config/fancymenu/assets/joinserverhovered.png"
-hash = "c6a5c0a173dc4518f179fecc0616280e7637f704b609a89c5e7683f19003bf7c"
+hash = "5970117f26dcaf02c80e72bbe52577a7a731cfb21d4b3bf93f7daacd8b81dcd8"
 
 [[files]]
 file = "config/fancymenu/assets/kofi.png"
-hash = "093ae99815821bb88503c336f7ec771b9c3b53cef8dc896804ee423c5cb76edf"
+hash = "14fe4984cd7209315b9c707efe8da926b563fa33b3f67e17a22c31ae71fc4e0a"
 
 [[files]]
 file = "config/fancymenu/assets/kofihovered.png"
-hash = "e07854e732b06f218bba2278f75bbd57d9ee39800e939df4ce83a70dbc9b3535"
+hash = "15089d57d9a7197795a196a69db892c87a14a63ffccf181e78aa6b752fdd07f8"
 
 [[files]]
 file = "config/fancymenu/assets/leftarrow1.png"
@@ -706,7 +710,7 @@ hash = "f5602be61348684ec8b4a9afe3c297b40dd6e2a27e83c17ecb81b501d95ef013"
 
 [[files]]
 file = "config/fancymenu/assets/schematicbackground.png"
-hash = "87db7af91e91eab54c2c882f9f9c31b3271d31ebc7671574076114880c3bc746"
+hash = "be0a6d94d19497e85f104cbfe7b3d8c7214bd05e2845ab12b347d364ffdfc827"
 
 [[files]]
 file = "config/fancymenu/assets/shadows_buttons.png"
@@ -714,11 +718,11 @@ hash = "fef20d5e08e1bf91ea22a2fd4643b1e10bef105a69b7a846dc3e6983e30bcc5d"
 
 [[files]]
 file = "config/fancymenu/assets/sniffyeasteregg.png"
-hash = "799897d64192ce58d62ddb4bf0fdd6618a65a382eaa3d26215501da8daf32d1e"
+hash = "bb7de3974f0392567eeaa548d0fb3bde7aa834eca728577259ad3372fbe59cef"
 
 [[files]]
 file = "config/fancymenu/assets/sniffytips.png"
-hash = "eb9e1164b8cdf232474f7dd6f853370271b94f1b39b8f4f03aa1f1ab89f51e62"
+hash = "a70b1dad65b2a526183a890574bd9c9acba751734e4c563b2ad352cd6ab6df86"
 
 [[files]]
 file = "config/fancymenu/assets/title_shadow.png"
@@ -726,15 +730,15 @@ hash = "1ff16e7686a3efaf31f876b006d186eaca827a073d9beb7a19f0b83152266d58"
 
 [[files]]
 file = "config/fancymenu/assets/titlelogo.png"
-hash = "66084f48ac6c03732a9069d2f987889faefe21969f012ddbacf2844be884e302"
+hash = "96ff849d64f86d9931ba2ca64c6c6f20864d9c988c1c2956bb6c1a0a5e714fdf"
 
 [[files]]
 file = "config/fancymenu/assets/widgets.png"
-hash = "46be5567ee573c96bd07c094266dd014140d46188d4b40812918138b772d4b89"
+hash = "3bc491b3ce53c274eee7b3a09cf32d1e82c225a2b4fc171bb0e64db04d223bb1"
 
 [[files]]
 file = "config/fancymenu/assets/widgetshovered.png"
-hash = "3116f51975ebc8982f69e9a46ac3169f2e899d8482869f8b2896e6e2d9609d9f"
+hash = "246f770d9a814c020f52e3cae015b872426ce77aae79f0b764929e01cd4b002f"
 
 [[files]]
 file = "config/fancymenu/audio_element_controller_metas.json"
@@ -871,6 +875,10 @@ hash = "1d79f21da08c9e363e38c9a45ac31b073a73e6b224c03479e12179d961b17da6"
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
 hash = "5fb8e3a35e0a4f3d991b5595ef584d953131d5ed241c1ccc45e03998bd0abb99"
+
+[[files]]
+file = "config/paxi/datapacks/NaturesSpiritDyeCrushing.zip"
+hash = "fcdf32eb81fb0ff6b48f292efc74c5ed5dd776bac37c7629de7fc08abcc5768c"
 
 [[files]]
 file = "config/paxi/datapacks/bat membranes v1.0.15 (MC 1.21-1.21.9).zip"
@@ -1424,27 +1432,27 @@ hash = "c14a45985f3e71243e294b29f8786c2af6fc44d873356a4966118dbb26ee3157"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "940b154a471b4b89ba3a1a3f6683f5831e2677031832f3d7350e43edb29c6e85"
+hash = "ca66913336baf6047fad67dc4af4850215fb07ed717801cb4ee013a563576247"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "911df93e8e142ff0e9dcec6d132f588a2f306879dc60ef38ee8c2588c101d332"
+hash = "cfece10bc08b9d15e06d0a46d89e40d184f2b58b70d7eb2d78c9f2a1c43b0ab2"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "0dc73105fe6aa1bc967a0e53b97d81d956c3ee42b02c389957c5ae9f9a4e978f"
+hash = "c6636d3b640b64f178b754516222503cc6b61c71d6758a3394a87eab4fe0e15d"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "0cdd34f76787d19f80816911a3682ee5705ef0ecb1a730f6d36052811f9e7557"
+hash = "165dab19582e774d9fff0b34e3e376af00a5ebc1aec38764bfb0f82549356551"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "a54cb0b1cf762923d562d937aeba370c97e4804f9d4e17604b8969adfc80c60a"
+hash = "aea59ac69c7f7a96215f82fed05fee454502f794b24bd735dae72a4d790cb3c9"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "d76f55693e4cdde7959256a45e5bf4d3e7e4c30e59fb8368179676944270fe0d"
+hash = "68d54e26cc1ab5680c3c649b9cffc44ab0423eb1f9d3212fc6567d1f433d1286"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
@@ -1971,10 +1979,6 @@ file = "kubejs/server_scripts/Recipes/crushedancientdebris.js"
 hash = "edda2ffdc75b09f073173d60be2de6385dd38b967eb9028c9fcfac09589b97fe"
 
 [[files]]
-file = "kubejs/server_scripts/Recipes/dyeCrushing.js"
-hash = "734d712c8df09944ede57093c3e1270b6e4d3c0cadf8d4c62e42e5773dc5a0bf"
-
-[[files]]
 file = "kubejs/server_scripts/Recipes/hyperxp.js"
 hash = "95f4611545a91d5372576c6f1b50d5e8766ae6eb52f2755f211aacde68d565c1"
 
@@ -1984,7 +1988,7 @@ hash = "b6659bb2654d56ec4bf37a5bddb1e573400422978392a4cb3a41e4348ac00389"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "9a1576664e73c0e940a4b917c9f18792635b283ece9b3cc9d19943727a11a2f8"
+hash = "20da4e9824b44d235247d05a36c4e46bd3d6c28beaa57fa517ad9027e8c0abb2"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/EMIhideitems.js"
@@ -1995,16 +1999,12 @@ file = "kubejs/server_scripts/Scripts/claim.js"
 hash = "2a96016b360b77576775f59dc045a3c59682f52c040f73e5e7e45549c66185c9"
 
 [[files]]
-file = "kubejs/server_scripts/Scripts/curios.js"
-hash = "d7ba02778284c3e032d6db6ccdd5c546d25741e44d681ae1fef35654422f32de"
-
-[[files]]
 file = "kubejs/server_scripts/Scripts/first_reward.js"
 hash = "176613db583bc2d767a6c3706311fac1455abb1c394d367dcdfa3f1b63ed3a71"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/loginrecipes.js"
-hash = "222809184d9c4b8efb67ee3760e5e7d20d912d0f5e9b52238c384e9790d41522"
+hash = "a689befdc1128c318f4fddc9328dd6d4d4deb2a392b30a25af7e24cf54844441"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/noend.js"
@@ -2132,8 +2132,8 @@ hash = "03853eaa4dd93cbefd33f129742306a174ac7cdce497d9e3cb590cf29ce569ad"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-1.5.jar"
-hash = "af1559a1089723234c2780ddb7441765bb45444f99103d2ebc69c78eb68eab67"
+file = "mods/brassworkscore-1.6.jar"
+hash = "900296121e28dcb8d660d6dea96e37ec943050cd54237c764f9228acbd4d2979"
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
@@ -2206,6 +2206,11 @@ hash = "10f64bc34026c31f9a453f5fe78c73265d426ed821b741e8883cb15a61127bb1"
 metafile = true
 
 [[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "bbe41c6629eca553fed13d7b3fee895a4d8008fc77d93cf12e3325e20ef2e3a6"
+metafile = true
+
+[[files]]
 file = "mods/create-brassworks-missions.pw.toml"
 hash = "2fc7ada6689e19b699577959d2c1be2d4cf43e414c8fd482dcaaad2294a16fad"
 metafile = true
@@ -2241,11 +2246,6 @@ hash = "482da6b94b7a583b970e15ee78810ad48ba3983cb306d3e305b5dc6b205965c4"
 metafile = true
 
 [[files]]
-file = "mods/create-drill-drain.pw.toml"
-hash = "1fed61cc1b0ef77d34047d5489141532a6dfeba0f31478f8d6a14f48ac845c8d"
-metafile = true
-
-[[files]]
 file = "mods/create-easy-stock-ticker.pw.toml"
 hash = "5b5310c836eb807722a6487ba741652f7f569420fae26edea14c108dbc840d28"
 metafile = true
@@ -2268,6 +2268,11 @@ metafile = true
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "57667a7d766a13f5fa269f4cb9ec15dfa9ff5d1aba2bc0d9d5f78f4e11808feb"
+metafile = true
+
+[[files]]
+file = "mods/create-more-girder.pw.toml"
+hash = "58edd28a04403f75364523bae6c4f4ab487625d21d1095077c6a4557276c0930"
 metafile = true
 
 [[files]]
@@ -2311,6 +2316,11 @@ hash = "b767a98f2c669c56d800c0831ef965481e0fae02ef3ab9d724eb29d2efb65ba3"
 metafile = true
 
 [[files]]
+file = "mods/create-stuff-and-addition-tank-fix.pw.toml"
+hash = "db8d63207cad2eb20448d2a9b4b29746da2322980ae51ec760f9cfd75ab658a9"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "cbdd082a3d8299a215737fb6262f103d5b7189bc7dc022a0d4d2c0d1ac0a76ff"
 metafile = true
@@ -2344,10 +2354,6 @@ metafile = true
 file = "mods/create_oxidized.pw.toml"
 hash = "a6704ba95d34469aca84bdb5f5381d3c4357e6987b5ff3da0487939db72ebef8"
 metafile = true
-
-[[files]]
-file = "mods/createsa_tank_fix-1.0.jar"
-hash = "d571aea4693cc3418504ad140a841f9c4910502d74151499748f066b16342a60"
 
 [[files]]
 file = "mods/createtea-1.0.jar"
@@ -2391,11 +2397,6 @@ metafile = true
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
-metafile = true
-
-[[files]]
-file = "mods/emi-for-create-stock.pw.toml"
-hash = "f21db79fbece8a79b44ce930abc18c51daba189f8a5dbed210ea982148b9ecd1"
 metafile = true
 
 [[files]]

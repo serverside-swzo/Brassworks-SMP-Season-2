@@ -1,13 +1,4 @@
-// KubeJS 1.21.1 migration: Ensure Fluid.of and Item.of are available
-// Remove redeclaration to avoid TypeError
-
-ServerEvents.tags('block', event => {
-  event.add('create:wrench_pickup', 'drill_drain:drill_drain')
-  event.add('minecraft:mineable/pickaxe', 'drill_drain:drill_drain')
-})
-
 ServerEvents.recipes(event => {
-  // Recipe Removals
   addCreateRecipeHandler(event);
 
   event.remove({ mod: 'createaddition' });
@@ -423,7 +414,7 @@ event.recipes.create.pressing(
     ]
   ).id('kubejs:lumisene_roll_filling');
 
-      event.recipes.create.finalize();
+  event.recipes.create.finalize();
 })
 
 // Hide specific CreateAddition items from creative/JEI
@@ -501,7 +492,6 @@ ServerEvents.tags('item', event => {
         'petrolpark:badge/beta_tester',
         'petrolpark:badge/early_bird',
 		'immersive_aircraft:rotary_cannon',
-		'fluid:copper_tap',
 		'createtea:experienced_tea'
     ])
 
@@ -653,13 +643,9 @@ ServerEvents.tags('item', event => {
       'brassworks:hyper_experience_heap'
     ])
     // Add all items from alexcavesradon and copycats from CC tags to forge:hidden tag
-    event.add('forge:hidden', '#kubejs:alexcavesradon')
     event.add('forge:hidden', '#kubejs:createconnctedcopycats')
     event.add('forge:hidden', '#kubejs:shadow_radiance')
     event.add('forge:hidden', '#kubejs:disabledjetpacks')
-    event.add('forge:hidden', '#kubejs:grieferarmor')
-    event.add('curios:head', '#trinkets:head/hat')
-    event.add('curios:belt', 'create_mobile_packages:portable_stock_ticker')
 
     event.add('kubejs:packagers', [
       'create:packager',
@@ -670,14 +656,6 @@ ServerEvents.tags('item', event => {
 })
 
 ServerEvents.tags('block', event => {
-  event.add('brassworks:tall_flowers', [
-    'snifferplus:tall_fiddlefern'
-  ])
-	
-  event.add('brassworks:small_flowers', [
-    'snifferplus:fiddlefern'
-  ])
-	
   event.add('create:wrench_pickup', [
     'minecraft:shulker_box',
     'minecraft:white_shulker_box',
@@ -698,7 +676,6 @@ ServerEvents.tags('block', event => {
     'minecraft:black_shulker_box'
   ])
 })
-
 
 ServerEvents.recipes(event => {
   event.remove({ input: '#forge:hidden' })
