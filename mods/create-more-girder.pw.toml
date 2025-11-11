@@ -1,0 +1,13 @@
+name = "Create: More Girder"
+filename = "create-more-girder-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sPg2LVAd/versions/ww7KcEMO/create-more-girder-1.0.0.jar"
+hash-format = "sha512"
+hash = "baf50d2d908ee7299cb156f01def30c75564552b4bb9e90bd8e574e2369b284ec9ea8b26ff579ef176326e0a09fb321f73e974315e552e17d8bb09e454351387"
+
+[update]
+[update.modrinth]
+mod-id = "sPg2LVAd"
+version = "ww7KcEMO"

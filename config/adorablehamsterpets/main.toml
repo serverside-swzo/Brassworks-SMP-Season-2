@@ -1,0 +1,167 @@
+version = 0
+enableNotificationIcons = true
+snoozeUpdateReminderDays = 5
+enableHudIcon = false
+hudIconPositionPreset = "TOP_LEFT"
+hudIconOffsetX = 10
+hudIconOffsetY = 10
+hudIconScale = 1.0
+enableWidgetIcon = false
+enableAutoGuidebookDelivery = false
+enableItemTooltips = true
+enableShoulderDismountMessages = true
+enableJadeHamsterDebugInfo = false
+enableHamsterThrowing = false
+requireFoodMixToUnlockCheeks = true
+useHampterName = false
+enableRavagerFlee = false
+enableSpiderFlee = false
+cleaningChanceDenominator = 1200
+hamsterThrowCooldown = 2400
+steamedGreenBeansBuffCooldown = 6000
+enableIndependentDiamondSeekCooldown = false
+independentOreSeekCooldownTicks = 2400
+stealCooldownTicks = 100
+breedingCooldownTicks = 6000
+tamingFoods = [
+    "adorablehamsterpets:sliced_cucumber",
+    "culturaldelights:cut_cucumber"
+]
+standardFoods = [
+    "adorablehamsterpets:hamster_food_mix",
+    "adorablehamsterpets:sunflower_seeds",
+    "adorablehamsterpets:green_beans",
+    "adorablehamsterpets:cucumber",
+    "minecraft:apple",
+    "minecraft:carrot",
+    "minecraft:melon_slice"
+]
+stealableItems = []
+buffFoods = []
+shoulderMountFoods = ["adorablehamsterpets:cheese"]
+pouchUnlockFoods = ["adorablehamsterpets:hamster_food_mix"]
+repeatableFoods = []
+autoHealFoods = ["adorablehamsterpets:hamster_food_mix"]
+pouchAllowedItems = [
+    "minecraft:torch",
+    "#minecraft:buttons",
+    "#minecraft:rails",
+    "#minecraft:pressure_plates"
+]
+pouchDisallowedItems = [
+    "minecraft:bow",
+    "minecraft:crossbow",
+    "minecraft:trident",
+    "minecraft:shield",
+    "minecraft:elytra",
+    "minecraft:bucket",
+    "minecraft:milk_bucket",
+    "minecraft:player_head",
+    "minecraft:item_frame",
+    "minecraft:armor_stand",
+    "minecraft:nether_star"
+]
+pouchDisallowedTags = [
+    "#minecraft:axes",
+    "#minecraft:hoes",
+    "#minecraft:pickaxes",
+    "#minecraft:shovels",
+    "#minecraft:swords",
+    "#minecraft:beds",
+    "#minecraft:banners",
+    "#minecraft:doors",
+    "#minecraft:boats"
+]
+wildMaxHealth = 8.0
+tamedMaxHealth = 16.0
+tamingChanceDenominator = 3
+meleeDamage = 1.0
+hamsterThrowDamage = 0.0
+spawnWeight = 20
+maxGroupSize = 1
+spawnBiomeTags = [
+    "minecraft:is_beach",
+    "minecraft:is_forest",
+    "minecraft:is_plains",
+    "minecraft:is_jungle"
+]
+spawnBiomeConventionTags = [
+    "c:is_temperate",
+    "c:is_hot",
+    "c:is_dry"
+]
+includeBiomes = [
+    "minecraft:plains",
+    "minecraft:forest",
+    "minecraft:jungle",
+    "minecraft:sunflower_plains"
+]
+excludeBiomes = [
+    "minecraft:ocean",
+    "minecraft:deep_ocean",
+    "minecraft:mushroom_fields"
+]
+consumeShoulderMountItem = true
+enableShoulderMountKeybind = false
+enableShoulderCreeperDetection = false
+shoulderCreeperDetectionRadius = 16.0
+enableShoulderDiamondDetection = false
+shoulderDiamondDetectionRadius = 10.0
+dismountOrder = "LIFO"
+dismountTriggerType = "SNEAK_KEY"
+dismountPressType = "SINGLE_PRESS"
+doubleTapDelayTicks = 10
+enableDynamicShoulderAnimations = true
+forcedShoulderState = "ALWAYS_STAND"
+forceLayDownOnWalk = false
+forceLayDownOnSprint = false
+shoulderMinStateSeconds = 20
+shoulderMaxStateSeconds = 45
+silenceShoulderIdleSounds = false
+silencePhysicsSoundsInFirstPerson = false
+hamsterThrowVelocity = 0.0
+hamsterThrowVelocityBuffed = 0.0
+tamedSleepThreatDetectionRadiusBlocks = 8
+requireDaytimeForTamedSleep = true
+tamedQuiescentSitMinSeconds = 120
+tamedQuiescentSitMaxSeconds = 180
+hamsterFoodMixHealing = 4.0
+standardFoodHealing = 2.0
+cheeseNutrition = 8
+cheeseSaturation = 0.8
+greenBeanBuffDuration = 0
+greenBeanBuffAmplifierSpeed = 0
+greenBeanBuffAmplifierStrength = 0
+greenBeanBuffAmplifierAbsorption = 0
+greenBeanBuffAmplifierRegen = 0
+enableIndependentDiamondSeeking = false
+diamondSeekRadius = 0
+goldMistakeChance = 0
+enableDiamondStealing = false
+diamondPounceChance = 0
+minFleeDistance = 5
+maxFleeDistance = 10
+minStealDurationSeconds = 0
+maxStealDurationSeconds = 0
+wildBushRegrowthModifier = 1.0
+sunflowerRegrowthModifier = 1.0
+sunflowerBiomeTags = ["c:is_plains"]
+sunflowerBiomes = ["minecraft:sunflower_plains"]
+wildCucumberBushRarity = 24
+cucumberBushTags = ["minecraft:is_jungle"]
+cucumberBushConventionTags = ["c:is_temperate"]
+cucumberBushBiomes = ["minecraft:plains", "minecraft:forest"]
+cucumberBushExclusions = ["minecraft:swamp", "minecraft:mushroom_fields", "minecraft:ocean"]
+wildGreenBeanBushRarity = 24
+greenBeanBushTags = []
+greenBeanBushConventionTags = []
+greenBeanBushBiomes = []
+greenBeanBushExclusions = ["minecraft:plains", "minecraft:forest"]
+
+[survivalWidgetIconSettings]
+offsetX = 0
+offsetY = 0
+
+[creativeWidgetIconSettings]
+offsetX = 0
+offsetY = 0
