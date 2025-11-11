@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/adorablehamsterpets/main.toml"
+hash = "a32a9bfa4c4f11a906c6381d4aa1c846307c48da94d66bd830a99c1efe2d009e"
+
+[[files]]
 file = "config/amendments-common.toml"
 hash = "1997efce242b055e6299c50c1eadf02245922d046de04090063ec5d46a9a2227"
 
@@ -873,6 +877,10 @@ file = "config/modpack-update-checker/modpack-info.txt"
 hash = "5fb8e3a35e0a4f3d991b5595ef584d953131d5ed241c1ccc45e03998bd0abb99"
 
 [[files]]
+file = "config/paxi/datapacks/NaturesSpiritDyeCrushing.zip"
+hash = "fcdf32eb81fb0ff6b48f292efc74c5ed5dd776bac37c7629de7fc08abcc5768c"
+
+[[files]]
 file = "config/paxi/datapacks/bat membranes v1.0.15 (MC 1.21-1.21.9).zip"
 hash = "01bfe13386073933ac4902043daefeb990365da27bbc2007a5889e022821c5d9"
 
@@ -1424,27 +1432,27 @@ hash = "c14a45985f3e71243e294b29f8786c2af6fc44d873356a4966118dbb26ee3157"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "940b154a471b4b89ba3a1a3f6683f5831e2677031832f3d7350e43edb29c6e85"
+hash = "ca66913336baf6047fad67dc4af4850215fb07ed717801cb4ee013a563576247"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "911df93e8e142ff0e9dcec6d132f588a2f306879dc60ef38ee8c2588c101d332"
+hash = "cfece10bc08b9d15e06d0a46d89e40d184f2b58b70d7eb2d78c9f2a1c43b0ab2"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "0dc73105fe6aa1bc967a0e53b97d81d956c3ee42b02c389957c5ae9f9a4e978f"
+hash = "c6636d3b640b64f178b754516222503cc6b61c71d6758a3394a87eab4fe0e15d"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "0cdd34f76787d19f80816911a3682ee5705ef0ecb1a730f6d36052811f9e7557"
+hash = "165dab19582e774d9fff0b34e3e376af00a5ebc1aec38764bfb0f82549356551"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "a54cb0b1cf762923d562d937aeba370c97e4804f9d4e17604b8969adfc80c60a"
+hash = "aea59ac69c7f7a96215f82fed05fee454502f794b24bd735dae72a4d790cb3c9"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "d76f55693e4cdde7959256a45e5bf4d3e7e4c30e59fb8368179676944270fe0d"
+hash = "68d54e26cc1ab5680c3c649b9cffc44ab0423eb1f9d3212fc6567d1f433d1286"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
@@ -1971,10 +1979,6 @@ file = "kubejs/server_scripts/Recipes/crushedancientdebris.js"
 hash = "edda2ffdc75b09f073173d60be2de6385dd38b967eb9028c9fcfac09589b97fe"
 
 [[files]]
-file = "kubejs/server_scripts/Recipes/dyeCrushing.js"
-hash = "734d712c8df09944ede57093c3e1270b6e4d3c0cadf8d4c62e42e5773dc5a0bf"
-
-[[files]]
 file = "kubejs/server_scripts/Recipes/hyperxp.js"
 hash = "95f4611545a91d5372576c6f1b50d5e8766ae6eb52f2755f211aacde68d565c1"
 
@@ -2132,8 +2136,8 @@ hash = "03853eaa4dd93cbefd33f129742306a174ac7cdce497d9e3cb590cf29ce569ad"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-1.5.jar"
-hash = "af1559a1089723234c2780ddb7441765bb45444f99103d2ebc69c78eb68eab67"
+file = "mods/brassworkscore-1.6.jar"
+hash = "900296121e28dcb8d660d6dea96e37ec943050cd54237c764f9228acbd4d2979"
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
@@ -2206,6 +2210,11 @@ hash = "10f64bc34026c31f9a453f5fe78c73265d426ed821b741e8883cb15a61127bb1"
 metafile = true
 
 [[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "bbe41c6629eca553fed13d7b3fee895a4d8008fc77d93cf12e3325e20ef2e3a6"
+metafile = true
+
+[[files]]
 file = "mods/create-brassworks-missions.pw.toml"
 hash = "2fc7ada6689e19b699577959d2c1be2d4cf43e414c8fd482dcaaad2294a16fad"
 metafile = true
@@ -2241,11 +2250,6 @@ hash = "482da6b94b7a583b970e15ee78810ad48ba3983cb306d3e305b5dc6b205965c4"
 metafile = true
 
 [[files]]
-file = "mods/create-drill-drain.pw.toml"
-hash = "1fed61cc1b0ef77d34047d5489141532a6dfeba0f31478f8d6a14f48ac845c8d"
-metafile = true
-
-[[files]]
 file = "mods/create-easy-stock-ticker.pw.toml"
 hash = "5b5310c836eb807722a6487ba741652f7f569420fae26edea14c108dbc840d28"
 metafile = true
@@ -2268,6 +2272,11 @@ metafile = true
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "57667a7d766a13f5fa269f4cb9ec15dfa9ff5d1aba2bc0d9d5f78f4e11808feb"
+metafile = true
+
+[[files]]
+file = "mods/create-more-girder.pw.toml"
+hash = "58edd28a04403f75364523bae6c4f4ab487625d21d1095077c6a4557276c0930"
 metafile = true
 
 [[files]]
@@ -2311,6 +2320,11 @@ hash = "b767a98f2c669c56d800c0831ef965481e0fae02ef3ab9d724eb29d2efb65ba3"
 metafile = true
 
 [[files]]
+file = "mods/create-stuff-and-addition-tank-fix.pw.toml"
+hash = "db8d63207cad2eb20448d2a9b4b29746da2322980ae51ec760f9cfd75ab658a9"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "cbdd082a3d8299a215737fb6262f103d5b7189bc7dc022a0d4d2c0d1ac0a76ff"
 metafile = true
@@ -2344,10 +2358,6 @@ metafile = true
 file = "mods/create_oxidized.pw.toml"
 hash = "a6704ba95d34469aca84bdb5f5381d3c4357e6987b5ff3da0487939db72ebef8"
 metafile = true
-
-[[files]]
-file = "mods/createsa_tank_fix-1.0.jar"
-hash = "d571aea4693cc3418504ad140a841f9c4910502d74151499748f066b16342a60"
 
 [[files]]
 file = "mods/createtea-1.0.jar"
@@ -2391,11 +2401,6 @@ metafile = true
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
-metafile = true
-
-[[files]]
-file = "mods/emi-for-create-stock.pw.toml"
-hash = "f21db79fbece8a79b44ce930abc18c51daba189f8a5dbed210ea982148b9ecd1"
 metafile = true
 
 [[files]]
