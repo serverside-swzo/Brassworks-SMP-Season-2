@@ -1,8 +1,38 @@
 const OpenPACServerAPI = Java.loadClass("xaero.pac.common.server.api.OpenPACServerAPI")
 const PlayerConfigOptions = Java.loadClass("xaero.pac.common.server.player.config.api.PlayerConfigOptions")
 
+function getPlayerDataclaims() {
+  const path = 'kubejs/config/player_bonus_claims.json';
+  const data = JsonIO.read(path);
+  return data || {};
+}
+
+function savePlayerDataclaims(data) {
+  const path = 'kubejs/config/player_bonus_claims.json';
+  JsonIO.write(path, data);
+}
+
+function getBonusClaimsclaims(uuid) {
+  const data = getPlayerDataclaims();
+  return data[uuid]?.bonusClaims || 0;
+}
+
+function setBonusClaimsclaims(uuid, amount) {
+  const data = getPlayerDataclaims();
+  if (!data[uuid]) data[uuid] = {};
+  data[uuid].bonusClaims = amount;
+  savePlayerDataclaims(data);
+}
+
+function addOneBonusClaim(uuid) {
+  const current = getBonusClaimsclaims(uuid);
+  const newTotal = current + 1;
+  setBonusClaimsclaims(uuid, newTotal);
+  return newTotal;
+}
+
 const buyableConfigIndex = 2
-const chunkPrice = 32 // price in spurs
+const chunkPrice = 12 // price in spurs
 
 ServerEvents.commandRegistry(event => {
   let { commands: Commands, arguments: Arguments, builtinSuggestions: Suggestions } = event
@@ -92,6 +122,16 @@ ServerEvents.commandRegistry(event => {
         ctx.source.server.runCommandSilent(
           `execute as ${player.name.string} at ${player.name.string} run fill ${xStart} 71 ${zStart} ${xEnd} 74 ${zEnd} air`
         )
+
+        const uuid = player.uuid.toString();
+        const newTotal = addOneBonusClaim(uuid);
+
+        const opCmd = `execute as ${player.name.string} run openpac player-config for ${player.name.string} set claims.bonusChunkClaims ${newTotal}`;
+        ctx.source.server.runCommandSilent(opCmd);
+
+        player.sendSystemMessage(
+          Text.green(`You gained +1 Bonus Claim! Total Bonus Claims: ${newTotal}`)
+        );
 
         return 1
       })

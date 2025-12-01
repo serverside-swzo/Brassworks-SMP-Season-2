@@ -1,46 +1,121 @@
 ServerEvents.recipes(event => {
-  addCreateRecipeHandler(event);
-
   event.remove({ mod: 'createaddition' });
-  event.remove({ type: 'clayworks:baking' })
+  event.remove({ type: 'clayworks:baking' });
 
-  var outputsToRemove = [
-  'numismatics:bank_terminal',
-  'supplementaries:cannon',
-  'buzzier_bees:honey_apple',
-  'createqol:inventory_linker',
-  'createqol:player_paper',
-  'supplementaries:cog_block',
-  'create_connected:item_silo',
-  'farmersdelight:wheat_dough'
-];
+  // Remove by outputs
+  let outputsToRemove = [
+    'numismatics:bank_terminal',
+    'supplementaries:cannon',
+    'buzzier_bees:honey_apple',
+    'createqol:inventory_linker',
+    'createqol:player_paper',
+    'create_connected:item_silo',
+    'farmersdelight:wheat_dough',
+    'create_bic_bit:raw_fries'
+  ];
 
-var recipesToRemove = [
-  'minecraft:lead',
-  'createfood:create/mixing/salt_from_mixing_water',
-  'minecraft:shulker_box',
-  'create_mechanical_chicken:compacting/compacting_seed_oil',
-  'create:industrial_iron_block_from_iron_ingots_stonecutting',
-  'minecraft:farmersdelight.dough'
-];
+  outputsToRemove.forEach(o => event.remove({ output: o }));
 
-outputsToRemove.forEach(function(output) {
-  event.remove({ output: output });
-});
+  // Barrel cutting
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:aspen_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:aspen_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_aspen_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_aspen_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:cedar_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:cedar_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_cedar_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_cedar_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:coconut_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:coconut_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_coconut_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_coconut_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:cypress_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:cypress_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_cypress_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_cypress_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:fir_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:fir_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_fir_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_fir_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:ghaf_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:ghaf_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_ghaf_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_ghaf_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:joshua_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:joshua_bundle');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_joshua_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_joshua_bundle');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:larch_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:larch_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_larch_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_larch_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:mahogany_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:mahogany_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_mahogany_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_mahogany_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:maple_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:maple_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_maple_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_maple_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:olive_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:olive_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_olive_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_olive_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:palo_verde_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:palo_verde_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_palo_verde_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_palo_verde_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:redwood_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:redwood_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_redwood_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_redwood_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:saxaul_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:saxaul_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_saxaul_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_saxaul_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:sugi_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:sugi_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_sugi_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_sugi_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:willow_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:willow_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_willow_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_willow_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:wisteria_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:wisteria_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_wisteria_log');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_wisteria_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:alluaudia');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:alluaudia_bundle');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_alluaudia');
+  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_alluaudia_bundle');
+  event.recipes.create.cutting('minecraft:barrel', 'vanillabackport:pale_oak_log');
+  event.recipes.create.cutting('minecraft:barrel', 'vanillabackport:pale_oak_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'vanillabackport:stripped_pale_oak_log');
+  event.recipes.create.cutting('minecraft:barrel', 'vanillabackport:stripped_pale_oak_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'enderscape:celestial_hyphae');
+  event.recipes.create.cutting('minecraft:barrel', 'enderscape:celestial_stem');
+  event.recipes.create.cutting('minecraft:barrel', 'enderscape:stripped_celestial_hyphae');
+  event.recipes.create.cutting('minecraft:barrel', 'enderscape:stripped_celestial_stem');
+  event.recipes.create.cutting('minecraft:barrel', 'enderscape:murublight_hyphae');
+  event.recipes.create.cutting('minecraft:barrel', 'enderscape:murublight_stem');
+  event.recipes.create.cutting('minecraft:barrel', 'enderscape:stripped_murublight_hyphae');
+  event.recipes.create.cutting('minecraft:barrel', 'enderscape:stripped_murublight_stem');
+  event.recipes.create.cutting('minecraft:barrel', 'enderscape:veiled_log');
+  event.recipes.create.cutting('minecraft:barrel', 'enderscape:veiled_wood');
+  event.recipes.create.cutting('minecraft:barrel', 'enderscape:stripped_veiled_log');
+  event.recipes.create.cutting('minecraft:barrel', 'enderscape:stripped_veiled_wood');
 
-recipesToRemove.forEach(function(id) {
-  event.remove({ id: id });
-});
-
-   event.recipes.create.filling(
+  // Ochrum Filling (fluid + item as per 1.21.1 docs)
+  event.recipes.create.filling(
     Item.of('create:ochrum', 1),
     [
-      'create:limestone',
-      Fluid.of('create:honey', 5)
+      Fluid.of('create:honey', 5),
+      'create:limestone'
     ]
-  )
+  );
 
-  // New shapeless Bank Terminal recipe
+  // Bank Terminal (new recipe)
   event.shapeless(
     'numismatics:bank_terminal',
     [
@@ -48,9 +123,10 @@ recipesToRemove.forEach(function(id) {
       'create:industrial_iron_block',
       'create:electron_tube'
     ]
-  )
+  );
 
-event.recipes.create.mixing(
+  // Gunpowder Mixing
+  event.recipes.create.mixing(
     Item.of('minecraft:gunpowder', 2),
     [
       'minecraft:bone_meal',
@@ -58,8 +134,15 @@ event.recipes.create.mixing(
       'create:cinder_flour',
       '#minecraft:coals'
     ]
+  );
+
+  // Raw Fries
+  event.recipes.create.mixing(
+    'create_bic_bit:raw_fries',
+    'minecraft:potato'
   )
 
+  // Ink Sac Compacting
   event.recipes.create.compacting(
     Item.of('minecraft:ink_sac', 2),
     [
@@ -67,57 +150,60 @@ event.recipes.create.mixing(
       'minecraft:dried_kelp',
       '#minecraft:coals'
     ]
-  )
+  );
 
-event.recipes.create.compacting(
+  // Dough block
+  event.recipes.create.compacting(
     Item.of('create_compressed:dough_block', 1),
     [
       Fluid.of('minecraft:water', 1000),
       'create_compressed:wheat_flour_pile'
     ]
-  )
+  );
 
-  event.recipes.create.cutting('minecraft:barrel', '#minecraft:logs')
-
-
-   event.recipes.create.mixing(
+  // Gilded Blackstone (heated)
+  event.recipes.create.mixing(
     Item.of('minecraft:gilded_blackstone'),
     [
       'minecraft:blackstone',
-      Item.of('24x minecraft:gold_nugget')
+      Item.of('minecraft:gold_nugget', 8)
     ]
-  ).heated()
+  ).heated();
 
+  // Chest (shapeless)
   event.shapeless(
     'minecraft:chest',
     '#c:chests/wooden'
-  )
+  );
 
-  // 2 Short Grass → Tall Grass
+  // Tall Grass
   event.shapeless(
     'minecraft:tall_grass',
     [
-      Item.of('minecraft:short_grass', 2)
+      'minecraft:short_grass',
+      'minecraft:short_grass'
     ]
-  )
+  );
 
-    event.shaped('minecraft:chest', [
-        'PPP',
-        'P P',
-        'PPP'
-      ], {
-        P: '#kubejs:all_custom_planks'
+  // Chest from custom planks
+  event.shaped('minecraft:chest', [
+    'PPP',
+    'P P',
+    'PPP'
+  ], {
+    P: '#kubejs:all_custom_planks'
   });
 
-  // Large Fern Recipe (2 ferns)
+  // Large Fern
   event.shapeless(
     'minecraft:large_fern',
     [
-      Item.of('minecraft:fern', 2)
+      'minecraft:fern',
+      'minecraft:fern'
     ]
-  )
+  );
 
-  // Small Dripleaf Recipe (Create compacting)
+  // Small Dripleaf (compacting)
   event.recipes.create.compacting(
     'minecraft:small_dripleaf',
     [
@@ -125,9 +211,9 @@ event.recipes.create.compacting(
       '#minecraft:leaves',
       Fluid.of('minecraft:water', 100)
     ]
-  )
+  );
 
-  // Big Dripleaf Recipe (Create compacting)
+  // Big Dripleaf
   event.recipes.create.compacting(
     'minecraft:big_dripleaf',
     [
@@ -136,25 +222,25 @@ event.recipes.create.compacting(
       'minecraft:bone_meal',
       Fluid.of('minecraft:water', 250)
     ]
-  )
+  );
 
+  // Ash (heated)
   event.recipes.create.mixing(
-    Item.of('4x supplementaries:ash'),
-    [
-      '#minecraft:logs_that_burn'
-    ]
+    Item.of('supplementaries:ash', 4),
+    ['#minecraft:logs_that_burn']
   ).heated();
 
+  // Asurine
   event.recipes.create.mixing(
     'create:asurine',
     [
       'minecraft:andesite',
-        'minecraft:lapis_lazuli',
-        'minecraft:quartz'
+      'minecraft:lapis_lazuli',
+      'minecraft:quartz'
     ]
   ).heated();
 
-  // Porkchop + Ash → Soap (Create compacting)
+  // Soap
   event.recipes.create.compacting(
     Item.of('supplementaries:soap', 6),
     [
@@ -162,17 +248,15 @@ event.recipes.create.compacting(
       Item.of('supplementaries:ash', 4),
       Fluid.of('minecraft:water', 1000)
     ]
-  )
-  .id('kubejs:porkchop_ash_to_soap')
+  ).id('kubejs:porkchop_ash_to_soap');
 
-
-  // Minecraft: Pointed Dripstone (Create crushing)
+  // Dripstone Crushing (CreateItem chance output, 1.21.1 style)
   event.recipes.create.crushing([
     Item.of('minecraft:pointed_dripstone', 2),
-    withChance('minecraft:pointed_dripstone',0.5)
-  ], 'minecraft:dripstone_block')
+    CreateItem.of('minecraft:pointed_dripstone', 0.5)
+  ], 'minecraft:dripstone_block');
 
-  // Alternative Pointed Dripstone (Create mixing)
+  // Dripstone Mixing
   event.recipes.create.mixing(
     'minecraft:pointed_dripstone',
     [
@@ -180,9 +264,9 @@ event.recipes.create.compacting(
       'create:limestone',
       Fluid.of('minecraft:water', 50)
     ]
-  )
+  );
 
-  // Lily Pad Recipe (Create mixing)
+  // Lily Pad
   event.recipes.create.mixing(
     Item.of('minecraft:lily_pad', 2),
     [
@@ -190,9 +274,9 @@ event.recipes.create.compacting(
       'minecraft:moss_block',
       Fluid.of('minecraft:water', 250)
     ]
-  )
+  );
 
-  // Vines Recipe (Create mixing)
+  // Vines
   event.recipes.create.mixing(
     Item.of('minecraft:vine', 2),
     [
@@ -200,20 +284,19 @@ event.recipes.create.compacting(
       '#minecraft:leaves',
       Fluid.of('minecraft:water', 100)
     ]
-  )
+  );
 
-  // Seagrass Recipe (Create mixing)
+  // Seagrass
   event.recipes.create.mixing(
     Item.of('minecraft:seagrass', 2),
     [
-      'minecraft:grass',
+      'minecraft:grass_block',
       'minecraft:kelp',
       Fluid.of('minecraft:water', 300)
     ]
-  )
+  );
 
-
-  // Rooted Dirt Recipe (Create compacting)
+  // Rooted Dirt
   event.recipes.create.compacting(
     'minecraft:rooted_dirt',
     [
@@ -221,9 +304,9 @@ event.recipes.create.compacting(
       'minecraft:grass_block',
       'minecraft:bone_meal'
     ]
-  )
+  );
 
-  // Glow Lichen Recipe (Create mixing)
+  // Glow Lichen
   event.recipes.create.mixing(
     Item.of('minecraft:glow_lichen', 2),
     [
@@ -231,39 +314,36 @@ event.recipes.create.compacting(
       'minecraft:glow_ink_sac',
       Fluid.of('minecraft:water', 100)
     ]
-  )
+  );
 
-
-  // Sniffer Wool Recipe
+  // Sniffer Wool
   event.shaped('brassworks:sniffer_wool', [
     'RR',
     'RR'
-  ], {
-    R: 'brassworks:sniffer_fur'
-  })
+  ], { R: 'brassworks:sniffer_fur' });
 
-
-  // 1. Crushing sniffer_wool → 3 fur + 25% chance for extra fur
+  // Sniffer Wool → Fur (CreateItem chance output)
   event.recipes.create.crushing([
     Item.of('brassworks:sniffer_fur', 3),
-    withChance('brassworks:sniffer_fur', 0.25)
-  ], 'brassworks:sniffer_wool')
+    CreateItem.of('brassworks:sniffer_fur', 0.25)
+  ], 'brassworks:sniffer_wool');
 
-
-  // 3. Spouting honey on cooked porkchop → glazed_porkchop
+  // Glazed Porkchop (fluid + item)
   event.recipes.create.filling('buzzier_bees:glazed_porkchop', [
-    'minecraft:cooked_porkchop',
-    Fluid.of('create:honey', 250)
-  ])
+    Fluid.of('create:honey', 250),
+    'minecraft:cooked_porkchop'
+  ]);
 
+  // Honey Cookie
+  event.recipes.create.filling(
+    Item.of('farmersdelight:honey_cookie', 4),
+    [
+      Fluid.of('create:honey', 250),
+      'minecraft:wheat'
+    ]
+  );
 
-  // 4. Spouting honey on wheat → 4 honey cookies
-  event.recipes.create.filling(Item.of('farmersdelight:honey_cookie', 4), [
-    'minecraft:wheat',
-    Fluid.of('create:honey', 250)
-  ])
-
-  // 5. Mixing → honey_glazed_ham_block
+  // Honey Glazed Ham Block
   event.recipes.create.mixing('farmersdelight:honey_glazed_ham_block', [
     'minecraft:bowl',
     'farmersdelight:cooked_rice',
@@ -274,388 +354,437 @@ event.recipes.create.compacting(
     'minecraft:sweet_berries',
     'farmersdelight:smoked_ham',
     Fluid.of('create:honey', 250)
-  ])
-
-
-  // 7. Mixing end rod + gold nugget + honey → honey lamp
+  ]);
+      event.shaped('brassworkscore:brassmas_guide', [
+    'PEB'
+  ], {
+    P: 'minecraft:snowball',
+    E: 'create:sturdy_sheet',
+    B: 'minecraft:paper'
+  })
+  // Honey Lamp
   event.recipes.create.mixing('buzzier_bees:honey_lamp', [
     'minecraft:end_rod',
     'minecraft:gold_nugget',
     Fluid.of('create:honey', 250)
-  ])
+  ]);
 
+  // Candy
   event.recipes.create.mixing('8x supplementaries:candy', [
     'minecraft:sugar',
     'minecraft:paper',
     Fluid.of('create:honey', 250)
-  ])
+  ]);
 
-
-  // Sniffer Carpet Recipe
+  // Sniffer Carpet
   event.shaped('3x brassworks:sniffer_carpet', [
     'RR'
-  ], {
-    R: 'brassworks:sniffer_wool'
-  })
+  ], { R: 'brassworks:sniffer_wool' });
 
-  // Smelt Bank Terminal into a Spur
+  // Smelt Bank Terminal → Spur
   event.smelting(
     'numismatics:spur',
     'numismatics:bank_terminal'
   )
   .xp(0.1)
-  .id('kubejs:smelting/bank_terminal_to_spur')
+  .id('kubejs:smelting/bank_terminal_to_spur');
 
-  // Whitened Pulp Recipe (Create mixing)
-event.recipes.create.mixing(
-  Item.of('brassworks:whitened_pulp', 3), // Output: 3 whitened pulp
-  [
-    { item: 'create:pulp', count: 1 },     // 1 pulp
-    { item: 'minecraft:bone_meal', count: 3 } // 2 bone meal
-  ]
-).id('kubejs:whitened_pulp');
+  // Whitened Pulp
+  event.recipes.create.mixing(
+    Item.of('brassworks:whitened_pulp', 3),
+    [
+      Item.of('create:pulp', 1),
+      Item.of('minecraft:bone_meal', 3)
+    ]
+  ).id('kubejs:whitened_pulp');
 
-
-  // Convert Whitened Pulp to Paper (Create pressing)
+  // Whitened Pulp → Paper
   event.recipes.create.pressing(
     'minecraft:paper',
     'brassworks:whitened_pulp'
-  )
-  .id('kubejs:whitened_pulp_to_paper')
+  ).id('kubejs:whitened_pulp_to_paper');
 
-event.recipes.create.pressing(
+  // Brown cardboard → Leather
+  event.recipes.create.pressing(
     'minecraft:leather',
     'createframed:brown_cardboard_block'
-  )
-  .id('kubejs:brown_cardboard_block_to_leather')
+  ).id('kubejs:brown_cardboard_block_to_leather');
 
+  // Blaze Rod from Prismarine Alloy Rod
   event.recipes.create.filling(
     'minecraft:blaze_rod',
     [
-      'create_aquatic_ambitions:prismarine_alloy_rod',
-      Fluid.of('minecraft:lava', 1000)
+      Fluid.of('minecraft:lava', 1000),
+      'create_aquatic_ambitions:prismarine_alloy_rod'
     ]
-  )
+  );
 
- event.recipes.create.filling(
+  // Direct Chute
+  event.recipes.create.filling(
     'direct_chute:direct_chute',
     [
-      'create:chute',
-      Fluid.of('minecraft:lava', 250)
+      Fluid.of('minecraft:lava', 250),
+      'create:chute'
     ]
-  )
+  );
 
-  // Bundle recipe: top two corners are string, all other edges are leather
+  // Bundle Recipe
   event.shaped('minecraft:bundle', [
     'SLS',
     'L L',
     'LLL'
-  ], {
-    S: 'minecraft:string',
-    L: 'minecraft:leather'
-  }).id('kubejs:bundle_leather_string')
+  ], { S: 'minecraft:string', L: 'minecraft:leather' })
+  .id('kubejs:bundle_leather_string');
 
-  event.recipes.create.mixing('buzzier_bees:honey_bread', [
-    'minecraft:bread',
-    Fluid.of('create:honey', 250)
-  ])
-
-  event.recipes.create.filling('brassworks:honey_roll', [
-    'minecraft:bread',
-    Fluid.of('create:honey', 250)
-  ])
-
-  event.recipes.create.filling('brassworks:choco_roll', [
-    'minecraft:bread',
-    Fluid.of('create:chocolate', 250)
-  ])
-
-    event.recipes.create.filling('brassworks:xp_roll', [
-    'minecraft:bread',
-    Fluid.of('create_enchantment_industry:experience', 4)
-  ])
-
-      event.recipes.create.filling('brassworks:hyper_xp_roll', [
-    'minecraft:bread',
-    Fluid.of('create_enchantment_industry:hyper_experience', 4)
-  ])
-
-    event.recipes.create.mixing(
-      Fluid.of('supplementaries:lumisene', 500),
-      '4x minecraft:glow_berries'
-  ).id('kubejs:lumisene_mixing')
-
-  event.recipes.create.emptying([
-    '1x minecraft:bucket',
-    Fluid.of('supplementaries:lumisene', 1000)
-  ], 'supplementaries:lumisene_bucket')
-  .id('kubejs:lumisene_bucket_emptying')
-
-    event.recipes.create.emptying([
-    '1x minecraft:glass_bottle',
-    Fluid.of('supplementaries:lumisene', 250)
-  ], 'supplementaries:lumisene_bottle')
-  .id('kubejs:lumisene_bottle_emptying')
-
-    event.recipes.create.filling(
-    '1x supplementaries:lumisene_bottle',
-    [
-      Fluid.of('supplementaries:lumisene', 250),
-      '1x minecraft:glass_bottle'
-    ]
-  )
-  .id('kubejs:lumisene_bottle_filling')
-
-  event.recipes.create.filling(
-    '1x brassworks:lumisene_roll',
+  // Honey Bread
+  event.recipes.create.mixing(
+    'buzzier_bees:honey_bread',
     [
       'minecraft:bread',
-      Fluid.of('supplementaries:lumisene', 250)
+      Fluid.of('create:honey', 250)
+    ]
+  );
+
+  // Honey Roll
+  event.recipes.create.filling(
+    'brassworks:honey_roll',
+    [
+      Fluid.of('create:honey', 250),
+      'minecraft:bread'
+    ]
+  );
+
+  // Chocolate Roll
+  event.recipes.create.filling(
+    'brassworks:choco_roll',
+    [
+      Fluid.of('create:chocolate', 250),
+      'minecraft:bread'
+    ]
+  );
+
+  // Pink Sand Washing
+  event.recipes.create.splashing(
+    [CreateItem.of('minecraft:clay_ball', 0.15), CreateItem.of('minecraft:pink_dye', 0.03)],
+    'natures_spirit:pink_sand'
+  );
+
+  // XP Roll  
+  event.recipes.create.filling(
+    'brassworks:xp_roll',
+    [
+      Fluid.of('create_enchantment_industry:experience', 4),
+      'minecraft:bread'
+    ]
+  );
+
+  // Hyper XP Roll
+  event.recipes.create.mixing(
+    'brassworks:hyper_xp_roll',
+    [
+      Item.of('create_enchantment_industry:super_experience_nugget', 3),
+      'brassworks:xp_roll'
+    ]
+  );
+
+  // Lumisene mixing (fluid output as array)
+  event.recipes.create.mixing(
+    [Fluid.of('supplementaries:lumisene', 500)],
+    ['4x minecraft:glow_berries']
+  ).id('kubejs:lumisene_mixing');
+
+  // Empty Lumisene Bucket (fluid first)
+  event.recipes.create.emptying(
+    [
+      Fluid.of('supplementaries:lumisene', 1000),
+      Item.of('minecraft:bucket')
+    ],
+    'supplementaries:lumisene_bucket'
+  ).id('kubejs:lumisene_bucket_emptying');
+
+  // Empty Lumisene Bottle (fluid first)
+  event.recipes.create.emptying(
+    [
+      Fluid.of('supplementaries:lumisene', 250),
+      Item.of('minecraft:glass_bottle')
+    ],
+    'supplementaries:lumisene_bottle'
+  ).id('kubejs:lumisene_bottle_emptying');
+
+  // Fill Lumisene Bottle
+  event.recipes.create.filling(
+    'supplementaries:lumisene_bottle',
+    [
+      Fluid.of('supplementaries:lumisene', 250),
+      'minecraft:glass_bottle'
+    ]
+  ).id('kubejs:lumisene_bottle_filling');
+
+  // Lumisene Roll
+  event.recipes.create.filling(
+    'brassworks:lumisene_roll',
+    [
+      Fluid.of('supplementaries:lumisene', 250),
+      'minecraft:bread'
     ]
   ).id('kubejs:lumisene_roll_filling');
 
-  event.recipes.create.finalize();
-})
+  // Remove hidden-tagged recipes
+  // event.remove({ input: '#forge:hidden' });
+  event.remove({ output: '#forge:hidden' });
+});
 
-// Hide specific CreateAddition items from creative/JEI
+
+// =========================================================
+// ============= TAG DEFINITIONS ===========================
+// =========================================================
+
 ServerEvents.tags('item', event => {
-    event.add('forge:hidden', [
-        'create_sa:grapplin_whisk',
-        'clayworks:kiln',
-        'create_connected:item_silo',
-        'createaddition:digital_adapter',
-        'createaddition:cake_base',
-        'supplementaries:cannon',
-        'createaddition:cake_base_baked',
-        'buzzier_bees:honey_apple',
-        'createadvlogistics:redstone_radio',
-        'createqol:player_paper',
-        'createqol:inventory_linker',
-        'immersive_aircraft:bomb_bay',
-        'immersive_aircraft:heavy_crossbow',
-        'immersive_aircraft:warship',
-        'brassworks:shop_1',
-        'brassworks:shop_2',
-        'brassworks:shop_3',
-        'brassworks:shop_4',
-        'createqol:shadow_radiance_hoe',
-        'createqol:shadow_radiance_shovel',
-        'createqol:shadow_radiance_axe',
-        'createqol:shadow_radiance_pickaxe',
-        'createqol:shadow_radiance_sword',
-        'createqol:refined_radiance_hoe',
-        'createqol:shadow_steel_chestplate',
-        'createqol:shadow_steel_leggings',
-        'createqol:shadow_steel_boots',
-        'createqol:shadow_steel_sword',
-        'createqol:refined_radiance_sword',
-        'createqol:shadow_steel_pickaxe',
-        'createqol:refined_radiance_pickaxe',
-        'createqol:shadow_steel_axe',
-        'createqol:refined_radiance_axe',
-        'createqol:refined_radiance_shovel',
-        'createqol:shadow_steel_hoe',
-        'createqol:shadow_steel_shovel',
-        'createqol:shadow_steel_helmet',
-        'createqol:refined_radiance_boots',
-        'createqol:refined_radiance_leggings',
-        'createqol:refined_radiance_chestplate',
-        'createqol:refined_radiance_helmet',
-        'createqol:shadow_radiance_chestplate',
-        'createqol:shadow_radiance_block',
-        'createqol:shadow_radiance_casing',
-        'createqol:ender_packager',
-        'createqol:empty_stock_manager',
-        'createqol:stock_manager',
-        'createqol:shadow_radiance',
-        'createqol:shadow_radiance_helmet',
-        'createqol:shadow_radiance_chestplate',
-        'createqol:shadow_radiance_leggings',
-        'createqol:shadow_radiance_boots',
-        'createqol:refined_radiance_chestplate',
-        'createqol:shadow_steel_chestplate',
-        'sophisticatedbackpacks:stack_upgrade_omega_tier',
-        'sophisticatedbackpacks:everlasting_upgrade',
-        'sophisticatedbackpacks:infinity_upgrade',
-        'sophisticatedbackpacks:survival_infinity_upgrade',
-        'sophisticatedbackpacks:inception_upgrade',
-        'destroy:badge/patreon_3',
-        'destroy:badge/patreon_2',
-        'destroy:badge/patreon_1',
-        'petrolpark:badge/translator',
-        'petrolpark:badge/suggestion',
-        'petrolpark:badge/nitro',
-        'petrolpark:badge/developer',
-        'petrolpark:badge/content_creator',
-        'petrolpark:badge/competition_winner',
-        'petrolpark:badge/bestie',
-        'petrolpark:badge/beta_tester',
-        'petrolpark:badge/early_bird',
-		'immersive_aircraft:rotary_cannon',
-		'createtea:experienced_tea',
-        'enderscape:mirror'
-    ])
+  event.add('forge:hidden', [
+    'create_sa:grapplin_whisk',
+    'clayworks:kiln',
+    'create_connected:item_silo',
+    'createaddition:digital_adapter',
+    'createaddition:cake_base',
+    'supplementaries:cannon',
+    'createaddition:cake_base_baked',
+    'buzzier_bees:honey_apple',
+    'createadvlogistics:redstone_radio',
+    'createqol:player_paper',
+    'createqol:inventory_linker',
+    'immersive_aircraft:bomb_bay',
+    'immersive_aircraft:heavy_crossbow',
+    'immersive_aircraft:warship',
+    'brassworks:shop_1',
+    'brassworks:shop_2',
+    'brassworks:shop_3',
+    'brassworks:shop_4',
+    'createqol:shadow_radiance_hoe',
+    'createqol:shadow_radiance_shovel',
+    'createqol:shadow_radiance_axe',
+    'createqol:shadow_radiance_pickaxe',
+    'createqol:shadow_radiance_sword',
+    'createqol:refined_radiance_hoe',
+    'createqol:shadow_steel_chestplate',
+    'createqol:shadow_steel_leggings',
+    'createqol:shadow_steel_boot',
+    'createqol:shadow_steel_sword',
+    'createqol:refined_radiance_sword',
+    'createqol:shadow_steel_pickaxe',
+    'createqol:refined_radiance_pickaxe',
+    'createqol:shadow_steel_axe',
+    'createqol:refined_radiance_axe',
+    'createqol:refined_radiance_shovel',
+    'createqol:shadow_steel_hoe',
+    'createqol:shadow_steel_shovel',
+    'createqol:shadow_steel_helmet',
+    'createqol:refined_radiance_boots',
+    'createqol:refined_radiance_leggings',
+    'createqol:refined_radiance_chestplate',
+    'createqol:refined_radiance_helmet',
+    'createqol:shadow_radiance_chestplate',
+    'createqol:shadow_radiance_block',
+    'createqol:shadow_radiance_casing',
+    'createqol:ender_packager',
+    'createqol:empty_stock_manager',
+    'createqol:stock_manager',
+    'createqol:shadow_radiance',
+    'createqol:shadow_radiance_helmet',
+    'createqol:shadow_radiance_chestplate',
+    'createqol:shadow_radiance_leggings',
+    'createqol:shadow_radiance_boots',
+    'createqol:refined_radiance_chestplate',
+    'createqol:shadow_steel_chestplate',
+    'sophisticatedbackpacks:stack_upgrade_omega_tier',
+    'sophisticatedbackpacks:everlasting_upgrade',
+    'sophisticatedbackpacks:infinity_upgrade',
+    'sophisticatedbackpacks:survival_infinity_upgrade',
+    'sophisticatedbackpacks:inception_upgrade',
+    'destroy:badge/patreon_3',
+    'destroy:badge/patreon_2',
+    'destroy:badge/patreon_1',
+    'petrolpark:badge/translator',
+    'petrolpark:badge/suggestion',
+    'petrolpark:badge/nitro',
+    'petrolpark:badge/developer',
+    'petrolpark:badge/content_creator',
+    'petrolpark:badge/competition_winner',
+    'petrolpark:badge/bestie',
+    'petrolpark:badge/beta_tester',
+    'petrolpark:badge/early_bird',
+    'immersive_aircraft:rotary_cannon',
+    'createtea:experienced_tea',
+    'enderscape:mirror'
+  ]);
 
-    event.add('kubejs:all_custom_planks', [
-        'natures_spirit:redwood_planks',
-        'natures_spirit:sugi_planks',
-        'natures_spirit:wisteria_planks',
-        'natures_spirit:fir_planks',
-        'natures_spirit:willow_planks',
-        'natures_spirit:aspen_planks',
-        'natures_spirit:maple_planks',
-        'natures_spirit:cypress_planks',
-        'natures_spirit:olive_planks',
-        'natures_spirit:joshua_planks',
-        'natures_spirit:ghaf_planks',
-        'natures_spirit:palo_verde_planks',
-        'natures_spirit:coconut_planks',
-        'natures_spirit:cedar_planks',
-        'natures_spirit:larch_planks',
-        'natures_spirit:mahogany_planks',
-        'natures_spirit:saxaul_planks',
-        'enderscape:veiled_planks',
-        'enderscape:celestial_planks',
-        'enderscape:murublight_planks',
-        'ribbits:mossy_oak_planks'
-    ])
+  // Custom plank tag
+  event.add('kubejs:all_custom_planks', [
+    'natures_spirit:redwood_planks',
+    'natures_spirit:sugi_planks',
+    'natures_spirit:wisteria_planks',
+    'natures_spirit:fir_planks',
+    'natures_spirit:willow_planks',
+    'natures_spirit:aspen_planks',
+    'natures_spirit:maple_planks',
+    'natures_spirit:cypress_planks',
+    'natures_spirit:olive_planks',
+    'natures_spirit:joshua_planks',
+    'natures_spirit:ghaf_planks',
+    'natures_spirit:palo_verde_planks',
+    'natures_spirit:coconut_planks',
+    'natures_spirit:cedar_planks',
+    'natures_spirit:larch_planks',
+    'natures_spirit:mahogany_planks',
+    'natures_spirit:saxaul_planks',
+    'enderscape:veiled_planks',
+    'enderscape:celestial_planks',
+    'enderscape:murublight_planks',
+    'ribbits:mossy_oak_planks'
+  ]);
 
-    // Create the alexcavesradon tag and add all the framed radon lamp items
-    event.add('kubejs:alexcavesradon', [
-        'createframed:framed_radon_lamp_red',
-        'createframed:framed_radon_lamp_orange',
-        'createframed:framed_radon_lamp_yellow',
-        'createframed:framed_radon_lamp_green',
-        'createframed:framed_radon_lamp_lime',
-        'createframed:framed_radon_lamp_blue',
-        'createframed:framed_radon_lamp_light_blue',
-        'createframed:framed_radon_lamp_cyan',
-        'createframed:framed_radon_lamp_purple',
-        'createframed:framed_radon_lamp_magenta',
-        'createframed:framed_radon_lamp_pink',
-        'createframed:framed_radon_lamp_black',
-        'createframed:framed_radon_lamp_gray',
-        'createframed:framed_radon_lamp_light_gray',
-        'createframed:framed_radon_lamp_white',
-        'createframed:framed_radon_lamp_brown'
-    ])
-    
-    event.add('brassworks:cinnabon_rolls', [
-      'create:sweet_roll',
-      'brassworks:honey_roll',
-      'brassworks:choco_roll',
-      'brassworks:xp_roll',
-      'brassworks:hyper_xp_roll',
-      'brassworks:lumisene_roll'
-    ])
+  // Radon Lamps
+  event.add('kubejs:alexcavesradon', [
+    'createframed:framed_radon_lamp_red',
+    'createframed:framed_radon_lamp_orange',
+    'createframed:framed_radon_lamp_yellow',
+    'createframed:framed_radon_lamp_green',
+    'createframed:framed_radon_lamp_lime',
+    'createframed:framed_radon_lamp_blue',
+    'createframed:framed_radon_lamp_light_blue',
+    'createframed:framed_radon_lamp_cyan',
+    'createframed:framed_radon_lamp_purple',
+    'createframed:framed_radon_lamp_magenta',
+    'createframed:framed_radon_lamp_pink',
+    'createframed:framed_radon_lamp_black',
+    'createframed:framed_radon_lamp_gray',
+    'createframed:framed_radon_lamp_light_gray',
+    'createframed:framed_radon_lamp_white',
+    'createframed:framed_radon_lamp_brown'
+  ]);
 
-      
-    event.add('kubejs:createconnctedcopycats', [
-        'create_connected:copycat_block',
-        'create_connected:copycat_slab',
-        'create_connected:copycat_beam',
-        'create_connected:copycat_vertical_step',
-        'create_connected:copycat_stairs',
-        'create_connected:copycat_fence',
-        'create_connected:copycat_fence_gate',
-        'create_connected:copycat_wall',
-        'create_connected:copycat_board',
-        'create_connected:copycat_box',
-        'create_connected:copycat_catwalk'
-    ])
+  // Cinnabon rolls tag
+  event.add('brassworks:cinnabon_rolls', [
+    'create:sweet_roll',
+    'brassworks:honey_roll',
+    'brassworks:choco_roll',
+    'brassworks:xp_roll',
+    'brassworks:hyper_xp_roll',
+    'brassworks:lumisene_roll'
+  ]);
 
-    event.add('kubejs:dirt', [
-      'minecraft:dirt',
-      'minecraft:coarse_dirt',
-      'minecraft:rooted_dirt'
-    ])
+  // Copycats (Create Connected)
+  event.add('kubejs:createconnctedcopycats', [
+    'create_connected:copycat_block',
+    'create_connected:copycat_slab',
+    'create_connected:copycat_beam',
+    'create_connected:copycat_vertical_step',
+    'create_connected:copycat_stairs',
+    'create_connected:copycat_fence',
+    'create_connected:copycat_fence_gate',
+    'create_connected:copycat_wall',
+    'create_connected:copycat_board',
+    'create_connected:copycat_box',
+    'create_connected:copycat_catwalk'
+  ]);
 
-    event.add('brassworks:hyper_experience_tools', [
-      'brassworkscore:hyper_experience_sword',
-      'brassworkscore:hyper_experience_pickaxe',
-      'brassworkscore:hyper_experience_axe',
-      'brassworkscore:hyper_experience_shovel'
-    ])
+  // Dirt types
+  event.add('kubejs:dirt', [
+    'minecraft:dirt',
+    'minecraft:coarse_dirt',
+    'minecraft:rooted_dirt'
+  ]);
 
-    
-    //tag for all copycats
-    event.add('kubejs:copycats', [
-      'copycats:copycat_block',
-      'copycats:copycat_slab',
-      'copycats:copycat_stairs',
-      'copycats:copycat_vertical_stairs',
-      'copycats:copycat_fence',
-      'copycats:copycat_wall',
-      'copycats:copycat_vertical_step',
-      'copycats:copycat_beam',
-      'copycats:copycat_slice',
-      'copycats:copycat_vertical_slice',
-      'copycats:copycat_corner_slice',
-      'copycats:copycat_ghost_block',
-      'copycats:copycat_layer',
-      'copycats:copycat_half_panel',
-      'copycats:copycat_pane',
-      'copycats:copycat_flat_pane',
-      'copycats:copycat_byte',
-      'copycats:copycat_byte_panel',
-      'copycats:copycat_board',
-      'copycats:copycat_catwalk',
-      'copycats:copycat_box',
-      'copycats:copycat_half_layer',
-      'copycats:copycat_vertical_half_layer',
-      'copycats:copycat_stacked_half_layer',
-      'copycats:copycat_stone_button',
-      'copycats:copycat_wooden_button',
-      'copycats:copycat_fence_gate',
-      'copycats:copycat_iron_trapdoor',
-      'copycats:copycat_trapdoor',
-      'copycats:copycat_folding_door',
-      'copycats:copycat_sliding_door',
-      'copycats:copycat_iron_door',
-      'copycats:copycat_door',
-      'copycats:copycat_slope_layer',
-      'copycats:copycat_vertical_slope',
-      'copycats:copycat_slope',
-      'copycats:copycat_wooden_pressure_plate',
-      'copycats:copycat_stone_pressure_plate',
-      'copycats:copycat_light_weighted_pressure_plate',
-      'copycats:copycat_heavy_weighted_pressure_plate',
-      'copycats:copycat_ladder',
-      'copycats:copycat_fluid_pipe',
-      'copycats:copycat_shaft',
-      'copycats:copycat_cogwheel',
-      'copycats:copycat_large_cogwheel',
-      'create:copycat_step',
-      'create:copycat_panel',
-    ])
-    
-    event.add('kubejs:decorative_glass_blocks', [
-      '#createframed:stained_framed_glass',
-      '#createframed:stained_tiled_glass',
-      '#createframed:vertical_stained_framed_glass',
-      '#createframed:horizontal_stained_framed_glass',
-      'create:tiled_glass',
-      'create:framed_glass',
-      'create:horizontal_framed_glass',
-      'create:vertical_framed_glass'
-    ])
-    event.remove('forge:dough', 'farmersdelight:wheat_dough')
-    event.add('brassworks:experience_heap_hyper', [
-      'brassworks:hyper_experience_heap'
-    ])
-    // Add all items from alexcavesradon and copycats from CC tags to forge:hidden tag
-    event.add('forge:hidden', '#kubejs:createconnctedcopycats')
-    event.add('forge:hidden', '#kubejs:shadow_radiance')
-    event.add('forge:hidden', '#kubejs:disabledjetpacks')
+  // Hyper XP Tools
+  event.add('brassworks:hyper_experience_tools', [
+    'brassworkscore:hyper_experience_sword',
+    'brassworkscore:hyper_experience_pickaxe',
+    'brassworkscore:hyper_experience_axe',
+    'brassworkscore:hyper_experience_shovel'
+  ]);
 
-    event.add('kubejs:packagers', [
-      'create:packager',
-      'create:repackager',
-      'create_factory_logistics:jar_packager',
-      'delivery_director:package_rewriter'
-    ])
-})
+  // Copycats (Copycats mod)
+  event.add('kubejs:copycats', [
+    'copycats:copycat_block',
+    'copycats:copycat_slab',
+    'copycats:copycat_stairs',
+    'copycats:copycat_vertical_stairs',
+    'copycats:copycat_fence',
+    'copycats:copycat_wall',
+    'copycats:copycat_vertical_step',
+    'copycats:copycat_beam',
+    'copycats:copycat_slice',
+    'copycats:copycat_vertical_slice',
+    'copycats:copycat_corner_slice',
+    'copycats:copycat_ghost_block',
+    'copycats:copycat_layer',
+    'copycats:copycat_half_panel',
+    'copycats:copycat_pane',
+    'copycats:copycat_flat_pane',
+    'copycats:copycat_byte',
+    'copycats:copycat_byte_panel',
+    'copycats:copycat_board',
+    'copycats:copycat_catwalk',
+    'copycats:copycat_box',
+    'copycats:copycat_half_layer',
+    'copycats:copycat_vertical_half_layer',
+    'copycats:copycat_stacked_half_layer',
+    'copycats:copycat_stone_button',
+    'copycats:copycat_wooden_button',
+    'copycats:copycat_fence_gate',
+    'copycats:copycat_iron_trapdoor',
+    'copycats:copycat_trapdoor',
+    'copycats:copycat_folding_door',
+    'copycats:copycat_sliding_door',
+    'copycats:copycat_iron_door',
+    'copycats:copycat_door',
+    'copycats:copycat_slope_layer',
+    'copycats:copycat_vertical_slope',
+    'copycats:copycat_slope',
+    'copycats:copycat_wooden_pressure_plate',
+    'copycats:copycat_stone_pressure_plate',
+    'copycats:copycat_light_weighted_pressure_plate',
+    'copycats:copycat_heavy_weighted_pressure_plate',
+    'copycats:copycat_ladder',
+    'copycats:copycat_fluid_pipe',
+    'copycats:copycat_shaft',
+    'copycats:copycat_cogwheel',
+    'copycats:copycat_large_cogwheel',
+    'create:copycat_step',
+    'create:copycat_panel'
+  ]);
 
+  // Decorative glass blocks
+  event.add('kubejs:decorative_glass_blocks', [
+    '#createframed:stained_framed_glass',
+    '#createframed:stained_tiled_glass',
+    '#createframed:vertical_stained_framed_glass',
+    '#createframed:horizontal_stained_framed_glass',
+    'create:tiled_glass',
+    'create:framed_glass',
+    'create:horizontal_framed_glass',
+    'create:vertical_framed_glass'
+  ]);
+
+  event.add('brassworks:experience_heap_hyper', [
+    'brassworks:hyper_experience_heap'
+  ]);
+
+  // Hide copycats/radon lamps/etc
+  event.add('forge:hidden', '#kubejs:createconnctedcopycats');
+  event.add('forge:hidden', '#kubejs:shadow_radiance');
+  event.add('forge:hidden', '#kubejs:disabledjetpacks');
+
+  // Packagers
+  event.add('kubejs:packagers', [
+    'create:packager',
+    'create:repackager',
+    'create_factory_logistics:jar_packager',
+    'delivery_director:package_rewriter'
+  ]);
+});
+
+
+// Block wrench pickup support
 ServerEvents.tags('block', event => {
   event.add('create:wrench_pickup', [
     'minecraft:shulker_box',
@@ -675,10 +804,15 @@ ServerEvents.tags('block', event => {
     'minecraft:green_shulker_box',
     'minecraft:red_shulker_box',
     'minecraft:black_shulker_box'
-  ])
-})
+  ]);
+});
 
-ServerEvents.recipes(event => {
-  event.remove({ input: '#forge:hidden' })
-  event.remove({ output: '#forge:hidden' })
+// Pink Sand
+ServerEvents.tags('item', event => {
+    event.add('minecraft:sand', 'natures_spirit:pink_sand')
+    event.add('forge:sand', 'natures_spirit:pink_sand')
+})
+ServerEvents.tags('block', event => {
+    event.add('minecraft:sand', 'natures_spirit:pink_sand')
+    event.add('forge:sand', 'natures_spirit:pink_sand')
 })

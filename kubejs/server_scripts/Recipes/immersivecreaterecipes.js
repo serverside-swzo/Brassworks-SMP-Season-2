@@ -2,19 +2,12 @@
 
 // Add custom Create-based recipes for Immersive Aircraft
 ServerEvents.recipes(event => {
-  // Remove all existing recipes for Immersive Aircraft items using a loop
-  // This prevents conflicts with our new Create-based recipes
-    addCreateRecipeHandler(event);
-
-  // List of all Immersive Aircraft items we're providing new recipes for
   const immersiveAircraftItems = [
-    // Vehicles
     'immersive_aircraft:airship',
     'immersive_aircraft:biplane',
     'immersive_aircraft:gyrodyne',
     'immersive_aircraft:quadrocopter',
 
-    // Parts
     'immersive_aircraft:boiler',
     'immersive_aircraft:engine',
     'immersive_aircraft:gyroscope',
@@ -24,12 +17,11 @@ ServerEvents.recipes(event => {
     'immersive_aircraft:industrial_gears',
     'immersive_aircraft:propeller',
     'immersive_aircraft:sail'
-  ]
+  ];
 
-  // Loop through the list and remove recipes for each item
   immersiveAircraftItems.forEach(item => {
-    event.remove({ output: item })
-  })
+    event.remove({ output: item });
+  });
 
   // Mechanical Crafting Recipes
 
@@ -46,7 +38,7 @@ ServerEvents.recipes(event => {
     S: 'immersive_aircraft:sail',
     '~': 'minecraft:string',
     '_': '#create:seats'
-  })
+  });
 
   // Biplane
   event.recipes.create.mechanical_crafting('immersive_aircraft:biplane', [
@@ -61,9 +53,7 @@ ServerEvents.recipes(event => {
     P: 'immersive_aircraft:propeller',
     S: 'immersive_aircraft:sail',
     '_': '#create:seats'
-  })
-
-  // Shaped Crafting Recipes
+  });
 
   // Boiler
   event.shaped('immersive_aircraft:boiler', [
@@ -74,7 +64,7 @@ ServerEvents.recipes(event => {
     I: 'create:blaze_burner',
     S: 'create:steam_engine',
     N: 'create:fluid_tank'
-  })
+  });
 
   // Engine
   event.shaped('immersive_aircraft:engine', [
@@ -85,7 +75,7 @@ ServerEvents.recipes(event => {
     E: 'immersive_aircraft:boiler',
     B: 'create:brass_sheet',
     S: 'create:sturdy_sheet'
-  })
+  });
 
   // Gyrodyne
   event.shaped('immersive_aircraft:gyrodyne', [
@@ -98,7 +88,7 @@ ServerEvents.recipes(event => {
     P: 'immersive_aircraft:propeller',
     E: 'create:precision_mechanism',
     '_': '#create:seats'
-  })
+  });
 
   // Gyroscope
   event.shaped('immersive_aircraft:gyroscope', [
@@ -107,7 +97,7 @@ ServerEvents.recipes(event => {
   ], {
     C: 'minecraft:compass',
     E: 'create:electron_tube'
-  })
+  });
 
   // Hull
   event.shaped('immersive_aircraft:hull', [
@@ -116,7 +106,7 @@ ServerEvents.recipes(event => {
   ], {
     L: 'create:andesite_casing',
     I: 'minecraft:iron_ingot'
-  })
+  });
 
   // Hull Reinforcement
   event.shaped('immersive_aircraft:hull_reinforcement', [
@@ -124,7 +114,7 @@ ServerEvents.recipes(event => {
   ], {
     H: 'immersive_aircraft:hull',
     I: 'create:iron_sheet'
-  })
+  });
 
   // Improved Landing Gear
   event.shaped('immersive_aircraft:improved_landing_gear', [
@@ -134,7 +124,7 @@ ServerEvents.recipes(event => {
     B: 'create:belt_connector',
     I: 'minecraft:iron_ingot',
     S: 'create:iron_sheet'
-  })
+  });
 
   // Industrial Gears
   event.shaped('immersive_aircraft:industrial_gears', [
@@ -142,7 +132,7 @@ ServerEvents.recipes(event => {
   ], {
     C: 'create:cogwheel',
     I: 'create:iron_sheet'
-  })
+  });
 
   // Propeller
   event.shaped('immersive_aircraft:propeller', [
@@ -152,7 +142,7 @@ ServerEvents.recipes(event => {
   ], {
     I: 'create:iron_sheet',
     P: 'create:propeller'
-  })
+  });
 
   // Quadrocopter
   event.shaped('immersive_aircraft:quadrocopter', [
@@ -164,7 +154,7 @@ ServerEvents.recipes(event => {
     A: 'create:andesite_casing',
     S: 'minecraft:string',
     P: 'create:propeller'
-  })
+  });
 
   // Sail
   event.shaped('immersive_aircraft:sail', [
@@ -172,7 +162,5 @@ ServerEvents.recipes(event => {
     'SSS'
   ], {
     S: 'create:white_sail'
-  })
-        event.recipes.create.finalize();
-
-})
+  });
+});

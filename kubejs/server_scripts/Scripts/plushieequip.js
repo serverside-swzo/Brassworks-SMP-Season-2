@@ -8,7 +8,11 @@ ItemEvents.rightClicked(event => {
     'brassworkscore:pink_axolotl_plushie',
     'brassworkscore:glow_squid_plushie',
     'brassworkscore:steven_uk_plushie',
-    'brassworkscore:slabfish_plushie'
+    'brassworkscore:slabfish_plushie',
+      'brassworkscore:fox_plushie',
+      'brassworkscore:christmas_hat',
+      'brassworkscore:slime_plushie',
+      'brassworkscore:sniffer_plushie_christmas'
   ];
 
   // Early exit if the conditions are not met
