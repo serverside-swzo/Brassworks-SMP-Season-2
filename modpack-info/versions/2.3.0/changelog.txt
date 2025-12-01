@@ -1,0 +1,28 @@
+## 🎄Christmas Update
+
+###**Fixes:**
+* Fixed display errors for recipes, Shulker recipes, Create recipes, and other bugs (KubeJS)
+* Fixed mass spawning of Dragonflies
+* Fixed armor trims
+* Corrected routing issues, mainly for US players (Auto-Connect)
+* Fixed flower bonemeal consumption (small flowers only)
+* Fixed raw fried from Bitterballen taking priority over diced potatoes recipe (Them Taters)
+* Buying spawn chunks now also grants a bonus claim
+* Fixed lag spikes
+* Fixed auto-updater for certain macOS and Linux distributions
+
+###**Additions:**
+
+* Added Xaero Train Map
+* Added Pink Sand recipes
+* Added double doors
+* Added new plushies and capes
+* Added Brassworks Core optimization addon ("Brasstuner")
+* Added commands to export container and item atlases
+* Added Snowy Sniffers
+* Added the ability to fill Jetpack tanks via fluid upgrades on backpacks
+* Added Christmas & winter features: winter logo, winter overlay, holiday decorations, seasonal effects, and more surprises
+* Added new European & American proxies – improved routing for Europe; American routing remains the same
+
+###**Removals:**
+* Removed Fog Mod
