@@ -62,6 +62,16 @@
                 "generic": "https://brassworks.opnsoc.org/"
             }
         }
+    },
+    {
+        "id": "2.3.0",
+        "releasedAt": 1764611254000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+                "generic": "https://brassworks.opnsoc.org/"
+            }
+        }
     }
   ]
 }

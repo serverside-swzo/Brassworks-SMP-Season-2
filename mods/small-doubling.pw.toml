@@ -1,0 +1,13 @@
+name = "Small Doubling"
+filename = "smalldoubling-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/92WiWwBD/versions/OThjuJio/smalldoubling-1.0.jar"
+hash-format = "sha512"
+hash = "854374dfbc1f6001bcb8d468914401b0f4f86de12370b02eba67d2480c4ae2f66abe55b85949af35563ab29b11bf6465457196b5390032cbe2fcfa2c2e0f5c8b"
+
+[update]
+[update.modrinth]
+mod-id = "92WiWwBD"
+version = "OThjuJio"
