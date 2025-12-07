@@ -2142,6 +2142,7 @@ hash = "5bee423304439e2fd472f96871c1a726a1902de5e6a5e68033e4800062d412e8"
 [[files]]
 file = "mods/brassworksupdater-1.2.jar"
 hash = "de5e624bc2c15f78a7f50ccd7c4ce4da838a32fc14d64680fb591c884ba3cc31"
+side = "client"
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
