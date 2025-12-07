@@ -1,0 +1,70 @@
+### **Fixes:**
+
+* Move the **Open Parties And Claims** claim warning messages to the action bar instead of the chat.
+* Fixed mob damage within Claims
+* Fixed incorrect visuals in multiplayer menu, and in the christmas ui
+* Fixed mass spawning of **Otters & Dragonflies**
+
+### **Additions:**
+
+* Ported the **TT20** mod to Neoforge
+* Added a command to escape when stuck in other people's claims (**Unstuck Command**)
+* Added a keymap for disabling in-world heads
+* Added **Create: Additional Logistics**
+* Added **Auto Updater For Modrinth!** and all launchers now bundled in the pack as a mod.
+* Replaced the `/usePlotBoard` command with a right-click option in the world map.
+* Tanks from Create Stuffs N Additions can now be filled using sophisticated backpacks tank upgrades.
+
+### **Updated:**
+
+* Updated **Neoforge** Version 21.1.216
+* Updated **Create** to 6.0.8 and all addons
+* **Actually Harvest**
+* **Adorable Hamster Pets**
+* **BaguetteLib**
+* **Blocks & Bogies**
+* **Blueprint**
+* **Brassworks Core**
+* **Brassworks Updater**
+* **Chat Heads**
+* **Copycats**
+* **Corpse-x-Curios API Compat**
+* **Create: Aquatic Ambitions**
+* **Create: Bitterballen**
+* **Create Brassworks Missions**
+* **Create: Central Kitchen**
+* **Create: Compatible Storage**
+* **Create: Connected**
+* **Create: Dragons Plus**
+* **Create: Easy Stock Ticker**
+* **Create: Enchantment Industry**
+* **Create: Framed**
+* **Create: Integrated Farming**
+* **Create: More Package Couriers**
+* **Create: Pattern Schematics**
+* **Create QOL**
+* **Create: Railways Navigator**
+* **Create Stuff and Addition Tank Fix**
+* **Create: Trading Floor**
+* **Create: Train Parts**
+* **Critters and Companions**
+* **Display Delight**
+* **EMI Loot**
+* **Escalated**
+* **Exposure**
+* **Haunted Harvest**
+* **Hypertube**
+* **JEI** (Just Enough Items)
+* **KubeJS Create Neoforge**
+* **Lithium**
+* **LootJS**
+* **Lootr**
+* **Numismatics**
+* **Petrolpark Library**
+* **Petrol's Parts**
+* **Seasonal Decorations**
+* **Sophisticated Backpacks Create Integration**
+* **Sophisticated Backpacks**
+* **Sophisticated Core**
+* **Torchmaster**
+* **Bliss Shader** (Shaderpack)
