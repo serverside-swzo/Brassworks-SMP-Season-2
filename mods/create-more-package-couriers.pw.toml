@@ -1,13 +1,13 @@
 name = "Create More: Package Couriers"
-filename = "cmpackagecouriers-1.5.0.jar"
+filename = "cmpackagecouriers-1.6.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GRqrodjM/versions/GQyDThoN/cmpackagecouriers-1.5.0.jar"
+url = "https://cdn.modrinth.com/data/GRqrodjM/versions/7FmIedS3/cmpackagecouriers-1.6.0.jar"
 hash-format = "sha512"
-hash = "fa2646bb265286cb9372e9134e8ed5184fadcb671ed611a7acd598788d87e4cb4a82e663fe4d225e5525f46b8bb10dca09d071d541f026b6d5bd446bd2807c7b"
+hash = "cd9ea2d4000045ae1bf0fec6c8848030bf0086b264557f3d507bfee6a04d9300f8ba005214013216857c263801058e873bdb44e3a94fe6bbf0c21304b7c4ecc2"
 
 [update]
 [update.modrinth]
 mod-id = "GRqrodjM"
-version = "GQyDThoN"
+version = "7FmIedS3"
