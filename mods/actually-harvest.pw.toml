@@ -1,13 +1,13 @@
 name = "Actually Harvest"
-filename = "actuallyharvest-1.21.1-1.1.3.7-NEOFORGE.jar"
+filename = "actuallyharvest-1.21.1-1.1.6.2-NEOFORGE.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sUbuUC7R/versions/LMXXMl5J/actuallyharvest-1.21.1-1.1.3.7-NEOFORGE.jar"
+url = "https://cdn.modrinth.com/data/sUbuUC7R/versions/uKBTXPej/actuallyharvest-1.21.1-1.1.6.2-NEOFORGE.jar"
 hash-format = "sha512"
-hash = "cd32b7bf4579662205c81a64a023121e683d55e4036cf1edf02ab70fa6e939c5b8e2c7cdef0da2db491c81efc0c9556ee7828a7f446fa5a0d426060808c35069"
+hash = "e6947f6f05ec576a48fd92fbfb45448f8c9847f68695556ae9d71e592215f98c11778e68b96ea7dae12c5641993e219701dbd7b419b2624bf2db4651cfc46e90"
 
 [update]
 [update.modrinth]
 mod-id = "sUbuUC7R"
-version = "LMXXMl5J"
+version = "uKBTXPej"

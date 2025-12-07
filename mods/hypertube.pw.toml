@@ -1,13 +1,13 @@
 name = "Create: Hypertubes"
-filename = "create_hypertube-0.2.6-hotfix-NEOFORGE.jar"
+filename = "create_hypertube-0.3.0-NEOFORGE.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ATDdrG1y/versions/LanBvn9M/create_hypertube-0.2.6-hotfix-NEOFORGE.jar"
+url = "https://cdn.modrinth.com/data/ATDdrG1y/versions/ft1NGwjJ/create_hypertube-0.3.0-NEOFORGE.jar"
 hash-format = "sha512"
-hash = "0fa6ce93f6eef094e9cee8f11caa03f93a4a36c4147a0ef0f74cabb6374c3d159a2974ff72eb4686891d967e3c8b99c2424764f6822f3e6c1c033db9a2481b8a"
+hash = "9f7813bd53670eeef677d2af91b68d82a902872e3ac1e5e3576c984d9b1bb643a9e029347e8a62f972f560f68402f662c9f564b77dd0facb2e460fe715ffa444"
 
 [update]
 [update.modrinth]
 mod-id = "ATDdrG1y"
-version = "LanBvn9M"
+version = "ft1NGwjJ"
