@@ -874,7 +874,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "af993adcb102a2fb0d21edb3ea82da7b05ec04f95f245d39734818079f7db6c2"
+hash = "fa601806c0663451e37aa565190bd815338b1a02b9f514a7549eda66a7eff140"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -2032,7 +2032,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "aae4b77269296143c07f4bb04a1d9cc8bc65676fb7489db164f08cbac2a19fce"
+hash = "0457c75cbd5ca9dce17feab6f713e852a7dde43bdf900e2bb001138ced482f99"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2060,7 +2060,11 @@ hash = "5625aedacf4cec4bba5b79063af238b526383cf869410f838fcebd714f23b7c0"
 
 [[files]]
 file = "modpack-info/versions/2.3.0/changelog.txt"
-hash = "fbcfbfaef241e1f229b4f4679a8f8531d6dd9ebff5a2985360f28ea262de0b98"
+hash = "868c9e04499760335b9ed95b34702f9647298371869f6aa53ed64e517fc56b33"
+
+[[files]]
+file = "modpack-info/versions/2.3.1/changelog.txt"
+hash = "af54d0a4786a9b0e716a83df9033cbab0fbca800fe6c62f72fbc0e9dbf41a6db"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -2133,7 +2137,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-1.8.jar"
-hash = "00bbcb49edabe8f92ebfa95330896fc7ff4089624652dd26bd774f3c7e6a0e95"
+hash = "5bee423304439e2fd472f96871c1a726a1902de5e6a5e68033e4800062d412e8"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.jar"
@@ -2571,6 +2575,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "2fcbfe045a6e2063ed74b00841f82bef29037e383167d5073e354cf227bd06ac"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
 metafile = true
 
 [[files]]
