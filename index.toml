@@ -874,7 +874,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "fa601806c0663451e37aa565190bd815338b1a02b9f514a7549eda66a7eff140"
+hash = "50ce3d132834cba906a748caec52b3750499d50578b395b19d1839aee48fd3c8"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -2032,7 +2032,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "0457c75cbd5ca9dce17feab6f713e852a7dde43bdf900e2bb001138ced482f99"
+hash = "53daaa66f7df7cf8b073e69992a301aaaeb88aa0b52abfee46f797d95bb563ee"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2065,6 +2065,10 @@ hash = "868c9e04499760335b9ed95b34702f9647298371869f6aa53ed64e517fc56b33"
 [[files]]
 file = "modpack-info/versions/2.3.1/changelog.txt"
 hash = "af54d0a4786a9b0e716a83df9033cbab0fbca800fe6c62f72fbc0e9dbf41a6db"
+
+[[files]]
+file = "modpack-info/versions/2.3.2/changelog.txt"
+hash = "27f157fd81af96016e8982500d077754dbe22c1c89c8841e4fc393e626909c06"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -2501,11 +2505,6 @@ metafile = true
 [[files]]
 file = "mods/gallery.pw.toml"
 hash = "81f58a764bd8b35ff4fcafbd94cf90106a62b9b62f43696d28e31002b79a5def"
-metafile = true
-
-[[files]]
-file = "mods/gears-n-kinetics.pw.toml"
-hash = "1fd6e764701a27175d1631d850a4f536c59e65c3a071f78e724e0de242df517f"
 metafile = true
 
 [[files]]
