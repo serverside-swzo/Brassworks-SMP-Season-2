@@ -1,6 +1,6 @@
 ## 🎄Christmas Update
 
-###**Fixes:**
+### **Fixes:**
 * Fixed display errors for recipes, Shulker recipes, Create recipes, and other bugs (KubeJS)
 * Fixed mass spawning of Dragonflies
 * Fixed armor trims
@@ -11,7 +11,7 @@
 * Fixed lag spikes
 * Fixed auto-updater for certain macOS and Linux distributions
 
-###**Additions:**
+### **Additions:**
 
 * Added Xaero Train Map
 * Added Pink Sand recipes
@@ -24,5 +24,5 @@
 * Added Christmas & winter features: winter logo, winter overlay, holiday decorations, seasonal effects, and more surprises
 * Added new European & American proxies – improved routing for Europe; American routing remains the same
 
-###**Removals:**
+### **Removals:**
 * Removed Fog Mod
