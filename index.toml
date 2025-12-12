@@ -874,7 +874,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "b862cbef323782268869c8a3c2936f697b19d859a395a36d715476d2eee5b6a3"
+hash = "997aba55a6c5ec9bc17d29a516e6f21a4970b24055fa3019e8f0c82d10a154dd"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -2032,7 +2032,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "b9c90636c5433bc478838088d078efcb2a957741b801c49cf75039c47ec9e021"
+hash = "c30ffa7870275a2c09fe1e5f8aa71c03904ae5cb38861124a8c455c4b8784351"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2073,6 +2073,10 @@ hash = "27f157fd81af96016e8982500d077754dbe22c1c89c8841e4fc393e626909c06"
 [[files]]
 file = "modpack-info/versions/2.3.3/changelog.txt"
 hash = "057173eeb2a253210e9e327de04b7c7c1b52a3629a2788ad80e756968857a789"
+
+[[files]]
+file = "modpack-info/versions/2.3.4/changelog.txt"
+hash = "26799a427cd7e3b235ebdbc7e0f96aeff5d655a998c244c5a8e11ce10185ad8e"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -2145,7 +2149,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-1.9.jar"
-hash = "480cf2b1219297d5d31de6d280b99a056716675d6e9910ec15ca7f587baab24a"
+hash = "7491cc89a90d5572a18274b4e00cbbb13811c3608d79f8d061ff5505e2d4b0b9"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -2727,7 +2731,7 @@ metafile = true
 
 [[files]]
 file = "mods/petrolsparts-1.21.1-1.2.7-notubes.jar"
-hash = "133927f39e6fc1df21346993f2a4d3e61b63392f816adcff451cd9d0c3924d63"
+hash = "2abaee68c5ca1c9d2ee19c35cc6ce9b3053113dfa7ecad16c11bae5c945abc96"
 
 [[files]]
 file = "mods/platform.pw.toml"
