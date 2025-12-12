@@ -2718,9 +2718,8 @@ hash = "ca5555aee6b69fc2780f336d719b9ce750de8710af29725bff5a27c5dce793cc"
 metafile = true
 
 [[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "a44b24e27736bdd8d8cb69fb955fc83211b226dcf15cf97238d52e10a20c1f18"
-metafile = true
+file = "mods/petrolsparts-1.21.1-1.2.7-notubes.jar"
+hash = "133927f39e6fc1df21346993f2a4d3e61b63392f816adcff451cd9d0c3924d63"
 
 [[files]]
 file = "mods/platform.pw.toml"
