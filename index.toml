@@ -2235,7 +2235,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-brassworks-missions.pw.toml"
-hash = "d6399cb874d542fe7817274df86e28f86447f13513bd90c58bac5899d489bd20"
+hash = "781fca43665ad3c9926bd314119c35d78ea7fa4cb28998c7a4f5efe9d514334f"
 metafile = true
 
 [[files]]
