@@ -1,0 +1,13 @@
+### **Fixes:**
+* Fix missions tooltip duplication with latest **Create** version
+* Disable nether portal chunkloading, unless chunk is claimed and owner is online
+* Removed **Petrols Parts Hydraulic Transmission** and pneumatic tubes due to crashes
+
+### **Additions:**
+* Clear items in chunks with too many items
+* Publish the new version of **EMI: Create Schematics** to Modrinth and update it on the modpack
+* Mention sound
+* Ding sound for manual brasscasts
+* Jetpack Toggle Hotkey
+* Shop Plot Confirmation Screen with rules on it
+* Added **Claim Links**, a redstone link variant which respects claim boundaries and cannot be hacked from outside the claim

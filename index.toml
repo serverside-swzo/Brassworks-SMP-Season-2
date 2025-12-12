@@ -874,7 +874,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "50ce3d132834cba906a748caec52b3750499d50578b395b19d1839aee48fd3c8"
+hash = "b862cbef323782268869c8a3c2936f697b19d859a395a36d715476d2eee5b6a3"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -2032,7 +2032,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "53daaa66f7df7cf8b073e69992a301aaaeb88aa0b52abfee46f797d95bb563ee"
+hash = "b9c90636c5433bc478838088d078efcb2a957741b801c49cf75039c47ec9e021"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2069,6 +2069,10 @@ hash = "af54d0a4786a9b0e716a83df9033cbab0fbca800fe6c62f72fbc0e9dbf41a6db"
 [[files]]
 file = "modpack-info/versions/2.3.2/changelog.txt"
 hash = "27f157fd81af96016e8982500d077754dbe22c1c89c8841e4fc393e626909c06"
+
+[[files]]
+file = "modpack-info/versions/2.3.3/changelog.txt"
+hash = "057173eeb2a253210e9e327de04b7c7c1b52a3629a2788ad80e756968857a789"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -2140,8 +2144,8 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-1.8.jar"
-hash = "5bee423304439e2fd472f96871c1a726a1902de5e6a5e68033e4800062d412e8"
+file = "mods/brassworkscore-1.9.jar"
+hash = "56052f7ac6da57552a2adf11dde019cf0ada72e88752ddbebed9c14cf8f0d9f3"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -2441,6 +2445,10 @@ metafile = true
 file = "mods/emi.pw.toml"
 hash = "7988c367539dd83722d24c50166e60c49c074ab9426afca9aca358b9cd2d0094"
 metafile = true
+
+[[files]]
+file = "mods/emi_create_schematics-1.1.0.jar"
+hash = "a34b9e1e0ac39d9ae6d3d9ad4c5c80697a5c0737b10fc0e038057df93af06193"
 
 [[files]]
 file = "mods/emixx.pw.toml"
