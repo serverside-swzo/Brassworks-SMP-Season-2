@@ -3,6 +3,7 @@ import json
 import time
 import subprocess
 from pathlib import Path
+import platform
 
 from PyQt6.QtWidgets import (
     QApplication,
@@ -125,11 +126,14 @@ class ModpackVersionTool(QWidget):
         return changelog_file
 
     def git_add_file(self, file_path: Path):
+        git_cmd = "git.exe" if platform.system() == "Windows" else "git"
+
         result = subprocess.run(
-            ["git", "add", str(file_path)],
+            [git_cmd, "add", str(file_path)],
             cwd=BASE_DIR,
             capture_output=True,
-            text=True
+            text=True,
+            shell=(platform.system() == "Windows")
         )
 
         if result.returncode != 0:
@@ -150,16 +154,26 @@ class ModpackVersionTool(QWidget):
         )
 
     def run_packwiz_refresh(self):
-        packwiz_path = BASE_DIR / "packwiz"
+        system = platform.system()
 
-        if not packwiz_path.exists():
-            raise FileNotFoundError("packwiz executable not found in project root")
+        if system == "Windows":
+            packwiz_cmd = ["packwiz.exe", "refresh"]
+            shell = True
+        elif system == "Linux":
+            packwiz_cmd = ["./packwiz-linux", "refresh"]
+            shell = False
+        elif system == "Darwin":
+            packwiz_cmd = ["./packwiz", "refresh"]
+            shell = False
+        else:
+            raise RuntimeError(f"Unsupported OS: {system}")
 
         result = subprocess.run(
-            ["./packwiz", "refresh"],
+            packwiz_cmd,
             cwd=BASE_DIR,
             capture_output=True,
-            text=True
+            text=True,
+            shell=shell
         )
 
         if result.returncode != 0:
