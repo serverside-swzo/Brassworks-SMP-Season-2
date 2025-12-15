@@ -4,9 +4,6 @@
 name: Build Modpack
 
 on:
-  push:
-    branches:
-      - main # Or your default branch, e.g., master
   workflow_dispatch:
 
 jobs:
