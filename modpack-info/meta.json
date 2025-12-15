@@ -1,117 +1,126 @@
-
 {
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
     {
-        "id": "2.0.0",
-        "releasedAt": 1759828789024,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.opnsoc.org/"
-            }
+      "id": "2.0.0",
+      "releasedAt": 1759828789024,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+          "generic": "https://brassworks.opnsoc.org/"
         }
+      }
     },
     {
-        "id": "2.1.0",
-        "releasedAt": 1760138396000,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.opnsoc.org/"
-            }
+      "id": "2.1.0",
+      "releasedAt": 1760138396000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+          "generic": "https://brassworks.opnsoc.org/"
         }
+      }
     },
     {
-        "id": "2.2.0",
-        "releasedAt": 1761259614000,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.opnsoc.org/"
-            }
+      "id": "2.2.0",
+      "releasedAt": 1761259614000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+          "generic": "https://brassworks.opnsoc.org/"
         }
+      }
     },
     {
-        "id": "2.2.1",
-        "releasedAt": 1761292547000,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.opnsoc.org/"
-            }
+      "id": "2.2.1",
+      "releasedAt": 1761292547000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+          "generic": "https://brassworks.opnsoc.org/"
         }
+      }
     },
     {
-        "id": "2.2.2",
-        "releasedAt": 1761854423000,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.opnsoc.org/"
-            }
+      "id": "2.2.2",
+      "releasedAt": 1761854423000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+          "generic": "https://brassworks.opnsoc.org/"
         }
+      }
     },
     {
-        "id": "2.2.3",
-        "releasedAt": 1762869746000,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.opnsoc.org/"
-            }
+      "id": "2.2.3",
+      "releasedAt": 1762869746000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+          "generic": "https://brassworks.opnsoc.org/"
         }
+      }
     },
     {
-        "id": "2.3.0",
-        "releasedAt": 1764611254000,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.opnsoc.org/"
-            }
+      "id": "2.3.0",
+      "releasedAt": 1764611254000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+          "generic": "https://brassworks.opnsoc.org/"
         }
+      }
     },
     {
-        "id": "2.3.1",
-        "releasedAt": 1765109505000,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.opnsoc.org/"
-            }
+      "id": "2.3.1",
+      "releasedAt": 1765109505000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+          "generic": "https://brassworks.opnsoc.org/"
         }
+      }
     },
     {
-        "id": "2.3.2",
-        "releasedAt": 1765126350000,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.opnsoc.org/"
-            }
+      "id": "2.3.2",
+      "releasedAt": 1765126350000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+          "generic": "https://brassworks.opnsoc.org/"
         }
+      }
     },
     {
-        "id": "2.3.3",
-        "releasedAt": 1765576052000,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.opnsoc.org/"
-            }
+      "id": "2.3.3",
+      "releasedAt": 1765576052000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+          "generic": "https://brassworks.opnsoc.org/"
         }
+      }
     },
     {
-        "id": "2.3.4",
-        "releasedAt": 1765580040000,
-        "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
-                "generic": "https://brassworks.opnsoc.org/"
-            }
+      "id": "2.3.4",
+      "releasedAt": 1765580040000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+          "generic": "https://brassworks.opnsoc.org/"
         }
+      }
+    },
+    {
+      "id": "2.3.5",
+      "releasedAt": 1765813420123,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/brassworks-smp-modpack/",
+          "generic": "https://brassworks.opnsoc.org/"
+        }
+      }
     }
   ]
 }

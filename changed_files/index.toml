@@ -1,25 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "changed_files/index.toml"
-hash = "ca9a197ff0d6ef61d1de114ce698c9528e8d3213d3194cd6a04270a1457b3e74"
-
-[[files]]
-file = "changed_files/mods/actually-harvest.pw.toml"
-hash = "1adbcc263f34ce732dbb38bb3307cf7f418cce491e8f6ddc65f59bacd9f46c60"
-metafile = true
-
-[[files]]
-file = "changed_files/mods/adorable-hamster-pets.pw.toml"
-hash = "f234575a89cf196bc929b8ef865087ad87dc43efb328c7b0844cecd9d575e2fb"
-metafile = true
-
-[[files]]
-file = "changed_files/mods/amendments.pw.toml"
-hash = "61ab7794e676f45410312efe39c2cc6edf5835f4d7fa5ab685be0c0e4b78f984"
-metafile = true
-
-[[files]]
 file = "config/adorablehamsterpets/main.toml"
 hash = "a32a9bfa4c4f11a906c6381d4aa1c846307c48da94d66bd830a99c1efe2d009e"
 
@@ -893,7 +874,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "bce791fc670ebc8f95100bc04b57cccb3bb378709b88227bd09620fc240a44f5"
+hash = "997aba55a6c5ec9bc17d29a516e6f21a4970b24055fa3019e8f0c82d10a154dd"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -2051,7 +2032,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "66176df004e63ef2a8edfddc10da103bcf762a378d1eb214d7e2da4cd0bf5942"
+hash = "c30ffa7870275a2c09fe1e5f8aa71c03904ae5cb38861124a8c455c4b8784351"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2096,10 +2077,6 @@ hash = "057173eeb2a253210e9e327de04b7c7c1b52a3629a2788ad80e756968857a789"
 [[files]]
 file = "modpack-info/versions/2.3.4/changelog.txt"
 hash = "26799a427cd7e3b235ebdbc7e0f96aeff5d655a998c244c5a8e11ce10185ad8e"
-
-[[files]]
-file = "modpack-info/versions/2.3.5/changelog.txt"
-hash = "2daf88f01a78e67d82ea5e168ee02f2ef1f46bb219418003b32d0f820b54f028"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
