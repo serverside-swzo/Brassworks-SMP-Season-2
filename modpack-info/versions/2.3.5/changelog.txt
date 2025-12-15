@@ -1,0 +1,27 @@
+### **Fixes:**
+* Stopped cardboard swords from working in claims by default except for packages which can still be pushed in claims.
+* Fixed claim links not working with redstone link wildcards.
+
+### **Additions:**
+* Mention sounds now also play in chat messages without requiring the `@` symbol.
+* Added **Shuffle Filter**.
+
+### **Updated:**
+* Updated **Actually Harvest**
+* Updated **Adorable Hamster Pets**
+* Updated **Amendments**
+* Updated **Brassworks Core**
+* Updated **Create Sound of Steam**
+* Updated **Fast IP Ping**
+* Updated **Fzzy Config**
+* Updated **Geophilic**
+* Updated **mmmmmmmmmmmm**
+* Updated **ModernFix**
+* Updated **Moonlight**
+* Updated **Platform**
+* Updated **Seasonal Decorations**
+* Updated **Simple Voice Chat**
+* Updated **Sophisticated Backpacks**
+* Updated **Sophisticated Core**
+* Updated **Supplementaries**
+* Updated **YACL**
