@@ -6,9 +6,6 @@ name: Build Distribution for Brassorks Launcher
 # Controls when the action will run.
 # It runs on pushes to the 'master' branch and can also be triggered manually.
 on:
-  push:
-    branches:
-      - master # Change this to 'main' if that is your default branch
   workflow_dispatch:
 
 jobs:
