@@ -15,7 +15,7 @@
 * Updated **Fast IP Ping**
 * Updated **Fzzy Config**
 * Updated **Geophilic**
-* Updated **mmmmmmmmmmmm**
+* Updated **MmmMmmMmmMmm**
 * Updated **ModernFix**
 * Updated **Moonlight**
 * Updated **Platform**
