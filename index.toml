@@ -2332,6 +2332,11 @@ hash = "ec69488edd55f31c6fc57cac9bab713a14394d1f63054cc4e2e5efc19a55abb9"
 metafile = true
 
 [[files]]
+file = "mods/create-shuffle-filter.pw.toml"
+hash = "6988d91e156d5e983ff5483ffcf0beb632b3b5e52352270631150148da515e7b"
+metafile = true
+
+[[files]]
 file = "mods/create-smart-bounds.pw.toml"
 hash = "9242937fd358b8f120569adf8358083131bac2c6ed8ddb6da00701d063e20ae7"
 metafile = true
