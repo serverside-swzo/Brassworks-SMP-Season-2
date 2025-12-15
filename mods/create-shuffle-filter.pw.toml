@@ -1,0 +1,13 @@
+name = "Create: Shuffle Filter"
+filename = "create-shufflefilter-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gv5RRavC/versions/R9lo1Ubv/create-shufflefilter-1.0.1.jar"
+hash-format = "sha512"
+hash = "0c4c35b87b63d36e5ef0b4da32538d950442f287f629c1390b5dcc024aee9918ee109454f6d8120edf9dcc17341c7079b8eb3ffa1dcff8c600821720d30cdbc8"
+
+[update]
+[update.modrinth]
+mod-id = "gv5RRavC"
+version = "R9lo1Ubv"
