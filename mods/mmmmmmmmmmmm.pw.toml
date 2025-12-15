@@ -1,13 +1,13 @@
 name = "MmmMmmMmmMmm"
-filename = "dummmmmmy-1.21-2.0.9-neoforge.jar"
+filename = "dummmmmmy-1.21-2.0.11-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Adega8YN/versions/NXooLzAf/dummmmmmy-1.21-2.0.9-neoforge.jar"
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/l7knRSW7/dummmmmmy-1.21-2.0.11-neoforge.jar"
 hash-format = "sha512"
-hash = "88aea5cd83df3c376ba520571dd2e17f9213a7ebd1d2023bfe137b3cf51f3c5e070d3569b34f4f42ed865e7dd711c48d55b422e1347cebe3e0d840b9b45af518"
+hash = "f40b29690a17ec9dfc71bf382c3cd12f943f2710b3db40f55237f5f33924e98cde91bb956ab380a6239e32d8ab4f7ad07e54e98a5eaf324dcc2d70be24d512fb"
 
 [update]
 [update.modrinth]
 mod-id = "Adega8YN"
-version = "NXooLzAf"
+version = "l7knRSW7"
