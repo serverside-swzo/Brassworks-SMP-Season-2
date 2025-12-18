@@ -2247,7 +2247,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-brassworks-missions.pw.toml"
-hash = "781fca43665ad3c9926bd314119c35d78ea7fa4cb28998c7a4f5efe9d514334f"
+hash = "41f29301b4fcaeccf7b29039db900f4fcef81e4a5bc863a7a4cc48f31df05000"
 metafile = true
 
 [[files]]
@@ -2268,6 +2268,11 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "a10ca44e38b499dd749e8522b51f16815ddbb60483806a58b0845f179b6b8440"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
 metafile = true
 
 [[files]]
