@@ -7,3 +7,4 @@
 * Added a **times voted** statistic.
 * Added **Create Deco**.
 * Updated the **Brassworks Missions** mod.
+* Added the **Create Schematic Checker** mod.
