@@ -9,6 +9,10 @@ file = "config/amendments-common.toml"
 hash = "1997efce242b055e6299c50c1eadf02245922d046de04090063ec5d46a9a2227"
 
 [[files]]
+file = "config/brassworkscore/brassworkscore_profile_cache.json"
+hash = "fc7565e93709762f48777cb82bcd372de935e2b065d35fd4b5c9a429cb4b542e"
+
+[[files]]
 file = "config/buzzier_bees-common.toml"
 hash = "4edd75b7ce81cb992d92a1c04131dbcf7e7ff6448ebc31178c1f2984cf2a364a"
 
@@ -2152,8 +2156,8 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-2.0.jar"
-hash = "f8d0fbb4a1c3f1b7fe6fce3206403bf559919ff8f00304b46696b472ea2b48cf"
+file = "mods/brassworkscore-2.1.jar"
+hash = "be527217a7993fdd8856699ca56d42028c9f9a03fde6477830e2da63122117da"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
