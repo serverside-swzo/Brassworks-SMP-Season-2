@@ -1,0 +1,11 @@
+### **Fixes:**
+* Increased `/stuck` search radius to prevent it sometimes not working.
+* Fix placard dupe exploit.
+
+### **Additions:**
+* Added configs for changing the mention sound and the frequency of the meme sound, with overall improvements.
+* Added **Brassworks ingame Leaderboard** with default kebind `J`.
+* Added a **times voted** statistic.
+* Added **Create Deco**.
+* Updated the **Brassworks Missions** mod.
+* Added the **Create Schematic Checker** mod.
