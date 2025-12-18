@@ -9,6 +9,10 @@ file = "config/amendments-common.toml"
 hash = "1997efce242b055e6299c50c1eadf02245922d046de04090063ec5d46a9a2227"
 
 [[files]]
+file = "config/brassworkscore/brassworkscore_profile_cache.json"
+hash = "fc7565e93709762f48777cb82bcd372de935e2b065d35fd4b5c9a429cb4b542e"
+
+[[files]]
 file = "config/buzzier_bees-common.toml"
 hash = "4edd75b7ce81cb992d92a1c04131dbcf7e7ff6448ebc31178c1f2984cf2a364a"
 
@@ -874,7 +878,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "bce791fc670ebc8f95100bc04b57cccb3bb378709b88227bd09620fc240a44f5"
+hash = "cf6eb4765982ca624d02ac04be29e93b8909397cba40233ce8aee939deb1a7c4"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -2032,7 +2036,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "66176df004e63ef2a8edfddc10da103bcf762a378d1eb214d7e2da4cd0bf5942"
+hash = "c88f3c761e4c5c92aefb25314cdff9422638a19a148fe5cf5b284c73cec00827"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2081,6 +2085,10 @@ hash = "26799a427cd7e3b235ebdbc7e0f96aeff5d655a998c244c5a8e11ce10185ad8e"
 [[files]]
 file = "modpack-info/versions/2.3.5/changelog.txt"
 hash = "eee477782b7f0290a664e162c8c2603ec6fe00ed6ba0ba876a43c3e66264fd55"
+
+[[files]]
+file = "modpack-info/versions/2.3.6/changelog.txt"
+hash = "a67491512adee2ff9fda85b5ff4c241df2fdc7d84fb3ddcd7890572d4d8e074a"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -2247,7 +2255,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-brassworks-missions.pw.toml"
-hash = "781fca43665ad3c9926bd314119c35d78ea7fa4cb28998c7a4f5efe9d514334f"
+hash = "41f29301b4fcaeccf7b29039db900f4fcef81e4a5bc863a7a4cc48f31df05000"
 metafile = true
 
 [[files]]
@@ -2268,6 +2276,11 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "a10ca44e38b499dd749e8522b51f16815ddbb60483806a58b0845f179b6b8440"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
 metafile = true
 
 [[files]]
@@ -2393,6 +2406,11 @@ metafile = true
 [[files]]
 file = "mods/create_oxidized.pw.toml"
 hash = "a6704ba95d34469aca84bdb5f5381d3c4357e6987b5ff3da0487939db72ebef8"
+metafile = true
+
+[[files]]
+file = "mods/createschematicchecker.pw.toml"
+hash = "25544da03e459f3107e46a86888c957e96d7cae8ca625e3be293033a9515a0c0"
 metafile = true
 
 [[files]]
