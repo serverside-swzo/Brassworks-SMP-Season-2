@@ -1,5 +1,6 @@
 ### **Fixes:**
 * Increased `/stuck` search radius to prevent it sometimes not working.
+* Fix placard dupe exploit.
 
 ### **Additions:**
 * Added configs for changing the mention sound and the frequency of the meme sound, with overall improvements.
