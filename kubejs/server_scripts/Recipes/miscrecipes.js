@@ -136,6 +136,17 @@ ServerEvents.recipes(event => {
     ]
   );
 
+  event.shaped('2x enderscape:stasis_armor_trim_smithing_template', [
+    'DRD',
+    'DLD',
+    'DSD'
+  ], {
+      S: 'natures_spirit:purple_chalk',
+      L: 'natures_spirit:red_chalk',
+      R: 'enderscape:stasis_armor_trim_smithing_template',
+      D: 'minecraft:diamond'
+  });
+
   // Raw Fries
   event.recipes.create.mixing(
     'create_bic_bit:raw_fries',
@@ -355,13 +366,7 @@ ServerEvents.recipes(event => {
     'farmersdelight:smoked_ham',
     Fluid.of('create:honey', 250)
   ]);
-      event.shaped('brassworkscore:brassmas_guide', [
-    'PEB'
-  ], {
-    P: 'minecraft:snowball',
-    E: 'create:sturdy_sheet',
-    B: 'minecraft:paper'
-  })
+
   // Honey Lamp
   event.recipes.create.mixing('buzzier_bees:honey_lamp', [
     'minecraft:end_rod',
