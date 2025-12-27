@@ -2084,7 +2084,7 @@ hash = "a67491512adee2ff9fda85b5ff4c241df2fdc7d84fb3ddcd7890572d4d8e074a"
 
 [[files]]
 file = "modpack-info/versions/2.4.0/changelog.txt"
-hash = "85c5406a5c66d7214109b5612193a0697a94a3d39eef61b29370b0ea7cb578bb"
+hash = "f43df2c116deefdf0a34d6927422406d0707f7043d88e9e52b5c9a32070c30e1"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -2157,7 +2157,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-2.2.jar"
-hash = "bd82367e189368fc0ec198e25720a19127fb9fdadc93261da0d921f8b579a2ed"
+hash = "022ec4d02898758d99f1e70c49dbd98e5c24eeec2e8cb253bba35e047960ba0c"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
