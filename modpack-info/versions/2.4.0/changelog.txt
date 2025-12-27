@@ -12,6 +12,7 @@
 * Added **Slice & Dice**.
 * Infrastructure update and upgrades.
 * Added **Fluid Trash Cans**.
+* Added **Panda** and **Red Panda** Plushies!
 
 ### **Updates:**
 * Updated **Brassworks SMP Core** to version 2.2
