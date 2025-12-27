@@ -2141,6 +2141,11 @@ hash = "eb18077ff7778791930eb5817b933cdb0181f14b99c76f6d2d82a308945999a6"
 metafile = true
 
 [[files]]
+file = "mods/be-quiet-negotiator.pw.toml"
+hash = "4ad8a6ad76922051ea92a1c0f61b9a2a7d28eb6ed04b4c7d131de70da25ab77e"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "904407c261f70fd20bedccc8dbf788f527e87629feaa9a25ee9b1fe91e14a975"
 metafile = true
