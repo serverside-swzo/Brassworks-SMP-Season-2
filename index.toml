@@ -2395,10 +2395,6 @@ hash = "a6704ba95d34469aca84bdb5f5381d3c4357e6987b5ff3da0487939db72ebef8"
 metafile = true
 
 [[files]]
-file = "mods/create_train_parts-0.3.2.jar"
-hash = "3b3d07a14f3c5dfd32b3acf87bac84d3da0ee5bd9b1486dee62a7cfa0f78ff5b"
-
-[[files]]
 file = "mods/create_vibrant_vaults-0.3.2.jar"
 hash = "b8dea6c02427285e2b3be3330e7dea9d04b3e05a960fd9f7911cbf0f21438aef"
 
