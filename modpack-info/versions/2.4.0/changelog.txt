@@ -1,0 +1,17 @@
+### **Fixes:**
+* Improved auto-connect reliability and fixed multiple related bugs.
+* Fixed shop table cloths always showing as out of stock.
+* Fixed a crash related to **Create: Vibrant Vaults**.
+* Fixed a server crash caused by **Create Railways Navigator** schedules.
+* Fixed a **Sliding Window** crash.
+
+### **Additions:**
+* Added a **Server Queue** system.
+* Added a **Stasis Armor Trim** recipe.
+* Introduced the **Brassworks Marketplace**.
+* Added **Slice & Dice**.
+* Infrastructure update and upgrades.
+* Added **Fluid Trash Cans**.
+
+### **Updates:**
+* Updated **Brassworks SMP Core** to version 2.2

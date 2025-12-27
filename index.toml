@@ -878,7 +878,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "cf6eb4765982ca624d02ac04be29e93b8909397cba40233ce8aee939deb1a7c4"
+hash = "eb63bd27c29661a4b1fbdc9c37dcafaaa83e1c3448e168ad83be9630ce7598e2"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -2004,19 +2004,11 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "6da061a06bb858295411d55242f463df74671362c59030dc126beb389bf656cd"
-
-[[files]]
-file = "kubejs/server_scripts/Scripts/loginrecipes.js"
-hash = "a689befdc1128c318f4fddc9328dd6d4d4deb2a392b30a25af7e24cf54844441"
+hash = "4086a7f19ac79c731238a1d354eb31984626e3d1b5fe179da6ea606cdd6d9f2e"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
 hash = "83c03b84ee6776e686e6b80e984befdee9bb015c3a5ce9cb1fd551fe6b627b84"
-
-[[files]]
-file = "kubejs/server_scripts/Scripts/plushieequip.js"
-hash = "f9fae6bfe6e7582dd702273d9f90966d065741400798f43d35ad7718cac83576"
 
 [[files]]
 file = "kubejs/startup_scripts/BlockRegistry/shop.js"
@@ -2036,7 +2028,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "c88f3c761e4c5c92aefb25314cdff9422638a19a148fe5cf5b284c73cec00827"
+hash = "0e16ddbad304bf2356bfe8a9eecf19d957244dbea21047f132195656d1f8d9fe"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2089,6 +2081,10 @@ hash = "eee477782b7f0290a664e162c8c2603ec6fe00ed6ba0ba876a43c3e66264fd55"
 [[files]]
 file = "modpack-info/versions/2.3.6/changelog.txt"
 hash = "a67491512adee2ff9fda85b5ff4c241df2fdc7d84fb3ddcd7890572d4d8e074a"
+
+[[files]]
+file = "modpack-info/versions/2.4.0/changelog.txt"
+hash = "85c5406a5c66d7214109b5612193a0697a94a3d39eef61b29370b0ea7cb578bb"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -2161,7 +2157,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-2.2.jar"
-hash = "34d39c5f566edf4836bc80b4af772be2319957e49735c44bf69ea709d6eb61a0"
+hash = "bd82367e189368fc0ec198e25720a19127fb9fdadc93261da0d921f8b579a2ed"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -2379,11 +2375,6 @@ hash = "6d3f09ad9769a68ef7e5b45f3bbdf7a6b0aca893a7311a86da0fb42b34ba8f7a"
 metafile = true
 
 [[files]]
-file = "mods/create-train-parts.pw.toml"
-hash = "c8d8e3d2cbb61f6977d475b0203ad21ef0aab34409cdc304db87a7dd65fbeda1"
-metafile = true
-
-[[files]]
 file = "mods/create-trimmed.pw.toml"
 hash = "8bd8b7a9b9f4fc6e2ed9643556df43c6d3e9a9a34d35d219ad1973bc8a78c06d"
 metafile = true
@@ -2391,11 +2382,6 @@ metafile = true
 [[files]]
 file = "mods/create-unlimited-logistics.pw.toml"
 hash = "de92b43def5ee61c6c9290bb6865c4e89ac49af86e86a25be3fa09c14c0a793a"
-metafile = true
-
-[[files]]
-file = "mods/create-vibrant-vaults.pw.toml"
-hash = "892419b50c5a2d33ab0d712c27640816e8566cd699a12667785092eed2ed0c46"
 metafile = true
 
 [[files]]
@@ -2407,6 +2393,14 @@ metafile = true
 file = "mods/create_oxidized.pw.toml"
 hash = "a6704ba95d34469aca84bdb5f5381d3c4357e6987b5ff3da0487939db72ebef8"
 metafile = true
+
+[[files]]
+file = "mods/create_train_parts-0.3.2.jar"
+hash = "3b3d07a14f3c5dfd32b3acf87bac84d3da0ee5bd9b1486dee62a7cfa0f78ff5b"
+
+[[files]]
+file = "mods/create_vibrant_vaults-0.3.2.jar"
+hash = "b8dea6c02427285e2b3be3330e7dea9d04b3e05a960fd9f7911cbf0f21438aef"
 
 [[files]]
 file = "mods/createschematicchecker.pw.toml"
@@ -2813,6 +2807,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2f4fcbf501e394ea2d4270c319630ac034c83e54f6aee199f04e0ed391099a20"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "6b100c6847b82f48ac150816c2e9ce8fd590a4dc92a49e38634b7f6c6b5a2e71"
 metafile = true
 
 [[files]]
