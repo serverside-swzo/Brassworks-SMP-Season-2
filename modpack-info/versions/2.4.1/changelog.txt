@@ -1,0 +1,55 @@
+### **Fixes:**
+* Fixed **Nickname Saving** issues and related NPE server crashes.
+* Fixed **Barrel Recipe** being overwritten by Slice and Dice.
+* Fixed **Voting** system issues.
+* Fixed recipes for **Sunflowers** and **Brass Reeds**.
+* Fixed global recipes not being removed properly.
+* Fixed **Marketplace** related server crash.
+* Fixed **C2ME** server crash.
+* Fixed **Leaderboard** screen flashing and not showing stats in rare circumstances.
+* Disabled **Trial Spawner** contraption pickup to prevent exploits.
+
+### **Additions:**
+* Added **Leaderboard Button** directly to the inventory.
+* Allowed any entity or **Blaze Burner** to be used as a shopkeeper.
+* Added option to share **Waypoints** privately.
+* Added owner data to **Planes** so they can be broken properly within claims.
+* Implemented **Sniffer Fur and Wool**.
+* Added new recipes for **Chert**, **Infested Cobblestone**, **Chalk**, and **Honey Mixing**.
+* Added custom **Tooltip Colors** with different configurable styles.
+* Added **Display Link** source support for **Blaze Bankers**.
+* Added **Fluid Trash Can** to the Create menu.
+* Added a command for mods/admins to easily fix **Chunkbans**.
+* Added an optional **Automated Crash Reporting** system to send reports to the Brassworks dev team.
+
+### **Removals:**
+* Removed **Christmas Logo & Visuals**.
+* Removed **Create More: Linked Remote** mod due to buggy behavior and server crashes.
+
+### **Updated:**
+* Updated **Adorable Hamster Pets**
+* Updated **Amendments**
+* Updated **BaguetteLib**
+* Updated **Be Quiet Negotiator**
+* Updated **BSL Shaders**
+* Updated **EMI Loot**
+* Updated **Exposure**
+* Updated **GeckoLib**
+* Updated **Geophilic**
+* Updated **Haunted Harvest**
+* Updated **Jade**
+* Updated **LootJS**
+* Updated **Lootr**
+* Updated **Moonlight**
+* Updated **Ribbits**
+* Updated **Seasonal Decorations**
+* Updated **Simple Voice Chat**
+* Updated **Snowy Spirit**
+* Updated **Sophisticated Backpacks**
+* Updated **Sophisticated Core**
+* Updated **SRDP**
+* Updated **Supplementaries**
+* Updated **Xaero's Minimap**
+* Updated **Xaero's World Map**
+* Updated **YACL**
+* Updated **Zume**
