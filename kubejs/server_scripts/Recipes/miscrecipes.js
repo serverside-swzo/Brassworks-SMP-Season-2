@@ -11,100 +11,20 @@ ServerEvents.recipes(event => {
     'createqol:player_paper',
     'create_connected:item_silo',
     'farmersdelight:wheat_dough',
-    'create_bic_bit:raw_fries'
+    'create_bic_bit:raw_fries',
+    'pipeorgans:brass_reed',
+    'minecraft:sunflower'
   ];
 
   outputsToRemove.forEach(o => event.remove({ output: o }));
 
+  let logsTags = Ingredient.all.getItemIds().toArray().filter(id => Item.of(id).hasTag("minecraft:logs"))
+  let leavesTags = Ingredient.all.getItemIds().toArray().filter(id => Item.of(id).hasTag("minecraft:leaves"))
+  let coalsTags = Ingredient.all.getItemIds().toArray().filter(id => Item.of(id).hasTag("minecraft:coals"))
+  let pickaxesTags = Ingredient.all.getItemIds().toArray().filter(id => Item.of(id).hasTag("minecraft:pickaxes") || id === "brassworkscore:super_experience_pickaxe")
+
   // Barrel cutting
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:aspen_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:aspen_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_aspen_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_aspen_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:cedar_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:cedar_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_cedar_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_cedar_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:coconut_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:coconut_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_coconut_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_coconut_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:cypress_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:cypress_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_cypress_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_cypress_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:fir_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:fir_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_fir_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_fir_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:ghaf_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:ghaf_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_ghaf_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_ghaf_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:joshua_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:joshua_bundle');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_joshua_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_joshua_bundle');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:larch_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:larch_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_larch_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_larch_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:mahogany_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:mahogany_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_mahogany_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_mahogany_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:maple_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:maple_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_maple_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_maple_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:olive_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:olive_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_olive_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_olive_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:palo_verde_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:palo_verde_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_palo_verde_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_palo_verde_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:redwood_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:redwood_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_redwood_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_redwood_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:saxaul_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:saxaul_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_saxaul_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_saxaul_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:sugi_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:sugi_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_sugi_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_sugi_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:willow_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:willow_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_willow_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_willow_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:wisteria_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:wisteria_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_wisteria_log');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_wisteria_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:alluaudia');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:alluaudia_bundle');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_alluaudia');
-  event.recipes.create.cutting('minecraft:barrel', 'natures_spirit:stripped_alluaudia_bundle');
-  event.recipes.create.cutting('minecraft:barrel', 'vanillabackport:pale_oak_log');
-  event.recipes.create.cutting('minecraft:barrel', 'vanillabackport:pale_oak_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'vanillabackport:stripped_pale_oak_log');
-  event.recipes.create.cutting('minecraft:barrel', 'vanillabackport:stripped_pale_oak_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'enderscape:celestial_hyphae');
-  event.recipes.create.cutting('minecraft:barrel', 'enderscape:celestial_stem');
-  event.recipes.create.cutting('minecraft:barrel', 'enderscape:stripped_celestial_hyphae');
-  event.recipes.create.cutting('minecraft:barrel', 'enderscape:stripped_celestial_stem');
-  event.recipes.create.cutting('minecraft:barrel', 'enderscape:murublight_hyphae');
-  event.recipes.create.cutting('minecraft:barrel', 'enderscape:murublight_stem');
-  event.recipes.create.cutting('minecraft:barrel', 'enderscape:stripped_murublight_hyphae');
-  event.recipes.create.cutting('minecraft:barrel', 'enderscape:stripped_murublight_stem');
-  event.recipes.create.cutting('minecraft:barrel', 'enderscape:veiled_log');
-  event.recipes.create.cutting('minecraft:barrel', 'enderscape:veiled_wood');
-  event.recipes.create.cutting('minecraft:barrel', 'enderscape:stripped_veiled_log');
-  event.recipes.create.cutting('minecraft:barrel', 'enderscape:stripped_veiled_wood');
+  event.recipes.create.cutting('minecraft:barrel', [logsTags]);
 
   // Ochrum Filling (fluid + item as per 1.21.1 docs)
   event.recipes.create.filling(
@@ -114,6 +34,22 @@ ServerEvents.recipes(event => {
       'create:limestone'
     ]
   );
+
+  // Sunflowers
+  event.shapeless(
+    'minecraft:sunflower',
+    'adorablehamsterpets:sunflower_block'
+  );
+  event.shapeless(
+    'adorablehamsterpets:sunflower_block',
+    'minecraft:sunflower'
+  );
+  event.recipes.create.mixing(
+    ['adorablehamsterpets:sunflower_seeds', CreateItem.of('adorablehamsterpets:sunflower_seeds', 0.1)],
+    'adorablehamsterpets:sunflower_block'
+  );
+
+  event.recipes.create.cutting(Item.of('pipeorgans:brass_reed', 9), 'create:brass_sheet')
 
   // Bank Terminal (new recipe)
   event.shapeless(
@@ -132,7 +68,7 @@ ServerEvents.recipes(event => {
       'minecraft:bone_meal',
       'create:cinder_flour',
       'create:cinder_flour',
-      '#minecraft:coals'
+      [coalsTags]
     ]
   );
 
@@ -159,7 +95,7 @@ ServerEvents.recipes(event => {
     [
       Fluid.of('minecraft:water', 500),
       'minecraft:dried_kelp',
-      '#minecraft:coals'
+      [coalsTags]
     ]
   );
 
@@ -172,12 +108,38 @@ ServerEvents.recipes(event => {
     ]
   );
 
+  // Chalk Powder
+  event.recipes.create.compacting(
+    Item.of('natures_spirit:chalk_powder', 1),
+    [
+      Fluid.of('minecraft:water', 100),
+      'create_aquatic_ambitions:calcium_rich_powder'
+    ]
+  ).heated();
+
+  // Chert
+  event.recipes.create.compacting(
+    Item.of('natures_spirit:chert', 1),
+    [
+      Item.of('minecraft:flint', 16),
+      'minecraft:quartz'
+    ]
+  )
+
   // Gilded Blackstone (heated)
   event.recipes.create.mixing(
     Item.of('minecraft:gilded_blackstone'),
     [
       'minecraft:blackstone',
       Item.of('minecraft:gold_nugget', 8)
+    ]
+  ).heated();
+
+  // Honey to Sugar Recipe
+  event.recipes.create.mixing(
+    Item.of('minecraft:sugar', 3),
+    [
+      Fluid.of('create:honey', 250),
     ]
   ).heated();
 
@@ -219,7 +181,7 @@ ServerEvents.recipes(event => {
     'minecraft:small_dripleaf',
     [
       'minecraft:clay_ball',
-      '#minecraft:leaves',
+      [leavesTags],
       Fluid.of('minecraft:water', 100)
     ]
   );
@@ -229,7 +191,7 @@ ServerEvents.recipes(event => {
     'minecraft:big_dripleaf',
     [
       'minecraft:small_dripleaf',
-      '#minecraft:leaves',
+      [leavesTags],
       'minecraft:bone_meal',
       Fluid.of('minecraft:water', 250)
     ]
@@ -281,7 +243,7 @@ ServerEvents.recipes(event => {
   event.recipes.create.mixing(
     Item.of('minecraft:lily_pad', 2),
     [
-      '#minecraft:leaves',
+      [leavesTags],
       'minecraft:moss_block',
       Fluid.of('minecraft:water', 250)
     ]
@@ -292,7 +254,7 @@ ServerEvents.recipes(event => {
     Item.of('minecraft:vine', 2),
     [
       'minecraft:moss_block',
-      '#minecraft:leaves',
+      [leavesTags],
       Fluid.of('minecraft:water', 100)
     ]
   );
@@ -458,6 +420,15 @@ ServerEvents.recipes(event => {
       'minecraft:bread'
     ]
   );
+
+  // Infested Cobblestone
+  event.recipes.create.deploying(
+	  'minecraft:infested_cobblestone',
+	  [
+		  'minecraft:infested_stone',
+		  pickaxesTags
+	  ]
+  ).keepHeldItem()
 
   // Chocolate Roll
   event.recipes.create.filling(
