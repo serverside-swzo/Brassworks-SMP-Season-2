@@ -1,13 +1,13 @@
 name = "Seasonal Decorations"
-filename = "seasonal_decorations-1.0612-neoforge-1.21.1.jar"
+filename = "seasonal_decorations-1.0712-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lcQpdCeI/versions/tmyvKTVn/seasonal_decorations-1.0612-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/lcQpdCeI/versions/MXnKohiV/seasonal_decorations-1.0712-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "610bcd93942bb2cbeccac7bbbe6c3ba8313ffffe4bc4e282f8837e0e992cd81586bf56deab4bd7522f67632caa0c975b8d1900d4b8272557754b7e1a603e733b"
+hash = "e8b4905817d384cbd89f65efb70140dea30bf28f2a2e99f7131d8c0312122875ab1fc695b9b94d4576ae7637e2f6b6dff9349cf769396e04fa9174e10ef2ada4"
 
 [update]
 [update.modrinth]
 mod-id = "lcQpdCeI"
-version = "tmyvKTVn"
+version = "MXnKohiV"
