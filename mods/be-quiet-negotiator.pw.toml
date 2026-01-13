@@ -1,13 +1,13 @@
 name = "Be Quiet Negotiator"
-filename = "be_quiet_negotiator-1.0.3.jar"
+filename = "be_quiet_negotiator-1.0.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/38x4KgoC/versions/7a9O3h3d/be_quiet_negotiator-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/38x4KgoC/versions/OkXxbMBg/be_quiet_negotiator-1.0.4.jar"
 hash-format = "sha512"
-hash = "4c4536393089dd82f2fc3637bc039fd9d8affb2989483051dd8186c0618a3ffacf94fd1e8204c684015e1d3e970ff7d240e170c040230f382553a4b1b96da83e"
+hash = "376ef0d83753398b286bd841791a2270d75e81022574dbe3849bcd56c86937835400e600a2b39c5553193edeb6973a85f06320fea8557e0da3e7232995cf24f9"
 
 [update]
 [update.modrinth]
 mod-id = "38x4KgoC"
-version = "7a9O3h3d"
+version = "OkXxbMBg"
