@@ -131,7 +131,7 @@ ServerEvents.recipes(event => {
     Item.of('minecraft:gilded_blackstone'),
     [
       'minecraft:blackstone',
-      Item.of('minecraft:gold_nugget', 8)
+      Item.of('minecraft:gold_nugget', 16   )
     ]
   ).heated();
 
@@ -754,7 +754,6 @@ ServerEvents.tags('item', event => {
   event.add('kubejs:packagers', [
     'create:packager',
     'create:repackager',
-    'create_factory_logistics:jar_packager',
     'delivery_director:package_rewriter'
   ]);
 });
