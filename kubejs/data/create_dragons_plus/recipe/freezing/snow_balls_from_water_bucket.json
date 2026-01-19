@@ -2,48 +2,13 @@
   "type": "create_dragons_plus:freezing",
   "ingredients": [
     {
-      "item": "minecraft:water_bucket"
+      "item": "minecraft:ice"
     }
   ],
   "results": [
     {
+      "count": 12,
       "id": "minecraft:snowball"
-    },
-    {
-      "id": "minecraft:snowball"
-    },
-    {
-      "id": "minecraft:snowball"
-    },
-    {
-      "id": "minecraft:snowball"
-    },
-    {
-      "id": "minecraft:snowball"
-    },
-    {
-      "id": "minecraft:snowball"
-    },
-    {
-      "id": "minecraft:snowball"
-    },
-    {
-      "id": "minecraft:snowball"
-    },
-    {
-      "id": "minecraft:snowball"
-    },
-    {
-      "id": "minecraft:snowball"
-    },
-    {
-      "id": "minecraft:snowball"
-    },
-    {
-      "id": "minecraft:snowball"
-    },
-    {
-      "id": "minecraft:bucket"
     }
   ]
 }

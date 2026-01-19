@@ -1,0 +1,15 @@
+### **Fixes:**
+* Fixed **Discord Rich Presence**
+* Fixed **Cardboard Plane** deployer recipe not working
+* Fixed **Marketplace** sort and filter buttons not rendering properly
+* Fixed **Gilded Blackstone** recipe allowing **Gold Nugget** duping
+* actually fixed voting this time
+* Optimised **Frogports** and packagers to prevent excessive iteration causing server crashes
+
+### **Additions:**
+* Added **Create Configured**
+* Added a recipe for **Snowballs** :)
+* Increased range of the **Chained Mining** command
+
+### **Updated:**
+* Updated **Brassworkscore** to version 2.4

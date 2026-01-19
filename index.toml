@@ -878,7 +878,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "cf2d2e8415ef232a68bab92eaa527803e651322c5139cfbd15040ff0f9839385"
+hash = "9de0d31f6df42c4e17a334f6e95cdf7e1ebb0f78229c87dec56f5671aae1adc5"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -1976,7 +1976,7 @@ hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
 
 [[files]]
 file = "kubejs/data/create_dragons_plus/recipe/freezing/snow_balls_from_water_bucket.json"
-hash = "ddbff3b74bc33adde053d527fb1bf0f771b5c50b308d218933bbde1bb370a6cc"
+hash = "36ce839af5b7664cf3956f0975cb16c9086e6deedfe818ce3a29e7cdc0f08f79"
 
 [[files]]
 file = "kubejs/data/crittersandcompanions/neoforge/biome_modifier/add_river_spawns.json"
@@ -2036,7 +2036,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "927beb34194f91b6467702ee14b1806db7c76eb87cf130db645e4ba579685aeb"
+hash = "83939476d68cfcb5b7c1d29f6ec8f693dbc35b096a12c1831883189eac23bf3a"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2097,6 +2097,10 @@ hash = "f43df2c116deefdf0a34d6927422406d0707f7043d88e9e52b5c9a32070c30e1"
 [[files]]
 file = "modpack-info/versions/2.4.1/changelog.txt"
 hash = "e2540f00101a538b99bda67d3f0da922d8415f0009e3c20782c353ebd863e3b4"
+
+[[files]]
+file = "modpack-info/versions/2.4.2/changelog.txt"
+hash = "0ef5b2270f0e27e81f4105a478d7a4241bdbc765c4341fb8f86bbda06f7e2e5a"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
