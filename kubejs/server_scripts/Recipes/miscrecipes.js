@@ -99,6 +99,13 @@ ServerEvents.recipes(event => {
     ]
   );
 
+  event.recipes.create.compacting(
+    Item.of('minecraft:snow_block', 4),
+    [
+      'minecraft:ice',
+    ]
+  );
+
   // Dough block
   event.recipes.create.compacting(
     Item.of('create_compressed:dough_block', 1),
