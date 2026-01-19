@@ -1,7 +1,6 @@
 ServerEvents.recipes(event => {
   event.remove({ mod: 'createaddition' });
   event.remove({ type: 'clayworks:baking' });
-
   // Remove by outputs
   let outputsToRemove = [
     'numismatics:bank_terminal',
@@ -100,9 +99,9 @@ ServerEvents.recipes(event => {
   );
 
   event.recipes.create.compacting(
-    Item.of('minecraft:snow_block', 4),
+	'minecraft:ice',
     [
-      'minecraft:ice',
+		Item.of('minecraft:snowball', 4)
     ]
   );
 
