@@ -1971,6 +1971,14 @@ file = "kubejs/data/brassworksmissions/missions/missions.json"
 hash = "808cc22d6f2e6f391f29de3f3fa46525731d97ed1676c4607231cc1511640996"
 
 [[files]]
+file = "kubejs/data/create/recipe/compacting/ice.json"
+hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
+
+[[files]]
+file = "kubejs/data/create_dragons_plus/recipe/freezing/snow_balls_from_water_bucket.json"
+hash = "ddbff3b74bc33adde053d527fb1bf0f771b5c50b308d218933bbde1bb370a6cc"
+
+[[files]]
 file = "kubejs/data/crittersandcompanions/neoforge/biome_modifier/add_river_spawns.json"
 hash = "47a863c69ed15e8fd0cbc3a57c2001788572029de47960e3df894680bf995087"
 
@@ -2004,7 +2012,7 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "4b7a40d33fbc63abbb5ef05c56d8fe516661b6dc78c38cac83d85375497b2be6"
+hash = "2a84ac6ea11f99f4ecabbf5beb167c9308446d66d5ece47e31fb27d97132bde0"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
