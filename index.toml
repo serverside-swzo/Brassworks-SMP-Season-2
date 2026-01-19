@@ -2004,7 +2004,7 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "ef1d860a78747ef6ddd6792c18ef84cbe157b51156aeb6fc5efc58b7c20da831"
+hash = "4b7a40d33fbc63abbb5ef05c56d8fe516661b6dc78c38cac83d85375497b2be6"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
@@ -2165,8 +2165,8 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-2.3.jar"
-hash = "9000461a53c6365713d5c2cafb8a6c88977bb574542ed8a7a96418c7aa2b0274"
+file = "mods/brassworkscore-2.4.jar"
+hash = "f358308ddf3bc58c545ae755baaa271fc7771f87c5f51ec85eca7b68bccb7406"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -2276,6 +2276,11 @@ metafile = true
 [[files]]
 file = "mods/create-compressed.pw.toml"
 hash = "dd4fc2e22a522ae3b780b7fc997e25f65de2de07d773a483f0f2fdbd175b293a"
+metafile = true
+
+[[files]]
+file = "mods/create-configured.pw.toml"
+hash = "13b40389b05ee77db8f31de6e7a1b30a4d66b856dc479847404b474c81e557f3"
 metafile = true
 
 [[files]]
@@ -2856,7 +2861,7 @@ metafile = true
 
 [[files]]
 file = "mods/srdp.pw.toml"
-hash = "3690a199e0856bc1010cf0b85d5616434cfc20e8a39eb100e8bedf4468132ef3"
+hash = "ab193bbfe680e9463795f723abc65f300efb07249c137ba9ab533176ff4ebf4d"
 metafile = true
 
 [[files]]
