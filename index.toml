@@ -2767,9 +2767,8 @@ hash = "5349bc3d530ad08d9517fc169f66b8c92911b08257ad2c0d28cd719d51af64cf"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark.pw.toml"
-hash = "0718c8c5f11fb19c2a4ee980ae6e1bb80f0c78ac0d7a1abd2e204a319b99e943"
-metafile = true
+file = "mods/petrolpark-1.21.1-1.4.26.jar"
+hash = "1b6f46c5523997d04c0f58dfe0c5ddea29f42e085798ecdda47d31935f178788"
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
