@@ -1,0 +1,5 @@
+### **Fixes:**
+* Fixed line wrapping issues with the new chat!
+
+### **Updated:**
+* Updated **Brassworks Core**
