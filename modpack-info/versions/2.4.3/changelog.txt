@@ -1,0 +1,25 @@
+### **Fixes:**
+* Fixed clientside crash related to **Open Parties And Claims**
+* Fixed **ChatHeads** not rendering when nicked
+
+### **Additions:**
+* Made close button in **Brasswork UIs** go to last opened screen
+* Added warning screen when using incompatible mods or having low RAM allocated
+* Completely overhauled the chat screen with custom UIs and animations
+* Added **Parrot Plushie**
+* Increased chat history from 100 to 16k
+* Added new icon
+* Made leaves printed from schematics always be persistent
+
+### **Updated:**
+* Updated **FerriteCore**
+* Updated **ModernFix**
+* Updated **Sort It Out!**
+* Updated **Supplementaries**
+* Updated **Sophisticated Backpacks**
+* Updated **Moonlight Lib**
+* Updated **Sophisticated Core**
+* Updated **AppleSkin**
+* Updated **Create More: Package Couriers**
+* Updated **Create: Brassworks Missions**
+* Updated **Brassworks Core**
