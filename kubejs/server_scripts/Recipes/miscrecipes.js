@@ -206,7 +206,7 @@ ServerEvents.recipes(event => {
   // Ash (heated)
   event.recipes.create.mixing(
     Item.of('supplementaries:ash', 4),
-    ['#minecraft:logs_that_burn']
+    [logsTags]
   ).heated();
 
   // Asurine
@@ -296,16 +296,16 @@ ServerEvents.recipes(event => {
   );
 
   // Sniffer Wool
-  event.shaped('brassworks:sniffer_wool', [
+  event.shaped('brassworkscore:sniffer_wool', [
     'RR',
     'RR'
-  ], { R: 'brassworks:sniffer_fur' });
+  ], { R: 'brassworkscore:sniffer_fur' });
 
   // Sniffer Wool → Fur (CreateItem chance output)
   event.recipes.create.crushing([
-    Item.of('brassworks:sniffer_fur', 3),
-    CreateItem.of('brassworks:sniffer_fur', 0.25)
-  ], 'brassworks:sniffer_wool');
+    Item.of('brassworkscore:sniffer_fur', 3),
+    CreateItem.of('brassworkscore:sniffer_fur', 0.25)
+  ], 'brassworkscore:sniffer_wool');
 
   // Glazed Porkchop (fluid + item)
   event.recipes.create.filling('buzzier_bees:glazed_porkchop', [
@@ -350,9 +350,9 @@ ServerEvents.recipes(event => {
   ]);
 
   // Sniffer Carpet
-  event.shaped('3x brassworks:sniffer_carpet', [
+  event.shaped('3x brassworkscore:sniffer_carpet', [
     'RR'
-  ], { R: 'brassworks:sniffer_wool' });
+  ], { R: 'brassworkscore:sniffer_wool' });
 
   // Smelt Bank Terminal → Spur
   event.smelting(
@@ -376,6 +376,11 @@ ServerEvents.recipes(event => {
     'minecraft:paper',
     'brassworks:whitened_pulp'
   ).id('kubejs:whitened_pulp_to_paper');
+
+  event.recipes.create.pressing(
+    'minecraft:paper',
+    'farmersdelight:tree_bark'
+  ).id('kubejs:barl_to_paper');
 
   // Brown cardboard → Leather
   event.recipes.create.pressing(
