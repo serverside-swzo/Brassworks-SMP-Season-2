@@ -2016,7 +2016,7 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "664b63ddb31f40e51ff9871caf1fd32d2eeca617ddb500e720fccb2eb476e787"
+hash = "416d7a5c2ceae3c10340c1c51edf63e46e2d8687c832ea580815c5ae5e0d6e37"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
@@ -2100,7 +2100,7 @@ hash = "0ef5b2270f0e27e81f4105a478d7a4241bdbc765c4341fb8f86bbda06f7e2e5a"
 
 [[files]]
 file = "modpack-info/versions/2.4.3/changelog.txt"
-hash = "6c0975259eca14ef91b1e761ebc437d9964fb1d3e256cb08eb215b482cf79dfe"
+hash = "9f034aa71d27cb71fefae83972b67febfe60c500ae598ce1b45e84f27d2b3c40"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"

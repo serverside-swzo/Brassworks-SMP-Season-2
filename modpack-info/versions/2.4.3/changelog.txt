@@ -1,6 +1,7 @@
 ### **Fixes:**
 * Fixed clientside crash related to **Open Parties And Claims**
 * Fixed **ChatHeads** not rendering when nicked
+* Fixed duplicate bulk freezing recipes for ice
 
 ### **Additions:**
 * Made close button in **Brasswork UIs** go to last opened screen
@@ -10,6 +11,9 @@
 * Increased chat history from 100 to 16k
 * Added new icon
 * Made leaves printed from schematics always be persistent
+* Added **Tree Bark** to paper pressing recipe
+* Added **Ash** recipe
+* Added recipes for **Sniffer Fur** items
 
 ### **Updated:**
 * Updated **FerriteCore**
