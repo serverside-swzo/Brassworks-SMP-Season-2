@@ -626,19 +626,19 @@ hash = "df22f1af7d32eff9a3f815fd2bcd3c2d397c429b1c92837199e5b3eab8d67a9b"
 
 [[files]]
 file = "config/fancymenu/assets/icon16.png"
-hash = "13a5bd6d72d42738f436d1b9048b91b2294dec828d70b0aab9a74c32bdb92d53"
+hash = "78c05319422c5b0d98e737a6485bc5143e228679782feb88b83fa444007c5539"
 
 [[files]]
 file = "config/fancymenu/assets/icon32.png"
-hash = "dd70eb5d1c4c276fb9dfee7d44209eb61927f4c9a998115412d0c0cd4abfc979"
+hash = "ceaad861981898718989aa042579794e9d98dd17585e8df84a919e8f9859c308"
 
 [[files]]
 file = "config/fancymenu/assets/icon540.png"
-hash = "40fd6f6a34077581e6a77dbfa2f5c26207a455894ed00ac512b6cb3f0afd1010"
+hash = "09f4e5a7d0bceda9364c12c54960917896defa28291c687e991539c39d14bea6"
 
 [[files]]
 file = "config/fancymenu/assets/iconmacos.icns"
-hash = "8d33092413771fdaef85e06a44316775c720752f002370cf9234a9904a3c402b"
+hash = "087e3e2bc3eae50872b0ae13c0c18d3e2b67f5fb36c730becf174101633e14f2"
 
 [[files]]
 file = "config/fancymenu/assets/joinserver.png"
@@ -878,7 +878,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "9de0d31f6df42c4e17a334f6e95cdf7e1ebb0f78229c87dec56f5671aae1adc5"
+hash = "ee6010346299a7114ed82275d867f7fa693314d0a6d838938c5e4f557d99c905"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -2036,7 +2036,7 @@ hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "83939476d68cfcb5b7c1d29f6ec8f693dbc35b096a12c1831883189eac23bf3a"
+hash = "141fef6c275211d1d1de114ee684d5f4a8e3a71aed4c2203e3d39e138df6bd10"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2103,6 +2103,10 @@ file = "modpack-info/versions/2.4.2/changelog.txt"
 hash = "0ef5b2270f0e27e81f4105a478d7a4241bdbc765c4341fb8f86bbda06f7e2e5a"
 
 [[files]]
+file = "modpack-info/versions/2.4.3/changelog.txt"
+hash = "d4f870b8ee00825c7fcc3ac40b2d4b3029b33c6f35f2a213165c7837b2e58bd5"
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "1adbcc263f34ce732dbb38bb3307cf7f418cce491e8f6ddc65f59bacd9f46c60"
 metafile = true
@@ -2129,7 +2133,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
+hash = "3b5f3feca8b299f947ed3956e49f7c3940793754928f2f99cad936448208a501"
 metafile = true
 
 [[files]]
@@ -2177,8 +2181,8 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-2.4.jar"
-hash = "f358308ddf3bc58c545ae755baaa271fc7771f87c5f51ec85eca7b68bccb7406"
+file = "mods/brassworkscore-2.5.jar"
+hash = "ab3a39344b5b898b8592ef6ae25c7881d62158d184d3af828d34f09bedcf121d"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -2272,7 +2276,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-brassworks-missions.pw.toml"
-hash = "41f29301b4fcaeccf7b29039db900f4fcef81e4a5bc863a7a4cc48f31df05000"
+hash = "019a43feac45717cab53d4b15994e65e4f102ccf4be1e2f212b607ec000d85c0"
 metafile = true
 
 [[files]]
@@ -2347,7 +2351,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-package-couriers.pw.toml"
-hash = "11ee941c5cf125189d545240d162e6ec0bbfe90d78a7c4aab71493295e658212"
+hash = "ad8b1ffca6d2795db8e0d1acf25d415a5f41f9add2ac2fc975ae419bc404c11f"
 metafile = true
 
 [[files]]
@@ -2445,7 +2449,7 @@ metafile = true
 
 [[files]]
 file = "mods/direct-chute.pw.toml"
-hash = "78e81200f0bf22925055dbf8de356ae7fdd7b8bcc34dda099e4f7e9ff8db8339"
+hash = "6ab1266cac4c477fd3a19d7ed87d5d05b4ccceb28102be81dca7c5ddefe7d00e"
 metafile = true
 
 [[files]]
@@ -2544,7 +2548,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
@@ -2669,7 +2673,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "eae3c14c915400de36bf547550f630de727bbf48ae0ce719b99b2ff50ceaab0d"
+hash = "6ae9430e2319ead3cb8580633c13d119c9d06f097204f3f8afbc0e4681e9a807"
 metafile = true
 
 [[files]]
@@ -2679,7 +2683,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "801662811550d6ce015b0c13667e24ce767c4ef244685658f961ac4ea9140ad7"
+hash = "427e48f685c2af70f0fda07648073379f3b343436b038c7289d98c56b55c322c"
 metafile = true
 
 [[files]]
@@ -2858,17 +2862,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "ace0fe03e6615aa6cd3e9d3cf7bd6fd9ede85ecda25f9e1b1b7ac84dcab3abb2"
+hash = "49bccf856ced968a9499d110c302225b7f6d71c415d23f89db44325a72ff638a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "b8a57664deacb8a52def0f7c7d569c0e26b9d9740aeb90a1267f989e281e0c53"
+hash = "d0fe3bbd1aee2339a260394eb1ebd693a3134ad0b451357787e9cdc6180ab347"
 metafile = true
 
 [[files]]
 file = "mods/sort-it-out.pw.toml"
-hash = "70b7f772346c848702c756efd644310791aff6dc3140938045f421a5fe0dc720"
+hash = "9d1489ac5683ee17db8ce5290ca83b7bc6153889b6a0590e7e9b20097ad55cf0"
 metafile = true
 
 [[files]]
@@ -2878,7 +2882,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "84a52ce6e4caafe5fb34246ff180f5c787a74faf0ff8f77e76d3e3258b96291c"
+hash = "0078215075483e7aec1d4b533b14e5f0afc474ef4e8b9047a516215312e1628e"
 metafile = true
 
 [[files]]

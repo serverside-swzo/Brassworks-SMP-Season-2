@@ -1,13 +1,13 @@
 name = "Sort It Out!"
-filename = "sort_it_out-neoforge-1.1.4+1.21.1.jar"
+filename = "sort_it_out-neoforge-1.2.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jcOSOvm1/versions/hWX2f8Sa/sort_it_out-neoforge-1.1.4%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/jcOSOvm1/versions/3kmgMEQp/sort_it_out-neoforge-1.2.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "ba1ad48c4737b2682eedd8a6c3288aeb84c67965c2fd41666a3e66c4d8c9c7ef96686481e77f626b705dce3f124b064a5d68d629b9bf501e74326afdd7d38240"
+hash = "029fc8560161f9941c65946d5ed45332c892a55d41d7b5321412057beebf9a5595475a8f81d396ba0d1b4c46876275d9dd887f1667a19c57605e749010a631ad"
 
 [update]
 [update.modrinth]
 mod-id = "jcOSOvm1"
-version = "hWX2f8Sa"
+version = "3kmgMEQp"
