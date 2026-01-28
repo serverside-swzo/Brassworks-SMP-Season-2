@@ -601,7 +601,9 @@ ServerEvents.tags('item', event => {
     'petrolpark:badge/early_bird',
     'immersive_aircraft:rotary_cannon',
     'createtea:experienced_tea',
-    'enderscape:mirror'
+    'enderscape:mirror',
+    'petrolsparts:hydraulic_transmission',
+    'petrolsparts:pneumatic_tube'
   ]);
 
   // Custom plank tag
