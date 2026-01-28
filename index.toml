@@ -1099,8 +1099,8 @@ file = "kubejs/assets/brassworks/textures/gui/ranks/donator.png"
 hash = "be65beab1a4f339ef63d8ff970aa35521bdffbb8aa8d1760889a1a359f07aaa8"
 
 [[files]]
-file = "kubejs/assets/brassworks/textures/gui/ranks/empty..png"
-hash = "98e76a0dc4c1570a127248d4c4b53c67d707a5aaec265860ab982b95b277186b"
+file = "kubejs/assets/brassworks/textures/gui/ranks/empty.png"
+hash = "a17e3d7b792eed57724903b38c5d78c671da0d422ef2617e5a0bb877c552545d"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/ranks/eventiffer.png"
@@ -1112,7 +1112,7 @@ hash = "df68b8d67411b222a53600dab2f4b30d3a923b0a940810ff10d9c686f934abec"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/ranks/owner.png"
-hash = "9baa209061c5259fb38681628fcb39f56898d63716ffca62b975d97a7b9810fb"
+hash = "5ac1910d904b63ca26aa74ae9b64a546a74c41791a9af9ec5dd46c83a6872133"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/ranks/sniffer.png"
