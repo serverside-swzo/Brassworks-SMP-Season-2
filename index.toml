@@ -2123,7 +2123,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "ab17eef29211153f05939d62c8ec6c36171c4e4003e7aa34ade1605f7bcb0940"
+hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
 
 [[files]]
@@ -2172,7 +2172,7 @@ metafile = true
 
 [[files]]
 file = "mods/blocks-bogies.pw.toml"
-hash = "e94f595a5a63fdabe834b84904695ccca3f9bac8856c98b57abd8687555dc213"
+hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
 
 [[files]]
@@ -2261,7 +2261,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-additional-logistics.pw.toml"
-hash = "48a6c6cbd43d738b8995d6e2b3ff745059cedb97517a76f98fc61fa0d60eb140"
+hash = "ba904d5c6a361b648fa7df9ecb8133ef6d1cdc596edb0be128b5562ebbdc14ae"
 metafile = true
 
 [[files]]
@@ -2296,7 +2296,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-configured.pw.toml"
-hash = "13b40389b05ee77db8f31de6e7a1b30a4d66b856dc479847404b474c81e557f3"
+hash = "d108417ff29ffa881ceb2b8f3310b751dc0328540c3123900097e97ca15dd960"
 metafile = true
 
 [[files]]
@@ -2316,7 +2316,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "ed5a88a8d97fe38cca25a42aa1ffcaf51f8f84535f872a9446eff96b92b5722a"
+hash = "4783466b402d8e80a919c9a97f4b30aa0be39c411514d5f441d44e4e073c8f2e"
 metafile = true
 
 [[files]]
@@ -2336,7 +2336,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "437e0fa400ed17c49a4afbae3dd5ccd42ae57a0a204e4614e9a4ac0148746c35"
+hash = "c576b82cc719775919a17dce9de6055376e6406637cf8f2c3fd94958ae660d6b"
 metafile = true
 
 [[files]]
@@ -2346,7 +2346,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-girder.pw.toml"
-hash = "58edd28a04403f75364523bae6c4f4ab487625d21d1095077c6a4557276c0930"
+hash = "199ea22393d36a0281ceb6aafcfdd758ef8be8f2d3d577476e294fcbdeb8c9bf"
 metafile = true
 
 [[files]]
@@ -2361,7 +2361,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-qol.pw.toml"
-hash = "e8b106e4f368a39c8a653c317780732beef6fef5781324e9ffa38eda3e624c93"
+hash = "2647338dcbd812ff86b8a865ff1af9f000b954ed175e8a62036baf09ecec15ca"
 metafile = true
 
 [[files]]
@@ -2411,7 +2411,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
+hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
@@ -2425,7 +2425,7 @@ hash = "b8dea6c02427285e2b3be3330e7dea9d04b3e05a960fd9f7911cbf0f21438aef"
 
 [[files]]
 file = "mods/createschematicchecker.pw.toml"
-hash = "25544da03e459f3107e46a86888c957e96d7cae8ca625e3be293033a9515a0c0"
+hash = "a0617f8a658bd5e789213fb9f779d6bdaacb21cce6647a1646fa6a4fdf2d5afb"
 metafile = true
 
 [[files]]
@@ -2548,7 +2548,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
@@ -2593,7 +2593,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "fa909ffdc98d095e359ae92828c3cdda74c5cd6eff78b412ae36f1fcd555df81"
+hash = "a1c9275037a52da023edb1649cf8d766321aad57658d5e8137b3c5a8e31ef6a7"
 metafile = true
 
 [[files]]
@@ -2768,12 +2768,13 @@ metafile = true
 
 [[files]]
 file = "mods/petrolpark.pw.toml"
-hash = "ca5555aee6b69fc2780f336d719b9ce750de8710af29725bff5a27c5dce793cc"
+hash = "0718c8c5f11fb19c2a4ee980ae6e1bb80f0c78ac0d7a1abd2e204a319b99e943"
 metafile = true
 
 [[files]]
-file = "mods/petrolsparts-1.21.1-1.2.7-notubes.jar"
-hash = "2abaee68c5ca1c9d2ee19c35cc6ce9b3053113dfa7ecad16c11bae5c945abc96"
+file = "mods/petrols-parts.pw.toml"
+hash = "a44b24e27736bdd8d8cb69fb955fc83211b226dcf15cf97238d52e10a20c1f18"
+metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
