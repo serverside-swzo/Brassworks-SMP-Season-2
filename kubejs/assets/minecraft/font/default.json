@@ -9,7 +9,7 @@
             "ascent": 64,
             "type": "bitmap"
         },
-                {
+        {
             "file": "brassworks:gui/ranks/admin.png",
             "chars": [
                 ""
@@ -55,7 +55,7 @@
             "type": "bitmap"
         },
         {
-            "file": "brassworks:gui/ranks/atm.png",
+            "file": "brassworks:gui/ranks/donator.png",
             "chars": [
                 "🛈"
             ],
@@ -73,7 +73,7 @@
             "type": "bitmap"
         },
         {
-            "file": "brassworks:gui/ranks/sniffnator.png",
+            "file": "brassworks:gui/ranks/donator.png",
             "chars": [
                 ""
             ],
@@ -82,7 +82,7 @@
             "type": "bitmap"
         },
         {
-            "file": "brassworks:gui/ranks/slabfish.png",
+            "file": "brassworks:gui/ranks/worker.png",
             "chars": [
                 ""
             ],
@@ -109,12 +109,12 @@
             "type": "bitmap"
         },
         {
-            "file": "brassworks:gui/ranks/eventiffer.png",
+            "file": "brassworks:gui/ranks/empty.png",
             "chars": [
                 ""
             ],
             "height": 7,
-            "ascent": 7,
+            "ascent": 1,
             "type": "bitmap"
         }
     ]
