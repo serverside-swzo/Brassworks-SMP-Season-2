@@ -1084,51 +1084,47 @@ hash = "671725427ae54067c1a9bd11cb34c71828d80bd40d4dfcb6122123573f720672"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/ranks/admin.png"
-hash = "8881e10d6a91cef3045f27987c4774cfcbf26afef62b9eb894573c61e6c73929"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/gui/ranks/atm.png"
-hash = "63afdd2ddff551ec40eb7b11cb95406db1b2a3fb41603ccfa401cf634941e443"
+hash = "ff4e9b90cd434920361cc71c12469eda47fb4903f002bed1fb8f7558b897076f"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/ranks/brasscast.png"
-hash = "2002147a2d5da0efbdee96476eec305c25a77aaabe17272f5e9cb645ad21430c"
+hash = "766113cc4b7f720a7dbeb81d024e490666cddd1cbd1452adb328c968236c4467"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/ranks/discord.png"
-hash = "7279e227e3123477bc203fea613961e485710216244036c02de84de20d724b55"
+hash = "570bc859145de4f30420372acbddb3f9378e819694a523205245f976c9b34101"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/ranks/donator.png"
-hash = "0082dec95e287ce1f4ed25d043700a85d46ef0b6a7804ccd252eecc4587464bd"
+hash = "be65beab1a4f339ef63d8ff970aa35521bdffbb8aa8d1760889a1a359f07aaa8"
+
+[[files]]
+file = "kubejs/assets/brassworks/textures/gui/ranks/empty..png"
+hash = "98e76a0dc4c1570a127248d4c4b53c67d707a5aaec265860ab982b95b277186b"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/ranks/eventiffer.png"
-hash = "ccb7aafaa07606a077e3574ab8a60d488779783dabd8f291c024e5aef9973c9e"
+hash = "541e3e4ddf4807ab3accb847db596b0b6121a7270a502ead38063578804389ee"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/ranks/mod.png"
-hash = "60536d3307d29fc10541e5b6fefb8b16cbe59acdf424566c3b265f7c079b6c5e"
+hash = "df68b8d67411b222a53600dab2f4b30d3a923b0a940810ff10d9c686f934abec"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/ranks/owner.png"
-hash = "6ca651e9ef3d8d006e8799d56fc52ed3a611407d864e6ae91c2f7c12d605f2c6"
-
-[[files]]
-file = "kubejs/assets/brassworks/textures/gui/ranks/slabfish.png"
-hash = "5381253a0e5f23df0fbac152b02d184a742871e644a5c53a1124a15abb2a275a"
+hash = "9baa209061c5259fb38681628fcb39f56898d63716ffca62b975d97a7b9810fb"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/ranks/sniffer.png"
-hash = "e25d800f40acf8ecd6d5c37eed30fe34e96a1a0988b03dcef8a097c7f2aba0ab"
+hash = "b84a7fc0157b804675a6519a51a9e63c47125f31b2bb737ebcead1b96d63a0bf"
 
 [[files]]
-file = "kubejs/assets/brassworks/textures/gui/ranks/sniffnator.png"
-hash = "bbec77840f4930bdd0084233074f3745f50b66900751e05ce7ac2ae827f2a195"
+file = "kubejs/assets/brassworks/textures/gui/ranks/team.png"
+hash = "8db03a7c6708391e19dbbcadb3ecba87164ceee1a0a5b8b7526e7397ab8a0c2d"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/ranks/worker.png"
-hash = "d482d38aff694379d4dc543f1b7348807d5bb04d544717d03853f9986f7e6666"
+hash = "6f40020ce28997223508bc47f3c74b003b84e37afe0adcdcf0c1ed1cb0fcefa1"
 
 [[files]]
 file = "kubejs/assets/brassworks/textures/gui/serverlogo.png"
@@ -1320,7 +1316,7 @@ hash = "2ca37d31da1869a2382b094bec111f1de9112bfa5309a75a91ff87e1129be676"
 
 [[files]]
 file = "kubejs/assets/minecraft/font/default.json"
-hash = "330a9562b85c8d0882b39b17b9a4c54df0cc1f145dc8c2e91d04645fd4134c6b"
+hash = "3e7e89a3f697406d28c1ed2d5130b76057bbe745437bf5f43103e05c65767539"
 
 [[files]]
 file = "kubejs/assets/minecraft/models/block/moss_carpet.json"
