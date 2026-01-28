@@ -1975,6 +1975,10 @@ file = "kubejs/data/create/recipe/compacting/ice.json"
 hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
 
 [[files]]
+file = "kubejs/data/create_dragons_plus/recipe/freezing/packed_ice_from_ice.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "kubejs/data/create_dragons_plus/recipe/freezing/snow_balls_from_water_bucket.json"
 hash = "36ce839af5b7664cf3956f0975cb16c9086e6deedfe818ce3a29e7cdc0f08f79"
 
@@ -2012,15 +2016,11 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "2a84ac6ea11f99f4ecabbf5beb167c9308446d66d5ece47e31fb27d97132bde0"
+hash = "664b63ddb31f40e51ff9871caf1fd32d2eeca617ddb500e720fccb2eb476e787"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
 hash = "83c03b84ee6776e686e6b80e984befdee9bb015c3a5ce9cb1fd551fe6b627b84"
-
-[[files]]
-file = "kubejs/startup_scripts/BlockRegistry/shop.js"
-hash = "4317dfd53ca12e76351af862065ecead41ab0e26e1892ff3a0587e470733d55e"
 
 [[files]]
 file = "kubejs/startup_scripts/ItemRegistry/cinnabons.js"
@@ -2029,10 +2029,6 @@ hash = "ad698500157eca5c10670a2c6b405b3180c2ca1425803758d5a9ce9d6a870929"
 [[files]]
 file = "kubejs/startup_scripts/ItemRegistry/misc_items.js"
 hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
-
-[[files]]
-file = "kubejs/startup_scripts/ItemRegistry/snifferitems.js"
-hash = "296292e096ebbcb1ef51a314a892c11b147ca3640d44cfaa61164922e952d72b"
 
 [[files]]
 file = "modpack-info/meta.json"
@@ -2182,7 +2178,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-2.5.jar"
-hash = "ab3a39344b5b898b8592ef6ae25c7881d62158d184d3af828d34f09bedcf121d"
+hash = "3775122f4dafe2ce0a190955c12a624db0daccb64ebf9ea2d89388c0fad1f23a"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
