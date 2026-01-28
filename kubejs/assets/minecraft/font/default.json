@@ -82,7 +82,7 @@
             "type": "bitmap"
         },
         {
-            "file": "brassworks:gui/ranks/worker.png",
+            "file": "brassworks:gui/ranks/team.png",
             "chars": [
                 ""
             ],

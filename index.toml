@@ -1316,7 +1316,7 @@ hash = "2ca37d31da1869a2382b094bec111f1de9112bfa5309a75a91ff87e1129be676"
 
 [[files]]
 file = "kubejs/assets/minecraft/font/default.json"
-hash = "3e7e89a3f697406d28c1ed2d5130b76057bbe745437bf5f43103e05c65767539"
+hash = "ddf241ae364871b2ebd33959f1c08be193e2c57529ad52e8d18ff79c90b71f61"
 
 [[files]]
 file = "kubejs/assets/minecraft/models/block/moss_carpet.json"
