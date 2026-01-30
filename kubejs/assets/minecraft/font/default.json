@@ -116,6 +116,15 @@
             "height": 7,
             "ascent": 1,
             "type": "bitmap"
+        },
+        {
+            "file": "brassworks:gui/ranks/eventiffer.png",
+            "chars": [
+                ""
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
         }
     ]
 }
