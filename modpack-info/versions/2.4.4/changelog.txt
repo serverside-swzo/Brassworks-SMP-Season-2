@@ -1,5 +1,18 @@
 ### **Fixes:**
-* Fixed line wrapping issues with the new chat!
+* Add better **emoji compat** to the **new chat**
+* Fix Width issues with **new chat** and **bold text**
+* Make **scrollbar position** for **new chat** be correct
+* Fix **starter rewards**
+* Fix **voting**
 
 ### **Updated:**
-* Updated **Brassworks Core**
+* Update **Rank tags** to have **new textures** (thanks to **LiukRast**)
+* Updated **Brassworks Core** (to 2.7)
+* Updated **Complementary Reimagined** Shaderpack
+* Updated **Create: Connected**
+* Updated **Create: More Girder**
+* Updated **Create: Shuffle Filter**
+* Updated **Fzzy Config**
+* Updated **Jade**
+* Updated **Sophisticated Core**
+* Updated **Supplementaries**
