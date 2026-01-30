@@ -2028,7 +2028,7 @@ hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "4ceb2c96bfb1a2ff78d66d0e22f9b5c883505f3468a5c8493bc74bc91b266222"
+hash = "e63ace0fef8e1ee9d2ea667a9c6c0a44967f3d98f99fc5a8b72776c13eee203a"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2100,7 +2100,7 @@ hash = "9f034aa71d27cb71fefae83972b67febfe60c500ae598ce1b45e84f27d2b3c40"
 
 [[files]]
 file = "modpack-info/versions/2.4.4/changelog.txt"
-hash = "b27f454d102d5cd566b91770d72b8d9b0bfaee2b240a6c77cff12779ebb75f28"
+hash = "862b3e720f95c532ccdd27462f6ddcaf3a8d402e8d54b83a962d6844cf1fd037"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -2177,8 +2177,8 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-2.6.jar"
-hash = "c375e62dae82f4567b7f27435dbd49acec29e6ddfef4bc864d030850eb139415"
+file = "mods/brassworkscore-2.7.jar"
+hash = "70c144ee3ff2474efbcf02df03cf5fd2f5bac8ebf5f9e5b8a10ae05dd12b5adf"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -2297,7 +2297,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "a10ca44e38b499dd749e8522b51f16815ddbb60483806a58b0845f179b6b8440"
+hash = "7e58b58e8e6a293859edb327667d45b18245c3abd8f55908d809680d2ddfe8ae"
 metafile = true
 
 [[files]]
@@ -2342,7 +2342,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-girder.pw.toml"
-hash = "199ea22393d36a0281ceb6aafcfdd758ef8be8f2d3d577476e294fcbdeb8c9bf"
+hash = "875f1eff51612a8301a134550ecaa4daab23a7b091e265f1b6b579b354b5ebdf"
 metafile = true
 
 [[files]]
@@ -2367,7 +2367,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-shuffle-filter.pw.toml"
-hash = "6988d91e156d5e983ff5483ffcf0beb632b3b5e52352270631150148da515e7b"
+hash = "1e5f0190001bd74579af0e9c8204e2f1434e6be77c624fdfd5de50b331be6bec"
 metafile = true
 
 [[files]]
@@ -2549,7 +2549,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "0580a44f77a6e88c906bce984b369ca757a0a73062203e9ce1a144544ede9c8a"
+hash = "43e9f1deacc1fb03a7767c671cc7841ebc30270b34e9d8ce12dd45e861cad920"
 metafile = true
 
 [[files]]
@@ -2604,7 +2604,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "62cd07874e73d82b29ff6fecd5345ce4b1135ce7ff29f3ef695139be33157483"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
@@ -2863,7 +2863,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d0fe3bbd1aee2339a260394eb1ebd693a3134ad0b451357787e9cdc6180ab347"
+hash = "bd9143752b3d85282278cfdba9391c0275fad92544cb40dfb3a39e0d231ccbdb"
 metafile = true
 
 [[files]]
@@ -2878,7 +2878,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0078215075483e7aec1d4b533b14e5f0afc474ef4e8b9047a516215312e1628e"
+hash = "c6182c863ef7758553bc7ad14b8b111e094bd7feda60793e4c656cd9a225fce4"
 metafile = true
 
 [[files]]
@@ -2978,7 +2978,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
 
 [[files]]
