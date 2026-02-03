@@ -2292,12 +2292,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-configured.pw.toml"
-hash = "d108417ff29ffa881ceb2b8f3310b751dc0328540c3123900097e97ca15dd960"
+hash = "1fbe33634a6dce604eb2f9d8418b34edb36a296593cbfa81f0245f79860e8616"
 metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "7e58b58e8e6a293859edb327667d45b18245c3abd8f55908d809680d2ddfe8ae"
+hash = "c9f703e3b4559f7ce2e45d6e484001110c123077f242ad38d8a37e8e94b4685d"
 metafile = true
 
 [[files]]
@@ -2387,7 +2387,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-stuff-and-addition-tank-fix.pw.toml"
-hash = "525dc74ad5712b1d3e085255d6d31b86e23f80aac32f7aa41eabfcc994bf6e90"
+hash = "ca2a30a137e802c65a6f84026a874b0acaa7dd755509ae2eb0548c33c9840e43"
 metafile = true
 
 [[files]]
@@ -2445,7 +2445,7 @@ metafile = true
 
 [[files]]
 file = "mods/direct-chute.pw.toml"
-hash = "6ab1266cac4c477fd3a19d7ed87d5d05b4ccceb28102be81dca7c5ddefe7d00e"
+hash = "87d17b6f585dec07f2b0b70c4577d508610263806926d093a2334e3cb9fca48c"
 metafile = true
 
 [[files]]
@@ -2469,6 +2469,11 @@ hash = "420c454a22c453ef2c80401e58587244a2ea7fbd6132493b9c72fc6d8c6fb1d8"
 metafile = true
 
 [[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "e0da63d5ba6b0649e29325584dd15046070f7b5b251f41fc7e33ce85be240f8f"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
@@ -2489,10 +2494,6 @@ hash = "7988c367539dd83722d24c50166e60c49c074ab9426afca9aca358b9cd2d0094"
 metafile = true
 
 [[files]]
-file = "mods/emi_create_schematics-1.1.0.jar"
-hash = "a34b9e1e0ac39d9ae6d3d9ad4c5c80697a5c0737b10fc0e038057df93af06193"
-
-[[files]]
 file = "mods/emixx.pw.toml"
 hash = "1a2ca9865ee018d9cc28693cfa6aa5e181a636eef9fa7811564ce4b6b859ff9d"
 metafile = true
@@ -2509,7 +2510,7 @@ metafile = true
 
 [[files]]
 file = "mods/escalated.pw.toml"
-hash = "49b4208379d629beee2baba9b6883868a0421ea1d8d0478a4b8eff45b07be48d"
+hash = "33a5a487efc06e4dc8484e49a5707a52597c5a1dc716f2ec1dfe7bdfb5392187"
 metafile = true
 
 [[files]]
@@ -2544,12 +2545,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "43e9f1deacc1fb03a7767c671cc7841ebc30270b34e9d8ce12dd45e861cad920"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
@@ -2589,7 +2590,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "a1c9275037a52da023edb1649cf8d766321aad57658d5e8137b3c5a8e31ef6a7"
+hash = "98a7eeeb9dfa95accb8d02477cc5fc277048e199d45b04302051116c0d850c0f"
 metafile = true
 
 [[files]]
@@ -2624,7 +2625,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "2fcbfe045a6e2063ed74b00841f82bef29037e383167d5073e354cf227bd06ac"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
@@ -2654,7 +2655,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "c2673f45c3791694d94cf5b6f6041ee463114a45f2761ce3b47a0c200b27b324"
+hash = "40c53c83a10ed128decaa5975ee80e5431a8821b47862c625677d8e3fad289f6"
 metafile = true
 
 [[files]]
@@ -2710,6 +2711,11 @@ metafile = true
 [[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "f4bbb9a6169524865e0a82dee3d7a11a5ed2bf133f0d5b730d63a28563a18f7d"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "bbaa5acb4a63efb00b03a674e3c4490a67da1c24ca9b8d6c43f74a1dee905049"
 metafile = true
 
 [[files]]
@@ -2773,7 +2779,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "ce6e210ac63b92f3255c4896d116f35b0af8c57a1f84dab744d939535ea528ce"
+hash = "a66863c0269e265ea7a0b771f049787835b642cf896b08b6e78418f81a596c23"
 metafile = true
 
 [[files]]
@@ -2863,7 +2869,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "bd9143752b3d85282278cfdba9391c0275fad92544cb40dfb3a39e0d231ccbdb"
+hash = "47507f44817744c052dd6c58478989b6bacc11e3b65da34badb27929a20b9d52"
 metafile = true
 
 [[files]]
@@ -2918,7 +2924,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "2c4995bdee3b963d237076b10e2097b5ffac8f5c7637525f9fccc8a8220bcf6c"
+hash = "ad37c76a1c6c02bc13e6ec504d22926faff7f44f3dc5a397ef2fa862ce0a461f"
 metafile = true
 
 [[files]]
