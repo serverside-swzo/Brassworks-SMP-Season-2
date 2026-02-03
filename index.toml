@@ -2012,7 +2012,7 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "63fd4f3ea221bbf136b4002ec2136f73ff3e4053912b1a1e17560fa9c263c543"
+hash = "61f4c797523c20d3e4d78953bc059c6480f35d044c92967bab96367b543b17cb"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
@@ -2178,7 +2178,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-2.8.jar"
-hash = "4acf572c1acda7be1cd6a9c86758a98215d575671bb5c76b91882521f9f63ca0"
+hash = "6912f2eaf54022886fbee0b1b998d4485045fa302effc98b4ffddde07e3b17f8"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
