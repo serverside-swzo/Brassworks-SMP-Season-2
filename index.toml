@@ -2178,7 +2178,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-2.8.jar"
-hash = "6912f2eaf54022886fbee0b1b998d4485045fa302effc98b4ffddde07e3b17f8"
+hash = "be7b4f610eb73d7448fcad6677ef6cc73e97b9cfcc349c69af38c5794cacefff"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -2751,6 +2751,11 @@ metafile = true
 [[files]]
 file = "mods/packagerspsic.pw.toml"
 hash = "a2fb48660663ac10f699ffcb136b5d77fe9032e17d4ac3948c9b50c4740a6591"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
