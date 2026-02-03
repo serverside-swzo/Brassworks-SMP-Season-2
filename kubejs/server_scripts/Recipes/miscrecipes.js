@@ -67,10 +67,11 @@ ServerEvents.recipes(event => {
 
     // Coarse Dirt Mixing
     event.recipes.create.mixing(
-      Item.of('minecraft:coarse_dirt', 2),
+      Item.of('minecraft:coarse_dirt', 4),
       [
         'minecraft:dirt',
         'minecraft:dirt',
+        'minecraft:gravel',
         'minecraft:gravel'
       ]
     );
