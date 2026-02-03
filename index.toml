@@ -2012,7 +2012,7 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "416d7a5c2ceae3c10340c1c51edf63e46e2d8687c832ea580815c5ae5e0d6e37"
+hash = "63fd4f3ea221bbf136b4002ec2136f73ff3e4053912b1a1e17560fa9c263c543"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
@@ -2545,7 +2545,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]

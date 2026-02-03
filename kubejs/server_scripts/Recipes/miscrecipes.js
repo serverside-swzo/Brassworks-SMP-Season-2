@@ -25,6 +25,11 @@ ServerEvents.recipes(event => {
   // Barrel cutting
   event.recipes.create.cutting('minecraft:barrel', [logsTags]);
 
+  event.recipes.create.cutting(
+    ['2x minecraft:honeycomb'],
+    'minecraft:honeycomb_block'
+  )
+
   // Ochrum Filling (fluid + item as per 1.21.1 docs)
   event.recipes.create.filling(
     Item.of('create:ochrum', 1),
@@ -59,6 +64,41 @@ ServerEvents.recipes(event => {
       'create:electron_tube'
     ]
   );
+
+    // Coarse Dirt Mixing
+    event.recipes.create.mixing(
+      Item.of('minecraft:coarse_dirt', 2),
+      [
+        'minecraft:dirt',
+        'minecraft:dirt',
+        'minecraft:gravel'
+      ]
+    );
+
+    // Soul Soil Mixing
+    event.recipes.create.mixing(
+      Item.of('minecraft:soul_soil', 2),
+      [
+        'minecraft:soul_sand',
+        'minecraft:basalt'
+      ]
+    );
+
+    // Glistening Melon Slice Mixing
+    event.recipes.create.mixing(
+      Item.of('minecraft:glistering_melon_slice', 1),
+      [
+        'minecraft:melon_slice',
+        'minecraft:gold_nugget',
+        'minecraft:gold_nugget',
+        'minecraft:gold_nugget',
+        'minecraft:gold_nugget',
+        'minecraft:gold_nugget',
+        'minecraft:gold_nugget',
+        'minecraft:gold_nugget',
+        'minecraft:gold_nugget'
+      ]
+    );
 
   // Gunpowder Mixing
   event.recipes.create.mixing(
