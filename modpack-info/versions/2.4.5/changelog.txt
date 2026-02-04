@@ -1,0 +1,33 @@
+### **Fixes:**
+* Fixed **Cranks** not working properly
+* Fixed **Tab** menu issues
+* Fixed **Offline Voting** functionality
+* Fixed **Chat Scrolling** glitch when history is too long
+* Fixed disabling the **New Chat** feature
+* Overhauled the **Brassworks Core** config screen for better organization
+* Fixed several **Chat Exploits** and prevented players from typing rank tags
+
+### **Additions:**
+* Decreased default **Chat Fade-in Speed** and added a config for it
+* **Fueling Tanks** can now be used on **Planes** and **Furnaces**
+* **Deployers** can now play **Goat Horns**
+* Added mixing recipes for **Glistening Melon Slices**, **Coarse Dirt**, **Soul Soil**, and **Honeycomb**
+* **Package Planes** no longer require the **Locational Transmitter**
+* **Package Planes** now send a chat message to the target player upon delivery
+* Added **Packet Fixer** to resolve multiple packet-related chunk bans
+* Bypassed **UK Chat Restrictions**
+
+### **Updated:**
+* Updated **Create Configured**
+* Updated **Create Connected**
+* Updated **Create Stuff and Additions (Tank Fix)**
+* Updated **Direct Chute**
+* Updated **EMI Create Schematics**
+* Updated **Escalated**
+* Updated **Fzzy Config**
+* Updated **Iris-FLW Compat**
+* Updated **Kotlin for Forge**
+* Updated **Lootr**
+* Updated **Platform**
+* Updated **Sophisticated Core**
+* Updated **Vanilla Backport**
