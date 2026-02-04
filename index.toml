@@ -878,7 +878,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "f016f27f3be1f28f39479278ac8210fd154d3eac67548c13aa27096406baf9f7"
+hash = "30ced2b307d4b2076a7f7a6314353d53dba3b9585a82aafeae675dc0e736c8ce"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -2028,7 +2028,7 @@ hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "e63ace0fef8e1ee9d2ea667a9c6c0a44967f3d98f99fc5a8b72776c13eee203a"
+hash = "47fa72ebe967d68d695982a042382057dfd415c18be8e6327ce71f07682729da"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -2101,6 +2101,10 @@ hash = "9f034aa71d27cb71fefae83972b67febfe60c500ae598ce1b45e84f27d2b3c40"
 [[files]]
 file = "modpack-info/versions/2.4.4/changelog.txt"
 hash = "862b3e720f95c532ccdd27462f6ddcaf3a8d402e8d54b83a962d6844cf1fd037"
+
+[[files]]
+file = "modpack-info/versions/2.4.5/changelog.txt"
+hash = "9965ec142d8429e4e895768bb796ddd3ed64db0ee436ed670522fe174825abda"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
