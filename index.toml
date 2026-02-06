@@ -2191,7 +2191,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-2.8.jar"
-hash = "56bb2519bab364d9b2edb942fb996692fd5619ed2011524280d12d87a3049c94"
+hash = "b72a198e650e522f1ff6f36c99d641632a278c40eae1f5d90c97c7b8dbe29753"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
