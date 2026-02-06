@@ -1,0 +1,13 @@
+name = "Better ModList"
+filename = "better_modlist-1.1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbpqhzIG/versions/GiLH27s1/better_modlist-1.1.21.jar"
+hash-format = "sha512"
+hash = "190f6afbb18c919aa9d02abe47c234b98f1d30e828bcc0b0f3d607716513075dad1fe494cd0ed9513afd4ec6e8a41989b0b7b93e9465f668e53fc7474e9e4057"
+
+[update]
+[update.modrinth]
+mod-id = "sbpqhzIG"
+version = "GiLH27s1"

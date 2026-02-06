@@ -786,7 +786,7 @@ hash = "d3c841207ca304825f626a506bf49ba06e07265457c38fe286c2db6aab066fda"
 
 [[files]]
 file = "config/fancymenu/customization/brassworks_mainmenu.txt"
-hash = "2d20633687502b7befd53f6be62c58026fc7dfff91ac736ccc05249656c757d5"
+hash = "f397b8e852c1d2129af139c157fa21ec4cf935fb197fd6e91a5ba4fcdf241ce8"
 
 [[files]]
 file = "config/fancymenu/customization/changelogscreen.txt"
@@ -873,6 +873,10 @@ file = "config/fog/config.json"
 hash = "e70591b29defcdbd8b3317a1c3c1374259acd281112736db96ad0fa775a5ab16"
 
 [[files]]
+file = "config/mod_menu-client.toml"
+hash = "53c1e7a16707426606cf65123da1b6c9a8cffa8907aacb370b424c29bd662e14"
+
+[[files]]
 file = "config/modpack-update-checker-info.txt"
 hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
@@ -893,12 +897,12 @@ file = "config/paxi/datapacks/bat membranes v1.0.15 (MC 1.21-1.21.9).zip"
 hash = "01bfe13386073933ac4902043daefeb990365da27bbc2007a5889e022821c5d9"
 
 [[files]]
-file = "config/paxi/datapacks/double shulker shells v1.3.14 (MC 1.21-1.21.9).zip"
-hash = "b1b50d0976d8eeb117c4c1c3f3ac653f6f8a015086ada3d771bed89ff7c521f9"
+file = "config/paxi/datapacks/brass_emojis.zip"
+hash = "8b2c2f28d03d79a5e4c95b603a1c9a1c3a02f082dce1e98b67ce8be7d850da32"
 
 [[files]]
-file = "config/paxi/datapacks/emojiful-brassworks.zip"
-hash = "ae16ce4056bef87ce553ba9eea2548f2d7fba84c536728c6b34fa50d5bdfbea9"
+file = "config/paxi/datapacks/double shulker shells v1.3.14 (MC 1.21-1.21.9).zip"
+hash = "b1b50d0976d8eeb117c4c1c3f3ac653f6f8a015086ada3d771bed89ff7c521f9"
 
 [[files]]
 file = "config/paxi/datapacks/silence mobs v1.2.8 (MC 1.21-1.21.9).zip"
@@ -2171,6 +2175,11 @@ hash = "904407c261f70fd20bedccc8dbf788f527e87629feaa9a25ee9b1fe91e14a975"
 metafile = true
 
 [[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "d12fa94564aacf8c4159ca06c29f1d1f5d595240541cd84be122225613ee3eb7"
+metafile = true
+
+[[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
@@ -2182,7 +2191,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-2.8.jar"
-hash = "783c8d5b57749af66f1f740f33be440b1d57c65adda2d4164a25722479945e5f"
+hash = "6134915f8eb6bf66bcdb449ea976ea99d08eee53d8fee8a0be598b875e6b63b4"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -2944,11 +2953,6 @@ metafile = true
 [[files]]
 file = "mods/woodworks.pw.toml"
 hash = "c528ce61fc0e0036a7b6055ad71b1a5bf1cb388537397b6852464b9855d69345"
-metafile = true
-
-[[files]]
-file = "mods/xaero-train-map.pw.toml"
-hash = "055508f48abfc3dc9705337d324fe839bbc88cd5cd06ce77f65b4bd2c976a983"
 metafile = true
 
 [[files]]
