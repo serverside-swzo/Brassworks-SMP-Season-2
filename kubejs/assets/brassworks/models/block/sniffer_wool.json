@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "bottom": "brassworks:block/sniffer_wool_base",
-    "side": "brassworks:block/sniffer_wool_side",
-    "top": "brassworks:block/sniffer_wool_top"
-  }
-}
