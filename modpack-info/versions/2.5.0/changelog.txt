@@ -1,5 +1,5 @@
 ### **Fixes:**
-* Fixed **Breastworks** marketplace stock data not updating when breaking stock links
+* Fixed **Brassworks** marketplace stock data not updating when breaking stock links
 * Fixed UI close loops that prevent you from exiting UIs
 * Fixed some schematic issues that caused some parts of schematics to be lost when printing
 * Fixed **Open Parties And Claims** clientside crash
@@ -7,12 +7,12 @@
 * Fixed the **Unstuck Command** in the Nether and prevented "can't find safe spot" errors
 * Fixed the anticheat and added a warning system to it for automated cheater handling
 * Fixed a Cashregister exploit that let you take funds out of other people's cash registers in shops
-* Removed spamming opal warnings completely
+* Removed spammy opac warnings completely
 
 ### **Additions:**
 * Added parkour content for use in events
 * Added a new tooltip theme
-* Added a new **Breastworks API**, a smarter API for capes, and other related API endpoints
+* Added a new **Brassworks API**, a smarter API for capes, and other related API endpoints
 * Added a whole bunch of new leaderboard statistics
 * Added more administrative commands like `lastlogin` time and position commands
 * Added a news panel to the title screen
@@ -27,15 +27,16 @@
 * Heavily cleaned and improved internal code and overall performance
 * Overhauled the options menu screen
 * Optimised marketplace search and fuzzy matcher
-* Moved **Breastworks** glyphs to a data generator
-* Changed goggles tooltip to use the **Breastworks** custom tooltip textures
+* Moved **Brassworks** glyphs to a data generator
+* Changed goggles tooltip to use the **Brassworks** custom tooltip textures
 * Heavily optimised the new chat with caching to prevent extreme lag for large chat messages
 * Made name tags look fancier and nicer with an optional config to disable
 * Overhauled tab design
 * Overhauled the action bar with a new design
 * Overhauled the item selection bar with a new design
-* Improved **Breastworks** logging API to prevent some minor performance issues
+* Improved **Brassworks** logging API to prevent some minor performance issues
 * Overhauled title screen design completely
+* Overhauled pause screen design
 * Removed **FancyMenu** and its addons and switched to using **Brassworks'** own API for UI
 * Made **Create: Sound of Stream** tracker bars and keyboard relays use claim links when placed inside claimed chunks
 * Removed some unused assets from the modpack
