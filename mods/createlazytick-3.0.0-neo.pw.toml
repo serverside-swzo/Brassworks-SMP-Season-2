@@ -1,6 +1,6 @@
 name = "Create Lazy Tick Neoforged"
 filename = "createlazytick-3.0.0-neo.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://github.com/Brassworks-smp/Create-LazyTick-Neoforged/releases/download/v3.0.0/createlazytick-3.0.0-neo.jar"
