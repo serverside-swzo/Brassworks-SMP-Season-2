@@ -2021,7 +2021,7 @@ hash = "b8dea6c02427285e2b3be3330e7dea9d04b3e05a960fd9f7911cbf0f21438aef"
 
 [[files]]
 file = "mods/createlazytick-3.0.0-neo.pw.toml"
-hash = "4ef6e9d00890444f70115361b50df814c9c069e6db2cd5d11f4ec52f6354ce3c"
+hash = "7ea43fd43bea185a02d277de0fbceb3719ce44d351b973d8be2d19a9636d22cd"
 metafile = true
 
 [[files]]
