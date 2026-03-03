@@ -1,0 +1,10 @@
+### **Fixes:**
+* Fixed a critical crash occurring on some systems due to **Unsafe Memory Access**.
+* Fixed **Auto-connect** functionality when being warned by anti-cheat.
+* Fixed **Create Deco** catwalks becoming invisible when sneak+wrenched.
+
+### **Additions:**
+* Pinned the **Brassworks** mods to the top of the mod menu.
+
+### **Updated:**
+* Updated **Brassworks Core**

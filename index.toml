@@ -886,7 +886,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "e195bb707592eaa8ada7c6069388ad34de49eba0bd49a482c263096100bd7668"
+hash = "3301f0dcdbf7660925ad96e10ad3a392eba1f92a3d7061cf0b7ca40f08eaad60"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -1600,7 +1600,7 @@ hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "6bccdda839c108f40a20e4d353dd4b34b57cf8f939036d43b05a195d9eaf9a32"
+hash = "71709834ea4ff7cd020801cb355c9f68595712e605c8f37eb19ed77768599fc0"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -1683,6 +1683,10 @@ file = "modpack-info/versions/2.5.0/changelog.txt"
 hash = "67990bec3d24e38f1821cac2e2477aac0df52dd5d0043179c0c049413387b6ca"
 
 [[files]]
+file = "modpack-info/versions/2.5.1/changelog.txt"
+hash = "f4b163d14f1c75ff604f49c7aa8fb702e6d1977d9e40b77ff3eaf1e9f2960b34"
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "1adbcc263f34ce732dbb38bb3307cf7f418cce491e8f6ddc65f59bacd9f46c60"
 metafile = true
@@ -1743,7 +1747,7 @@ metafile = true
 
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
@@ -1763,7 +1767,7 @@ metafile = true
 
 [[files]]
 file = "mods/brassworkscore-3.1.jar"
-hash = "56d18e1d748acdbc5e35fa5ba7329c8584c2ba3484be21e15238cbc04059251a"
+hash = "2544797020a6c9e3053b71e09df1d303365eab45fc5428d717e74d0ae058e262"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
