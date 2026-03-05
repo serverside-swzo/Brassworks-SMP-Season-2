@@ -1687,6 +1687,10 @@ file = "modpack-info/versions/2.5.1/changelog.txt"
 hash = "f4b163d14f1c75ff604f49c7aa8fb702e6d1977d9e40b77ff3eaf1e9f2960b34"
 
 [[files]]
+file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
+hash = "1263ee0c2275709beecf77ae056a0db98a48cb0e84a72a1dedab8c1fa4f677c0"
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "1adbcc263f34ce732dbb38bb3307cf7f418cce491e8f6ddc65f59bacd9f46c60"
 metafile = true
@@ -1766,8 +1770,8 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-3.1.jar"
-hash = "2544797020a6c9e3053b71e09df1d303365eab45fc5428d717e74d0ae058e262"
+file = "mods/brassworkscore-3.2.jar"
+hash = "53b0cd4176988bf2eec79c45a7f15d8084986bb73a8877493611cd5a58d9b9cd"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -1786,7 +1790,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "113f65b62b62a8b34d50c1dc3260106581aaf5b84d10dc15c0195a9488a61453"
+hash = "8629fe0739a2243641a1a00b103682bcb2741a9295f9eac4c2a2135a867f8442"
 metafile = true
 
 [[files]]
@@ -2422,11 +2426,6 @@ hash = "118fd6935f96faf0795c05de74c9a28711b5a739a7b853aa2bcace8757b78897"
 metafile = true
 
 [[files]]
-file = "mods/simple-custom-early-loading.pw.toml"
-hash = "18ac036cd5661abb6977b1acc0926565430cbb24edc366a386f9047bdebf74f5"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "15c145ff1f48e22759871c48775951ade48bc1875b2acc9f88c23b78537c596a"
 metafile = true
@@ -2543,12 +2542,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "02e2acc15a8c1b7bbe44a64af68574d7e024f1c45504a6997568c9fcbab3846b"
+hash = "473b998b1acd6c14874f9db9ae5986b1de92820456de2ff57ad4f8b2d64ccfff"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
+hash = "6d531ca789931cf437a72fef1a868a51d8afe4db12565a525e71c154304f4e29"
 metafile = true
 
 [[files]]
