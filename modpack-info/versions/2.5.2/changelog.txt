@@ -1,0 +1,23 @@
+### **Fixes:**
+* Fixed GUI scale changing when opening the pause or title screen
+* Fixed the Mojang logo popping up at the end of the Neoforge loading screen
+* Fixed playerheads not showing up in world and on the world map
+
+### **Additions:**
+* Added **Tradeworks**
+
+### **Updated:**
+* Updated **Brassworks Core**
+* Updated **Better Modlist**
+* Updated **Chat Heads**
+* Updated **Create Central Kitchen**
+* Updated **Create Framed**
+* Updated **Create Shuffle Filter**
+* Updated **Create Sophisticated Backpacks**
+* Updated **Every Compat**
+* Updated **Exposure**
+* Updated **Geckolib**
+* Updated **Iris FLW Compat**
+* Updated **Moonlight**
+* Updated **Sophisticated Backpacks**
+* Updated **Sophisticated Core**

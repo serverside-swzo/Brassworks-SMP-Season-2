@@ -886,7 +886,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "3301f0dcdbf7660925ad96e10ad3a392eba1f92a3d7061cf0b7ca40f08eaad60"
+hash = "543e01bd82f771d5bf2acd67bfc85f8627b99a70666babb4543a13334a469913"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -934,7 +934,7 @@ hash = "443cf04aeae1a64924cba8e9a1a0851222b9257dff2c86f0b6bb5a943546461e"
 
 [[files]]
 file = "config/paxi/resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "30ad212730fa8fed38f81dc5d7d57777463295ba3018117c62725fb464ca7280"
+hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
 metafile = true
 
 [[files]]
@@ -1600,7 +1600,7 @@ hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "71709834ea4ff7cd020801cb355c9f68595712e605c8f37eb19ed77768599fc0"
+hash = "29fe0b9184b9bcf4ab0315c019ae6ae3beebeda55857ff4216e566d92e73bd6a"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -1687,6 +1687,10 @@ file = "modpack-info/versions/2.5.1/changelog.txt"
 hash = "f4b163d14f1c75ff604f49c7aa8fb702e6d1977d9e40b77ff3eaf1e9f2960b34"
 
 [[files]]
+file = "modpack-info/versions/2.5.2/changelog.txt"
+hash = "611ec32fc2178c7e219d643c022e5327c13f9e6cd4a397a2c2b314aebbeac6cf"
+
+[[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
 hash = "1263ee0c2275709beecf77ae056a0db98a48cb0e84a72a1dedab8c1fa4f677c0"
 
@@ -1756,7 +1760,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "d12fa94564aacf8c4159ca06c29f1d1f5d595240541cd84be122225613ee3eb7"
+hash = "b841dbd591775e39c4c04361bf56cefabbb954dc709608f0ea812a7e4db00530"
 metafile = true
 
 [[files]]
@@ -1790,7 +1794,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8629fe0739a2243641a1a00b103682bcb2741a9295f9eac4c2a2135a867f8442"
+hash = "113f65b62b62a8b34d50c1dc3260106581aaf5b84d10dc15c0195a9488a61453"
 metafile = true
 
 [[files]]
@@ -1870,7 +1874,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "dbdb686363922b46666480726b8470cbb8a6ed8386c5c3f20ff6ac06b0654e67"
+hash = "841520a74c765cb9aef0cc35ec3f9ea3bef68b47eca8ed2643abacee6961c2ff"
 metafile = true
 
 [[files]]
@@ -1935,7 +1939,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "c576b82cc719775919a17dce9de6055376e6406637cf8f2c3fd94958ae660d6b"
+hash = "c6f449a5dbd6640cef3a2d46f198af505b1d3fe7cb38c43057bb16ea055c3d7f"
 metafile = true
 
 [[files]]
@@ -1975,7 +1979,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-shuffle-filter.pw.toml"
-hash = "c4fc357e935f21565bded9c1936e99278ec008de75d6090f28055cd1f8d88eb1"
+hash = "8495de36b729391d2411dea3c92b41b7b25e1dfa18689ec1f3831b2bed709a19"
 metafile = true
 
 [[files]]
@@ -2123,7 +2127,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "708406d8fd1d269fbb4f29a913d287f26b2fe49344524a1413467ca5475f32ab"
+hash = "d847a20fba2bf6e0474b45a647130b74e036f6ce34516caef659b5b8a8d79e14"
 metafile = true
 
 [[files]]
@@ -2133,7 +2137,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "43772cecb231febf642295f4713b09d59941778ef1a32c5c86ef100ea7d35787"
+hash = "7b6dbe885c4fa12d5c9cb8182138305575eff19aed1e7f969a5ef343f841ee87"
 metafile = true
 
 [[files]]
@@ -2168,7 +2172,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "415ae259d7d6c92717710d6f80494d9f3c0884c6a2a35f993ad31e287f64632f"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
 
 [[files]]
@@ -2198,7 +2202,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "98a7eeeb9dfa95accb8d02477cc5fc277048e199d45b04302051116c0d850c0f"
+hash = "7a733deb39d1e1691a5746de380da94c47f5d99786a4d22e428b7de58fcc7950"
 metafile = true
 
 [[files]]
@@ -2278,7 +2282,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1d81d4abc3a687ce413d4aa82398893147093ce0cf0a4686bceadc802590fc44"
+hash = "1965658333e46f8a375d3efee20cbfc49400d576f7051e81da832a70da79e3c0"
 metafile = true
 
 [[files]]
@@ -2462,12 +2466,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "a0d7a9c8a31112c503c66e8ecf3f4d59a34de8278ff6a664bc13285a79eba54f"
+hash = "3477a21180608fd31e4699790711274d2f3b9b0c30376a8aa16d7de9aaf30833"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a12227faef5279cf7afbf3520aed9b23438f309ec9b39463aaf7285a84a0fc78"
+hash = "fe0b8a81e1545af94d40da2547efbc6a7bf323198994c1cfb7b84423d17428ab"
 metafile = true
 
 [[files]]
@@ -2519,6 +2523,10 @@ metafile = true
 file = "mods/trade-cycling.pw.toml"
 hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
 metafile = true
+
+[[files]]
+file = "mods/tradeworks-1.0.0.jar"
+hash = "f60de96385413dd45f309d5a20baea8ea3b49b00e826559c2edc9a6e7015af10"
 
 [[files]]
 file = "mods/trimmed.pw.toml"
