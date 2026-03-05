@@ -33,4 +33,4 @@
 		#ATTENTION: There are some Resource Packs that won't work well with Every-Compat, which is why this
 		#option is off by default. Disable if there are missing textures for blocks.
 		#
-		use_external_resource_pack = false
+		use_external_resource_pack = true

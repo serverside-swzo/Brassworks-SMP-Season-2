@@ -22,7 +22,7 @@ hash = "46a773a0893e687ecd8802bb23e10189562467cfcc1e00ea3a9c82cd4c9fcf73"
 
 [[files]]
 file = "config/everycomp-common.toml"
-hash = "9e8d03334160e91b715565e656ee7223370d165869c983d2babcc4df59d9fbed"
+hash = "622ee881bff5923a2d2af945ad3d596e2339f8310c37361422b2c247c0a4b219"
 
 [[files]]
 file = "config/fancymenu/assets/1x1.png"
