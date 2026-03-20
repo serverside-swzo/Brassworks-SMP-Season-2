@@ -18,7 +18,6 @@
 * Added Brassworks Wordle
 * Added **Create: Blueprinted**, a new Create addon to render schematics
 * Added more leaderboard stats
-* Added the **Brassworks Consistency Resource Pack** by @LiukRast
 * Began implementation for the Brassworks Wiki (still not completed)
 * Optimised hypertubes with culling for a 2-3x performance boost
 * Improved anticheat and made warnings easier to spot
