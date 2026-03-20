@@ -12,7 +12,7 @@ ServerEvents.recipes(event => {
     'farmersdelight:wheat_dough',
     'create_bic_bit:raw_fries',
     'pipeorgans:brass_reed',
-    'minecraft:sunflower'
+    'minecraft:sunflower',
   ];
 
   outputsToRemove.forEach(o => event.remove({ output: o }));
@@ -29,6 +29,24 @@ ServerEvents.recipes(event => {
     ['2x minecraft:honeycomb'],
     'minecraft:honeycomb_block'
   )
+
+  // Packed Mud Drying
+  event.shapeless(
+    'minecraft:packed_mud',
+    [
+       Item.of('minecraft:dried_kelp', 2),
+       'minecraft:mud'
+    ]
+  )
+
+  event.recipes.create.splashing(
+    [
+      CreateItem.of('minecraft:clay_ball', 1),
+      CreateItem.of('minecraft:clay_ball', 0.4),
+      CreateItem.of('minecraft:sand', 0.025),
+    ],
+    'minecraft:packed_mud'
+  );
 
   // Ochrum Filling (fluid + item as per 1.21.1 docs)
   event.recipes.create.filling(
@@ -121,6 +139,15 @@ ServerEvents.recipes(event => {
       L: 'natures_spirit:red_chalk',
       R: 'enderscape:stasis_armor_trim_smithing_template',
       D: 'minecraft:diamond'
+  });
+
+  // Bell
+  event.shaped('minecraft:bell', [
+    'DLD',
+    'D D'
+  ], {
+      L: 'minecraft:gold_block',
+      D: 'minecraft:stick'
   });
 
   // Raw Fries
@@ -497,7 +524,7 @@ ServerEvents.recipes(event => {
     'natures_spirit:pink_sand'
   );
 
-  // XP Roll  
+  // XP Roll
   event.recipes.create.filling(
     'brassworks:xp_roll',
     [
@@ -569,6 +596,9 @@ ServerEvents.recipes(event => {
 
 ServerEvents.tags('item', event => {
   event.add('forge:hidden', [
+	'create_sa:block_picker',
+    'create_sa:brass_drone_item',
+    'create_sa:drone_controller',
     'create_sa:grapplin_whisk',
     'clayworks:kiln',
     'create_connected:item_silo',
@@ -844,4 +874,7 @@ ServerEvents.tags('item', event => {
 ServerEvents.tags('block', event => {
     event.add('minecraft:sand', 'natures_spirit:pink_sand')
     event.add('forge:sand', 'natures_spirit:pink_sand')
+})
+ServerEvents.tags('fluid', event => {
+    event.add('create:bottomless/allow', 'sliceanddice:fertilizer')
 })
