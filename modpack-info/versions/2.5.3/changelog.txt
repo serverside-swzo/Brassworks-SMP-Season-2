@@ -26,6 +26,7 @@
 * Removed tutorial toasts
 * Disabled the Adorable Hamster Pets Missing Guidebook Warning Message
 * The first two mission rerolls are now free.
+* Added lookup history to emi and right aligned the search bar
 
 ### **Updated:**
 * Updated **Brassworkscore**

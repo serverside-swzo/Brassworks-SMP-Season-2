@@ -21,6 +21,10 @@ file = "config/createqol-server.toml"
 hash = "46a773a0893e687ecd8802bb23e10189562467cfcc1e00ea3a9c82cd4c9fcf73"
 
 [[files]]
+file = "config/emi.css"
+hash = "f40b56e5e057ef51c22162cb7bfde25da7b291032adfa2b0f04208a0b9396f03"
+
+[[files]]
 file = "config/everycomp-common.toml"
 hash = "622ee881bff5923a2d2af945ad3d596e2339f8310c37361422b2c247c0a4b219"
 
@@ -1692,7 +1696,7 @@ hash = "611ec32fc2178c7e219d643c022e5327c13f9e6cd4a397a2c2b314aebbeac6cf"
 
 [[files]]
 file = "modpack-info/versions/2.5.3/changelog.txt"
-hash = "c6bdd09e9a4c2065f3f6a1821e17b7ce12153ed30355117603fad148cdfb23fa"
+hash = "c8c0fa6886b1b2e15293beb7fc5a76fd1a62f620711014b831133961935dad95"
 
 [[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
