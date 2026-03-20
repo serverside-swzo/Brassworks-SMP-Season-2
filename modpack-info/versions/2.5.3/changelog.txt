@@ -24,6 +24,7 @@
 * Implemented a custom shader to render Brassworks boxes for a performance boost (by LiukRast)
 * Removed tutorial toasts
 * Disabled the Adorable Hamster Pets Missing Guidebook Warning Message
+* The first two mission rerolls are now free.
 
 ### **Updated:**
 * Updated **Brassworkscore**
