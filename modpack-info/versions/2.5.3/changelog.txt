@@ -23,6 +23,7 @@
 * Improved anticheat and made warnings easier to spot
 * Implemented a custom shader to render Brassworks boxes for a performance boost (by LiukRast)
 * Removed tutorial toasts
+* Disabled the Adorable Hamster Pets Missing Guidebook Warning Message
 
 ### **Updated:**
 * Updated **Brassworkscore**
@@ -42,7 +43,6 @@
 * Updated **Lithium**
 * Updated **Lootr**
 * Updated **OctoLib**
-* Updated **Patchouli**
 * Updated **Slice & Dice**
 * Updated **Sophisticated Backpacks**
 * Updated **Sophisticated Core**
