@@ -2032,6 +2032,10 @@ hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
+file = "mods/create_blueprinted-1.0.jar"
+hash = "8d71864e8d08673de801e98e49d4f6c336487474780f342acd6d1843edc9ff63"
+
+[[files]]
 file = "mods/create_oxidized.pw.toml"
 hash = "a6704ba95d34469aca84bdb5f5381d3c4357e6987b5ff3da0487939db72ebef8"
 metafile = true
