@@ -1936,7 +1936,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-entity-control.pw.toml"
-hash = "9e13c9f8e0afaa6042905e7673909011f07eee4775e5c854a0ccdd6c56c7fbc2"
+hash = "2254e6ba1cabfa75b809746f7245b24e0d567dd8c047bc003b5f29865ebba651"
 metafile = true
 
 [[files]]
