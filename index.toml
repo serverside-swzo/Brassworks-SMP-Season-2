@@ -1692,7 +1692,7 @@ hash = "611ec32fc2178c7e219d643c022e5327c13f9e6cd4a397a2c2b314aebbeac6cf"
 
 [[files]]
 file = "modpack-info/versions/2.5.3/changelog.txt"
-hash = "432bec0a07ac454b7b8b6e8d8285b9c571d8761b0971ce60ed59a9e425770a0c"
+hash = "c6bdd09e9a4c2065f3f6a1821e17b7ce12153ed30355117603fad148cdfb23fa"
 
 [[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
@@ -2543,8 +2543,9 @@ hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
 metafile = true
 
 [[files]]
-file = "mods/tradeworks-1.0.0.jar"
-hash = "f60de96385413dd45f309d5a20baea8ea3b49b00e826559c2edc9a6e7015af10"
+file = "mods/tradeworks.pw.toml"
+hash = "51fae1bb94a31c8b3dcd0d546845b37964b036ab543d46f6775309715a45cc81"
+metafile = true
 
 [[files]]
 file = "mods/trimmed.pw.toml"

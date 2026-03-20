@@ -1,0 +1,13 @@
+name = "Create: Tradeworks"
+filename = "tradeworks-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gnOpd0sq/versions/ZzZU3gZb/tradeworks-1.0.6.jar"
+hash-format = "sha512"
+hash = "783bc502194a6ac3c4e89401d8d783d6842450bdb8e2cdbe70d5794da9ce688905883ce7f6adcd287943c5daa6fb50e873797fa022f61fb5f0c50de9d899ed5f"
+
+[update]
+[update.modrinth]
+mod-id = "gnOpd0sq"
+version = "ZzZU3gZb"
