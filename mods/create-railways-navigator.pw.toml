@@ -1,13 +1,13 @@
 name = "Create Railways Navigator"
-filename = "createrailwaysnavigator-neoforge-1.21.1-beta-0.8.5.jar"
+filename = "createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dq3STxps/versions/PrbRAPGr/createrailwaysnavigator-neoforge-1.21.1-beta-0.8.5.jar"
+url = "https://cdn.modrinth.com/data/Dq3STxps/versions/9tbJbgG6/createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6%2B2.jar"
 hash-format = "sha512"
-hash = "f51224a99dfea9932d91c4bfdbeb8cf38ca8710869d7d5e4a12015fc7cf49d31df3af4e0e0b04e809a2ada3546e1e9ff52d87041f9e208072251dc49c9cfc1d9"
+hash = "be4464a131a7fbbdb1e5219679d4d25625e005a09ee5671a0f32d9a749ea69e533b2bf48ebf3540e72f55644d223e72826b79c5b836d58b7a8a4a11ef03673c0"
 
 [update]
 [update.modrinth]
 mod-id = "Dq3STxps"
-version = "PrbRAPGr"
+version = "9tbJbgG6"

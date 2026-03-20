@@ -1,13 +1,13 @@
 name = "Create More: Package Couriers"
-filename = "cmpackagecouriers-neoforge-2.0.1.jar"
+filename = "cmpackagecouriers-neoforge-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GRqrodjM/versions/LqfXid2V/cmpackagecouriers-neoforge-2.0.1.jar"
+url = "https://cdn.modrinth.com/data/GRqrodjM/versions/jATNMdpR/cmpackagecouriers-neoforge-2.1.0.jar"
 hash-format = "sha512"
-hash = "06ed55db9e3aa86370bed5e9c5a8fd1db19be0b19b1b7a97e47b1b13f1ce405e5931b479b1f1c04ee53e30431af63af3ca222e7c5f4024b8276d0581510aeced"
+hash = "0cc32cac1a40a65e3223c14b3df9b7ff98f14c4e06c53d81e586f6049885001a3f2d2ed731df397c3b40b1feefd869beaf51d1f105f213a0e06f1dbde65600a7"
 
 [update]
 [update.modrinth]
 mod-id = "GRqrodjM"
-version = "LqfXid2V"
+version = "jATNMdpR"
