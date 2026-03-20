@@ -4,6 +4,7 @@
 * Fixed Slice & Dice infinite fertilizer
 * Fixed package couriers stock ticker integration to use the correct username
 * Fixed the multiplayer screen freezing the game for a second when opened
+* Prevent chipped spruce barrels from being destroyed in claims
 
 ### **Additions:**
 * Added Packed Mud + Clay recipe
