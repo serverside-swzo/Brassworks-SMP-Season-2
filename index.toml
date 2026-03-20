@@ -971,6 +971,10 @@ file = "config/xaerominimap-common.txt"
 hash = "3fdfaa4595d4e55c1e6b3a6ba74aec07ca2701ec767c34d5209a7bc08d0dbfbd"
 
 [[files]]
+file = "kubejs/assets/brassworks/textures/item/crushed_raw_ancient_debris.png"
+hash = "62597e326e5ba0d656191fe74d9b6b1582a848b9ab9ed4d2fcd894fa40de1ae7"
+
+[[files]]
 file = "kubejs/assets/brassworks/textures/item/rolls/choco_roll.png"
 hash = "a0804948a59d776b73b89b88aa250f15c7b580df10ff1cdc97a69cd5e5cc0143"
 
