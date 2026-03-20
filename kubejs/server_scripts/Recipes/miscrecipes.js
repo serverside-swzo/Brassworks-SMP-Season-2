@@ -375,6 +375,10 @@ ServerEvents.recipes(event => {
     CreateItem.of('brassworkscore:sniffer_fur', 0.25)
   ], 'brassworkscore:sniffer_wool');
 
+  event.recipes.create.crushing([
+    CreateItem.of('create:rose_quartz', 0.5),
+  ], 'create:rose_quartz_block');
+
   // Glazed Porkchop (fluid + item)
   event.recipes.create.filling('buzzier_bees:glazed_porkchop', [
     Fluid.of('create:honey', 250),
