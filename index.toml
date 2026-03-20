@@ -886,7 +886,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "543e01bd82f771d5bf2acd67bfc85f8627b99a70666babb4543a13334a469913"
+hash = "ba3845614a03838b292b3bdf784152a09fa9983c7a83c3328abd72da06d1fd28"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -1584,7 +1584,7 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "61f4c797523c20d3e4d78953bc059c6480f35d044c92967bab96367b543b17cb"
+hash = "c08aa01c47abbacbbc53f642e935a3e545bda3e3addff06a9637082c5e7419d6"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
@@ -1600,7 +1600,7 @@ hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "29fe0b9184b9bcf4ab0315c019ae6ae3beebeda55857ff4216e566d92e73bd6a"
+hash = "7f50fe6cdfc00ea64d48ae6ce2e3ad35e18de053a424c198754720dc37020182"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -1691,6 +1691,10 @@ file = "modpack-info/versions/2.5.2/changelog.txt"
 hash = "611ec32fc2178c7e219d643c022e5327c13f9e6cd4a397a2c2b314aebbeac6cf"
 
 [[files]]
+file = "modpack-info/versions/2.5.3/changelog.txt"
+hash = "47818922919c5138ff011776becebae13ba49fcb04356174d285d153b32c9bf1"
+
+[[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
 hash = "1263ee0c2275709beecf77ae056a0db98a48cb0e84a72a1dedab8c1fa4f677c0"
 
@@ -1774,8 +1778,8 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-3.2.jar"
-hash = "53b0cd4176988bf2eec79c45a7f15d8084986bb73a8877493611cd5a58d9b9cd"
+file = "mods/brassworkscore-3.3.jar"
+hash = "ec1af0ad6eaf74d48ca13f71be843383f6b48f324903c435cd4dc8d12ffa3059"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -1829,7 +1833,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "b21236df822bf308e7e4545acb87f8fcdc7089c27437b73ccf0249ec3841c1ef"
+hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
 metafile = true
 
 [[files]]
@@ -1869,7 +1873,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-brassworks-missions.pw.toml"
-hash = "019a43feac45717cab53d4b15994e65e4f102ccf4be1e2f212b607ec000d85c0"
+hash = "df5f6fc88a5c97add79f7387b1780b27d2cc8e2a30d6f34190a6948a1d61401c"
 metafile = true
 
 [[files]]
@@ -1879,7 +1883,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-compatible-storage.pw.toml"
-hash = "401e8f4e10031ee04beac63930234878a69844774225f9da86ff083d7263ffaa"
+hash = "65d241e255bc449e6a1faa590d09aafcea3f65a15206edd1e5cfbb665d3d0993"
 metafile = true
 
 [[files]]
@@ -1924,7 +1928,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-entity-control.pw.toml"
-hash = "2254e6ba1cabfa75b809746f7245b24e0d567dd8c047bc003b5f29865ebba651"
+hash = "9e13c9f8e0afaa6042905e7673909011f07eee4775e5c854a0ccdd6c56c7fbc2"
 metafile = true
 
 [[files]]
@@ -1944,7 +1948,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
-hash = "c218f11a134ff349836cf9d074851390d230a012c1cab77c862223c97910b68a"
+hash = "0cc21d93573e2a8f2ac2744f93db54f08cba3a3129ee84c4800190a529c783e6"
 metafile = true
 
 [[files]]
@@ -1954,7 +1958,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-package-couriers.pw.toml"
-hash = "ad8b1ffca6d2795db8e0d1acf25d415a5f41f9add2ac2fc975ae419bc404c11f"
+hash = "1e75c32be478f22def5dd26a9a53f1b971e1c1ddabf01c782f0cc97e1e6d929b"
 metafile = true
 
 [[files]]
@@ -1974,7 +1978,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "ec69488edd55f31c6fc57cac9bab713a14394d1f63054cc4e2e5efc19a55abb9"
+hash = "f2a31a21fa9bb92922c52d245adc54e1b09ba0474e8b3f663c8c0bc8d48bb60c"
 metafile = true
 
 [[files]]
@@ -1985,6 +1989,11 @@ metafile = true
 [[files]]
 file = "mods/create-smart-bounds.pw.toml"
 hash = "9242937fd358b8f120569adf8358083131bac2c6ed8ddb6da00701d063e20ae7"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam-tuning-wrench.pw.toml"
+hash = "941f681fb3a3f9d76e8fff6a56c423bc6436693b261f285490e091f864b718bd"
 metafile = true
 
 [[files]]
@@ -2032,13 +2041,8 @@ file = "mods/create_vibrant_vaults-0.3.2.jar"
 hash = "b8dea6c02427285e2b3be3330e7dea9d04b3e05a960fd9f7911cbf0f21438aef"
 
 [[files]]
-file = "mods/createlazytick-3.0.0-neo.pw.toml"
-hash = "7ea43fd43bea185a02d277de0fbceb3719ce44d351b973d8be2d19a9636d22cd"
-metafile = true
-
-[[files]]
 file = "mods/createschematicchecker.pw.toml"
-hash = "9f1a17dfbf68e4a0835d0d7417a6fbd1b2cae57f0f6481a4cad13a9e2d227930"
+hash = "3ea90dc6b57c75ecc807e7bf6758602c114cc8932fe8e1da83df547af6243c91"
 metafile = true
 
 [[files]]
@@ -2127,7 +2131,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d847a20fba2bf6e0474b45a647130b74e036f6ce34516caef659b5b8a8d79e14"
+hash = "72fffb9b0d2143b2a479d2ccb7c0a257c739d23b356255da552010de04f26abb"
 metafile = true
 
 [[files]]
@@ -2192,12 +2196,17 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "4c37eaf3699772d79e57aa0804685acb4ceb65eaee66a285a0039b0397b422b7"
+hash = "87309254dc50bcedf00b64fee21a17b19eb4c9307b37ce468c49f57e03ee9079"
 metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "0eef279850c173527c29e0d550aa4a6a616caf031056ac85e69ced91e0cc8ce1"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
@@ -2222,7 +2231,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "638709ccc805606ac9fa9bf2f135ae4dd79d299e5796dcac062d838cbdaf6642"
+hash = "750f4b552490779af147a9c70a558ab2aa1cbfd8331d5ad69efefa099854dfae"
 metafile = true
 
 [[files]]
@@ -2252,7 +2261,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e7544296d2cdd85e43a60cf3e7a8f3e036782e14abc4efeea7f064d980d59dd5"
+hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
@@ -2262,7 +2271,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "33e1d182c5a166e070cc66157ec6f692ff08d8ddae975b564e69a37079b01950"
+hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
 metafile = true
 
 [[files]]
@@ -2337,7 +2346,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
+hash = "86ce4c3fb78e360ff67a43e2779f1d52333267d799b1a252969589092d55bb6a"
 metafile = true
 
 [[files]]
@@ -2362,7 +2371,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
@@ -2436,7 +2445,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "6b100c6847b82f48ac150816c2e9ce8fd590a4dc92a49e38634b7f6c6b5a2e71"
+hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
 metafile = true
 
 [[files]]
@@ -2466,12 +2475,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3477a21180608fd31e4699790711274d2f3b9b0c30376a8aa16d7de9aaf30833"
+hash = "eea5d565d4fb8210aeaf6f1854a10377aed5cca8fdb03db76fd59a03aa2a976b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "fe0b8a81e1545af94d40da2547efbc6a7bf323198994c1cfb7b84423d17428ab"
+hash = "78fedef50f6efd3de99d1acb3378af9a25a8d03292f3e674e9f3e675f5fa6bb0"
 metafile = true
 
 [[files]]
@@ -2486,12 +2495,12 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "c22dc47c2c19f13cd6c8d6a4b8e982b4b479d1bdbf47d1286e240be736eef707"
+hash = "1f90e4050e7732c38ba2bb79f203ea2e15e70702f59026a45657a5f503bb2c0b"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "599e373cbd3ff6fbe64a00ec53a5275fe583e60d3c5593508d13d1846e329952"
+hash = "4e45380047390a7981bad480189ac806694d244bb10138ede288fd2e4539dc1f"
 metafile = true
 
 [[files]]

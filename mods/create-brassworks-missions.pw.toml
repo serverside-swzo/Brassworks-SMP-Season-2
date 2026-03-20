@@ -1,13 +1,13 @@
 name = "Create: Brassworks Missions"
-filename = "brassworksmissions-1.11.jar"
+filename = "brassworksmissions-1.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uUhZpyjI/versions/4UxJyZ6h/brassworksmissions-1.11.jar"
+url = "https://cdn.modrinth.com/data/uUhZpyjI/versions/IKy3PktS/brassworksmissions-1.12.jar"
 hash-format = "sha512"
-hash = "21f3ac3c750bc614973e4bf563e30ab8322c75c0f67d1662f11ef93940776bafbfd394756dbc8ec6fd813a1246da5335904177dbc50a1b0fcee110b744752a62"
+hash = "e3b967892067716463ff7923ffa92a120e94b8265e8289ac08c1d8990c352974e1d32c9544412eceab7e83aaeaac26d348da0298bb1dd0c975e1b352c43bdf3a"
 
 [update]
 [update.modrinth]
 mod-id = "uUhZpyjI"
-version = "4UxJyZ6h"
+version = "IKy3PktS"

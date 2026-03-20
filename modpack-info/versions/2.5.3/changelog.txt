@@ -1,0 +1,50 @@
+### **Fixes:**
+* Complete Queue System Rewrite and Architectural Overhaul
+* Fixed package pickup spawn
+* Fixed Slice & Dice infinite fertilizer
+* Fixed package couriers stock ticker integration to use the correct username
+* Fixed the multiplayer screen freezing the game for a second when opened
+
+### **Additions:**
+* Added Packed Mud + Clay recipe
+* Added Bell recipe
+* Added **Create Interiors**
+* Added Block of Rose Quartz Crushing
+* Added Spur notifications
+* Added a Brassworks notifications system for everything
+* Added portable bank terminal item to **Brassworks Core**
+* Added tuner's wrench and claim link support when used in claims
+* Added Brassworks Wordle
+* Added **Create: Blueprinted**, a new Create addon to render schematics
+* Added more leaderboard stats
+* Added the **Brassworks Consistency Resource Pack** by @LiukRast
+* Began implementation for the Brassworks Wiki (still not completed)
+* Optimised hypertubes with culling for a 2-3x performance boost
+* Improved anticheat and made warnings easier to spot
+* Implemented a custom shader to render Brassworks boxes for a performance boost (by LiukRast)
+* Removed tutorial toasts
+
+### **Updated:**
+* Updated **Brassworkscore**
+* Updated **CorgiLib**
+* Updated **Create: Brassworks Missions**
+* Updated **Create: Compatible Storage**
+* Updated **Create: Entity Control**
+* Updated **Create: Integrated Farming**
+* Updated **Create: More Package Couriers**
+* Updated **Create Railways Navigator**
+* Updated **Create LazyTick**
+* Updated **Create Schematic Checker**
+* Updated **Every Compat (Wood Good)**
+* Updated **Immersive Aircraft**
+* Updated **Interiors**
+* Updated **JamLib**
+* Updated **Lithium**
+* Updated **Lootr**
+* Updated **OctoLib**
+* Updated **Patchouli**
+* Updated **Slice & Dice**
+* Updated **Sophisticated Backpacks**
+* Updated **Sophisticated Core**
+* Updated **Stone Zone**
+* Updated **Supplementaries**
