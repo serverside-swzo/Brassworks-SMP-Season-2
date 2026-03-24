@@ -1608,7 +1608,7 @@ hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "fe967d522a3ec350c110513e128680935f0d70c8778a531f03603e575be435c4"
+hash = "e00c6b1401e2488ae939493207a72ae27a8651624b2acd86ab793c55385c37a6"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
