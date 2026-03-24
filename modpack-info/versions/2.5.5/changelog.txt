@@ -10,4 +10,3 @@
 * Make the Notifications Render above all other ui components
 * Queue Fixes And Improvements
 * Update Brassworks Core
-* Add the Brassworks Consistency ResourcePack by LiukRast
