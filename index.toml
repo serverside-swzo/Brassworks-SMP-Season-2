@@ -1704,7 +1704,7 @@ hash = "8a419a4c96ff826a6e9732def3d7da7f4a42b7b26f9b4072d2a91d0b30d9bc7f"
 
 [[files]]
 file = "modpack-info/versions/2.5.5/changelog.txt"
-hash = "a5650cb975cb364f44618f14981a46c9f36de62daf39acd513f965046e561c16"
+hash = "ebcf626c77bbec98be0b5acf7e6ec1d5f5d094ffa158c8e87a5f951eae8b1d90"
 
 [[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
