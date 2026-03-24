@@ -1704,7 +1704,7 @@ hash = "8a419a4c96ff826a6e9732def3d7da7f4a42b7b26f9b4072d2a91d0b30d9bc7f"
 
 [[files]]
 file = "modpack-info/versions/2.5.5/changelog.txt"
-hash = "c36890e5656c5c52be440104aa7d83cbc7da7d82fc90487173a54d8ff5fd8078"
+hash = "a5650cb975cb364f44618f14981a46c9f36de62daf39acd513f965046e561c16"
 
 [[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
@@ -1956,11 +1956,6 @@ metafile = true
 [[files]]
 file = "mods/create-framed.pw.toml"
 hash = "c6f449a5dbd6640cef3a2d46f198af505b1d3fe7cb38c43057bb16ea055c3d7f"
-metafile = true
-
-[[files]]
-file = "mods/create-idlx.pw.toml"
-hash = "d12a8c82145ea5bfa9f16696ee6c8e33996bfcc7169b84b00ab47a110104c537"
 metafile = true
 
 [[files]]
