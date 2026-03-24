@@ -1,0 +1,14 @@
+### **Fixes:**
+* Auto-Connect with Modrinth Direct Connect
+* Fix Griefbug with Digging Enchantment
+* Auto Connect North-West Asia to Europe
+* Fix spawner pickup
+* Fix wordle visual bug when switching from daily to practise then back to daily
+
+### **Additions:**
+* Add a new Attribute filter for packages older than 5 minutes
+* Make the Notifications Render above all other ui components
+* Add Create: Improved Display Link Experience
+* Queue Fixes And Improvements
+* Update Brassworks Core
+* Add the Brassworks Consistency ResourcePack by LiukRast
