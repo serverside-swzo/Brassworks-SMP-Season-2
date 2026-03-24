@@ -890,7 +890,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "483054438c822c41f34cd539c42b0b655c5482a2941ea0085314fa4bc3f731be"
+hash = "9fb45e4c2f469e23ceec4448a08d50cfbfb638454ad59188e6c246c9dcdd6822"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -1608,7 +1608,7 @@ hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "88b85cf61c86c54dfdedb6bfdadbf1d71159cbde3a92cfc4d371430206e2073b"
+hash = "fe967d522a3ec350c110513e128680935f0d70c8778a531f03603e575be435c4"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -1703,7 +1703,7 @@ file = "modpack-info/versions/2.5.3/changelog.txt"
 hash = "8a419a4c96ff826a6e9732def3d7da7f4a42b7b26f9b4072d2a91d0b30d9bc7f"
 
 [[files]]
-file = "modpack-info/versions/2.5.5/changelog.txt"
+file = "modpack-info/versions/2.5.4/changelog.txt"
 hash = "ebcf626c77bbec98be0b5acf7e6ec1d5f5d094ffa158c8e87a5f951eae8b1d90"
 
 [[files]]
