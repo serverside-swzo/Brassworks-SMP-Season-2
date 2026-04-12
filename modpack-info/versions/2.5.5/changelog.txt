@@ -1,0 +1,49 @@
+### **Fixes:**
+* Fixed diagonal girder rotation for create design n decor
+* Fixed chat colors config options not working with brassworks custom chat
+* Fixed critical dupe exploit involving backpacks and corpses
+
+### **Additions:**
+* Immersive Paintings Picture Moderation
+* Added turtle plushie
+* Added Blåhaj plushie
+* Updated some cape textures and added creator cape
+* Some more anticheat additions
+* Added a playerlist command
+* Added an offlinegive command for admins
+* Added a plushie command for admins
+* Added notifications for when u complete a mission and when missions reset
+* Added the custom create consistency resource pack by LiukRast
+
+### **Updated:**
+* Updated AppleSkin
+* Updated Athena
+* Updated BaguetteLib
+* Updated Chat Heads
+* Updated Collective
+* Updated Corpse - Cosmetic Armor Reworked Compat
+* Updated Corpse - Curios API Compat
+* Updated Create: Brassworks Missions
+* Updated Create: Compatible Storage
+* Updated Create: Configured
+* Updated Create: Entity Control
+* Updated Create: Fluid
+* Updated Create: More Girder
+* Updated Create: More Package Couriers
+* Updated Create Schematic Checker
+* Updated Every Compat
+* Updated Exposure
+* Updated Exposure: Polaroid
+* Updated Farmer's Delight
+* Updated ModernFix
+* Updated Moonlight Lib
+* Updated Patchouli
+* Updated Petrol's Parts
+* Updated Platform
+* Updated Simple Voice Chat
+* Updated Sophisticated Backpacks
+* Updated Sophisticated Core
+* Updated Stone Zone
+* Updated Supplementaries
+* Updated Vanilla Backport
+* Updated Brassworkscore

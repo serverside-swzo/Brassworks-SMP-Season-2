@@ -890,7 +890,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "9fb45e4c2f469e23ceec4448a08d50cfbfb638454ad59188e6c246c9dcdd6822"
+hash = "483054438c822c41f34cd539c42b0b655c5482a2941ea0085314fa4bc3f731be"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -935,6 +935,10 @@ hash = "8e403e8e426d8a122dfa8ea3c0a8a9e1ce59c31e6b36ad339ee55f66deb2b99c"
 [[files]]
 file = "config/paxi/resourcepacks/Torchmaster Remaster.zip"
 hash = "443cf04aeae1a64924cba8e9a1a0851222b9257dff2c86f0b6bb5a943546461e"
+
+[[files]]
+file = "config/paxi/resourcepacks/create consistent.zip"
+hash = "a82030a9d754be20fa1618a8f40543baea7e59e23284143c26f5cea1973179e5"
 
 [[files]]
 file = "config/paxi/resourcepacks/create-sophisticated-backpacks.pw.toml"
@@ -1608,7 +1612,7 @@ hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "e00c6b1401e2488ae939493207a72ae27a8651624b2acd86ab793c55385c37a6"
+hash = "d7f84afb8848245f3b6a71612575cb516405f5026f460df782b6851263ae5bfb"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -1707,6 +1711,10 @@ file = "modpack-info/versions/2.5.4/changelog.txt"
 hash = "ebcf626c77bbec98be0b5acf7e6ec1d5f5d094ffa158c8e87a5f951eae8b1d90"
 
 [[files]]
+file = "modpack-info/versions/2.5.5/changelog.txt"
+hash = "35bac2990857cd41be51ec011670b044f46696c92c478d54092d86454500499d"
+
+[[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
 hash = "1263ee0c2275709beecf77ae056a0db98a48cb0e84a72a1dedab8c1fa4f677c0"
 
@@ -1737,7 +1745,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "3b5f3feca8b299f947ed3956e49f7c3940793754928f2f99cad936448208a501"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
@@ -1752,7 +1760,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "c4c3015b680b928fdd3f7ab7237164a69d80dafa8f39045d1f1a7b6ae9abecd5"
+hash = "ee8fe23f84570163edfad9a83cd5d14ca2274829fed2bb70fa70da393341f764"
 metafile = true
 
 [[files]]
@@ -1761,7 +1769,7 @@ hash = "883b2a6e0b10f1e772fac3a182da7f6368e14c8d6e6dac835fcfbcfdb48e5eeb"
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "fa5a0d42ce28f52d9b5391e65cc8bbaf248a7300d29adae72c77f042a43b7331"
+hash = "cc360d86f76e729d3ebb7384cfbc933d8ffba694ba91360edeb846d61d14e561"
 metafile = true
 
 [[files]]
@@ -1790,8 +1798,8 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-3.4.jar"
-hash = "fca5117e5cc830f630a830dc7b057892dcbf0ca718956891682d5a177202808d"
+file = "mods/brassworkscore-3.5.jar"
+hash = "089b1eddd591c7a0bfcc2a588428ee7b2ccb8f3f8d4f969f8d03039ad8d69045"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -1810,7 +1818,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "113f65b62b62a8b34d50c1dc3260106581aaf5b84d10dc15c0195a9488a61453"
+hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
 metafile = true
 
 [[files]]
@@ -1830,7 +1838,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+hash = "6c74606e0365395dad900969404d20c6a2bda088f5d667f3f478e18866c400f5"
 metafile = true
 
 [[files]]
@@ -1850,12 +1858,12 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
-hash = "2dd063b8b2d9e12f52a8128753d25841f13eace2cb2234049469657b52b90f37"
+hash = "e612ffa78c58fb925bfe86f63c9bcfd969db4e654cf7bca03605c884a1848ecf"
 metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "bdf4470dffce235c3db087fb7717c551d4f1b213fe0de066342a7d3e8e0100d0"
+hash = "0f24d3112418b31cf86b84d0ded37decc9dbd50cc229cec632547458c01ffdca"
 metafile = true
 
 [[files]]
@@ -1885,7 +1893,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-brassworks-missions.pw.toml"
-hash = "df5f6fc88a5c97add79f7387b1780b27d2cc8e2a30d6f34190a6948a1d61401c"
+hash = "c8d619c3fd9e2a90cad04062bc16a2762552979af9f0a18212dafe1bb5333b1a"
 metafile = true
 
 [[files]]
@@ -1895,7 +1903,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-compatible-storage.pw.toml"
-hash = "65d241e255bc449e6a1faa590d09aafcea3f65a15206edd1e5cfbb665d3d0993"
+hash = "5e6c61549caae38e8232f91a359956c1804a56aa91274a33338ac0ba80f62b59"
 metafile = true
 
 [[files]]
@@ -1905,7 +1913,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-configured.pw.toml"
-hash = "1fbe33634a6dce604eb2f9d8418b34edb36a296593cbfa81f0245f79860e8616"
+hash = "8dc6ec1f66b7cb45e3a23c42d3a720a0e66cd8a1f1723e5f5e832ab8ff0a1598"
 metafile = true
 
 [[files]]
@@ -1940,7 +1948,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-entity-control.pw.toml"
-hash = "2254e6ba1cabfa75b809746f7245b24e0d567dd8c047bc003b5f29865ebba651"
+hash = "6356091e0d33defaf3b81bf58cb3adc764305baf1a7b3699de3be8131d343270"
 metafile = true
 
 [[files]]
@@ -1950,7 +1958,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fluid.pw.toml"
-hash = "64fd3b9674bbb56fc6e59f7873c12ee78e568db00df5b91f12ba077f7668e556"
+hash = "28e031d7db42c12d27cb891ba6d737d3e9b1eb022fd554c1cb318700997926c6"
 metafile = true
 
 [[files]]
@@ -1965,7 +1973,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-girder.pw.toml"
-hash = "da3a713b29ef81196fa0944dd29e966e43de89da74c74fad853d394679f893bd"
+hash = "59fa6cb619c468cad7dbae9aa021d8b2e5f1e15dad23a5739f71edcd04f52045"
 metafile = true
 
 [[files]]
@@ -2152,17 +2160,17 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "72fffb9b0d2143b2a479d2ccb7c0a257c739d23b356255da552010de04f26abb"
+hash = "d1b7cd4a0396962f290677b5d63b02d8f20e79ef9fce5b1234644c9b2f1031ef"
 metafile = true
 
 [[files]]
 file = "mods/exposure-polaroid.pw.toml"
-hash = "7b7ea496161f234e612ae2c9c11b2dc58b46cb60482fd2a045f53d121f4405fc"
+hash = "d3c7755950df2368ba4959eb7b8f3a142242a0cd27d2d18d3d127ea72482a325"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "7b6dbe885c4fa12d5c9cb8182138305575eff19aed1e7f969a5ef343f841ee87"
+hash = "1dc09ef29e50db6aba5c6fbfaf892983444a0d4ca25f856f1d2838e0c6546166"
 metafile = true
 
 [[files]]
@@ -2392,7 +2400,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
@@ -2416,7 +2424,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "bcbefa28dda9e9de6e31a92314511444bea08d53de0dc458ebd3f5cc053a24fb"
+hash = "0ca90a25548289e4149c3d8435d50b75ff28bb83f973bf3e2cdc8a0b4b911acc"
 metafile = true
 
 [[files]]
@@ -2461,7 +2469,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "15c145ff1f48e22759871c48775951ade48bc1875b2acc9f88c23b78537c596a"
+hash = "c4f12c7bf746bdf25719995f9da8626187e9f879a20e29a9b4854e2066ad20bc"
 metafile = true
 
 [[files]]
@@ -2496,12 +2504,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "eea5d565d4fb8210aeaf6f1854a10377aed5cca8fdb03db76fd59a03aa2a976b"
+hash = "2f68626c1dfdcefa3bf39cdf2d2d698638ff6243393295b918632c97013bd5f4"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "78fedef50f6efd3de99d1acb3378af9a25a8d03292f3e674e9f3e675f5fa6bb0"
+hash = "2bd0736203caad3c53e9d644a339c04d7fd0856c7f87b4cfd3e4d6860bb9ef53"
 metafile = true
 
 [[files]]
@@ -2516,7 +2524,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "1f90e4050e7732c38ba2bb79f203ea2e15e70702f59026a45657a5f503bb2c0b"
+hash = "896b8502bc5b521223d4935c364ee65b5023ac18e2041c0c93b26428c4d87499"
 metafile = true
 
 [[files]]
@@ -2566,7 +2574,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "3ae9719fe5412592e6afd3feb60387814aca2f8b88d409e905c8d8b2b65d462d"
+hash = "f016a7d796ee67a3a3cf8bff2f0fff40456a4fca65ab40bcc512521570f1ab45"
 metafile = true
 
 [[files]]
@@ -2626,5 +2634,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
-hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
+hash = "c5f5607e814ad098d4aa080d2675a610bbf388d1b04fd59f06aad8caa07c4020"
 metafile = true
