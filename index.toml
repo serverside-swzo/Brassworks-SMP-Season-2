@@ -1948,7 +1948,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-entity-control.pw.toml"
-hash = "6356091e0d33defaf3b81bf58cb3adc764305baf1a7b3699de3be8131d343270"
+hash = "2254e6ba1cabfa75b809746f7245b24e0d567dd8c047bc003b5f29865ebba651"
 metafile = true
 
 [[files]]
@@ -2400,7 +2400,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
 metafile = true
 
 [[files]]
