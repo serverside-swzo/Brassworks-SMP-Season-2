@@ -1,13 +1,13 @@
 name = "Patchouli"
-filename = "Patchouli-1.21.1-92-NEOFORGE.jar"
+filename = "Patchouli-1.21.1-93-NEOFORGE.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/h6hKI2ob/Patchouli-1.21.1-92-NEOFORGE.jar"
+url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar"
 hash-format = "sha512"
-hash = "36cad2a2e5839fd4ee99165c4f275d1c3c0c71ed130413485e43f8506e7d2c3de2e2dbad40f90262378c6c6c5148140a473b0f7acd806e1a4bfede9c9a04600f"
+hash = "0b5c172db9a6eeecb5ca44b359a83548c3a60be7ff313959acdfc1e5b8039736c18e57e947d435b52d06da31159d2d02ea36e5742668dbc826308a4c99e4039f"
 
 [update]
 [update.modrinth]
 mod-id = "nU0bVIaL"
-version = "h6hKI2ob"
+version = "BIogJv2D"
