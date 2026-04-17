@@ -890,7 +890,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "483054438c822c41f34cd539c42b0b655c5482a2941ea0085314fa4bc3f731be"
+hash = "a3fddcda3a5eb76716b40cd9994f093e41e449efc666f095493b6303411a3c96"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -1555,6 +1555,22 @@ file = "kubejs/data/create/recipe/compacting/ice.json"
 hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
 
 [[files]]
+file = "kubejs/data/create/recipe/crushing/ochrum.json"
+hash = "883e0abcf2875fb9a5d435226a5a1fadb0fd1a25c6bbe700056377b2bcad1649"
+
+[[files]]
+file = "kubejs/data/create/recipe/crushing/ochrum_recycling.json"
+hash = "5de801359c2c62fd40370120fc00b84dc3f0db903ded6b432b88667b1d34f187"
+
+[[files]]
+file = "kubejs/data/create/recipe/crushing/tuff.json"
+hash = "cbfeaabef9b2e5b4ea9b52ce6d01b21ed939c11385862a928b93816c7f52bb15"
+
+[[files]]
+file = "kubejs/data/create/recipe/crushing/tuff_recycling.json"
+hash = "0047853ba94957852f9a652f5cea9e00b0ee6d1f2a94a46d05b7e703da9b51fc"
+
+[[files]]
 file = "kubejs/data/create_dragons_plus/recipe/freezing/packed_ice_from_ice.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
@@ -1596,7 +1612,7 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "c08aa01c47abbacbbc53f642e935a3e545bda3e3addff06a9637082c5e7419d6"
+hash = "040e9b96143f1b8047eec13b017da997af9e7441216c5ee5b31be18b28483206"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
@@ -1612,7 +1628,7 @@ hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "d7f84afb8848245f3b6a71612575cb516405f5026f460df782b6851263ae5bfb"
+hash = "619c60b083a21ac337c1dedb1063d43e7a41ed986e886a426d3b08c0e081e4e7"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -1715,6 +1731,10 @@ file = "modpack-info/versions/2.5.5/changelog.txt"
 hash = "35bac2990857cd41be51ec011670b044f46696c92c478d54092d86454500499d"
 
 [[files]]
+file = "modpack-info/versions/2.6.0/changelog.txt"
+hash = "67e8149e1f63202c9afe58aee0dd3fd6d803532ad370ec1561d8a96031de674b"
+
+[[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
 hash = "1263ee0c2275709beecf77ae056a0db98a48cb0e84a72a1dedab8c1fa4f677c0"
 
@@ -1798,8 +1818,8 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-3.5.jar"
-hash = "089b1eddd591c7a0bfcc2a588428ee7b2ccb8f3f8d4f969f8d03039ad8d69045"
+file = "mods/brassworkscore-3.6.jar"
+hash = "99a2942d2b11d6301022d9be26997e6128fd9e1a02da9fdfb196423fc865b15f"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -1834,6 +1854,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
@@ -1947,11 +1972,6 @@ hash = "5b1281a4c0766f71f72db9721090403e47893d23d7f8c05907b522d6d9188542"
 metafile = true
 
 [[files]]
-file = "mods/create-entity-control.pw.toml"
-hash = "2254e6ba1cabfa75b809746f7245b24e0d567dd8c047bc003b5f29865ebba651"
-metafile = true
-
-[[files]]
 file = "mods/create-fast-schematic-cannon.pw.toml"
 hash = "105b1f8eb9f09418432e257df0c32db6e06a81751f6a1a8eb639f94136272672"
 metafile = true
@@ -2022,6 +2042,11 @@ hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "104581a7f2a0b1c164399d278675f68701a2147db5a895188298e049d14dcea9"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "b767a98f2c669c56d800c0831ef965481e0fae02ef3ab9d724eb29d2efb65ba3"
 metafile = true
@@ -2065,6 +2090,11 @@ file = "mods/create_vibrant_vaults-0.3.2.jar"
 hash = "b8dea6c02427285e2b3be3330e7dea9d04b3e05a960fd9f7911cbf0f21438aef"
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
+metafile = true
+
+[[files]]
 file = "mods/createschematicchecker.pw.toml"
 hash = "3ea90dc6b57c75ecc807e7bf6758602c114cc8932fe8e1da83df547af6243c91"
 metafile = true
@@ -2087,6 +2117,10 @@ metafile = true
 file = "mods/delivery-director.pw.toml"
 hash = "6698c567fce253cdc646bff69e34b0a1d551d51f73799603159b744386737eae"
 metafile = true
+
+[[files]]
+file = "mods/deployer-0.0.4.jar"
+hash = "f9e856253edb98346ed86c88223d78f2488a209ec88513283f72851fda22309e"
 
 [[files]]
 file = "mods/direct-chute.pw.toml"
@@ -2177,6 +2211,10 @@ metafile = true
 file = "mods/extra-gauges.pw.toml"
 hash = "a0de5b3389f1cb6e16c8ed1d903673a5430ad14d874298b7152e93d4b2719599"
 metafile = true
+
+[[files]]
+file = "mods/extra_gauges-2.1.0.jar"
+hash = "9ee47447d7e9b4851464ce88c9a9aceda213f95c8c4d343015b57855e1953877"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
@@ -2441,6 +2479,10 @@ metafile = true
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
+
+[[files]]
+file = "mods/repackaged-0.0.3.jar"
+hash = "fe0a448c970bca900279f6d054f198ba6eef63a456e6410946ea3efa237262b9"
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"

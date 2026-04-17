@@ -1,0 +1,10 @@
+### **Additions:**
+* Improved contraption length
+* Added a save timer and indicator to the pause menu
+* Added **Deployer**
+* Added **Create Repackaged** (early version by liukrast)
+* Added the **Clumps** mod
+
+### **Updated:**
+* Updated **Create Extra Gauges** to 2.1.0
+* Updated **Brassworks Core**
