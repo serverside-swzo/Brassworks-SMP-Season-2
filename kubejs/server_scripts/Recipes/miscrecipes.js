@@ -1,5 +1,4 @@
 ServerEvents.recipes(event => {
-  event.remove({ mod: 'createaddition' });
   event.remove({ type: 'clayworks:baking' });
   // Remove by outputs
   let outputsToRemove = [
@@ -241,6 +240,26 @@ ServerEvents.recipes(event => {
     P: '#kubejs:all_custom_planks'
   });
 
+    event.shaped('createaddition:modular_accumulator', [
+        ' R ',
+        'CBC',
+        ' S '
+    ], {
+        R: '#c:rods/copper',
+        B: 'create:brass_casing',
+        C: 'createaddition:capacitor',
+        S: '#c:plates/brass'
+    });
+
+  event.shapeless(
+    Item.of('createaddition:large_connector', 2),
+    [
+      '#c:plates/gold',
+      'create:andesite_alloy',
+      'create:andesite_alloy',
+      '#c:slime_balls'
+    ]
+  )
   // Large Fern
   event.shapeless(
     'minecraft:large_fern',
@@ -678,7 +697,39 @@ ServerEvents.tags('item', event => {
     'createtea:experienced_tea',
     'enderscape:mirror',
     'petrolsparts:hydraulic_transmission',
-    'petrolsparts:pneumatic_tube'
+    'petrolsparts:pneumatic_tube',
+    'createaddition:electrum_block',
+    'createaddition:electrum_sheet',
+    'createaddition:electrum_nugget',
+    'createaddition:electrum_ingot',
+    'createaddition:electrum_amulet',
+    'createaddition:electrum_rod',
+    'createaddition:brass_rod',
+    'createaddition:electrum_wire',
+    'createaddition:creative_energy',
+    'create_sa:creative_filling_tank',
+    'create:creative_blaze_cake',
+    'create:creative_crate',
+    'create:creative_motor',
+    'create:handheld_worldshaper',
+    'numismatics:creative_vendor',
+    'create_connected:creative_fluid_vessel',
+    'create:creative_fluid_tank',
+    'minecraft:bedrock',
+    'createaddition:brass_rod',
+    'createaddition:diamond_grit',
+    'createaddition:diamond_grit_sandpaper',
+    'createaddition:electrum_amulet',
+    'createaddition:electrum_block',
+    'createaddition:electrum_ingot',
+    'createaddition:electrum_nugget',
+    'createaddition:electrum_rod',
+    'createaddition:electrum_sheet',
+    'createaddition:electrum_spool',
+    'createaddition:electrum_wire',
+    'createaddition:gold_rod',
+    'createaddition:zinc_sheet',
+    'minecraft:barrier'
   ]);
 
   // Custom plank tag
