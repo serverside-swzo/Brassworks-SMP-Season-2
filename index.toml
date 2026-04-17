@@ -2208,13 +2208,8 @@ hash = "1dc09ef29e50db6aba5c6fbfaf892983444a0d4ca25f856f1d2838e0c6546166"
 metafile = true
 
 [[files]]
-file = "mods/extra-gauges.pw.toml"
-hash = "a0de5b3389f1cb6e16c8ed1d903673a5430ad14d874298b7152e93d4b2719599"
-metafile = true
-
-[[files]]
 file = "mods/extra_gauges-2.1.0.jar"
-hash = "9ee47447d7e9b4851464ce88c9a9aceda213f95c8c4d343015b57855e1953877"
+hash = "6a06eed2afe83f4b37828b307645dea3003bde8ae6aa0cb00e7206944e511716"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
@@ -2482,7 +2477,7 @@ metafile = true
 
 [[files]]
 file = "mods/repackaged-0.0.3.jar"
-hash = "fe0a448c970bca900279f6d054f198ba6eef63a456e6410946ea3efa237262b9"
+hash = "cf9cc81fedda405483160f48a982628d18324fa4bf1cec9acf7213a35f25ef85"
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
