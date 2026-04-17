@@ -1612,7 +1612,7 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "040e9b96143f1b8047eec13b017da997af9e7441216c5ee5b31be18b28483206"
+hash = "e6b75aaf9aa84db2c9c44974ecea40fd07d4ab79ffe8073618a46a1ddbf2ad25"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
