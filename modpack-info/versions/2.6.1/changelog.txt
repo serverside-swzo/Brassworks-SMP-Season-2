@@ -1,0 +1,2 @@
+### Fixes:
+* Fix small crash with deployer, (liukrast)

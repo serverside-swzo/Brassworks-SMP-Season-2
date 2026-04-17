@@ -890,7 +890,7 @@ hash = "c691921c33d63981f4c203e93459c7ec781c2543e095589904604b30b2a922ae"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "a3fddcda3a5eb76716b40cd9994f093e41e449efc666f095493b6303411a3c96"
+hash = "a287a434fe0f5d077f18b29c5793232155797f45a98b24a6bacce91006023336"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -1628,7 +1628,7 @@ hash = "fa8868cb2960f729e0a4d6ab1e677abf237f7dac7cb902bf90e3c7a67e4f5ac4"
 
 [[files]]
 file = "modpack-info/meta.json"
-hash = "619c60b083a21ac337c1dedb1063d43e7a41ed986e886a426d3b08c0e081e4e7"
+hash = "c3f80b84d34040f0970456611d4c8a07b236a5c2f401a073170dd4c108862dc1"
 
 [[files]]
 file = "modpack-info/versions/2.0.0/changelog.txt"
@@ -1733,6 +1733,10 @@ hash = "35bac2990857cd41be51ec011670b044f46696c92c478d54092d86454500499d"
 [[files]]
 file = "modpack-info/versions/2.6.0/changelog.txt"
 hash = "67e8149e1f63202c9afe58aee0dd3fd6d803532ad370ec1561d8a96031de674b"
+
+[[files]]
+file = "modpack-info/versions/2.6.1/changelog.txt"
+hash = "1248cc8e43f8532720a5e363f82e485d63efd3dfb76309c9d0ed83937ed976a5"
 
 [[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
@@ -2119,8 +2123,8 @@ hash = "6698c567fce253cdc646bff69e34b0a1d551d51f73799603159b744386737eae"
 metafile = true
 
 [[files]]
-file = "mods/deployer-0.0.4.jar"
-hash = "f9e856253edb98346ed86c88223d78f2488a209ec88513283f72851fda22309e"
+file = "mods/deployer-0.0.5.jar"
+hash = "c592b63faa45f4fd2d97de5fa7cc98f1d98cdf50e1e52cb22d0bb34623015775"
 
 [[files]]
 file = "mods/direct-chute.pw.toml"
