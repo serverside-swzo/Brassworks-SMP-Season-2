@@ -251,6 +251,16 @@ ServerEvents.recipes(event => {
         S: '#c:plates/brass'
     });
 
+    event.shaped('createaddition:capacitor', [
+        'Z',
+        'C',
+        'T'
+    ], {
+        Z: '#c:plates/iron',
+        C: '#c:plates/copper',
+        T: 'minecraft:redstone_torch'
+    });
+
   event.shapeless(
     Item.of('createaddition:large_connector', 2),
     [
