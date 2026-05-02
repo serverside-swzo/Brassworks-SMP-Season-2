@@ -2022,7 +2022,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "f2a31a21fa9bb92922c52d245adc54e1b09ba0474e8b3f663c8c0bc8d48bb60c"
+hash = "ae1cd2636e95d4606745de93501e6a6dcee208b656c4d35b6b8514120a9cc4ad"
 metafile = true
 
 [[files]]
@@ -2077,7 +2077,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -2651,6 +2651,11 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "102bf98f0468746f140a4dfe1b3ccc644149c63b0ece8a8f38b7fe1eaff0538c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts.pw.toml"
+hash = "cc5dff9306eee6c936f802113cc121b6c2a5b449b7d9176bec8c918a5d2a3025"
 metafile = true
 
 [[files]]
