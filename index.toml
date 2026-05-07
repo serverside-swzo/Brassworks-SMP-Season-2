@@ -2455,11 +2455,6 @@ file = "mods/petrolpark-1.21.1-1.4.26-2.jar"
 hash = "e045affe126593d605bc1f32d3002c7132360264495ed83dde79c5f96125262a"
 
 [[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
-metafile = true
-
-[[files]]
 file = "mods/platform.pw.toml"
 hash = "0ca90a25548289e4149c3d8435d50b75ff28bb83f973bf3e2cdc8a0b4b911acc"
 metafile = true
