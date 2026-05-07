@@ -1,8 +1,0 @@
-name = "Brassworks Updater"
-filename = "brassworksupdater-1.2.jar"
-side = "client"
-
-[download]
-url = "https://github.com/Brassworks-smp/BrassUpdater/releases/download/1.2/brassworksupdater-1.2.jar"
-hash-format = "sha512"
-hash = "354cb0754fca1d67876f49d1b9128e538d74dc96460693efd90c01297e0fc58cd5b0a20558cd44a39e95e470d0e3a06017d2886d9f12f130ab3745f7bbab8363"
