@@ -1736,7 +1736,7 @@ hash = "67e8149e1f63202c9afe58aee0dd3fd6d803532ad370ec1561d8a96031de674b"
 
 [[files]]
 file = "modpack-info/versions/2.6.1/changelog.txt"
-hash = "1248cc8e43f8532720a5e363f82e485d63efd3dfb76309c9d0ed83937ed976a5"
+hash = "566a519cb414830613735f933a29449bd726adca1df039d551c837e1e2e614e2"
 
 [[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
@@ -2017,7 +2017,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-qol.pw.toml"
-hash = "2647338dcbd812ff86b8a865ff1af9f000b954ed175e8a62036baf09ecec15ca"
+hash = "574a75a29e52109b038cae6a670d072a72103e33c8eb752450f36b084fe871b0"
 metafile = true
 
 [[files]]
@@ -2123,8 +2123,8 @@ hash = "6698c567fce253cdc646bff69e34b0a1d551d51f73799603159b744386737eae"
 metafile = true
 
 [[files]]
-file = "mods/deployer-0.0.5.jar"
-hash = "c592b63faa45f4fd2d97de5fa7cc98f1d98cdf50e1e52cb22d0bb34623015775"
+file = "mods/deployer-0.0.4.jar"
+hash = "f9e856253edb98346ed86c88223d78f2488a209ec88513283f72851fda22309e"
 
 [[files]]
 file = "mods/direct-chute.pw.toml"
@@ -2451,12 +2451,12 @@ hash = "5349bc3d530ad08d9517fc169f66b8c92911b08257ad2c0d28cd719d51af64cf"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark-1.21.1-1.4.26.jar"
-hash = "1b6f46c5523997d04c0f58dfe0c5ddea29f42e085798ecdda47d31935f178788"
+file = "mods/petrolpark-1.21.1-1.4.26-2.jar"
+hash = "e045affe126593d605bc1f32d3002c7132360264495ed83dde79c5f96125262a"
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "a44b24e27736bdd8d8cb69fb955fc83211b226dcf15cf97238d52e10a20c1f18"
+hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
 metafile = true
 
 [[files]]
