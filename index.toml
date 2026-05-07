@@ -1612,11 +1612,11 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "e796d12e03a37ae15bd8f1c141a6f85f3a2028ca7d2f678ba6c85292780c3266"
+hash = "16086e8f35f4c89ec233b8fe61455a9a7843cde0e008eba5d38d5fff2863721f"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
-hash = "83c03b84ee6776e686e6b80e984befdee9bb015c3a5ce9cb1fd551fe6b627b84"
+hash = "f913580e17184e72c7dd7835b63fd1e76494a99b9ec078fc06de03ae3ff2cfca"
 
 [[files]]
 file = "kubejs/startup_scripts/ItemRegistry/cinnabons.js"
@@ -1822,13 +1822,8 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-3.6.jar"
-hash = "99a2942d2b11d6301022d9be26997e6128fd9e1a02da9fdfb196423fc865b15f"
-
-[[files]]
-file = "mods/brassworksupdater-1.2.pw.toml"
-hash = "9e3d4ded30d533647b3a8a4ede87ba2ed723dc7a1540ba6bc90178aafc2b1743"
-metafile = true
+file = "mods/brassworkscore-3.7.jar"
+hash = "a0b7c3dae2d424cd21b0ab5d1566d22a91d90177e92dc4a769fee7b52f69a894"
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
@@ -2017,12 +2012,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-qol.pw.toml"
-hash = "2647338dcbd812ff86b8a865ff1af9f000b954ed175e8a62036baf09ecec15ca"
+hash = "574a75a29e52109b038cae6a670d072a72103e33c8eb752450f36b084fe871b0"
 metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "f2a31a21fa9bb92922c52d245adc54e1b09ba0474e8b3f663c8c0bc8d48bb60c"
+hash = "ae1cd2636e95d4606745de93501e6a6dcee208b656c4d35b6b8514120a9cc4ad"
 metafile = true
 
 [[files]]
@@ -2077,7 +2072,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -2123,8 +2118,9 @@ hash = "6698c567fce253cdc646bff69e34b0a1d551d51f73799603159b744386737eae"
 metafile = true
 
 [[files]]
-file = "mods/deployer-0.0.5.jar"
-hash = "c592b63faa45f4fd2d97de5fa7cc98f1d98cdf50e1e52cb22d0bb34623015775"
+file = "mods/deployer.pw.toml"
+hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
+metafile = true
 
 [[files]]
 file = "mods/direct-chute.pw.toml"
@@ -2451,12 +2447,13 @@ hash = "5349bc3d530ad08d9517fc169f66b8c92911b08257ad2c0d28cd719d51af64cf"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark-1.21.1-1.4.26.jar"
-hash = "1b6f46c5523997d04c0f58dfe0c5ddea29f42e085798ecdda47d31935f178788"
+file = "mods/petrolpark.pw.toml"
+hash = "464882c38aa9b0dbcc65e345c4aee6db2f6fa71ecbfc84aaa652021c73408b99"
+metafile = true
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "a44b24e27736bdd8d8cb69fb955fc83211b226dcf15cf97238d52e10a20c1f18"
+hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
 metafile = true
 
 [[files]]
@@ -2480,8 +2477,8 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
-file = "mods/repackaged-0.0.3.jar"
-hash = "cf9cc81fedda405483160f48a982628d18324fa4bf1cec9acf7213a35f25ef85"
+file = "mods/repackaged-0.0.7.jar"
+hash = "a327730162252ac55bb18087ed1383d12bfc2a1b111aaf0128a9b5b81d39e4e0"
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
