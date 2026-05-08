@@ -1,4 +1,4 @@
-name = "Brassworks SMP Modpack"
+git add index.toml pack.tomlname = "Brassworks SMP Modpack"
 author = "swzo, Pipo1660"
 version = "2.6.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4f7510cfa81afa49fee06cf374822b249286084be7e88cebbd709627b6e51e6d"
+hash = "6216f30a0e2c50efd60ce9fe24a0a1a16890a4e305c7dfed6ca06d3c65ff014f"
 
 [versions]
 minecraft = "1.21.1"
