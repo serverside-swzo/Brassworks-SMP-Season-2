@@ -1,4 +1,4 @@
-git add index.toml pack.tomlname = "Brassworks SMP Modpack"
+name = "Brassworks SMP Modpack"
 author = "swzo, Pipo1660"
 version = "2.6.1"
 pack-format = "packwiz:1.1.0"
