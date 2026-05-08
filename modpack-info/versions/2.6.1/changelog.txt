@@ -1,2 +1,18 @@
-### Fixes:
-* Fix small crash with deployer, (liukrast)
+### **Fixes:**
+* Fixed various crash-related issues
+* Fixed voting-related issues
+* Fixed Replay Mod menu support
+* Fixed custom mixing recipe behavior
+
+### **Additions:**
+* Added clickable chat links
+* Added roadmap overhaul improvements
+* Added creative server overhaul
+* Added updated Brassworks links
+* Added support for unblocking blocked items in singleplayer and creative environments
+* Added tutorial system
+
+### **Recipes:**
+* Added Skeleton Skull → Wither Skull haunting recipe
+* Added fish bucket recipes via Deployer + 50mb Experience Potion
+* Added golden carrot mixing recipe
