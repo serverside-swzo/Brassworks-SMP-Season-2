@@ -1612,11 +1612,11 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "e796d12e03a37ae15bd8f1c141a6f85f3a2028ca7d2f678ba6c85292780c3266"
+hash = "16086e8f35f4c89ec233b8fe61455a9a7843cde0e008eba5d38d5fff2863721f"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
-hash = "83c03b84ee6776e686e6b80e984befdee9bb015c3a5ce9cb1fd551fe6b627b84"
+hash = "f913580e17184e72c7dd7835b63fd1e76494a99b9ec078fc06de03ae3ff2cfca"
 
 [[files]]
 file = "kubejs/startup_scripts/ItemRegistry/cinnabons.js"
@@ -1736,7 +1736,7 @@ hash = "67e8149e1f63202c9afe58aee0dd3fd6d803532ad370ec1561d8a96031de674b"
 
 [[files]]
 file = "modpack-info/versions/2.6.1/changelog.txt"
-hash = "1248cc8e43f8532720a5e363f82e485d63efd3dfb76309c9d0ed83937ed976a5"
+hash = "2fbee99714e25e8dc2664503e0669fc806c39a5caa8d32e6a7cf420127c164be"
 
 [[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
@@ -1822,8 +1822,8 @@ hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
-file = "mods/brassworkscore-3.6.jar"
-hash = "99a2942d2b11d6301022d9be26997e6128fd9e1a02da9fdfb196423fc865b15f"
+file = "mods/brassworkscore-3.7.jar"
+hash = "d8598b13419db8f905ccc60ea10a4bd8c9ff8630e42a67bc445c920935dbdefa"
 
 [[files]]
 file = "mods/brassworksupdater-1.2.pw.toml"
@@ -2022,7 +2022,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "f2a31a21fa9bb92922c52d245adc54e1b09ba0474e8b3f663c8c0bc8d48bb60c"
+hash = "e05f58ae0f9ecc384a58e81d4013919b588f9b16579edd40c446088dd2a3eae9"
 metafile = true
 
 [[files]]
