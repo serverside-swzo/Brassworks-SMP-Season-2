@@ -2022,7 +2022,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "f2a31a21fa9bb92922c52d245adc54e1b09ba0474e8b3f663c8c0bc8d48bb60c"
+hash = "ae1cd2636e95d4606745de93501e6a6dcee208b656c4d35b6b8514120a9cc4ad"
 metafile = true
 
 [[files]]
