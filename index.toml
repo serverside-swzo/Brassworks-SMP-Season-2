@@ -1612,11 +1612,11 @@ hash = "7148852721f3bd4c6e7edbe670c2cbf4ee534474593a53fbb637257b2d659caa"
 
 [[files]]
 file = "kubejs/server_scripts/Recipes/miscrecipes.js"
-hash = "e796d12e03a37ae15bd8f1c141a6f85f3a2028ca7d2f678ba6c85292780c3266"
+hash = "16086e8f35f4c89ec233b8fe61455a9a7843cde0e008eba5d38d5fff2863721f"
 
 [[files]]
 file = "kubejs/server_scripts/Scripts/nohiddenitems.js"
-hash = "83c03b84ee6776e686e6b80e984befdee9bb015c3a5ce9cb1fd551fe6b627b84"
+hash = "f913580e17184e72c7dd7835b63fd1e76494a99b9ec078fc06de03ae3ff2cfca"
 
 [[files]]
 file = "kubejs/startup_scripts/ItemRegistry/cinnabons.js"
